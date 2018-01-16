@@ -1,8 +1,5 @@
-Site text: #6d6f7b
-Hover (links/buttons): #7da7d9
-
 body {
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .navigation {
@@ -24,7 +21,7 @@ body {
 .navigation__logo-row a {
   vertical-align: middle;
   color: #6d6f7b;
-  padding-left: 40px;
+  padding-left: 25px;
 }
 
 .navigation__logo-row a:first-of-type {
@@ -73,11 +70,17 @@ body {
   color: #fff;
 }
 
-.introdution a {
+.introduction__link a {
   background-color: #7da7d9;
   color: #fff;
   padding: 10px 20px;
   border-radius: 5px;
+}
+
+.introduction__link a:hover {
+  background-color: #fff;
+  color: #7da7d9;
+  text-decoration: none;
 }
 
 .introduction .col-md-12 {
@@ -86,6 +89,10 @@ body {
 
 .introduction__text {
   margin-bottom: 4em;
+}
+
+.what-we-do .container {
+  max-width: 845px;
 }
 
 .what-we-do__text {
