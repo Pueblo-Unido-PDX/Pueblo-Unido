@@ -51,6 +51,7 @@ body {
   width: 70%;
   vertical-align: middle;
   display: table-cell;
+  text-align: right;
 }
 
 .introdution {
