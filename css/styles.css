@@ -1,9 +1,46 @@
+html {
+  height: 100%;
+}
+
 body {
-  overflow-x: hidden;
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: 100px 0fr 1fr;
+  overflow-x: auto;
+}
+
+footer {
+  grid-row-start: 6;
+  grid-row-end: 6;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 70px !important;
+  color: #fff;
+  font-family: 'Barlow', sans-serif !important;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Barlow', sans-serif !important;
+}
+
+h3 {
+  ont-family: 'Barlow', sans-serif !important;
+  font-size: 30px !important;
+  color: #fff;
+  width: 75%;
+  padding-bottom: 25px;
 }
 
 .navigation {
   display: block;
+  grid-row-start: 1;
+  grid-row-end: 1;
 }
 
 .navigation__logo-row {
@@ -29,7 +66,7 @@ body {
 }
 
 .navigation__logo-row img {
-  width: 55%;
+  width: 160px;
 }
 
 .navigation__logo-row i {
@@ -54,28 +91,24 @@ body {
   text-align: right;
 }
 
-.introdution {
+.introduction {
   background: url("../images/jumbotron.png");
   background-size: cover;
-  padding: 11em 6em;
+  padding: 6em 6em;
+  grid-row-start: 2;
+  grid-row-end: 2;
+  height: 100%;
+  border-bottom: 11px solid #7ca7d9;
 }
 
-.introdution h1 {
-  font-size: 65px;
-  color: #fff;
-}
-
-.introdution h3 {
-  font-weight: 300;
-  font-size: 30px;
-  color: #fff;
-}
-
-.introduction__link a {
+.introduction__link a, .what-we-do a, .donate a {
   background-color: #7da7d9;
   color: #fff;
-  padding: 10px 20px;
+  padding: 15px 35px;
   border-radius: 5px;
+  transition: .5s;
+  margin-right: 15px;
+  text-transform: uppercase;
 }
 
 .introduction__link a:hover {
@@ -90,14 +123,79 @@ body {
 
 .introduction__text {
   margin-bottom: 4em;
+  color: #fff;
+  font-size: 19px;
 }
 
 .what-we-do {
   padding: 0em 6em;
+  grid-row-start: 3;
+  grid-row-end: 3;
+  height: auto;
+}
+
+.upcoming-events, .donate {
+  margin: 3em 0;
+}
+
+.upcoming-events iframe {
+  margin: 2em 1em;
+}
+
+.what-we-do__subheadline {
+  width: 100%;
+  height: auto;
+  padding-top: 4em;
+}
+
+.horizontal-line {
+  border-bottom: 2px solid #7ba7d9;
+  width: 19%;
+  margin: 0 auto;
+  padding-top: 0em;
+  margin-bottom: 1em;
+}
+
+.what-we-do .row {
+  align-items: center;
 }
 
 .what-we-do__text {
   padding: 4em 0;
+  width: 75%;
+}
+
+.what-we-do__text p {
+  margin-bottom: 2em;
+}
+
+.what-we-do__image img {
+  width: 100%;
+  border-radius: 25px;
+}
+
+.upcoming-events {
+  grid-row-start: 4;
+  grid-row-end: 4;
+}
+
+.upcoming-events .container {
+  text-align: center;
+}
+
+.donate {
+  grid-row-start: 5;
+  grid-row-end: 5;
+  background-image: url('../images/rally.png');
+  background-size: cover;
+  width: 100%;
+  opacity: .75;
+}
+
+.donate__subheadline {
+  padding: 3em 0;
+  color: #fff;
+  text-align: center;
 }
 
 .footer {
@@ -136,4 +234,63 @@ body {
 .footer__logo-row i {
   font-size: 30px;
   padding-left: 10px;
+}
+
+@media (max-width: 800px) {
+  .navigation__logo-row {
+    padding: 0 3em;
+  }
+
+  .navigation__logo-row a, .footer a {
+    padding-left: 15px;
+  }
+
+  .navigation__logo-row img {
+    width: 125px;
+  }
+}
+
+@media (max-width: 680px) {
+  .navigation__logo-row {
+    padding: 0 1.5em;
+  }
+
+  .navigation__logo-row a, .footer a {
+    font-size: 12px;
+    padding-left: 5px;
+  }
+
+  .navigation__logo-row img {
+    width: 85px;
+  }
+
+  .navigation__logo-row i, .footer i {
+    font-size: 15px;
+  }
+
+  .what-we-do {
+    padding: 0 1.5em;
+  }
+
+  .footer {
+    padding: 0 1.5em;
+  }
+}
+
+@media (max-width: 550px) {
+  section.introduction {
+    padding: 6em 1em;
+  }
+
+  .introduction__text h1 {
+    font-size: 45px !important;
+  }
+
+  .introduction__text p {
+    font-size: 14px;
+  }
+
+  .introduction__link a {
+    font-size: 10px;
+  }
 }
