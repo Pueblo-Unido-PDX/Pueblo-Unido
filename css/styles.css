@@ -1,3 +1,5 @@
+@import './colors.css';
+
 html {
   height: 100%;
 }
@@ -15,26 +17,30 @@ footer {
 }
 
 p {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;;
 }
 
 h1 {
-  font-size: 70px !important;
   color: #fff;
-  font-family: 'Barlow', sans-serif !important;
+  font-size: 70px !important;
+  font-family: 'Barlow', sans-serif !important;;
 }
 
 h2 {
   text-align: center;
-  font-family: 'Barlow', sans-serif !important;
+  font-family: 'Barlow', sans-serif !important;;
 }
 
 h3 {
-  ont-family: 'Barlow', sans-serif !important;
-  font-size: 30px !important;
+  font-family: 'Barlow', sans-serif !important;
+  font-size: 30px !important;;
   color: #fff;
   width: 75%;
   padding-bottom: 25px;
+}
+
+.standard-link {
+  color: #7da7d9;
 }
 
 .navigation {
@@ -49,7 +55,7 @@ h3 {
   margin: 0 auto;
   display: table;
   padding: 0 6em;
-  background-color: #fff;
+  background-color: #fff
   position: fixed;
   z-index: 30;
   vertical-align: middle;
@@ -57,7 +63,7 @@ h3 {
 
 .navigation__logo-row a {
   vertical-align: middle;
-  color: #6d6f7b;
+  color: #1c252d;
   padding-left: 25px;
 }
 
@@ -71,6 +77,10 @@ h3 {
 
 .navigation__logo-row i {
   font-size: 30px;
+}
+
+.navigation__logo-row i:hover {
+  color: #7da7d9;
 }
 
 .navigation__logo-row i:hover, .navigation__logo-row a:hover {
@@ -92,28 +102,52 @@ h3 {
 }
 
 .introduction {
-  background: url("../images/jumbotron.png");
-  background-size: cover;
   padding: 6em 6em;
   grid-row-start: 2;
   grid-row-end: 2;
   height: 100%;
-  border-bottom: 11px solid #7ca7d9;
+  border-bottom: 11px solid #1c252d;
 }
 
-.introduction__link a, .what-we-do a, .donate a {
-  background-color: #7da7d9;
+.introduction--home {
+  background: url("../images/pu-images/png/jumbotron.png");
+  background-size: cover;
+}
+
+.introduction--about {
+  background: url("../images/pu-images/png/walk--gray.png");
+  background-size: cover;
+}
+
+.introduction--know-your-rights {
+  background: url("../images/pu-images/png/with-families--gray.png");
+  background-size: cover;
+}
+
+.introduction--volunteer {
+  background: url("../images/pu-images/png/irco-care-fest--gray.png");
+  background-size: cover;
+}
+
+.introduction__link a.button, .what-we-do a.button, .donate a.button {
+  background-color: #1c252d;
   color: #fff;
   padding: 15px 35px;
   border-radius: 5px;
   transition: .5s;
   margin-right: 15px;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
-.introduction__link a:hover {
+.introduction__link a.button:hover, .what-we-do a.button:hover, .donate a.button:hover {
   background-color: #fff;
-  color: #7da7d9;
+  color: #1c252d;
+  padding: 15px 35px;
+  border-radius: 5px;
+  transition: .5s;
+  margin-right: 15px;
+  text-transform: uppercase;
   text-decoration: none;
 }
 
@@ -135,7 +169,7 @@ h3 {
 }
 
 .upcoming-events, .donate {
-  margin: 3em 0;
+  margin-top: 3em;
 }
 
 .upcoming-events iframe {
@@ -149,7 +183,7 @@ h3 {
 }
 
 .horizontal-line {
-  border-bottom: 2px solid #7ba7d9;
+  border-bottom: 2px solid #1c252d;
   width: 19%;
   margin: 0 auto;
   padding-top: 0em;
@@ -186,10 +220,11 @@ h3 {
 .donate {
   grid-row-start: 5;
   grid-row-end: 5;
-  background-image: url('../images/rally.png');
+  background-image: url('../images/pu-images/png/rally.png');
   background-size: cover;
   width: 100%;
   opacity: .75;
+  border-bottom: 11px solid #1c252d;
 }
 
 .donate__subheadline {
@@ -199,7 +234,7 @@ h3 {
 }
 
 .footer {
-  background-color: #6d6f7b;
+  background-color: #1c252d;
   width: 100%;
   margin: 0 auto;
   display: table;
@@ -213,7 +248,7 @@ h3 {
 }
 
 .footer__link-row a:hover, .footer__logo-row a:hover {
-  color: #7da7d9;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -226,6 +261,10 @@ h3 {
   padding-right: 2em;
 }
 
+.footer__link-row a:hover {
+  color: #7da7d9;
+}
+
 .footer__logo-row {
   display: table-cell;
   vertical-align: middle;
@@ -236,15 +275,19 @@ h3 {
   padding-left: 10px;
 }
 
+.footer__logo-row i:hover {
+  color: #7da7d9;
+}
+
 @media (max-width: 800px) {
   .navigation__logo-row {
     padding: 0 3em;
   }
-
+  
   .navigation__logo-row a, .footer a {
     padding-left: 15px;
   }
-
+  
   .navigation__logo-row img {
     width: 125px;
   }
@@ -254,24 +297,24 @@ h3 {
   .navigation__logo-row {
     padding: 0 1.5em;
   }
-
+  
   .navigation__logo-row a, .footer a {
     font-size: 12px;
     padding-left: 5px;
   }
-
+  
   .navigation__logo-row img {
     width: 85px;
   }
-
+  
   .navigation__logo-row i, .footer i {
     font-size: 15px;
   }
-
+  
   .what-we-do {
     padding: 0 1.5em;
   }
-
+  
   .footer {
     padding: 0 1.5em;
   }
@@ -281,15 +324,15 @@ h3 {
   section.introduction {
     padding: 6em 1em;
   }
-
+  
   .introduction__text h1 {
     font-size: 45px !important;
   }
-
+  
   .introduction__text p {
     font-size: 14px;
   }
-
+  
   .introduction__link a {
     font-size: 10px;
   }
