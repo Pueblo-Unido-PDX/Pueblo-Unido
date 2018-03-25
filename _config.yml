@@ -1,7 +1,6 @@
 ---
 title: Pueblo Unido
 timezone: UTC
-description: Pueblo Unido website
 collections:
   posts:
     title: Posts
@@ -9,3 +8,4 @@ collections:
   uploads:
     title: Uploads
     output: true
+description: Pueblo Unido website
