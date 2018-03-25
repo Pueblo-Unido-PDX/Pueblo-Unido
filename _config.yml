@@ -1,6 +1,7 @@
 ---
 title: Pueblo Unido
 timezone: UTC
+description: Pueblo Unido website
 collections:
   posts:
     title: Posts
