@@ -1,6 +1,6 @@
 ---
 title: About Us
 permalink: "/about/"
-layout: page
+layout: about-us
 ---
 
