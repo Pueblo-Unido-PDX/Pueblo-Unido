@@ -41,8 +41,8 @@
             <p>{{ page.subtext }}</p>
           </div>
           <div class="introduction__link">
-            <a class="button" href="volunteer.html">Get Involved</a>
-            <a class="button" href="volunteer.html">Donate</a>
+            <a class="button" href="volunteer.html">{{ page.headerButtonLeft }}</a>
+            <a class="button" href="volunteer.html">{{ page.headerButtonRight }}</a>
           </div>
         </div>
       </div>
@@ -50,7 +50,7 @@
   </section>
   <section class="what-we-do">
     <div class="what-we-do__subheadline">
-      <h2>What is Pueblo Unido?</h2>
+      <h2>{{ page.subheadline }}</h2>
       <div class="horizontal-line">
       </div>
     </div>
@@ -58,9 +58,8 @@
       <div class="row">
         <div class="col-md-7 align-middle">
           <div class="what-we-do__text">
-            <p>Pueblo Unido is a grassroots organization that supports East County community members facing deportation. We connect clients to adequate legal representation and help them gather evidence to strengthen their case against removal.
-            </p>
-            <a class="button" href="volunteer.html">Volunteer</a>
+            <p>{{ page.paragraphText }}</p>
+            <a class="button" href="volunteer.html">{{ page.paragraphButton }}</a>
           </div>
         </div>
         <div class="col-md-5 align-middle">
@@ -91,9 +90,9 @@
   </section>
   <section class="donate">
     <div class="donate__subheadline">
-      <h2>Donate</h2>
+      <h2>{{ page.donateHeader }}</h2>
       <div class="horizontal-line"></div>
-      <p>Your contribution helps folks remain with their families.</p>
+      <p>{{ page.donateParagraph }}</p>
       <a class="button" href="/">Donate</a>
     </div>
   </section>
