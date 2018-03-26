@@ -1,6 +1,6 @@
 ---
 title: Pueblo Unido PDX
-subtext: Join us in the fight against deportation.
+subtext: Join us in the fight against testing.
 headerButtonLeft: Volunteer
 headerButtonRight: Donate
 subheadline: What is Pueblo Unido?
