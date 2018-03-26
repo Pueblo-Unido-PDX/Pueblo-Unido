@@ -10,12 +10,10 @@ collections:
     output: true
 email: jwbentle@gmail.com
 description: Pueblo Unido website
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:  jbentley10
-
-# Build settings
+baseurl: ''
+url: ''
+twitter_username: 
+github_username: jbentley10
 markdown: kramdown
 theme: minima
 plugins:
