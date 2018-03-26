@@ -8,17 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
-<<<<<<< HEAD
-Description: The main website for Pueblo Unido PDX.
-=======
 email: jwbentle@gmail.com
 description: Pueblo Unido website
 baseurl: ''
 url: ''
-twitter_username: 
+twitter_username:
 github_username: jbentley10
 markdown: kramdown
 theme: minima
 plugins:
 - jekyll-feed
->>>>>>> develop
