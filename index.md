@@ -7,6 +7,7 @@ subheadline: What is Pueblo Unido?
 paragraphText: Pueblo Unido is a grassroots organization that supports East County
   community members facing deportation. We connect clients to adequate legal representation
   and help them gather evidence to strengthen their case against removal.
+paragraphButton: Volunteer
 donateHeader: Donate
 donateParagraph: Your contribution helps folks remain with their families.
 layout: home
