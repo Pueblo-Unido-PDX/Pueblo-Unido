@@ -1,5 +1,5 @@
 ---
-title: Pueblo Unido PDX
+title: Home
 subtext: Join us in the fight against deportation.
 headerButtonLeft: Volunteer
 headerButtonRight: Donate
