@@ -10,10 +10,10 @@ collections:
     output: true
 email: jwbentle@gmail.com
 description: Pueblo Unido website
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: 
-github_username: jbentley10
+github_username: vorlonofportland
 markdown: kramdown
 theme: minima
 plugins:
