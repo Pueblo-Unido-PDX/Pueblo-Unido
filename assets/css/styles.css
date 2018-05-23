@@ -209,6 +209,14 @@ h3 {
   border-radius: 25px;
 }
 
+.sponsors__images .col-md-12 {
+  text-align: center;
+}
+
+.sponsors__images img {
+  width: 310px;
+}
+
 .upcoming-events {
   grid-row-start: 4;
   grid-row-end: 4;
