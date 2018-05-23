@@ -1,6 +1,3 @@
----
----
-
 @import "{{ site.theme }}";
 @import './colors.css';
 
@@ -123,7 +120,7 @@ h3 {
   background-size: cover;
 }
 
-.introduction--know-your-rights {
+.introduction--sponsors {
   background: url("../images/pu-images/png/backgrounds/with-families--gray.png");
   background-size: cover;
 }
