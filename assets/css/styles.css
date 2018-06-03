@@ -125,6 +125,11 @@ h3 {
   background-size: cover;
 }
 
+.introduction--know-your-rights {
+  background: url("../images/pu-images/png/backgrounds/irco-care-fest--gray.png");
+  background-size: cover;
+}
+
 .introduction__link a.button, .what-we-do a.button, .donate a.button {
   background-color: #1c252d;
   color: #fff;
@@ -158,18 +163,14 @@ h3 {
 }
 
 .what-we-do {
-  padding: 0em 6em;
+  padding: 4em 6em;
   grid-row-start: 3;
   grid-row-end: 3;
   height: auto;
 }
 
-.upcoming-events, .donate {
-  margin-top: 3em;
-}
-
-.upcoming-events iframe {
-  margin: 2em 1em;
+.what-we-do h2, .upcoming-events h2 {
+  text-align: left;
 }
 
 .what-we-do__subheadline {
@@ -184,10 +185,12 @@ h3 {
   margin: 0 auto;
   padding-top: 0em;
   margin-bottom: 1em;
+  float: left;
 }
 
 .what-we-do .row {
   align-items: center;
+  margin: 3em 0;
 }
 
 .what-we-do__text {
@@ -202,6 +205,14 @@ h3 {
 .what-we-do__image img {
   width: 100%;
   border-radius: 25px;
+}
+
+.upcoming-events, .donate {
+  margin-top: 3em;
+}
+
+.upcoming-events iframe {
+  margin: 2em 1em;
 }
 
 .sponsors__images .col-md-12 {
@@ -229,6 +240,10 @@ h3 {
   padding: 3em 0;
   color: #fff;
   text-align: center;
+}
+
+.donate__subheadline .horizontal-line {
+  float: none;
 }
 
 .footer {
