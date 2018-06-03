@@ -7,8 +7,6 @@ html {
 
 body {
   min-height: 100%;
-  display: grid;
-  grid-template-rows: 100px 0fr 1fr;
   overflow-x: auto;
 }
 
@@ -45,9 +43,8 @@ h3 {
 }
 
 .navigation {
-  display: block;
-  grid-row-start: 1;
-  grid-row-end: 1;
+  display: inline-block;
+  width: 100%;
 }
 
 .navigation__logo-row {
@@ -104,8 +101,6 @@ h3 {
 
 .introduction {
   padding: 6em 6em;
-  grid-row-start: 2;
-  grid-row-end: 2;
   height: 90vh;
   border-bottom: 11px solid #1c252d;
 }
@@ -218,18 +213,11 @@ h3 {
   padding: 1em 1em;
 }
 
-.upcoming-events {
-  grid-row-start: 4;
-  grid-row-end: 4;
-}
-
 .upcoming-events .container {
   text-align: center;
 }
 
 .donate {
-  grid-row-start: 5;
-  grid-row-end: 5;
   background-image: url('../images/pu-images/png/rally.png');
   background-size: cover;
   width: 100%;
@@ -289,7 +277,7 @@ h3 {
   color: #7da7d9;
 }
 
-@media (max-width: 800px) {
+@media screen and (max-width: 800px) {
   .navigation__logo-row {
     padding: 0 3em;
   }
@@ -303,34 +291,32 @@ h3 {
   }
 }
 
-@media (max-width: 680px) {
+@media screen and (max-width: 680px) {
   .navigation__logo-row {
     padding: 0 1.5em;
   }
 
+  .navigation__logo-row--left a {
+    padding-left: 0;
+  }
+
   .navigation__logo-row a, .footer a {
-    font-size: 12px;
-    padding-left: 5px;
+    font-size: 14px;
+    padding-left: 13px;
   }
 
   .navigation__logo-row img {
-    width: 85px;
+    width: 100%;
   }
 
   .navigation__logo-row i, .footer i {
-    font-size: 15px;
+    font-size: 20px;
   }
 
-  .what-we-do {
-    padding: 0 1.5em;
+  .introduction {
+    height: 50vh;
   }
 
-  .footer {
-    padding: 0 1.5em;
-  }
-}
-
-@media (max-width: 550px) {
   section.introduction {
     padding: 6em 1em;
   }
@@ -345,5 +331,13 @@ h3 {
 
   .introduction__link a {
     font-size: 10px;
+  }
+
+  .what-we-do {
+    padding: 0 1.5em;
+  }
+
+  .footer {
+    padding: 0 1.5em;
   }
 }
