@@ -47,7 +47,7 @@ h3 {
   width: 100%;
 }
 
-.navigation__logo-row {
+.navigation-row {
   width: 100%;
   height: 100px;
   margin: 0 auto;
@@ -59,44 +59,92 @@ h3 {
   vertical-align: middle;
 }
 
-.navigation__logo-row a {
+.navigation-row a {
   vertical-align: middle;
   color: #1c252d;
   padding-left: 25px;
 }
 
-.navigation__logo-row a:first-of-type {
+.navigation-row a:first-of-type {
   padding-left: 0;
 }
 
-.navigation__logo-row img {
+.navigation-row img {
   width: 160px;
 }
 
-.navigation__logo-row i {
+.navigation-row i {
   font-size: 30px;
 }
 
-.navigation__logo-row i:hover {
+.navigation-row i:hover {
   color: #7da7d9;
 }
 
-.navigation__logo-row i:hover, .navigation__logo-row a:hover {
+.navigation-row i:hover, .navigation-row a:hover {
   color: #7da7d9;
   text-decoration: none;
 }
 
-.navigation__logo-row--left {
+.navigation-row--left {
   width: 30%;
   vertical-align: middle;
   display: table-cell;
 }
 
-.navigation__logo-row--right {
-  width: 70%;
+.navigation-row--right {
+  width: 100%;
   vertical-align: middle;
-  display: table-cell;
   text-align: right;
+  display: table-cell;
+}
+
+.navigation__link-group {
+  width: 100%;
+  padding-left: 0;
+}
+
+.navigation__link-group:hover {
+  cursor: default;
+}
+
+.navigation__link-group li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.navigation__link-group li:hover {
+  cursor: pointer;
+  color: #7da7d9;
+}
+
+.navigation__link-group li:hover > ul {
+  display: inline-block;
+  width: 190px;
+  text-align: left;
+  position: absolute;
+  background-color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-top: 15px;
+  color: #333;
+  box-shadow: #333 3px 3px 10px 0px;
+}
+
+.navigation__who-we-are:hover > ul {
+  left: 45%;
+}
+
+.navigation__what-we-do:hover > ul {
+  left: 55%;
+}
+
+.navigation__resources:hover > ul {
+  left: 65%;
+}
+
+.submenu {
+  display: none;
 }
 
 .introduction {
@@ -293,38 +341,38 @@ h3 {
 }
 
 @media screen and (max-width: 800px) {
-  .navigation__logo-row {
+  .navigation-row {
     padding: 0 3em;
   }
 
-  .navigation__logo-row a, .footer a {
+  .navigation-row a, .footer a {
     padding-left: 15px;
   }
 
-  .navigation__logo-row img {
+  .navigation-row img {
     width: 125px;
   }
 }
 
 @media screen and (max-width: 680px) {
-  .navigation__logo-row {
+  .navigation-row {
     padding: 0 1.5em;
   }
 
-  .navigation__logo-row--left a {
+  .navigation-row--left a {
     padding-left: 0;
   }
 
-  .navigation__logo-row a, .footer a {
+  .navigation-row a, .footer a {
     font-size: 14px;
     padding-left: 13px;
   }
 
-  .navigation__logo-row img {
+  .navigation-row img {
     width: 100%;
   }
 
-  .navigation__logo-row i, .footer i {
+  .navigation-row i, .footer i {
     font-size: 20px;
   }
 
