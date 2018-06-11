@@ -47,7 +47,7 @@ h3 {
   width: 100%;
 }
 
-.navigation__logo-row {
+.navigation-row {
   width: 100%;
   height: 100px;
   margin: 0 auto;
@@ -59,44 +59,130 @@ h3 {
   vertical-align: middle;
 }
 
-.navigation__logo-row a {
+.navigation-row a {
   vertical-align: middle;
   color: #1c252d;
   padding-left: 25px;
 }
 
-.navigation__logo-row a:first-of-type {
+.navigation-row a:first-of-type {
   padding-left: 0;
 }
 
-.navigation__logo-row img {
+.navigation-row img {
   width: 160px;
 }
 
-.navigation__logo-row i {
+.navigation-row i {
   font-size: 30px;
 }
 
-.navigation__logo-row i:hover {
+.navigation-row i:hover {
   color: #7da7d9;
 }
 
-.navigation__logo-row i:hover, .navigation__logo-row a:hover {
+.navigation-row i:hover, .navigation-row a:hover {
   color: #7da7d9;
   text-decoration: none;
 }
 
-.navigation__logo-row--left {
+.navigation-row--left {
   width: 30%;
   vertical-align: middle;
   display: table-cell;
 }
 
-.navigation__logo-row--right {
-  width: 70%;
+.navigation-row--right {
+  width: 100%;
   vertical-align: middle;
-  display: table-cell;
   text-align: right;
+  display: table-cell;
+}
+
+.navigation__link-group {
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    list-style-type: none;
+    margin-bottom: 0;
+}
+
+.navigation__link-group a {
+    float: left;
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navigation__link-group li {
+    float: left;
+    overflow: hidden;
+    margin: 0 10px;
+}
+
+.navigation__who-we-are .button--link {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navigation__link-group a:hover, .navigation__who-we-are:hover .button--link {
+    color: #7da7d9;
+    cursor: pointer;
+}
+
+.submenu {
+    display: none;
+    opacity: 0;
+    transition: .5s;
+    padding: 0 15px;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    list-style-type: none;
+    margin-top: 50px;
+}
+
+.submenu a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.submenu li {
+  float: none;
+}
+
+.submenu a:hover {
+  color: #7da7d9 !important;
+  cursor: pointer;
+}
+
+.navigation__who-we-are:hover .submenu--who-we-are {
+    display: block;
+    opacity: 1;
+}
+
+.navigation__what-we-do:hover .submenu--what-we-do {
+    display: block;
+    opacity: 1;
+}
+
+.navigation__resources:hover .submenu--resources {
+    display: block;
+    opacity: 1;
 }
 
 .introduction {
@@ -293,38 +379,38 @@ h3 {
 }
 
 @media screen and (max-width: 800px) {
-  .navigation__logo-row {
+  .navigation-row {
     padding: 0 3em;
   }
 
-  .navigation__logo-row a, .footer a {
+  .navigation-row a, .footer a {
     padding-left: 15px;
   }
 
-  .navigation__logo-row img {
+  .navigation-row img {
     width: 125px;
   }
 }
 
 @media screen and (max-width: 680px) {
-  .navigation__logo-row {
+  .navigation-row {
     padding: 0 1.5em;
   }
 
-  .navigation__logo-row--left a {
+  .navigation-row--left a {
     padding-left: 0;
   }
 
-  .navigation__logo-row a, .footer a {
+  .navigation-row a, .footer a {
     font-size: 14px;
     padding-left: 13px;
   }
 
-  .navigation__logo-row img {
+  .navigation-row img {
     width: 100%;
   }
 
-  .navigation__logo-row i, .footer i {
+  .navigation-row i, .footer i {
     font-size: 20px;
   }
 
