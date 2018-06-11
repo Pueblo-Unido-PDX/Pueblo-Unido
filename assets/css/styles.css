@@ -100,51 +100,89 @@ h3 {
 }
 
 .navigation__link-group {
-  width: 100%;
-  padding-left: 0;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    list-style-type: none;
+    margin-bottom: 0;
 }
 
-.navigation__link-group:hover {
-  cursor: default;
+.navigation__link-group a {
+    float: left;
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 .navigation__link-group li {
-  display: inline-block;
-  margin: 0 15px;
+    float: left;
+    overflow: hidden;
+    margin: 0 10px;
 }
 
-.navigation__link-group li:hover {
-  cursor: pointer;
-  color: #7da7d9;
+.navigation__who-we-are .button--link {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
 }
 
-.navigation__link-group li:hover > ul {
-  display: inline-block;
-  width: 190px;
-  text-align: left;
-  position: absolute;
-  background-color: white;
-  padding: 10px 15px;
-  border-radius: 5px;
-  margin-top: 15px;
-  color: #333;
-  box-shadow: #333 3px 3px 10px 0px;
-}
-
-.navigation__who-we-are:hover > ul {
-  left: 45%;
-}
-
-.navigation__what-we-do:hover > ul {
-  left: 55%;
-}
-
-.navigation__resources:hover > ul {
-  left: 65%;
+.navigation__link-group a:hover, .navigation__who-we-are:hover .button--link {
+    color: #7da7d9;
+    cursor: pointer;
 }
 
 .submenu {
-  display: none;
+    display: none;
+    opacity: 0;
+    transition: .5s;
+    padding: 0 15px;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    list-style-type: none;
+    margin-top: 50px;
+}
+
+.submenu a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.submenu li {
+  float: none;
+}
+
+.submenu a:hover {
+  color: #7da7d9 !important;
+  cursor: pointer;
+}
+
+.navigation__who-we-are:hover .submenu--who-we-are {
+    display: block;
+    opacity: 1;
+}
+
+.navigation__what-we-do:hover .submenu--what-we-do {
+    display: block;
+    opacity: 1;
+}
+
+.navigation__resources:hover .submenu--resources {
+    display: block;
+    opacity: 1;
 }
 
 .introduction {
