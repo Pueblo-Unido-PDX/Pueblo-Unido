@@ -49,7 +49,7 @@ h3 {
 
 .navigation-row {
   width: 100%;
-  height: 100px;
+  height: 80px;
   margin: 0 auto;
   display: table;
   padding: 0 6em;
@@ -73,7 +73,7 @@ h3 {
 }
 
 .navigation-row img {
-  width: 160px;
+  width: 140px;
 }
 
 .navigation-row i {
@@ -108,6 +108,7 @@ h3 {
     display: block;
     list-style-type: none;
     margin-bottom: 0;
+    float: right;
 }
 
 .navigation__link-group a {
@@ -136,7 +137,7 @@ h3 {
     margin: 0;
 }
 
-.navigation__link-group a:hover, .navigation__who-we-are:hover .button--link {
+.navigation__link-group a:hover, .button--link {
     color: #7da7d9;
     cursor: pointer;
 }
