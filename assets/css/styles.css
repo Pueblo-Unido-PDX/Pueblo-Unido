@@ -53,7 +53,7 @@ h3 {
   margin: 0 auto;
   display: table;
   padding: 0 6em;
-  background-color: #fff
+  background: rgba(255,255,255,.98);
   position: fixed;
   z-index: 30;
   vertical-align: middle;
@@ -123,7 +123,7 @@ h3 {
 }
 
 .navigation__who-we-are .button--link {
-    font-size: 16px;    
+    font-size: 16px;
     border: none;
     outline: none;
     color: white;
