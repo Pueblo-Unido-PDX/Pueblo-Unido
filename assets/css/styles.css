@@ -143,7 +143,7 @@ h3 {
 .submenu {
     display: none;
     opacity: 0;
-    transition: .5s;
+    transition: opacity .5s ease;
     padding: 0 15px;
     position: absolute;
     background-color: #f9f9f9;
@@ -161,6 +161,7 @@ h3 {
     text-decoration: none;
     display: block;
     text-align: left;
+    transition: all .5s ease;
 }
 
 .submenu li {
@@ -218,26 +219,33 @@ h3 {
   background-size: cover;
 }
 
-.introduction__link a.button, .what-we-do a.button, .donate a.button {
-  background-color: #1c252d;
-  color: #fff;
+.button {
+  display: inline-block;
   padding: 15px 35px;
   border-radius: 5px;
   transition: .5s;
-  margin-right: 15px;
+  margin-right: 40px;
   text-transform: uppercase;
-  text-decoration: none;
-}
-
-.introduction__link a.button:hover, .what-we-do a.button:hover, .donate a.button:hover {
+  box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+  transition: all .5s ease;
   background-color: #fff;
   color: #1c252d;
-  padding: 15px 35px;
-  border-radius: 5px;
-  transition: .5s;
-  margin-right: 15px;
-  text-transform: uppercase;
+}
+
+.button--inverse {
+  background-color: #1c252d;
+  color: #fff;
+}
+
+.button:hover {
+  box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
+  transform: translateY(-3px);
   text-decoration: none;
+  color: #1c252d;
+}
+
+.button--inverse:hover {
+  color: #fff;
 }
 
 .introduction .col-md-12 {
@@ -268,8 +276,8 @@ h3 {
 }
 
 .horizontal-line {
-  border-bottom: 2px solid #1c252d;
-  width: 19%;
+  border-bottom: 1px solid #d4d4d4;
+  width: 15%;
   margin: 0 auto;
   padding-top: 0em;
   margin-bottom: 1em;
@@ -317,11 +325,19 @@ h3 {
 }
 
 .donate {
-  background-image: url('../images/pu-images/png/rally.png');
+  background:
+    linear-gradient(
+      rgba(255, 255, 255, 0.45),
+      rgba(0, 0, 0, 0.45)),
+      url(../images/pu-images/png/rally.png);
   background-size: cover;
   width: 100%;
-  opacity: .75;
+  opacity: 1;
   border-bottom: 11px solid #1c252d;
+}
+
+.donate .button {
+  margin-right: 0;
 }
 
 .donate__subheadline {
@@ -340,7 +356,8 @@ h3 {
   margin: 0 auto;
   display: table;
   padding: 0 6em;
-  height: 70px;
+  height: 200px;
+  transition: all .5s ease;
 }
 
 .footer__link-row a, .footer__logo-row a {
