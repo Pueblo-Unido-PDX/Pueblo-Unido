@@ -104,20 +104,22 @@ h3 {
 }
 
 .navigation__link-group {
-    overflow: hidden;
-    font-family: Arial, Helvetica, sans-serif;
-    display: block;
-    list-style-type: none;
-    margin-bottom: 0;
-    float: right;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  list-style-type: none;
+  margin-bottom: 0;
+  float: right;
+  padding-left: 0;
 }
 
 .navigation__link-group a {
+    font-family: 'Barlow', sans-serif;
     float: left;
-    font-size: 16px;
+    font-size: 18px;
     color: #333;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 20px;
     text-decoration: none;
 }
 
@@ -127,11 +129,12 @@ h3 {
     margin: 0 10px;
 }
 
-.navigation__who-we-are .button--link {
+.button--link {
     font-size: 16px;
     border: none;
     outline: none;
     color: white;
+    font-family: 'Barlow', sans-serif;
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
@@ -146,7 +149,6 @@ h3 {
 .submenu {
     display: none;
     opacity: 0;
-    transition: opacity .5s ease;
     padding: 0 15px;
     position: absolute;
     background-color: #f9f9f9;
@@ -164,7 +166,6 @@ h3 {
     text-decoration: none;
     display: block;
     text-align: left;
-    transition: all .5s ease;
 }
 
 .submenu li {
@@ -228,6 +229,7 @@ h3 {
   border-radius: 5px;
   transition: .5s;
   margin-right: 40px;
+  font-family: 'Barlow', sans-serif;
   text-transform: uppercase;
   box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
   transition: all .5s ease;
@@ -363,19 +365,40 @@ h3 {
   transition: all .5s ease;
 }
 
+.footer__headings {
+  font-size: 18px;
+  list-style-type: none;
+}
+
+.footer__headings li {
+  width: 25%;
+  display: inline-block;
+}
+
+.footer__headings > li > a {
+  font-family: 'Barlow', sans-serif;
+  color: #fff !important;
+}
+
+.footer__link-row, .footer__logo-row {
+  display: table-cell;
+  vertical-align: middle;
+}
+
 .footer__link-row a, .footer__logo-row a {
   color: #fff;
   display: table-cell;
 }
 
 .footer__link-row a:hover, .footer__logo-row a:hover {
-  color: #fff;
+  color: #BBB;
   text-decoration: none;
 }
 
-.footer__link-row, .footer__logo-row {
-  display: table-cell;
-  vertical-align: middle;
+.footer__link-row {
+  width: 80%;
+  color: #fff;
+  list-style-type: none;
 }
 
 .footer__link-row a {
@@ -386,9 +409,18 @@ h3 {
   color: #7da7d9;
 }
 
+.footer__links {
+  font-size: 12px;
+  list-style-type: none;
+  padding-left: 0;
+}
+
 .footer__logo-row {
   display: table-cell;
   vertical-align: middle;
+  width: 20%;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .footer__logo-row i {
