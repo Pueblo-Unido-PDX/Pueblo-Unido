@@ -177,17 +177,17 @@ h3 {
   cursor: pointer;
 }
 
-.navigation__who-we-are:hover .submenu--who-we-are {
+.navigation__get-help:hover .submenu--get-help {
     display: block;
     opacity: 1;
 }
 
-.navigation__what-we-do:hover .submenu--what-we-do {
+.navigation__donate:hover .submenu--donate {
     display: block;
     opacity: 1;
 }
 
-.navigation__resources:hover .submenu--resources {
+.navigation__volunteer:hover .submenu--volunteer {
     display: block;
     opacity: 1;
 }
