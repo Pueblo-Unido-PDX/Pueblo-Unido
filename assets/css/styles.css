@@ -225,7 +225,7 @@ h3 {
 
 .button {
   display: inline-block;
-  padding: 15px 35px;
+  padding: 10px 20px;
   border-radius: 5px;
   transition: .5s;
   margin-right: 40px;
@@ -233,11 +233,6 @@ h3 {
   text-transform: uppercase;
   box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
   transition: all .5s ease;
-  background-color: #fff;
-  color: #1c252d;
-}
-
-.button--inverse {
   background-color: #1c252d;
   color: #fff;
 }
@@ -247,10 +242,16 @@ h3 {
   transform: translateY(-3px);
   text-decoration: none;
   color: #1c252d;
+  color: #fff;
+}
+
+.button--inverse {
+  background-color: #fff;
+  color: #1c252d;
 }
 
 .button--inverse:hover {
-  color: #fff;
+  color: #1c252d;
 }
 
 .introduction .col-md-12 {
@@ -295,8 +296,8 @@ h3 {
 }
 
 .what-we-do__text {
-  padding: 4em 0;
-  width: 75%;
+  padding: 2em 0;
+  width: 100%;
 }
 
 .what-we-do__text p {
@@ -304,8 +305,13 @@ h3 {
 }
 
 .what-we-do__image img {
-  width: 100%;
+  width: 90%;
   border-radius: 25px;
+}
+
+.need-help__subheadline h2, .need-help__subheadline .horizontal-line, .need-help__text {
+  text-align: center;
+  float: none;
 }
 
 .upcoming-events, .donate {
