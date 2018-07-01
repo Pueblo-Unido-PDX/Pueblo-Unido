@@ -114,13 +114,13 @@ h3 {
 }
 
 .navigation__link-group a {
-    font-family: 'Barlow', sans-serif;
-    float: left;
-    font-size: 18px;
-    color: #333;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
+  font-family: 'Barlow', sans-serif;
+  float: left;
+  font-size: 18px;
+  color: #333;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
 }
 
 .navigation__link-group li {
@@ -466,12 +466,12 @@ h3 {
   }
 
   .navigation-row a, .footer a {
-    font-size: 14px;
+    font-size: 16px;
     padding-left: 13px;
   }
 
   .navigation-row img {
-    width: 100%;
+    width: 50%;
   }
 
   .introduction {
@@ -488,6 +488,7 @@ h3 {
 
   .what-we-do .container {
     margin: 0;
+    max-width: 100%;
   }
 
   .footer {
