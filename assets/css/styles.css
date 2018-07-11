@@ -328,8 +328,14 @@ h3 {
   text-align: center;
 }
 
+.sponsors__images .col-md-4 {
+  vertical-align: middle;
+  display: inline-block;
+}
+
 .sponsors__images img {
-  width: 85%;
+  width: 220px;
+  height: auto;
   padding: 1em 1em;
 }
 
