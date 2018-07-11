@@ -28,14 +28,13 @@ h1 {
 h2 {
   text-align: center;
   font-family: 'Barlow', sans-serif !important;
+  font-size: 32px !important;
 }
 
 h3 {
   font-family: 'Barlow', sans-serif !important;
-  font-size: 30px !important;
-  color: #fff;
+  font-size: 21px !important;
   width: 75%;
-  padding-bottom: 25px;
 }
 
 .standard-link {
@@ -59,7 +58,6 @@ h3 {
   z-index: 30;
   vertical-align: middle;
   position: fixed;
-  background: white;
   top: 0;
 }
 
@@ -264,21 +262,20 @@ h3 {
   font-size: 19px;
 }
 
-.what-we-do {
+.heading {
   padding: 4em 6em;
   grid-row-start: 3;
   grid-row-end: 3;
   height: auto;
 }
 
-.what-we-do h2, .upcoming-events h2 {
+.heading h2, .upcoming-events h2 {
   text-align: left;
 }
 
-.what-we-do__subheadline {
+.heading__subheadline {
   width: 100%;
   height: auto;
-  padding-top: 4em;
 }
 
 .horizontal-line {
@@ -290,21 +287,26 @@ h3 {
   float: left;
 }
 
-.what-we-do .row {
+.heading .row {
   align-items: center;
-  margin: 3em 0;
+  padding: 4em 0;
 }
 
-.what-we-do__text {
+.heading.heading--donate .row {
+  padding: 1em 0;
+}
+
+.heading__text {
   padding: 2em 0;
   width: 100%;
 }
 
-.what-we-do__text p {
+.heading__text p {
   margin-bottom: 2em;
+  width: 80%;
 }
 
-.what-we-do__image img {
+.heading__image img {
   width: 90%;
   border-radius: 25px;
 }
@@ -457,7 +459,7 @@ h3 {
     font-size: 70px;
   }
 
-  .what-we-do {
+  .heading {
     padding: 4em 4em;
   }
 }
@@ -488,11 +490,11 @@ h3 {
     font-size: 65px;
   }
 
-  .what-we-do {
+  .heading {
     padding: 4em 2em;
   }
 
-  .what-we-do .container {
+  .heading .container {
     margin: 0;
     max-width: 100%;
   }
@@ -538,7 +540,7 @@ h3 {
     padding: 8em 3em;
   }
 
-  .introduction .container, .what-we-do .container {
+  .introduction .container, .heading .container {
     width: 100%;
     padding-right: 15px;
     padding-left: 30px;
@@ -561,19 +563,19 @@ h3 {
     font-size: 16px;
   }
 
-  .what-we-do {
+  .heading {
     padding: 0 1.5em;
   }
 
-  .what-we-do .container {
+  .heading .container {
       max-width: 100%;
   }
 
-  .what-we-do__image {
+  .heading__image {
     text-align: center;
   }
 
-  .what-we-do__image img {
+  .heading__image img {
     width: 70%;
   }
 
@@ -647,7 +649,7 @@ h3 {
     font-size: 14px;
   }
 
-  .what-we-do {
+  .heading {
     padding: 0 1.5em;
   }
 
