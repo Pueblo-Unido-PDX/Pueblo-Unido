@@ -175,6 +175,10 @@ h3 {
   cursor: pointer;
 }
 
+.navigation__get-help > a:hover {
+  cursor: default;
+}
+
 .navigation__get-help:hover .submenu--get-help {
     display: block;
     opacity: 1;
