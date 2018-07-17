@@ -52,7 +52,7 @@ h3 {
   margin: 0 auto;
   display: table;
   padding: 0 6em;
-  background: rgba(255,255,255,.98);
+  background: rgba(255,255,255,1);
   position: fixed;
   top: 0;
   z-index: 30;
@@ -320,6 +320,11 @@ h3 {
   float: none;
 }
 
+.need-help__text {
+  width: 50%;
+  margin: 0 auto;
+}
+
 .upcoming-events, .donate {
   margin-top: 3em;
 }
@@ -371,6 +376,14 @@ h3 {
 
 .donate__subheadline .horizontal-line {
   float: none;
+}
+
+.donate__methods {
+  text-align: center;
+}
+
+.donate__methods h3 {
+  width: 100%;
 }
 
 .footer {
