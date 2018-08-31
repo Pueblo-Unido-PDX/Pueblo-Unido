@@ -214,18 +214,33 @@ em {
   background-size: cover;
 }
 
+.introduction--get-help-detention {
+  background: url("../images/pu-images/png/backgrounds/cam-addressing-crowd.png");
+  background-size: cover;
+}
+
+.introduction--get-help-other {
+  background: url("../images/pu-images/png/backgrounds/holding-sign.png");
+  background-size: cover;
+}
+
 .introduction--sponsors {
-  background: url("../images/pu-images/png/backgrounds/with-families--gray.png");
+  background: url("../images/pu-images/png/backgrounds/housing-for-people.png");
   background-size: cover;
 }
 
 .introduction--volunteer {
-  background: url("../images/pu-images/png/backgrounds/irco-care-fest--gray.png");
+  background: url("../images/pu-images/png/backgrounds/jumbotron.png");
   background-size: cover;
 }
 
-.introduction--know-your-rights {
-  background: url("../images/pu-images/png/backgrounds/rally1.png");
+.introduction--what-we-do {
+  background: url("../images/pu-images/png/backgrounds/cam-addressing-crowd.png");
+  background-size: cover;
+}
+
+.introduction--volunteer--committees {
+  background: url("../images/pu-images/png/backgrounds/volunteers.png");
   background-size: cover;
 }
 
