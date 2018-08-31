@@ -15,10 +15,6 @@ footer {
   grid-row-end: 6;
 }
 
-p {
-  font-family: Helvetica, Arial, sans-serif;
-}
-
 h1 {
   color: #fff;
   font-size: 70px;
@@ -35,6 +31,14 @@ h3 {
   font-family: 'Barlow', sans-serif !important;
   font-size: 21px !important;
   width: 75%;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+em {
+  text-decoration: underline;
 }
 
 .standard-link {
@@ -323,6 +327,10 @@ h3 {
 .need-help__text {
   width: 50%;
   margin: 0 auto;
+}
+
+.need-help__text:last-of-type {
+  padding-top: 40px;
 }
 
 .upcoming-events, .donate {
