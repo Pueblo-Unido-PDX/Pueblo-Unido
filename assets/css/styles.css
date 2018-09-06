@@ -315,7 +315,7 @@ em {
   padding: 4em 0;
 }
 
-.heading.heading--donate .row {
+.heading.heading--donate .row, .heading.heading--sponsors .row {
   padding: 1em 0;
 }
 
