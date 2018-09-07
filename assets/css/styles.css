@@ -41,6 +41,10 @@ em {
   text-decoration: underline;
 }
 
+li {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
 .standard-link {
   color: #7da7d9;
 }
