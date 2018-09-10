@@ -86,7 +86,7 @@
             </div>
           </div>
           <div class="heading__text">
-            <p>Pueblo Unido es una organización sin fines de lucro que apoya a miembros de la comunidad en la zona metropolitana de Portland que luchan en contra de la deportación. Conectamos a nuestrxos clientes con representación legal adecuada y ayudamos a reunir evidencia para fortalecer los casos y evitar la deportación.
+            <p>Pueblo Unido es una organización sin fines de lucro que apoya a miembros de la comunidad en la zona metropolitana de Portland que luchan en contra de la deportación. Conectamos a nuestrxs clientes con representación legal adecuada y ayudamos a reunir evidencia para fortalecer los casos y evitar la deportación.
             </p>
             <a class="button" href="volunteer.html">Involucrarse</a>
           </div>
