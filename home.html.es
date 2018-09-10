@@ -35,13 +35,13 @@
             </ul>
           </li>
           <li class="navigation--dropdown navigation__donate">
-            <a class="button--link" href="donate.html">Donate</a>
+            <a class="button--link" href="donate.html">Donar</a>
             <ul class="submenu submenu--donate">
               <li>
-                <a href="what-we-do.html">What We Do</a>
+                <a href="what-we-do.html">Qué hacemos</a>
               </li>
               <li>
-                <a href="sponsors.html">Sponsors</a>
+                <a href="sponsors.html">Patrocinadores</a>
               </li>
               <li>
                 <a href="contribution.html">Your Contribution</a>
@@ -49,7 +49,7 @@
             </ul>
           </li>
           <li class="navigation__volunteer">
-            <a class="button--link" href="volunteer.html">Volunteer</a>
+            <a class="button--link" href="volunteer.html">Involucrarse</a>
             <ul class="submenu submenu--volunteer">
               <li>
                 <a href="volunteer-committees.html">Volunteer Committees</a>
@@ -70,7 +70,7 @@
           <div class="introduction__link">
             <a class="button" href="home.html.en">Read in English</a>
             <a class="button button--inverse" href="get-help-detention.html">Get Help</a>
-            <a class="button button--inverse" href="donate.html.es">Donate</a>
+            <a class="button button--inverse" href="donate.html.es">Donar</a>
           </div>
         </div>
       </div>
@@ -81,14 +81,14 @@
       <div class="row">
         <div class="col-md-7 align-middle">
           <div class="heading__subheadline">
-            <h2>What is Pueblo Unido?</h2>
+            <h2>¿Qué es Pueblo Unido?</h2>
             <div class="horizontal-line">
             </div>
           </div>
           <div class="heading__text">
-            <p>Pueblo Unido is a non-profit organization that supports Portland metro community members in the fight against deportation. We connect clients to adequate legal representation and help gather evidence to strengthen cases against removal.
+            <p>Pueblo Unido es una organización sin fines de lucro que apoya a miembros de la comunidad en la zona metropolitana de Portland que luchan en contra de la deportación. Conectamos a nuestrxos clientes con representación legal adecuada y ayudamos a reunir evidencia para fortalecer los casos y evitar la deportación.
             </p>
-            <a class="button" href="volunteer.html">Volunteer</a>
+            <a class="button" href="volunteer.html">Involucrarse</a>
           </div>
         </div>
         <div class="col-md-5 align-middle">
@@ -105,14 +105,13 @@
             </div>
           </div>
           <div class="need-help__text">
-            <p>Pueblo Unido provides legal service navigation and client advocate support for immigrants who are currently in removal proceedings. Those who are NOT currently in removal proceedings may contact Pueblo Unido for a list of nonprofit organizations
-              in the Portland area who may be able to help.
+            <p>Pueblo Unido brinda ayuda a inmigrantes, que están actualmente enfrentando un proceso judicial de deportación, a navegar los servicios legales y exigir una buena representación legal. Las personas que NO están actualmente enfrentando un proceso judicial pueden contactar a Pueblo Unido para recibir una lista de organizaciones sin fines de lucro en Portland que tal vez puedan ser de ayuda.
             </p>
-            <p>Don’t know whether you’re in removal proceedings or not? </p>
-            <a class="button" href="get-help-detention.html">Facing Removal</a>
+            <p>¿No sabe si está en proceso de deportación o no?</p>
+            <a class="button" href="get-help-detention.html">Enfrentando Deportación</a>
           </div>
           <div class="need-help__text">
-            <p>*Disclaimer*: Pueblo Unido PDX is not a law firm; we are not attorneys and we do not offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they receive the advice they are seeking.</p>
+            <p>*Aviso de responsabilidad*: Pueblo Unido PDX <u>no</u> es un despacho de abogados; <u>no somos</u> abogados y <u>no</u> ofrecemos consejos legales. En cambio, ayudamos a conectar clientes con abogados de inmigración con experiencia y les damos seguimiento para asegurarnos que reciban la información y el apoyo que necesitan.</p>
           </div>
         </div>
       </div>
@@ -121,7 +120,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-7">
-          <h2>Upcoming Events</h2>
+          <h2>Próximos Eventos</h2>
           <div class="horizontal-line"></div>
           <!-- Facebook iFrame -->
           <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043" width="100%"
@@ -137,10 +136,10 @@
   </section>
   <section class="donate">
     <div class="donate__subheadline">
-      <h2>Donate</h2>
+      <h2>Donación</h2>
       <div class="horizontal-line"></div>
-      <p>Donate to help keep families together, support immigrant rights, and build resilient communities.</p>
-      <a class="button button--inverse" href="donate.html">Donate</a>
+      <p>Haga una donación para ayudar a mantener a familias juntas, apoyar los derechos de lxos inmigrantes, y construir comunidades fuertes.</p>
+      <a class="button button--inverse" href="donate.html">Donar</a>
     </div>
   </section>
 </body>
@@ -160,13 +159,13 @@
           </ul>
         </li>
         <li>
-          <a href="donate.html">Donate</a>
+          <a href="donate.html">Donar</a>
           <ul class="footer__links">
             <li>
-              <a href="what-we-do.html">What We Do</a>
+              <a href="what-we-do.html">Qué hacemos</a>
             </li>
             <li>
-              <a href="sponsors.html">Sponsors</a>
+              <a href="sponsors.html">Patrocinadores</a>
             </li>
             <li>
               <a href="contribution.html">Your Contribution</a>
