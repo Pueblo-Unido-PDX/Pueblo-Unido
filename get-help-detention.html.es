@@ -3,8 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Pueblo Unido PDX</title>
+  <title>Help for Detention or Removal Cases - Pueblo Unido PDX</title>
   <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
   <link href="https://fonts.googleapis.com/css?family=Barlow:400" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -59,97 +58,67 @@
       </div>
     </div>
   </header>
-  <section class="introduction introduction--home">
+  <section class="introduction introduction--get-help-detention">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="introduction__text">
-            <h1>Pueblo Unido PDX</h1>
-            <p>Libertad y justicia para todxs.</p>
-          </div>
-          <div class="introduction__link">
-            <a class="button" href="get-help-detention.html">Get Help</a>
-            <a class="button button--inverse" href="donate.html">Donate</a>
+            <h1>Get Help</h1>
+            <p>For detention or removal cases</p>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <section class="heading">
+  <section class="heading heading--donate">
     <div class="container">
       <div class="row">
-        <div class="col-md-7 align-middle">
+        <div class="col-md-12">
           <div class="heading__subheadline">
-            <h2>What is Pueblo Unido?</h2>
-            <div class="horizontal-line">
-            </div>
+            <h2>At Risk of Deportation?</h2>
+            <div class="horizontal-line"></div>
           </div>
-          <div class="heading__text">
-            <p>Pueblo Unido is a non-profit organization that supports Portland
-              metro community members in the fight against deportation. We
-              connect clients to adequate legal representation and help
-              gather evidence to strengthen cases against
-              removal.
-            </p>
-            <a class="button" href="volunteer.html">Volunteer</a>
-          </div>
-        </div>
-        <div class="col-md-5 align-middle">
-          <div class="heading__image">
-            <img src="./assets/images/pu-images/png/team--july.png" />
-          </div>
+          <br />
+          <p>If you are currently detained or facing removal proceedings in the Pacific NW, please contact us. We help people navigate immigration legal services, advocate for effective representation, and support evidence-gathering to strengthen cases against
+            deportation. We
+            <strong>do not</strong> charge for our support services.</p>
+          <p>Contact: 503-912-8925;
+            <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
+          </p>
+          <p>*Disclaimer*: Pueblo Unido PDX is <em>not</em> a law firm; we are <em>not</em> attorneys and we <em>do not</em> offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they receive
+            the advice they are seeking.</p>
         </div>
       </div>
       <div class="row">
-        <div class="col-md-12 align-middle">
-          <div id="need-help" class="need-help__subheadline">
-            <h2>Need Help?</h2>
-            <div class="horizontal-line">
-            </div>
+        <div class="col-md-12">
+          <div class="heading__subheadline">
+            <h2>Support for Those Facing Removal</h2>
+            <div class="horizontal-line"></div>
           </div>
-          <div class="need-help__text">
-            <p>Pueblo Unido provides legal service navigation and client
-              advocate support for immigrants who are currently in removal
-              proceedings. Those who are NOT currently in removal proceedings
-              may contact Pueblo Unido for a list of nonprofit organizations
-              in the Portland area who may be able to help.
-            </p>
-            <p>Don’t know whether you’re in removal proceedings or not? </p>
-            <a class="button" href="get-help-detention.html">Facing Removal</a>
-          </div>
-          <div class="need-help__text">
-            <p>*Disclaimer*: Pueblo Unido PDX is not a law firm; we are not
-              attorneys and we do not offer any legal advice. Instead, we help
-              connect clients to experienced immigration attorneys and follow-up
-               to ensure they receive the advice they are seeking.</p>
-          </div>
+          <br>
+          <p>If you are <strong>facing deportation and would like legal aid with
+             removal defense</strong>, you can:</p>
+          <ol>
+            <li>Hire a private immigration attorney to represent you;</li>
+            <li>Request that a nonprofit legal service provider take on your
+              case at a reduced cost (compared to private representation);</li>
+            <li>Seek informational materials created for pro se respondents
+              (those that represent themselves in immigration court) and guides
+              for relatives of detained immigrants. *Please note*: These
+              publications are meant to provide useful basic information about
+              immigration law and detention center protocols. Under no
+              circumstances do they constitute legal advice.
+</li>
+          </ol>
+          <p>If you or someone you know would like support in searching for a
+            removal defense attorney, nonprofit legal service provider, or
+            informational materials for detained immigrants and their relatives,
+             contact us at 503-912-8925 or
+             <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com.
+             </a>
+          </p>
         </div>
       </div>
-    </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-7">
-          <h2>Upcoming Events</h2>
-          <div class="horizontal-line"></div>
-          <!-- Facebook iFrame -->
-          <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043" width="100%"
-            height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" adapt-container-width="true"></iframe>
-
-          <!-- Twitter iFrame
-                        <a class="button" class="twitter-timeline" data-width="250" data-height="500" href="https://twitter.com/PuebloUnidoPDX?ref_src=twsrc%5Etfw">Tweets by PuebloUnidoPDX</a>
-                        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                        -->
-        </div>
-      </div>
-    </div>
-  </section>
-  <section class="donate">
-    <div class="donate__subheadline">
-      <h2>Donate</h2>
-      <div class="horizontal-line"></div>
-      <p>Donate to help keep families together, support immigrant rights, and build resilient communities.</p>
-      <a class="button button--inverse" href="donate.html">Donate</a>
     </div>
   </section>
 </body>
@@ -205,20 +174,6 @@
     </div>
   </section>
 </footer>
-
-<!-- Facebook Plugin -->
-<div id="fb-root"></div>
-<script>
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s);
-    js.id = id;
-    js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=115236182004043&autoLogAppEvents=1';
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
-
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
 
 </html>

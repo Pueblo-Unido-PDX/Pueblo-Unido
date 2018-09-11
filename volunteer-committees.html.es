@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Donate - Pueblo Unido PDX</title>
+  <title>Volunteer Committees - Pueblo Unido PDX</title>
   <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
   <link href="https://fonts.googleapis.com/css?family=Barlow:400" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -51,25 +51,19 @@
             <a class="button--link" href="volunteer.html">Volunteer</a>
             <ul class="submenu submenu--volunteer">
               <li>
-                <a href="volunteer-handbook.html">Volunteer Handbook</a>
-              </li>
-              <li>
                 <a href="volunteer-committees.html">Volunteer Committees</a>
-              </li>
-              <li>
-                <a href="volunteer-application.html">Apply Now</a>
               </li>
             </ul>
           </li>
       </div>
     </div>
   </header>
-  <section class="introduction introduction--volunteer">
+  <section class="introduction introduction--volunteer--committees">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="introduction__text">
-            <h1>Donate</h1>
+            <h1>Comités de voluntarixs</h1>
           </div>
         </div>
       </div>
@@ -79,46 +73,76 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="heading__subheadline">
-            <h2>Why Donate?</h2>
-            <div class="horizontal-line"></div>
+          <p>Le damos la bienvenida a nuevxs voluntarixs y los animamos a
+          participar en los siguientes comités:</p>
+          <div>
+            <h3>Comité de acercamiento a la comunidad</h3>
+            <p>Tiene la responsabilidad de:</p>
+            <ul>
+              <li>Estar presente en los eventos de la comunidad</li>
+              <li>Tocar puertas</li>
+              <li>Hacer llamadas</li>
+              <li>Escribir un boletín</li>
+            </ul>
           </div>
-          <br />
-          <p>Your donation helps us meet our ambitious start-up goal of $60,000, and helps keep families together by: </p>
-          <ul>
-            <li>Building a legal defense fund to help people in detetion hire immigration attorneys</li>
-            <li>Funding staff salaries to increase capacity for case management</li>
-            <li>Organizational start-up costs, such as office space and technology</li>
-          </ul>
+          <div>
+            <h3>Comité de recaudación de fondos/planeación de eventos</h3>
+            <p>Tiene la responsabilidad de:</p>
+            <ul>
+              <li>Planear eventos comunitarios y de recaudación de fondos</li>
+              <li>Solicitar donaciones</li>
+              <li>Escribir solicitudes de subvenciones</li>
+              <li>Recaudación de fondos en línea/redes sociales</li>
+            </ul>
+          </div>
+          <div>
+            <h3>Comité de redes sociales</h3>
+            <p>Tiene la responsabilidad de:</p>
+            <ul>
+              <li>Manejar las cuentas de Pueblo Unido en Instagram, Twitter,
+              Facebook</li>
+              <li>Postear con frecuencia en todas las plataformas</li>
+            </ul>
+          </div>
+          <div>
+            <h3>Comité de interpretación/traducción</h3>
+            <p>Tiene la responsabilidad de:</p>
+            <ul>
+              <li>Traducción (en casa) de comunicaciones y materiales externos</li>
+              <li>Interpretación (en vivo) en los eventos</li>
+            </ul>
+          </div>
+          <div>
+            <h3>Comité de tecnología</h3>
+            <p>Tiene la responsabilidad de:</p>
+            <ul>
+              <li>Desarrollar y manejar la página web de Pueblo Unido</li>
+              <li>Apoyar la creación de materiales y el diseño gráfico</li>
+            </ul>
+          </div>
+          <div>
+            <h3>Comité de investigación y creación de materiales</h3>
+            <p>Tiene la responsabilidad de:</p>
+            <ul>
+              <li>Hacer investigaciones y escribir memorándums/informes de
+              resumen para uso interno</li>
+              <li>Recopilar y desarrollar recursos para la gestión de casos</li>
+              <li>Crear recursos para los voluntarios (manual de voluntarios,
+                las hojas para manifestar interés/registrarse, etc)</li>
+            </ul>
+          </div>
+          <div>
+            <h3>Comité de fotografía/videografía</h3>
+            <p>Tiene la responsabilidad de:</p>
+            <ul>
+              <li>Dirigir y producir los videos promocionales e informativos de
+              Pueblo Unido;</li>
+              <li>Tomar fotos y videos en los eventos</li>
+              <li>Crear/editar contenido para la promoción en redes sociales</li>
+            </ul>
+          </div>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12">
-        <div class="heading__subheadline">
-          <h2>How to Donate</h2>
-          <div class="horizontal-line"></div>
-        </div>
-        <br />
-        <h3>Venmo</h3>
-        <p>@PuebloUnido-PDX</p>
-        <h3>Check</h3>
-        <p>
-          Make check payable to Pueblo Unido PDX, and pass to a volunteer or mail to: </p>
-        <p>17405 NE Glisan Street<br /> Portland, OR<br /> 97230
-          <br /></p>
-        <h3>PayPal</h3>
-        <!-- PayPal Link -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="M7CDSCTVMKP74">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-      </div>
-    </div>
-    </div>
-    </div>
     </div>
   </section>
 </body>
@@ -127,46 +151,37 @@
     <div class="footer__link-row">
       <ul class="footer__headings">
         <li>
-          <a>Who We Are</a>
+          <a>Get Help</a>
           <ul class="footer__links">
             <li>
-              <a href="about-us.html">About Us</a>
+              <a href="get-help-detention.html">For Detention / Removal Cases</a>
             </li>
             <li>
-              <a href="staff.html">Staff</a>
+              <a href="get-help-other.html">For Other Immigration Issues</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="donate.html">Donate</a>
+          <ul class="footer__links">
+            <li>
+              <a href="what-we-do.html">What We Do</a>
             </li>
             <li>
               <a href="sponsors.html">Sponsors</a>
             </li>
             <li>
-              <a href="contact.html">Contact Us</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a>What We Do</a>
-          <ul class="footer__links">
-            <li>
-              <a href="case-management.html">Case Management</a>
-            </li>
-            <li>
-              <a href="housing-rights.html">Housing Rights</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a>Resources</a>
-          <ul class="footer__links">
-            <li>
-              <a href="know-your-rights.html">Know Your Rights</a>
+              <a href="contribution.html">Your Contribution</a>
             </li>
           </ul>
         </li>
         <li>
           <a href="volunteer.html">Volunteer</a>
-        </li>
-        <li>
-          <a href="donate.html">Donate</a>
+          <ul class="footer__links">
+            <li>
+              <a href="volunteer-committees.html">Volunteer Committees</a>
+            </li>
+          </ul>
         </li>
       </ul>
     </div>
