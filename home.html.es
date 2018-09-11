@@ -27,10 +27,10 @@
             </a>
             <ul class="submenu submenu--get-help">
               <li>
-                <a href="get-help-detention.html">For Detention / Removal Cases</a>
+                <a href="get-help-detention.html.es">For Detention / Removal Cases</a>
               </li>
               <li>
-                <a href="get-help-other.html">For Other Immigration Issues</a>
+                <a href="get-help-other.html.es">For Other Immigration Issues</a>
               </li>
             </ul>
           </li>
@@ -38,21 +38,21 @@
             <a class="button--link" href="donate.html">Donar</a>
             <ul class="submenu submenu--donate">
               <li>
-                <a href="what-we-do.html">Qué hacemos</a>
+                <a href="what-we-do.html.es">Qué hacemos</a>
               </li>
               <li>
-                <a href="sponsors.html">Patrocinadores</a>
+                <a href="sponsors.html.es">Patrocinadores</a>
               </li>
               <li>
-                <a href="contribution.html">Your Contribution</a>
+                <a href="contribution.html.es">Your Contribution</a>
               </li>
             </ul>
           </li>
           <li class="navigation__volunteer">
-            <a class="button--link" href="volunteer.html">Involucrarse</a>
+            <a class="button--link" href="volunteer.html.es">Involucrarse</a>
             <ul class="submenu submenu--volunteer">
               <li>
-                <a href="volunteer-committees.html">Volunteer Committees</a>
+                <a href="volunteer-committees.html.es">Volunteer Committees</a>
               </li>
             </ul>
           </li>
@@ -68,8 +68,8 @@
             <p>Libertad y justicia para todxs.</p>
           </div>
           <div class="introduction__link">
-            <a class="button" href="home.html.en">Read in English</a>
-            <a class="button button--inverse" href="get-help-detention.html">Get Help</a>
+            <a class="button" href="home.html">Read in English</a>
+            <a class="button button--inverse" href="get-help-detention.html.es">Get Help</a>
             <a class="button button--inverse" href="donate.html.es">Donar</a>
           </div>
         </div>
@@ -88,7 +88,7 @@
           <div class="heading__text">
             <p>Pueblo Unido es una organización sin fines de lucro que apoya a miembros de la comunidad en la zona metropolitana de Portland que luchan en contra de la deportación. Conectamos a nuestrxs clientes con representación legal adecuada y ayudamos a reunir evidencia para fortalecer los casos y evitar la deportación.
             </p>
-            <a class="button" href="volunteer.html">Involucrarse</a>
+            <a class="button" href="volunteer.html.es">Involucrarse</a>
           </div>
         </div>
         <div class="col-md-5 align-middle">
@@ -108,7 +108,7 @@
             <p>Pueblo Unido brinda ayuda a inmigrantes, que están actualmente enfrentando un proceso judicial de deportación, a navegar los servicios legales y exigir una buena representación legal. Las personas que NO están actualmente enfrentando un proceso judicial pueden contactar a Pueblo Unido para recibir una lista de organizaciones sin fines de lucro en Portland que tal vez puedan ser de ayuda.
             </p>
             <p>¿No sabe si está en proceso de deportación o no?</p>
-            <a class="button" href="get-help-detention.html">Enfrentando Deportación</a>
+            <a class="button" href="get-help-detention.html.es">Enfrentando Deportación</a>
           </div>
           <div class="need-help__text">
             <p>*Aviso de responsabilidad*: Pueblo Unido PDX <u>no</u> es un despacho de abogados; <u>no somos</u> abogados y <u>no</u> ofrecemos consejos legales. En cambio, ayudamos a conectar clientes con abogados de inmigración con experiencia y les damos seguimiento para asegurarnos que reciban la información y el apoyo que necesitan.</p>
@@ -139,7 +139,7 @@
       <h2>Donación</h2>
       <div class="horizontal-line"></div>
       <p>Haga una donación para ayudar a mantener a familias juntas, apoyar los derechos de lxos inmigrantes, y construir comunidades fuertes.</p>
-      <a class="button button--inverse" href="donate.html">Donar</a>
+      <a class="button button--inverse" href="donate.html.es">Donar</a>
     </div>
   </section>
 </body>
@@ -151,32 +151,32 @@
           <a>Get Help</a>
           <ul class="footer__links">
             <li>
-              <a href="get-help-detention.html">For Detention / Removal Cases</a>
+              <a href="get-help-detention.html.es">For Detention / Removal Cases</a>
             </li>
             <li>
-              <a href="get-help-other.html">For Other Immigration Issues</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="donate.html">Donar</a>
-          <ul class="footer__links">
-            <li>
-              <a href="what-we-do.html">Qué hacemos</a>
-            </li>
-            <li>
-              <a href="sponsors.html">Patrocinadores</a>
-            </li>
-            <li>
-              <a href="contribution.html">Your Contribution</a>
+              <a href="get-help-other.html.es">For Other Immigration Issues</a>
             </li>
           </ul>
         </li>
         <li>
-          <a href="volunteer.html">Volunteer</a>
+          <a href="donate.html.es">Donar</a>
           <ul class="footer__links">
             <li>
-              <a href="volunteer-committees.html">Volunteer Committees</a>
+              <a href="what-we-do.html.es">Qué hacemos</a>
+            </li>
+            <li>
+              <a href="sponsors.html.es">Patrocinadores</a>
+            </li>
+            <li>
+              <a href="contribution.html.es">Your Contribution</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="volunteer.html.es">Volunteer</a>
+          <ul class="footer__links">
+            <li>
+              <a href="volunteer-committees.html.es">Volunteer Committees</a>
             </li>
           </ul>
         </li>

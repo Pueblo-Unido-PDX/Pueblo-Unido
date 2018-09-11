@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>About Us</title>
+  <title>Volunteer Handbook - Pueblo Unido PDX</title>
   <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
   <link href="https://fonts.googleapis.com/css?family=Barlow:400" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -64,16 +64,12 @@
       </div>
     </div>
   </header>
-  <section class="introduction introduction--about">
+  <section class="introduction introduction--volunteer">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="introduction__text">
-            <h1>About Us</h1>
-          </div>
-          <div class="introduction__link">
-            <a class="button" href="volunteer.html">Get Involved</a>
-            <a class="button" href="donate.html">Donate</a>
+            <h1>Donate</h1>
           </div>
         </div>
       </div>
@@ -84,50 +80,14 @@
       <div class="row">
         <div class="col-md-12">
           <div class="what-we-do__text">
-            <h3>About Pueblo Unido PDX</h3>
-            <p>Pueblo Unido helps immigrants hire attorneys to fight deportation, get released from detention, and return to their families.</p>
-            <p>The governmental crackdown on immigrants has ripped members of our communities from their homes, families, and jobs, and forced them to languish in detention. Detainees are not provided an attorney by the government, so an estimated 90% of
-              detainees at the NW Detention Center in Tacoma, WA go through removal proceedings without legal representation.
-            </p>
-            <p>Pueblo Unido organized in April of 2017 under volunteer leadership in response to these injustices to help keep families and our communities together.
-            </p>
-            <h3>Our mission</h3>
-            <p>To empower and provide resources to Latinxs with vulnerable immigration status. We envision a United States of America with libertad y justicia para todos.
-              <p>Empoderar y proveer recursos a Latinxs con estatus inmigratorio vulnerable. Imaginamos un EEUU con libertad y justicia para todos.</p>
-              <h3>What We Do</h3>
-              <p>Case Management: Legal representation is the most predictive factor in whether an immigrant will win their case against deportation.</p>
-              <p>Pueblo Unido case managers connect clients to adequate and affordable legal representation by offering referrals, providing translation assistance, and hosting benefit events to raise donations for clients' legal fees.</p>
-              <p>We then work with clients’ families and attorneys to gather support letters, mental health evaluations, and other evidence to strengthen their cases against removal. Our support services are provided at no cost to our clients.</p>
+            <h3>Use the button below to donate. Thank you for your gift!</h3>
 
-              <p>Our team:</p>
-              <ul>
-                <li>Connects clients to adequate legal representation by offering referrals, informational materials, and scheduling consultations
-                </li>
-
-                <li>Raises donations to pay for clients’ legal consultation and retainer fees</li>
-
-                <li>Helps families and attorneys gather evidence to strengthen their defense</li>
-
-                <li>We accompany family members to schools, churches, and community centers to solicit letters of support</li>
-
-                <li>We arrange free/reduced-cost mental health evaluations for clients' US citizen relatives</li>
-
-                <li>We help clients request and gather past records (tax, medical, payroll, mailing, bills, etc)</li>
-
-                <li>We place intake requests to connect families to social services like rent assistance and community-based food pantries</li>
-
-                <li>And when necessary, we help facilitate communication between clients and their attorneys.
-                </li>
-
-                <p>Advocacy: Pueblo Unido advocates for policies that secure human and social rights, such as the right to quality legal representation, housing, and healthcare (should just restate the second part of the mission statement?). In our first
-                  year, we’ve organized renters and testified publicly to pressure the Gresham City Council to adopt tenant protections and address the housing crisis. We’ve also engaged the Reynolds school district to push for policies that better serve
-                  students affected by ICE activities. We’ll continue these efforts into our second year, and also encourage lawmakers to establish a model for universal representation that provides attorneys to all immigrants facing removal proceedings.
-                </p>
-
-                <p>Community Engagement: Pueblo Unido organizes and supports immigrants’ rights demonstrations, free food distributions, and community-building events. Since May 2017, we’ve marched for immigrants’ rights in East County, supported the IRCO
-                  Community Care Festival, co-hosted a Food Justice event, and put on a series of events in Gresham to organize renters for tenant protections. Our staff and volunteers are active in the East County community, even outside of Pueblo Unido
-                  work. Our team members coordinate food pantries, teach ESL classes, coach youth sports, and sit on citizen advisory committees.
-                </p>
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+              <input type="hidden" name="cmd" value="_s-xclick">
+              <input type="hidden" name="hosted_button_id" value="M7CDSCTVMKP74">
+              <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+              <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
           </div>
         </div>
       </div>
