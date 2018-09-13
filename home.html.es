@@ -15,7 +15,7 @@
   <header class="navigation">
     <div class="navigation-row">
       <div class="navigation-row--left">
-        <a href="home-es.html">
+        <a href="home.html.es">
           <img src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
         </a>
       </div>
@@ -27,32 +27,32 @@
             </a>
             <ul class="submenu submenu--get-help">
               <li>
-                <a href="get-help-detention-es.html">Para Personas que Enfrentan la Deportación</a>
+                <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
               </li>
               <li>
-                <a href="get-help-other-es.html">Con Otras Cuestiones Migratorias</a>
+                <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
               </li>
             </ul>
           </li>
           <li class="navigation--dropdown navigation__donate">
-            <a class="button--link" href="donate-es.html">Donar</a>
+            <a class="button--link" href="donate.html.es">Donar</a>
             <ul class="submenu submenu--donate">
               <li>
-                <a href="what-we-do-es.html">Qué Hacemos</a>
+                <a href="what-we-do.html.es">Qué Hacemos</a>
               </li>
               <li>
-                <a href="sponsors-es.html">Patrocinadores</a>
+                <a href="sponsors.html.es">Patrocinadores</a>
               </li>
               <li>
-                <a href="contribution-es.html">Su Contribución</a>
+                <a href="contribution.html.es">Su Contribución</a>
               </li>
             </ul>
           </li>
           <li class="navigation__volunteer">
-            <a class="button--link" href="volunteer-es.html">Ser Voluntarix</a>
+            <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
             <ul class="submenu submenu--volunteer">
               <li>
-                <a href="volunteer-committees-es.html">Comités de Voluntarixs</a>
+                <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
               </li>
             </ul>
           </li>
@@ -69,8 +69,8 @@
           </div>
           <div class="introduction__link">
             <a class="button" href="home.html">Read in English</a>
-            <a class="button button--inverse" href="get-help-detention-es.html">Obtenga Ayuda</a>
-            <a class="button button--inverse" href="donate-es.html">Donar</a>
+            <a class="button button--inverse" href="get-help-detention.html.es">Obtenga Ayuda</a>
+            <a class="button button--inverse" href="donate.html.es">Donar</a>
           </div>
         </div>
       </div>
@@ -88,7 +88,7 @@
           <div class="heading__text">
             <p>Pueblo Unido es una organización sin fines de lucro que apoya a miembros de la comunidad en la zona metropolitana de Portland que luchan en contra de la deportación. Conectamos a nuestrxs clientes con representación legal adecuada y ayudamos a reunir evidencia para fortalecer los casos y evitar la deportación.
             </p>
-            <a class="button" href="volunteer-es.html">Involucrarse</a>
+            <a class="button" href="volunteer.html.es">Involucrarse</a>
           </div>
         </div>
         <div class="col-md-5 align-middle">
@@ -108,7 +108,7 @@
             <p>Pueblo Unido brinda ayuda a inmigrantes, que están actualmente enfrentando un proceso judicial de deportación, a navegar los servicios legales y exigir una buena representación legal. Las personas que NO están actualmente enfrentando un proceso judicial pueden contactar a Pueblo Unido para recibir una lista de organizaciones sin fines de lucro en Portland que tal vez puedan ser de ayuda.
             </p>
             <p>¿No sabe si está en proceso de deportación o no?</p>
-            <a class="button" href="get-help-detention-es.html">Enfrentando Deportación</a>
+            <a class="button" href="get-help-detention.html.es">Enfrentando Deportación</a>
           </div>
           <div class="need-help__text">
             <p>*Aviso de responsabilidad*: Pueblo Unido PDX <u>no</u> es un despacho de abogados; <u>no somos</u> abogados y <u>no</u> ofrecemos consejos legales. En cambio, ayudamos a conectar clientes con abogados de inmigración con experiencia y les damos seguimiento para asegurarnos que reciban la información y el apoyo que necesitan.</p>
@@ -139,7 +139,7 @@
       <h2>Donación</h2>
       <div class="horizontal-line"></div>
       <p>Haga una donación para ayudar a mantener a familias juntas, apoyar los derechos de lxos inmigrantes, y construir comunidades fuertes.</p>
-      <a class="button button--inverse" href="donate-es.html">Donar</a>
+      <a class="button button--inverse" href="donate.html.es">Donar</a>
     </div>
   </section>
 </body>
@@ -151,32 +151,32 @@
           <a>Obtenga Ayuda</a>
           <ul class="footer__links">
             <li>
-              <a href="get-help-detention-es.html">Para Personas que Enfrentan la Deportación</a>
+              <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
             </li>
             <li>
-              <a href="get-help-other-es.html">Con Otras Cuestiones Migratorias</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="donate-es-es.html">Donar</a>
-          <ul class="footer__links">
-            <li>
-              <a href="what-we-do-es.html">Qué hacemos</a>
-            </li>
-            <li>
-              <a href="sponsors-es.html">Patrocinadores</a>
-            </li>
-            <li>
-              <a href="contribution-es.html">Su Contribución</a>
+              <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
             </li>
           </ul>
         </li>
         <li>
-          <a href="volunteer-es.html">Ser Voluntarix</a>
+          <a href="donate.html.es">Donar</a>
           <ul class="footer__links">
             <li>
-              <a href="volunteer-committees-es.html">Comités de Voluntarixs</a>
+              <a href="what-we-do.html.es">Qué hacemos</a>
+            </li>
+            <li>
+              <a href="sponsors.html.es">Patrocinadores</a>
+            </li>
+            <li>
+              <a href="contribution.html.es">Su Contribución</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="volunteer.html.es">Ser Voluntarix</a>
+          <ul class="footer__links">
+            <li>
+              <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
             </li>
           </ul>
         </li>

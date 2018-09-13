@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Sponsors</title>
+  <title>Donate - Pueblo Unido PDX</title>
   <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
   <link href="https://fonts.googleapis.com/css?family=Barlow:400" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -14,7 +14,7 @@
   <header class="navigation">
     <div class="navigation-row">
       <div class="navigation-row--left">
-        <a href="home-es.html">
+        <a href="home.html.es">
           <img src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
         </a>
       </div>
@@ -26,92 +26,86 @@
             </a>
             <ul class="submenu submenu--get-help">
               <li>
-                <a href="get-help-detention-es.html">Para Personas que Enfrentan la Deportación</a>
+                <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
               </li>
               <li>
-                <a href="get-help-other-es.html">Con Otras Cuestiones Migratorias</a>
+                <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
               </li>
             </ul>
           </li>
           <li class="navigation--dropdown navigation__donate">
-            <a class="button--link" href="donate-es.html">Donar</a>
+            <a class="button--link" href="donate.html.es">Donar</a>
             <ul class="submenu submenu--donate">
               <li>
-                <a href="what-we-do-es.html">Qué Hacemos</a>
+                <a href="what-we-do.html.es">Qué Hacemos</a>
               </li>
               <li>
-                <a href="sponsors-es.html">Patrocinadores</a>
+                <a href="sponsors.html.es">Patrocinadores</a>
               </li>
               <li>
-                <a href="contribution-es.html">Su Contribución</a>
+                <a href="contribution.html.es">Su Contribución</a>
               </li>
             </ul>
           </li>
           <li class="navigation__volunteer">
-            <a class="button--link" href="volunteer-es.html">Ser Voluntarix</a>
+            <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
             <ul class="submenu submenu--volunteer">
               <li>
-                <a href="volunteer-committees-es.html">Comités de Voluntarixs</a>
+                <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
               </li>
             </ul>
           </li>
       </div>
     </div>
   </header>
-  <section class="introduction introduction--sponsors">
+  <section class="introduction introduction--volunteer">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="introduction__text">
-            <h1>Patrocinadores</h1>
-          </div>
-          <div class="introduction__link">
-            <a class="button" href="donate-es-es.html">Donar</a>
+            <h1>Donar</h1>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <section class="heading heading--sponsors">
+  <section class="heading heading--donate">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="heading__subheadline">
-            <h2>Donar (Patrocinadores)</h2>
+            <h2>Cómo donar</h2>
             <div class="horizontal-line"></div>
           </div>
-          <br>
-          <div class="container">
-            <div class="row">
-              <div class="col-md-12">
-                <br />
-                <ul>
-                  <li>
-                    <a href="http://communitydevpartners.com/">
-                      Community Development Partners ($1000)
-                    </a>
-                  </li>
-                  <li>
-                    <a href="http://www.reassociation.org/">
-                    Reynolds Education Association ($1000)
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://pickettdummigan.com/">
-                      Pickett Dummigan McCall ($1000)
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://www.facebook.com/EastCountyRising/">
-                      Eddy Morales / East County Rising ($1000)
-                    </a>
-                  </li>
-                  <li>
-                    <a href="http://pdximmigration.com/">
-                      Portland Immigration Law ($500)
-                    </a>
-                  </li>
-                </ul>
+          <br />
+          <div class="donate__methods">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12">
+                  <h3>Cheque</h3>
+                  <p>Haga el cheque a nombre de Pueblo Unido PDX y envíelo a:<br>
+                  17405 NE Glisan Street<br>
+                  Portland, OR<br>
+                  97230</p>
+                  <br>
+                </div>
+                <div class="col-md-12">
+                  <h3>PayPal</h3>
+                  <!-- PayPal Link -->
+                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                    <input type="hidden" name="cmd" value="_s-xclick">
+                    <input type="hidden" name="hosted_button_id" value="M7CDSCTVMKP74">
+                    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                  </form>
+                  <br>
+                </div>
+                <div class="col-md-12">
+                  <h3>Venmo</h3>
+                  <a href="https://venmo.com/pueblounido-pdx" target="blank">
+                    @PuebloUnido-PDX
+                  </a>
+                </div>
               </div>
             </div>
           </div>
@@ -128,32 +122,32 @@
           <a>Obtenga Ayuda</a>
           <ul class="footer__links">
             <li>
-              <a href="get-help-detention-es.html">Para Personas que Enfrentan la Deportación</a>
+              <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
             </li>
             <li>
-              <a href="get-help-other-es.html">Con Otras Cuestiones Migratorias</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="donate-es-es.html">Donar</a>
-          <ul class="footer__links">
-            <li>
-              <a href="what-we-do-es.html">Qué hacemos</a>
-            </li>
-            <li>
-              <a href="sponsors-es.html">Patrocinadores</a>
-            </li>
-            <li>
-              <a href="contribution-es.html">Su Contribución</a>
+              <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
             </li>
           </ul>
         </li>
         <li>
-          <a href="volunteer-es-es.html">Ser Voluntarix</a>
+          <a href="donate.html.es">Donar</a>
           <ul class="footer__links">
             <li>
-              <a href="volunteer-committees-es.html">Comités de Voluntarixs</a>
+              <a href="what-we-do.html.es">Qué hacemos</a>
+            </li>
+            <li>
+              <a href="sponsors.html.es">Patrocinadores</a>
+            </li>
+            <li>
+              <a href="contribution.html.es">Su Contribución</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="volunteer.html.es">Ser Voluntarix</a>
+          <ul class="footer__links">
+            <li>
+              <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
             </li>
           </ul>
         </li>
