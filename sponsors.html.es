@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>What We Do - Pueblo Unido PDX</title>
+  <title>Sponsors</title>
   <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
   <link href="https://fonts.googleapis.com/css?family=Barlow:400" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -14,7 +14,7 @@
   <header class="navigation">
     <div class="navigation-row">
       <div class="navigation-row--left">
-        <a href="home-es.html">
+        <a href="home.html.es">
           <img src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
         </a>
       </div>
@@ -26,94 +26,97 @@
             </a>
             <ul class="submenu submenu--get-help">
               <li>
-                <a href="get-help-detention-es.html">Para Personas que Enfrentan la Deportación</a>
+                <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
               </li>
               <li>
-                <a href="get-help-other-es.html">Con Otras Cuestiones Migratorias</a>
+                <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
               </li>
             </ul>
           </li>
           <li class="navigation--dropdown navigation__donate">
-            <a class="button--link" href="donate-es.html">Donar</a>
+            <a class="button--link" href="donate.html.es">Donar</a>
             <ul class="submenu submenu--donate">
               <li>
-                <a href="what-we-do-es.html">Qué Hacemos</a>
+                <a href="what-we-do.html.es">Qué Hacemos</a>
               </li>
               <li>
-                <a href="sponsors-es.html">Patrocinadores</a>
+                <a href="sponsors.html.es">Patrocinadores</a>
               </li>
               <li>
-                <a href="contribution-es.html">Su Contribución</a>
+                <a href="contribution.html.es">Su Contribución</a>
               </li>
             </ul>
           </li>
           <li class="navigation__volunteer">
-            <a class="button--link" href="volunteer-es.html">Ser Voluntarix</a>
+            <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
             <ul class="submenu submenu--volunteer">
               <li>
-                <a href="volunteer-committees-es.html">Comités de Voluntarixs</a>
+                <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
               </li>
             </ul>
           </li>
       </div>
     </div>
   </header>
-  <section class="introduction introduction--what-we-do">
+  <section class="introduction introduction--sponsors">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="introduction__text">
-            <h1>Qué hacemos</h1>
+            <h1>Patrocinadores</h1>
+          </div>
+          <div class="introduction__link">
+            <a class="button" href="donate-es.html.es">Donar</a>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <section class="heading heading--donate">
+  <section class="heading heading--sponsors">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="heading__subheadline">
-            <h2>Qué hacemos</h2>
+            <h2>Donar (Patrocinadores)</h2>
             <div class="horizontal-line"></div>
           </div>
-          <br />
-          <p>Pueblo Unido brinda ayuda a inmigrantes que están actualmente
-          enfrentando un proceso judicial de deportación a navegar los servicios
-          legales y exigir una representación eficaz. Conectamos a nuestrxs
-          clientes con representación legal adecuada y ayudamos a recopilar
-          evidencia para fortalecer los casos contra la deportación. Desde que
-          se formó Pueblo Unido en abril de 2017, <strong>cinco de nuestrxs
-          clientes han sido liberadxs de la detención y reunidxs con sus
-          familias.</strong></p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12">
-          <div class="heading__subheadline">
-            <h2>Por qué es importante la representación legal</h2>
-            <div class="horizontal-line"></div>
+          <br>
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <br />
+                <ul>
+                  <li>
+                    <a href="http://communitydevpartners.com/">
+                      Community Development Partners ($1000)
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://www.reassociation.org/">
+                    Reynolds Education Association ($1000)
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://pickettdummigan.com/">
+                      Pickett Dummigan McCall ($1000)
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.facebook.com/EastCountyRising/">
+                      Eddy Morales / East County Rising ($1000)
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://pdximmigration.com/">
+                      Portland Immigration Law ($500)
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
-          <br />
-          <p>La representación legal es el
-            <a href="https://innovationlawlab.org/blog/2018/05/12/defend-everyone/">
-              factor que más influye</a> en si una persona podrá evitar ser
-              deportada, asegurar un estatus migratorio más estable, y lograr el
-              derecho a permanecer en su comunidad. Sin embargo, dado que los
-              casos de inmigración se remiten a la corte civil y no a la
-              criminal, el gobierno no ofrece la representación de unx abogadx a
-              las personas que no tienen los recursos para hacerlo. El resultado
-              es que la mayoría de las personas que enfrentan la deportación se
-              ven obligadas a representarse a sí mismas, y como consecuencia, es
-              menos probable que ganen sus casos contra la deportación. Pueblo
-              Unido se formó en abril de 2017 en respuesta a esta injusticia y
-              para mantener unidas a las familias y comunidades.</p>
         </div>
       </div>
-    </div>
-
-    </div>
-    </div>
     </div>
   </section>
 </body>
@@ -125,32 +128,32 @@
           <a>Obtenga Ayuda</a>
           <ul class="footer__links">
             <li>
-              <a href="get-help-detention-es.html">Para Personas que Enfrentan la Deportación</a>
+              <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
             </li>
             <li>
-              <a href="get-help-other-es.html">Con Otras Cuestiones Migratorias</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="donate-es-es.html">Donar</a>
-          <ul class="footer__links">
-            <li>
-              <a href="what-we-do-es.html">Qué hacemos</a>
-            </li>
-            <li>
-              <a href="sponsors-es.html">Patrocinadores</a>
-            </li>
-            <li>
-              <a href="contribution-es.html">Su Contribución</a>
+              <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
             </li>
           </ul>
         </li>
         <li>
-          <a href="volunteer-es-es.html">Ser Voluntarix</a>
+          <a href="donate.html.es">Donar</a>
           <ul class="footer__links">
             <li>
-              <a href="volunteer-committees-es.html">Comités de Voluntarixs</a>
+              <a href="what-we-do.html.es">Qué hacemos</a>
+            </li>
+            <li>
+              <a href="sponsors.html.es">Patrocinadores</a>
+            </li>
+            <li>
+              <a href="contribution.html.es">Su Contribución</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="volunteer.html.es">Ser Voluntarix</a>
+          <ul class="footer__links">
+            <li>
+              <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
             </li>
           </ul>
         </li>
