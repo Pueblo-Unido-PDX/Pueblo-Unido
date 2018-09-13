@@ -63,8 +63,8 @@
       <div class="row">
         <div class="col-md-12">
           <div class="introduction__text">
-            <h1>Get Help</h1>
-            <p>For other immigration cases cases</p>
+            <h1>Obtenga Ayuda</h1>
+            <p>Con otras cuestiones migratorias</p>
           </div>
         </div>
       </div>
@@ -79,47 +79,72 @@
             <div class="horizontal-line"></div>
           </div>
           <br />
-          <p>Visit <a href="https://oregonimmigrationresource.org/resources/">Oregon Immigration Resource</a> for informational materials and resources related to the following topics:</p>
+          <p>Visite a
+          <a href="https://oregonimmigrationresource.org/resources/">Oregon
+          Immigration Resource</a> para encontrar más materiales informativos y
+          recursos relacionados con los siguientes temas:</p>
           <ul>
-            <li>Know Your Rights (for individuals, workers, educators, employers, health care providers)</li>
-            <li>Deportations and ICE activity (rapid response tips mid-arrest)</li>
-            <li>Family preparedness plan</li>
-            <li>Prevent fraud </li>
-            <li>Finding legal help (nonprofit legal services directory and accredited lawyer search)</li>
-            <li>Request a community meeting</li>
-            <li>Community and Cultural Resources (211 info and MultCo Cultural Services Directory)</li>
+            <li>Conocer sus derechos (para individuos, trabajadores, educadores,
+              empleadores, proveedores de cuidado de salud)</li>
+            <li>Deportaciones y actividades de ICE/Inmigración y Control de
+            Aduanas (consejos para reaccionar rápido durante un arresto)</li>
+            <li>Plan de preparación familiar</li>
+            <li>Prevención de fraude</li>
+            <li>Encontrar ayuda legal (directorio de servicios legales sin fines
+              de lucro y búsqueda de abogadxs acreditadxs)</li>
+            <li>Solicitar una reunión de la comunidad</li>
+            <li>Recursos culturales y de la comunidad (211 Info y Directorio de
+              servicios culturales del condado de Multnomah)</li>
           </ul>
         </div>
       </div>
       <div class="row">
         <div class="col-md-12">
           <div class="heading__subheadline">
-            <h2>Nonprofit Immigration Legal Service Providers in Portland Metro</h2>
+            <h2>Proveedores de servicios legales de inmigración sin fines de
+            lucro en la zona de Portland</h2>
             <div class="horizontal-line"></div>
           </div>
           <br />
-          <p>Nonprofit legal service providers in the Portland metro area offer support services for a variety of non-removal immigration issues at reduced/no-cost on a case-by-case basis. Some examples include:</p>
+          <p>NLos proveedores de servicios legales sin fines de lucro en la zona
+          metropolitana de Portland ofrecen servicios de apoyo para una variedad
+          de cuestiones de inmigración no relacionadas con la deportación a bajo
+          costo o sin costo dependiendo del caso. Algunos ejemplos incluyen:</p>
           <ul>
-            <li>Support for LGBTQ immigrants</li>
-            <li>Know Your Rights information</li>
-            <li>Lawful Permanent Residency (Green Card)</li>
-            <li>Family-Based Applications and Visas</li>
-            <li>Employment Authorization</li>
-            <li>Deferred Action for Childhood Arrivals (DACA)</li>
-            <li>Naturalization and Citizenship</li>
-            <li>ESL Classes</li>
-            <li>Temporary Protected Status (TPS)</li>
-            <li>Visa for crime victims (U visa)</li>
-            <li>Survivors of human trafficking (T visa)</li>
-            <li>Survivors of domestic violence, sexual assault, child sexual abuse (VAWA)</li>
-            <li>Passport and Travel Documents (refugee travel documents, re-entry permits)</li>
-            <li>Diversity Lottery</li>
-            <li>Translation and Notary Services</li>
+            <li>Apoyo para inmigrantes LGBTTI (LGBTQ)</li>
+            <li>Información para conocer sus derechos</li>
+            <li>Residencia permanente legal (Tarjeta Verde)</li>
+            <li>Solicitudes y visas basadas en la familia</li>
+            <li>Autorización de empleo</li>
+            <li>Acción diferida para lxs que llegaron al país cuando eran niñxs
+            (DACA)</li>
+            <li>Naturalización y ciudadanía</li>
+            <li>Clases de ciudadanía e inglés como segundo idioma</li>
+            <li>Estatus de amparo temporal (TPS)</li>
+            <li>Visa para víctimas de un crimen (Visa U)</li>
+            <li>Sobrevivientes de tráfico humano (Visa T)</li>
+            <li>Sobrevivientes de violencia doméstica, agresión sexual, abuso
+            sexual de menores (VAWA)</li>
+            <li>Documentos para pasaporte y para viajar (documentos para viajar
+              para refugiados, permiso para volver a ingresar al país)</li>
+            <li>Programa de visas de diversidad/lotería de visas</li>
+            <li>Servicios de traducción y de notario público</li>
           </ul>
-          <p><em>Please Note</em>: Nonprofit organizations typically have limited capacity and may not be able to respond to your request or take on your case.</p>
-          <p>If you would like a referral to a nonprofit legal service organization in the Portland metro area, please contact us. Contact: 503-912-8925; <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a></p>
-          <p>*<em>Disclaimer</em>*: Pueblo Unido PDX is <em>not</em> a law firm; we are <em>not</em> attorneys and we <em>do not</em> offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they
-            receive the advice they are seeking.</p>
+          <p><em>PPor favor tome en cuenta</em>: Las organizaciones sin fines de
+          lucro suelen tener una capacidad limitada  y tal vez no podrán
+          responder a su solicitud o hacerse cargo de su caso.</p>
+          <p>Si le gustaría recibir una recomendación acerca de una organización
+          sin fines de lucro que ofrece servicios legales en la zona
+          metropolitana de Portland, por favor póngase en contacto con
+          nosotroxs. Llame al503-912-8925 o escriba a
+          <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
+          </p>
+          <p>*<em>Aviso de responsabilidad</em>*: Pueblo Unido PDX
+          <strong>no</strong> es un despacho de abogados;
+          <strong>no somos</strong> abogados y <strong>no</strong> ofrecemos
+          ningún consejo legal. En cambio, ayudamos a conectar clientes con
+          abogados de inmigración con experiencia y les damos seguimiento para
+          asegurarnos que reciban los consejos que buscan.</p>
         </div>
       </div>
     </div>

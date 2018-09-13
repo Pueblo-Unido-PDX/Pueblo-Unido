@@ -75,45 +75,55 @@
       <div class="row">
         <div class="col-md-12">
           <div class="heading__subheadline">
-            <h2>At Risk of Deportation?</h2>
+            <h2>¿En riesgo de deportación?</h2>
             <div class="horizontal-line"></div>
           </div>
           <br />
-          <p>If you are currently detained or facing removal proceedings in the Pacific NW, please contact us. We help people navigate immigration legal services, advocate for effective representation, and support evidence-gathering to strengthen cases against
-            deportation. We
-            <strong>do not</strong> charge for our support services.</p>
-          <p>Contact: 503-912-8925;
+          <p>Si está actualmente detenidx o enfrentando procesos judiciales de
+          deportación en el noroeste pacífico, por favor comuníquese con
+          nosotrxs. Ayudamos a navegar los servicios legales de inmigración,
+          exigir buena representación, y ayudamos a reunir evidencia para
+          fortalecer los casos contra la deportación.
+          <strong>No cobramos</strong> por nuestros servicios de apoyo.</p>
+          <p>Llame o escriba al: 503-912-8925;
             <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
           </p>
-          <p>*Disclaimer*: Pueblo Unido PDX is <em>not</em> a law firm; we are <em>not</em> attorneys and we <em>do not</em> offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they receive
-            the advice they are seeking.</p>
+          <p>*Aviso de responsabilidad*: Pueblo Unido PDX <strong>no</strong> es
+          un despacho de abogados; <strong>no somos</strong> abogados y
+          <strong>no</strong> ofrecemos ningún consejo legal. En cambio,
+          ayudamos a conectar clientes con abogados de inmigración con
+          experiencia y les damos seguimiento para asegurarnos que reciban los
+          consejos que buscan.</p>
         </div>
       </div>
       <div class="row">
         <div class="col-md-12">
           <div class="heading__subheadline">
-            <h2>Support for Those Facing Removal</h2>
+            <h2>Apoyo para personas que enfrentan la deportación</h2>
             <div class="horizontal-line"></div>
           </div>
           <br>
-          <p>If you are <strong>facing deportation and would like legal aid with
-             removal defense</strong>, you can:</p>
+          <p>Si está <strong>enfrentando deportación y quiere obtener asistencia
+          legal</strong>, puede:</p>
           <ol>
-            <li>Hire a private immigration attorney to represent you;</li>
-            <li>Request that a nonprofit legal service provider take on your
-              case at a reduced cost (compared to private representation);</li>
-            <li>Seek informational materials created for pro se respondents
-              (those that represent themselves in immigration court) and guides
-              for relatives of detained immigrants. *Please note*: These
-              publications are meant to provide useful basic information about
-              immigration law and detention center protocols. Under no
-              circumstances do they constitute legal advice.
-</li>
+            <li>Contratar a unx abogadx de inmigración privadx</li>
+            <li>Solicitar que un proveedor de servicios legales sin fines de
+            lucro se haga cargo de tu caso por un costo reducido (comparado con
+              la representación privada)</li>
+            <li>Buscar materiales informativos creados para lxs “comparecientes
+            pro se” (lxs que se representan a sí mismxs en la corte de
+              inmigración) y guías para los parientes de inmigrantes detenidxs.
+              *Por favor tome en cuenta*: Estas publicaciones tienen el fin de
+              brindar información básica y útil sobre las leyes de inmigración y
+              los protocolos de los centros de detención. Bajo ningunas
+              circunstancias se consideran consejos legales.
+              </li>
           </ol>
-          <p>If you or someone you know would like support in searching for a
-            removal defense attorney, nonprofit legal service provider, or
-            informational materials for detained immigrants and their relatives,
-             contact us at 503-912-8925 or
+          <p>Si le gustaría recibir apoyo en su búsqueda por unx abogadx de
+          defensa contra la deportación, un proveedor de servicios legales sin
+          fines de lucro, o materiales informativos para inmigrantes detenidxs y
+          sus parientes, póngase en contacto con nosotrxs llamando al
+          503-912-8925 o escribiendo a
              <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com.
              </a>
           </p>

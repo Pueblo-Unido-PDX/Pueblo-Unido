@@ -74,7 +74,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="heading__subheadline">
-            <h2>How to Donate</h2>
+            <h2>Cómo donar</h2>
             <div class="horizontal-line"></div>
           </div>
           <br />
@@ -82,8 +82,8 @@
             <div class="container">
               <div class="row">
                 <div class="col-md-12">
-                  <h3>Check</h3>
-                  <p>Make check payable to Pueblo Unido PDX, and mail to:<br>
+                  <h3>Cheque</h3>
+                  <p>Haga el cheque a nombre de Pueblo Unido PDX y envíelo a:<br>
                   17405 NE Glisan Street<br>
                   Portland, OR<br>
                   97230</p>
