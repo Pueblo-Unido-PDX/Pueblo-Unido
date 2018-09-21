@@ -11,53 +11,53 @@
 </head>
 
 <body>
-  <header class="navigation">
-    <div class="navigation-row">
-      <div class="navigation-row--left">
-        <a href="home.html.es">
-          <img src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
-        </a>
-      </div>
-      <div class="navigation-row--right">
-        <ul class="navigation__link-group">
-          <li class="navigation--dropdown navigation__get-help">
-            <a class="button--link">
-              Obtenga Ayuda
-            </a>
-            <ul class="submenu submenu--get-help">
-              <li>
-                <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
-              </li>
-              <li>
-                <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
-              </li>
-            </ul>
-          </li>
-          <li class="navigation--dropdown navigation__donate">
-            <a class="button--link" href="donate.html.es">Donar</a>
-            <ul class="submenu submenu--donate">
-              <li>
-                <a href="what-we-do.html.es">Qué Hacemos</a>
-              </li>
-              <li>
-                <a href="sponsors.html.es">Patrocinadores</a>
-              </li>
-              <li>
-                <a href="contribution.html.es">Su Contribución</a>
-              </li>
-            </ul>
-          </li>
-          <li class="navigation__volunteer">
-            <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
-            <ul class="submenu submenu--volunteer">
-              <li>
-                <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
-              </li>
-            </ul>
-          </li>
-      </div>
+<header class="navigation">
+  <div class="navigation-row">
+    <div class="navigation-row--left">
+      <a href="home.html.es">
+        <img src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
+      </a>
     </div>
-  </header>
+    <div class="navigation-row--right">
+      <ul class="navigation__link-group">
+        <li class="navigation--dropdown navigation__get-help">
+          <a class="button--link">
+            Obtenga Ayuda
+          </a>
+          <ul class="submenu submenu--get-help">
+            <li>
+              <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
+            </li>
+            <li>
+              <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
+            </li>
+          </ul>
+        </li>
+        <li class="navigation--dropdown navigation__donate">
+          <a class="button--link" href="donate.html.es">Donar</a>
+          <ul class="submenu submenu--donate">
+            <li>
+              <a href="what-we-do.html.es">Qué Hacemos</a>
+            </li>
+            <li>
+              <a href="sponsors.html.es">Patrocinadores</a>
+            </li>
+          </ul>
+        </li>
+        <li class="navigation__volunteer">
+          <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
+          <ul class="submenu submenu--volunteer">
+            <li>
+              <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
+            </li>
+          </ul>
+        </li>
+        <li class="navigation__about">
+          <a class="button--link" href="about.html.es">Sobre Nosotros</a>
+        </li>
+    </div>
+  </div>
+</header>
   <section class="introduction introduction--get-help-other">
     <div class="container">
       <div class="row">
