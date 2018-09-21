@@ -79,7 +79,7 @@
   <section class="heading">
     <div class="container">
       <div class="row">
-        <div class="col-md-7 align-middle">
+        <div class="col-md-7">
           <div class="heading__subheadline">
             <h2>¿Qué es Pueblo Unido?</h2>
             <div class="horizontal-line">

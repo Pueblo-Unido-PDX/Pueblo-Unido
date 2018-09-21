@@ -334,14 +334,14 @@ li {
   border-radius: 25px;
 }
 
-.need-help__subheadline h2, .need-help__subheadline .horizontal-line, .need-help__text {
-  text-align: center;
-  float: none;
+.need-help__subheadline {
+  margin-bottom: 30px;
 }
 
 .need-help__text {
-  width: 50%;
-  margin: 0 auto;
+  width: 80%;
+  text-align: left;
+  float: left;
 }
 
 .need-help__text:last-of-type {
@@ -707,7 +707,7 @@ li {
   }
 
   .footer {
-    padding: 0 1em;
+    padding: 2em 1em;
   }
 
   .footer__link-row {
