@@ -65,9 +65,6 @@
           <div class="introduction__text">
             <h1>Ser Voluntarix</h1>
           </div>
-          <div class="introduction__link">
-            <a class="button" href="donate.html.es">Donate</a>
-          </div>
         </div>
       </div>
     </div>

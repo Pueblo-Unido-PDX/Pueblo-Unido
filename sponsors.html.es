@@ -65,9 +65,6 @@
           <div class="introduction__text">
             <h1>Patrocinadores</h1>
           </div>
-          <div class="introduction__link">
-            <a class="button" href="donate-es.html.es">Donar</a>
-          </div>
         </div>
       </div>
     </div>
