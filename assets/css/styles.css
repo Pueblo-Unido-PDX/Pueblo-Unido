@@ -234,6 +234,11 @@ li {
   background-size: cover;
 }
 
+.introduction--donate {
+  background: url("../images/pu-images/png/backgrounds/holding-sign.png");
+  background-size: cover;
+}
+
 .introduction--about {
   background: url("../images/pu-images/png/backgrounds/cam-addressing-crowd.png");
   background-size: cover;
@@ -319,6 +324,12 @@ li {
   padding: 1em 0;
 }
 
+.heading--donate .col-md-12 img {
+  width: 60%;
+  text-align: center;
+  border-radius: 10px;
+}
+
 .heading__text {
   padding: 2em 0;
   width: 100%;
@@ -330,7 +341,7 @@ li {
 }
 
 .heading__image img {
-  width: 90%;
+  width: 100%;
   border-radius: 25px;
 }
 

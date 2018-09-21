@@ -58,7 +58,7 @@
     </div>
   </div>
 </header>
-  <section class="introduction introduction--volunteer">
+  <section class="introduction introduction--donate">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
