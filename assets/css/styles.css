@@ -56,7 +56,7 @@ li {
 
 .navigation-row {
   width: 100%;
-  height: 80px;
+  height: 110px;
   margin: 0 auto;
   display: table;
   padding: 0 6em;
@@ -80,7 +80,7 @@ li {
 }
 
 .navigation-row img {
-  width: 140px;
+  width: 180px;
 }
 
 .navigation-row i {
@@ -675,7 +675,7 @@ li {
 
   .introduction {
     height: 60vh;
-    padding: 6em 1em;
+    padding: 9em 1em;
   }
 
   .introduction__text {
@@ -696,6 +696,14 @@ li {
 
   .heading {
     padding: 0 1.5em;
+  }
+
+  .button {
+    margin-right: 0;
+  }
+
+  .need-help__text {
+    width: 100%;
   }
 
   .footer {

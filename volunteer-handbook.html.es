@@ -65,6 +65,9 @@
           <div class="introduction__text">
             <h1>Donate</h1>
           </div>
+          <div class="introduction__link">
+            <a class="button" href="volunteer-handbook.html">Read in English</a>
+          </div>
         </div>
       </div>
     </div>

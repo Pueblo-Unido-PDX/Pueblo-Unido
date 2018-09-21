@@ -66,6 +66,9 @@
             <h1>Obtenga Ayuda</h1>
             <p>Para Personas que Enfrentan la Deportación</p>
           </div>
+          <div class="introduction__link">
+            <a class="button" href="get-help-detention.html">Read in English</a>
+          </div>
         </div>
       </div>
     </div>

@@ -66,6 +66,9 @@
             <h1>Obtenga Ayuda</h1>
             <p>Con otras cuestiones migratorias</p>
           </div>
+          <div class="introduction__link">
+            <a class="button" href="get-help-other.html">Read in English</a>
+          </div>
         </div>
       </div>
     </div>
