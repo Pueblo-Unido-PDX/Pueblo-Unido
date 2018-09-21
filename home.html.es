@@ -22,9 +22,9 @@
     <div class="navigation-row--right">
       <ul class="navigation__link-group">
         <li class="navigation--dropdown navigation__get-help">
-          <a class="button--link">
-            Obtenga Ayuda
-          </a>
+        <a class="button--link" href="get-help-detention.html.es">
+          Obtenga Ayuda
+        </a>
           <ul class="submenu submenu--get-help">
             <li>
               <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
