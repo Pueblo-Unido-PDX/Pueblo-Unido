@@ -97,6 +97,8 @@
             <a href="mailto:pueblounidopdx@gmail.com">email</a> o
             <a href="https://www.facebook.com/pueblounidopdx">Facebook</a>.
           </p>
+          <br>
+          <a class="button" href="volunteer-committees.html.es">Comités de Voluntarixs</a>
         </div>
       </div>
     </div>

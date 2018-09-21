@@ -63,7 +63,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="introduction__text">
-            <h1>Comités de voluntarixs</h1>
+            <h1>Comités de Voluntarixs</h1>
           </div>
         </div>
       </div>
