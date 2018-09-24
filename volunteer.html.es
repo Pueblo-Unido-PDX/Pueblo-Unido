@@ -110,41 +110,19 @@
 <footer>
   <section class="footer">
     <div class="footer__link-row">
-      <ul class="footer__headings">
-        <li>
-          <a>Get Help</a>
-          <ul class="footer__links">
+      <div class="footer__headings">
+        <div>
+          <h4>Pueblo Unido PDX</h4>
+          <div class="footer__links">
             <li>
-              <a href="get-help-detention.html.es">For Detention / Removal Cases</a>
+              <p>17405 NE Glisan Street <br>
+                Portland, OR<br>
+                97230<br>
+              </p>
             </li>
-            <li>
-              <a href="get-help-other.html.es">For Other Immigration Issues</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="donate.html.es">Donate</a>
-          <ul class="footer__links">
-            <li>
-              <a href="what-we-do.html.es">What We Do</a>
-            </li>
-            <li>
-              <a href="sponsors.html.es">Sponsors</a>
-            </li>
-            <li>
-              <a href="contribution.html.es">Your Contribution</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="volunteer.html.es">Volunteer</a>
-          <ul class="footer__links">
-            <li>
-              <a href="volunteer-committees.html.es">Volunteer Committees</a>
-            </li>
-          </ul>
-        </li>
-      </ul>
+          </div>
+        </div>
+      </div>
     </div>
     <div class="footer__logo-row">
       <a class="button--icon" href="https://www.facebook.com/PuebloUnidoPDX" target="blank">

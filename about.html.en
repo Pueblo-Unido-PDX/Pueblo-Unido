@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>About - Pueblo Unido PDX</title>
+  <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
+  <link href="https://fonts.googleapis.com/css?family=Barlow:400" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+
+<body>
+  <header class="navigation">
+    <div class="navigation-row">
+      <div class="navigation-row--left">
+        <a href="home.html.en">
+          <img src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
+        </a>
+      </div>
+      <div class="navigation-row--right">
+        <ul class="navigation__link-group">
+          <li class="navigation--dropdown navigation__get-help">
+            <a class="button--link" href="get-help-detention.html.en">
+              Get Help
+            </a>
+            <ul class="submenu submenu--get-help">
+              <li>
+                <a href="get-help-detention.html.en">For Detention / Removal Cases</a>
+              </li>
+              <li>
+                <a href="get-help-other.html.en">For Other Immigration Issues</a>
+              </li>
+            </ul>
+          </li>
+          <li class="navigation--dropdown navigation__donate">
+            <a class="button--link" href="donate.html.en">Donate</a>
+            <ul class="submenu submenu--donate">
+              <li>
+                <a href="sponsors.html.en">Sponsors</a>
+              </li>
+            </ul>
+          </li>
+          <li class="navigation__volunteer">
+            <a class="button--link" href="volunteer.html.en">Volunteer</a>
+            <ul class="submenu submenu--volunteer">
+              <li>
+                <a href="volunteer-committees.html.en">Volunteer Committees</a>
+              </li>
+              <li>
+                <a href="volunteer-application.html.en">Apply Now</a>
+              </li>
+            </ul>
+          </li>
+          <li class="navigation__about">
+            <a class="button--link" href="about.html.en">About</a>
+          </li>
+      </div>
+    </div>
+  </header>
+  <section class="introduction introduction--about">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="introduction__text">
+            <h1>About</h1>
+          </div>
+          <div class="introduction__link">
+            <a class="button" href="about.html.es">Leer en Español</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="heading heading--donate">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-7 align-middle">
+          <div class="heading__subheadline">
+            <h2>What We Do</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <br />
+          <div class="heading__text">
+            <p>Pueblo Unido provides legal service navigation and client advocate
+              support for immigrants who are facing deportation. We connect
+              clients to adequate legal representation and help gather evidence to
+              strengthen cases against removal.  Since our formation in April
+              2017, five of our clients have been released from detention and
+              reunited with their families.</p>
+            </div>
+        </div>
+        <div class="col-md-5 align-middle">
+          <div class="heading__image">
+            <img src="./assets/images/pu-images/png/new/about-us.png" />
+          </div>
+        </div>
+      </div>
+      <br>
+      <br>
+      <br>
+      <div class="row">
+        <div class="col-md-7 align-middle">
+          <div class="heading__subheadline">
+            <h2>Why Legal Representation Matters</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <br />
+          <div class="heading__text">
+            <p>Legal representation is the
+              <a href="https://innovationlawlab.org/blog/2018/05/12/defend-everyone/">
+                single most predictive factor</a> in
+              whether a person will avoid deportation, secure more stable status,
+              and achieve the right to remain in their community. Because
+              immigration is civil—not criminal—court, however, the government
+              does not provide legal counsel to those who cannot afford to hire
+              their own. As a result, most people facing removal are forced to
+              represent themselves, and are ultimately less likely to prevail
+              against deportation. Pueblo Unido organized in April 2017 in
+              response to this injustice to keep families and our communities
+              together. </p>
+            </div>
+          </div>
+          <div class="col-md-5 align-middle">
+            <div class="heading__image">
+              <img src="./assets/images/pu-images/png/new/why-legal-representation.png" />
+            </div>
+          </div>
+      </div>
+    </div>
+
+    </div>
+    </div>
+    </div>
+  </section>
+</body>
+<footer>
+  <section class="footer">
+    <div class="footer__link-row">
+      <div class="footer__headings">
+        <div>
+          <h4>Pueblo Unido PDX</h4>
+          <div class="footer__links">
+            <li>
+              <p>17405 NE Glisan Street <br>
+                Portland, OR<br>
+                97230<br>
+              </p>
+            </li>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer__logo-row">
+      <a class="button--icon" href="https://www.facebook.com/PuebloUnidoPDX" target="blank">
+        <i class="fa fa-facebook-square" aria-hidden="true"></i>
+      </a>
+      <a class="button--icon" href="https://twitter.com/PuebloUnidoPDX" target="blank">
+        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+      </a>
+      <a class="button--icon" href="mailto:pueblounidopdx@gmail.com">
+        <i class="fa fa-envelope-square" aria-hidden="true"></i>
+      </a>
+    </div>
+  </section>
+</footer>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+
+</html>

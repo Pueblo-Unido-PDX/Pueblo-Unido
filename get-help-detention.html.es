@@ -140,41 +140,19 @@
 <footer>
   <section class="footer">
     <div class="footer__link-row">
-      <ul class="footer__headings">
-        <li>
-          <a>Obtenga Ayuda</a>
-          <ul class="footer__links">
+      <div class="footer__headings">
+        <div>
+          <h4>Pueblo Unido PDX</h4>
+          <div class="footer__links">
             <li>
-              <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
+              <p>17405 NE Glisan Street <br>
+                Portland, OR<br>
+                97230<br>
+              </p>
             </li>
-            <li>
-              <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="donate.html.es">Donar</a>
-          <ul class="footer__links">
-            <li>
-              <a href="what-we-do.html.es">Qué hacemos</a>
-            </li>
-            <li>
-              <a href="sponsors.html.es">Patrocinadores</a>
-            </li>
-            <li>
-              <a href="contribution.html.es">Su Contribución</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="volunteer.html.es">Ser Voluntarix</a>
-          <ul class="footer__links">
-            <li>
-              <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
-            </li>
-          </ul>
-        </li>
-      </ul>
+          </div>
+        </div>
+      </div>
     </div>
     <div class="footer__logo-row">
       <a class="button--icon" href="https://www.facebook.com/PuebloUnidoPDX" target="blank">
