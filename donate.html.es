@@ -108,7 +108,21 @@
                   <h3>Venmo</h3>
                   <a href="https://venmo.com/pueblounido-pdx" target="blank">
                     @PuebloUnido-PDX
+                  </a><p>&nbsp;</p>
+                </div>
+                <div class="col-md-12">
+                  <h3>Donate for Good</h3>
+                  <a href="https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=82-2488480" target="blank">
+                    <img src="./assets/images/donate/donate-now-logo.png" />
                   </a>
+                  <p>&nbsp;</p>
+                </div>
+                <div class="col-md-12">
+                  <h3>Amazon Smile</h3>
+                  <a href="https://smile.amazon.com/ch/82-2488480" target="blank">
+                    <img src="./assets/images/donate/amazon-smile.png" />
+                  </a>
+                  <p>&nbsp;</p>
                 </div>
               </div>
             </div>
