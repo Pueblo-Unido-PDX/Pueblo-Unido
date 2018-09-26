@@ -67,7 +67,7 @@
             <h1>Comités de Voluntarixs</h1>
           </div>
           <div class="introduction__link">
-            <a class="button" href="volunteer-committees.html">Read in English</a>
+            <a class="button" href="volunteer-committees.html.en">Read in English</a>
           </div>
         </div>
       </div>

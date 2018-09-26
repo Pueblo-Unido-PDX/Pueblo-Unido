@@ -67,7 +67,7 @@
             <h1>Sobre Nosotros</h1>
           </div>
           <div class="introduction__link">
-            <a class="button" href="about.html">Read in English</a>
+            <a class="button" href="about.html.en">Read in English</a>
           </div>
         </div>
       </div>

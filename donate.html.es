@@ -67,7 +67,7 @@
             <h1>Donar</h1>
           </div>
           <div class="introduction__link">
-            <a class="button" href="donate.html">Read in English</a>
+            <a class="button" href="donate.html.en">Read in English</a>
           </div>
         </div>
       </div>

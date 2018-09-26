@@ -68,7 +68,7 @@
             <p>Para Personas que Enfrentan la Deportación</p>
           </div>
           <div class="introduction__link">
-            <a class="button" href="get-help-detention.html">Read in English</a>
+            <a class="button" href="get-help-detention.html.en">Read in English</a>
           </div>
         </div>
       </div>

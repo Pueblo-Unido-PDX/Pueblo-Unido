@@ -69,7 +69,7 @@
             <p>Libertad y justicia para todxs.</p>
           </div>
           <div class="introduction__link">
-            <a class="button" href="home.html">Read in English</a>
+            <a class="button" href="home.html.en">Read in English</a>
             <a class="button button--inverse" href="get-help-detention.html.es">Obtenga Ayuda</a>
             <a class="button button--inverse" href="donate.html.es">Donar</a>
           </div>

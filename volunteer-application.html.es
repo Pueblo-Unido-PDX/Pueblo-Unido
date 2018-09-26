@@ -67,7 +67,7 @@
             <h1>Donate</h1>
           </div>
           <div class="introduction__link">
-            <a class="button" href="volunteer-application.html">Read in English</a>
+            <a class="button" href="volunteer-application.html.en">Read in English</a>
           </div>
         </div>
       </div>

@@ -67,7 +67,7 @@
             <h1>Ser Voluntarix</h1>
           </div>
           <div class="introduction__link">
-            <a class="button" href="volunteer.html">Read in English</a>
+            <a class="button" href="volunteer.html.en">Read in English</a>
           </div>
         </div>
       </div>
