@@ -49,9 +49,6 @@
               <li>
                 <a href="volunteer-committees.html.en">Volunteer Committees</a>
               </li>
-              <li>
-                <a href="volunteer-application.html.en">Apply Now</a>
-              </li>
             </ul>
           </li>
           <li class="navigation__about">
@@ -69,7 +66,7 @@
             <p>Libertad y justicia para todxs.</p>
           </div>
           <div class="introduction__link">
-            <a class="button" href="home.html.en">Leer en Español</a>
+            <a class="button" href="home.html.es">Leer en Español</a>
             <a class="button button--inverse" href="get-help-detention.html">Get Help</a>
             <a class="button button--inverse" href="donate.html">Donate</a>
           </div>

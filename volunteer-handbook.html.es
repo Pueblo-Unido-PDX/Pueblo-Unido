@@ -38,9 +38,6 @@
           <a class="button--link" href="donate.html.es">Donar</a>
           <ul class="submenu submenu--donate">
             <li>
-              <a href="what-we-do.html.es">Qué Hacemos</a>
-            </li>
-            <li>
               <a href="sponsors.html.es">Patrocinadores</a>
             </li>
           </ul>
@@ -67,7 +64,7 @@
             <h1>Donate</h1>
           </div>
           <div class="introduction__link">
-            <a class="button" href="volunteer-handbook.html">Read in English</a>
+            <a class="button" href="volunteer-handbook.html.en">Read in English</a>
           </div>
         </div>
       </div>

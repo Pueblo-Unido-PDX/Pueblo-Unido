@@ -22,9 +22,9 @@
     <div class="navigation-row--right">
       <ul class="navigation__link-group">
         <li class="navigation--dropdown navigation__get-help">
-          <a class="button--link" href="get-help-detention.html.es">
-            Obtenga Ayuda
-          </a>
+        <a class="button--link" href="get-help-detention.html.es">
+          Obtenga Ayuda
+        </a>
           <ul class="submenu submenu--get-help">
             <li>
               <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
@@ -37,9 +37,6 @@
         <li class="navigation--dropdown navigation__donate">
           <a class="button--link" href="donate.html.es">Donar</a>
           <ul class="submenu submenu--donate">
-            <li>
-              <a href="what-we-do.html.es">Qué Hacemos</a>
-            </li>
             <li>
               <a href="sponsors.html.es">Patrocinadores</a>
             </li>
@@ -59,7 +56,7 @@
     </div>
   </div>
 </header>
-  <section class="introduction introduction--what-we-do">
+  <section class="introduction introduction--about">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -67,7 +64,7 @@
             <h1>Sobre Nosotros</h1>
           </div>
           <div class="introduction__link">
-            <a class="button" href="about.html">Read in English</a>
+            <a class="button" href="about.html.en">Read in English</a>
           </div>
         </div>
       </div>
@@ -85,8 +82,8 @@
           <div class="heading__text">
             <p>Pueblo Unido brinda ayuda a inmigrantes que están actualmente
             enfrentando un proceso judicial de deportación a navegar los servicios
-            legales y exigir una representación eficaz. Conectamos a nuestrxs
-            clientes con representación legal adecuada y ayudamos a recopilar
+            legales y exigir una representación eficaz. Conectamxs a nuestrxs
+            clientes con representación legal adecuada y ayudamxs a recopilar
             evidencia para fortalecer los casos contra la deportación. Desde que
             se formó Pueblo Unido en abril de 2017, <strong>cinco de nuestrxs
             clientes han sido liberadxs de la detención y reunidxs con sus

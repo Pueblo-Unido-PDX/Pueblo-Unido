@@ -48,9 +48,6 @@
               <li>
                 <a href="volunteer-committees.html.en">Volunteer Committees</a>
               </li>
-              <li>
-                <a href="volunteer-application.html.en">Apply Now</a>
-              </li>
             </ul>
           </li>
           <li class="navigation__about">
@@ -67,7 +64,7 @@
             <h1>Donate</h1>
           </div>
           <div class="introduction__link">
-            <a class="button" href="volunteer-handbook.html.en">Leer en Español</a>
+            <a class="button" href="volunteer-handbook.html.es">Leer en Español</a>
           </div>
         </div>
       </div>

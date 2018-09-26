@@ -38,9 +38,6 @@
           <a class="button--link" href="donate.html.es">Donar</a>
           <ul class="submenu submenu--donate">
             <li>
-              <a href="what-we-do.html.es">Qué Hacemos</a>
-            </li>
-            <li>
               <a href="sponsors.html.es">Patrocinadores</a>
             </li>
           </ul>
@@ -79,7 +76,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="heading__subheadline">
-            <h2>Get Help (For Other Immigration Issues)</h2>
+            <h2>Obtenga Ayuda (Con Otras Cuestiones Migratorias)</h2>
             <div class="horizontal-line"></div>
           </div>
           <br />
@@ -110,7 +107,7 @@
             <div class="horizontal-line"></div>
           </div>
           <br />
-          <p>NLos proveedores de servicios legales sin fines de lucro en la zona
+          <p>Los proveedores de servicios legales sin fines de lucro en la zona
           metropolitana de Portland ofrecen servicios de apoyo para una variedad
           de cuestiones de inmigración no relacionadas con la deportación a bajo
           costo o sin costo dependiendo del caso. Algunos ejemplos incluyen:</p>
@@ -134,7 +131,7 @@
             <li>Programa de visas de diversidad/lotería de visas</li>
             <li>Servicios de traducción y de notario público</li>
           </ul>
-          <p><em>PPor favor tome en cuenta</em>: Las organizaciones sin fines de
+          <p><em>Por favor tome en cuenta</em>: Las organizaciones sin fines de
           lucro suelen tener una capacidad limitada  y tal vez no podrán
           responder a su solicitud o hacerse cargo de su caso.</p>
           <p>Si le gustaría recibir una recomendación acerca de una organización
@@ -145,9 +142,9 @@
           </p>
           <p>*<em>Aviso de responsabilidad</em>*: Pueblo Unido PDX
           <strong>no</strong> es un despacho de abogados;
-          <strong>no somos</strong> abogados y <strong>no</strong> ofrecemos
+          <strong>no somos</strong> abogadxs y <strong>no</strong> ofrecemos
           ningún consejo legal. En cambio, ayudamos a conectar clientes con
-          abogados de inmigración con experiencia y les damos seguimiento para
+          abogadxs de inmigración con experiencia y les damos seguimiento para
           asegurarnos que reciban los consejos que buscan.</p>
         </div>
       </div>

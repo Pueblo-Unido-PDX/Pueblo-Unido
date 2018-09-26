@@ -48,9 +48,6 @@
               <li>
                 <a href="volunteer-committees.html.en">Volunteer Committees</a>
               </li>
-              <li>
-                <a href="volunteer-application.html.en">Apply Now</a>
-              </li>
             </ul>
           </li>
           <li class="navigation__about">
@@ -67,7 +64,7 @@
             <h1>Donate</h1>
           </div>
           <div class="introduction__link">
-            <a class="button" href="donate.html.en">Leer en Español</a>
+            <a class="button" href="donate.html.es">Leer en Español</a>
           </div>
         </div>
       </div>
@@ -122,6 +119,12 @@
                   <h3>Amazon Smile</h3>
                   <a href="https://smile.amazon.com/ch/82-2488480" target="blank">
                     <img src="./assets/images/donate/amazon-smile.png" />
+                  </a>
+                  <p>&nbsp;</p>
+                </div>
+                <div class="col-md-12">
+                  <a href="https://causes.benevity.org/causes/840-822488480" target="blank">
+                    <h3>Benevity Causes</h3>
                   </a>
                   <p>&nbsp;</p>
                 </div>

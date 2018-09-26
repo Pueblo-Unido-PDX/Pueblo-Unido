@@ -48,9 +48,6 @@
               <li>
                 <a href="volunteer-committees.html.en">Volunteer Committees</a>
               </li>
-              <li>
-                <a href="volunteer-application.html.en">Apply Now</a>
-              </li>
             </ul>
           </li>
           <li class="navigation__about">
@@ -68,7 +65,7 @@
             <p>For other immigration cases cases</p>
           </div>
           <div class="introduction__link">
-            <a class="button" href="get-help-other.html.en">Leer en Español</a>
+            <a class="button" href="get-help-other.html.es">Leer en Español</a>
           </div>
         </div>
       </div>
