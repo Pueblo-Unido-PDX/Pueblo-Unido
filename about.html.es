@@ -56,7 +56,7 @@
     </div>
   </div>
 </header>
-  <section class="introduction introduction--what-we-do">
+  <section class="introduction introduction--about">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
