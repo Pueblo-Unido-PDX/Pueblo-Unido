@@ -38,9 +38,6 @@
           <a class="button--link" href="donate.html.es">Donar</a>
           <ul class="submenu submenu--donate">
             <li>
-              <a href="what-we-do.html.es">Qué Hacemos</a>
-            </li>
-            <li>
               <a href="sponsors.html.es">Patrocinadores</a>
             </li>
           </ul>

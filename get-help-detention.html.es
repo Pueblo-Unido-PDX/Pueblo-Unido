@@ -38,9 +38,6 @@
           <a class="button--link" href="donate.html.es">Donar</a>
           <ul class="submenu submenu--donate">
             <li>
-              <a href="what-we-do.html.es">Qué Hacemos</a>
-            </li>
-            <li>
               <a href="sponsors.html.es">Patrocinadores</a>
             </li>
           </ul>
@@ -88,12 +85,12 @@
           nosotrxs. Ayudamos a navegar los servicios legales de inmigración,
           exigir buena representación, y ayudamos a reunir evidencia para
           fortalecer los casos contra la deportación.
-          <strong>No cobramos</strong> por nuestros servicios de apoyo.</p>
+          <strong>No cobramos</strong> por nuestrxs servicios de apoyo.</p>
           <p>Llame o escriba al: 503-912-8925;
             <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
           </p>
           <p>*Aviso de responsabilidad*: Pueblo Unido PDX <strong>no</strong> es
-          un despacho de abogados; <strong>no somos</strong> abogados y
+          un despacho de abogadxs; <strong>no somos</strong> abogadxs y
           <strong>no</strong> ofrecemos ningún consejo legal. En cambio,
           ayudamos a conectar clientes con abogados de inmigración con
           experiencia y les damos seguimiento para asegurarnos que reciban los
@@ -112,11 +109,11 @@
           <ol>
             <li>Contratar a unx abogadx de inmigración privadx</li>
             <li>Solicitar que un proveedor de servicios legales sin fines de
-            lucro se haga cargo de tu caso por un costo reducido (comparado con
+            lucro se haga cargo de su caso por un costo reducido (comparado con
               la representación privada)</li>
-            <li>Buscar materiales informativos creados para lxs “comparecientes
+            <li>Buscar materiales informativos creados para “lxs demandadxs
             pro se” (lxs que se representan a sí mismxs en la corte de
-              inmigración) y guías para los parientes de inmigrantes detenidxs.
+              inmigración) y guías para parientes de inmigrantes detenidxs.
               *Por favor tome en cuenta*: Estas publicaciones tienen el fin de
               brindar información básica y útil sobre las leyes de inmigración y
               los protocolos de los centros de detención. Bajo ningunas

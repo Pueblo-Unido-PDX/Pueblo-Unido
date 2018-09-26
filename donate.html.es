@@ -38,9 +38,6 @@
           <a class="button--link" href="donate.html.es">Donar</a>
           <ul class="submenu submenu--donate">
             <li>
-              <a href="what-we-do.html.es">Qué Hacemos</a>
-            </li>
-            <li>
               <a href="sponsors.html.es">Patrocinadores</a>
             </li>
           </ul>
@@ -144,8 +141,8 @@
             <div class="horizontal-line"></div>
           </div>
           <br />
-          <p>La misión de Pueblo Unido es <strong>empoderar y brindar recursos a la
-          comunidad latina con un estatus migratorio vulnerable, y luchar por
+          <p>La misión de Pueblo Unido es <strong>empoderar y brindar recursos a
+           latinxs con un estatus migratorio vulnerable y luchar por
           soluciones que ayudan a construir comunidades más justas.</strong>
           Ayudamos a las personas a navegar los servicios legales de
           inmigración, exigir buena representación, y ayudar a reunir evidencia
@@ -178,7 +175,7 @@
           </div>
           <br />
           <p>El fondo de defensa legal de Pueblo Unido PDX apoya directamente a
-          los miembros de la comunidad de la zona metropolitana de Portland en
+          los miembrxs de la comunidad de la zona metropolitana de Portland en
           la lucha contra la deportación. Sus donaciones al Fondo de defensa
           legal ayudan a pagar por:</p>
           <ul>
@@ -192,7 +189,7 @@
             <li>Las fianzas y costos de viaje para liberar a las personas de
              la detención y reunirlas con sus familias.</li>
           </ul>
-          <p>Con su apoyo ayudaremos a más miembros de la comunidad de la
+          <p>Con su apoyo ayudaremos a más miembrxs de la comunidad de la
           zona metropolitana de Portland a ganar sus casos contra la
           deportación, salir de la detención, y ser reunidos con sus seres
           queridxs.</p>

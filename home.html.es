@@ -39,9 +39,6 @@
           <a class="button--link" href="donate.html.es">Donar</a>
           <ul class="submenu submenu--donate">
             <li>
-              <a href="what-we-do.html.es">Qué Hacemos</a>
-            </li>
-            <li>
               <a href="sponsors.html.es">Patrocinadores</a>
             </li>
           </ul>
@@ -87,7 +84,7 @@
             </div>
           </div>
           <div class="heading__text">
-            <p>Pueblo Unido es una organización sin fines de lucro que apoya a miembros de la comunidad en la zona metropolitana de Portland que luchan en contra de la deportación. Conectamos a nuestrxs clientes con representación legal adecuada y ayudamos a reunir evidencia para fortalecer los casos y evitar la deportación.
+            <p>Pueblo Unido es una organización sin fines de lucro que apoya a miembrxs de la comunidad en la zona metropolitana de Portland que luchan en contra de la deportación. Conectamos a nuestrxs clientes con representación legal adecuada y ayudamos a reunir evidencia para fortalecer los casos y evitar la deportación.
             </p>
             <a class="button" href="volunteer.html.es">Involucrarse</a>
           </div>
@@ -101,7 +98,7 @@
       <div class="row">
         <div class="col-md-12 align-middle">
           <div id="need-help" class="need-help__subheadline">
-            <h2>Need Help?</h2>
+            <h2>¿Necesita Ayuda?</h2>
             <div class="horizontal-line">
             </div>
           </div>
