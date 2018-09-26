@@ -124,6 +124,12 @@
                   </a>
                   <p>&nbsp;</p>
                 </div>
+                <div class="col-md-12">
+                  <a href="https://causes.benevity.org/causes/840-822488480" target="blank">
+                    <h3>Benevity Causes</h3>
+                  </a>
+                  <p>&nbsp;</p>
+                </div>
               </div>
             </div>
           </div>
