@@ -141,7 +141,7 @@
             <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
           </p>
           <p>*<em>Aviso de responsabilidad</em>*: Pueblo Unido PDX
-            <em>no</em> es un despacho de abogados;
+            <em>no</em> es un despacho de abogadxs;
             <em>no somos</em> abogadxs y <em>no</em> ofrecemos
             ningún consejo legal. En cambio, ayudamos a conectar clientes con
             abogadxs de inmigración con experiencia y les damos seguimiento para
