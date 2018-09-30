@@ -320,9 +320,23 @@ li {
   padding: 4em 0;
 }
 
-.heading.heading--donate .row, .heading.heading--sponsors .row {
+.heading.heading--donate .row, .heading.heading--sponsors .row, .heading.heading--disclaimer .row {
   padding: 1em 0;
 }
+
+/*
+.heading.heading--disclaimer h2 {
+  font-size: 17px !important;
+}
+
+.heading.heading--disclaimer p, .heading.heading--disclaimer li {
+  font-size: 12px !important;
+}
+
+.heading.heading--disclaimer .heading__text p, .heading.heading--disclaimer .heading__text li {
+  margin-bottom: 0 !important;
+  width: 60% !important;
+}*/
 
 .heading--donate .col-md-12 img {
   width: 180px;

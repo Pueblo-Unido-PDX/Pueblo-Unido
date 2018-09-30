@@ -12,50 +12,50 @@
 </head>
 
 <body>
-<header class="navigation">
-  <div class="navigation-row">
-    <div class="navigation-row--left">
-      <a href="home.html.es">
+  <header class="navigation">
+    <div class="navigation-row">
+      <div class="navigation-row--left">
+        <a href="home.html.es">
         <img src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
       </a>
-    </div>
-    <div class="navigation-row--right">
-      <ul class="navigation__link-group">
-        <li class="navigation--dropdown navigation__get-help">
-        <a class="button--link" href="get-help-detention.html.es">
+      </div>
+      <div class="navigation-row--right">
+        <ul class="navigation__link-group">
+          <li class="navigation--dropdown navigation__get-help">
+            <a class="button--link" href="get-help-detention.html.es">
           Obtenga Ayuda
         </a>
-          <ul class="submenu submenu--get-help">
-            <li>
-              <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
-            </li>
-            <li>
-              <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
-            </li>
-          </ul>
-        </li>
-        <li class="navigation--dropdown navigation__donate">
-          <a class="button--link" href="donate.html.es">Donar</a>
-          <ul class="submenu submenu--donate">
-            <li>
-              <a href="sponsors.html.es">Patrocinadores</a>
-            </li>
-          </ul>
-        </li>
-        <li class="navigation__volunteer">
-          <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
-          <ul class="submenu submenu--volunteer">
-            <li>
-              <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
-            </li>
-          </ul>
-        </li>
-        <li class="navigation__about">
-          <a class="button--link" href="about.html.es">Sobre Nosotros</a>
-        </li>
+            <ul class="submenu submenu--get-help">
+              <li>
+                <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
+              </li>
+              <li>
+                <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
+              </li>
+            </ul>
+          </li>
+          <li class="navigation--dropdown navigation__donate">
+            <a class="button--link" href="donate.html.es">Donar</a>
+            <ul class="submenu submenu--donate">
+              <li>
+                <a href="sponsors.html.es">Patrocinadores</a>
+              </li>
+            </ul>
+          </li>
+          <li class="navigation__volunteer">
+            <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
+            <ul class="submenu submenu--volunteer">
+              <li>
+                <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
+              </li>
+            </ul>
+          </li>
+          <li class="navigation__about">
+            <a class="button--link" href="about.html.es">Sobre Nosotros</a>
+          </li>
+      </div>
     </div>
-  </div>
-</header>
+  </header>
   <section class="introduction introduction--about">
     <div class="container">
       <div class="row">
@@ -81,11 +81,11 @@
           <br />
           <div class="heading__text">
             <p>Pueblo Unido brinda ayuda a inmigrantes que están actualmente
-            enfrentando un proceso judicial de deportación a navegar los servicios
-            legales y exigir una representación eficaz. Conectamxs a nuestrxs
-            clientes con representación legal adecuada y ayudamxs a recopilar
-            evidencia para fortalecer los casos contra la deportación. Desde que
-            se formó Pueblo Unido en abril de 2017, <strong>cinco de nuestrxs
+              enfrentando un proceso judicial de deportación a navegar los servicios
+              legales y exigir una representación eficaz. Conectamos a nuestrxs
+              clientes con representación legal adecuada y ayudamos a recopilar
+              evidencia para fortalecer los casos contra la deportación. Desde que
+              se formó Pueblo Unido en abril de 2017, <strong>cinco de nuestrxs
             clientes han sido liberadxs de la detención y reunidxs con sus
             familias.</strong></p>
           </div>
@@ -94,41 +94,134 @@
           <div class="heading__image">
             <img src="./assets/images/pu-images/png/new/about-us.png" />
           </div>
-        </div>
-      <div class="row">
-        <div class="col-md-7 align-middle">
-          <div class="heading__subheadline">
-            <h2>Por qué es importante la representación legal</h2>
-            <div class="horizontal-line"></div>
           </div>
-          <br />
-          <div class="heading__text">
-            <p>La representación legal es el
-              <a href="https://innovationlawlab.org/blog/2018/05/12/defend-everyone/">
+          <div class="row">
+            <div class="col-md-7 align-middle">
+              <div class="heading__subheadline">
+                <h2>Por qué es importante la representación legal</h2>
+                <div class="horizontal-line"></div>
+              </div>
+              <br />
+              <div class="heading__text">
+                <p>La representación legal es el
+                  <a href="https://innovationlawlab.org/blog/2018/05/12/defend-everyone/">
                 factor que más influye</a> en si una persona podrá evitar ser
-                deportada, asegurar un estatus migratorio más estable, y lograr el
-                derecho a permanecer en su comunidad. Sin embargo, dado que los
-                casos de inmigración se remiten a la corte civil y no a la
-                criminal, el gobierno no ofrece la representación de unx abogadx a
-                las personas que no tienen los recursos para hacerlo. El resultado
-                es que la mayoría de las personas que enfrentan la deportación se
-                ven obligadas a representarse a sí mismas, y como consecuencia, es
-                menos probable que ganen sus casos contra la deportación. Pueblo
-                Unido se formó en abril de 2017 en respuesta a esta injusticia y
-                para mantener unidas a las familias y comunidades.</p>
-          </div>
-          </div>
-          <div class="col-md-5 align-middle">
-            <div class="heading__image">
-              <img src="./assets/images/pu-images/png/new/why-legal-representation.png" />
+                  deportada, asegurar un estatus migratorio más estable, y lograr el
+                  derecho a permanecer en su comunidad. Sin embargo, dado que los
+                  casos de inmigración se remiten a la corte civil y no a la
+                  criminal, el gobierno no ofrece la representación de unx abogadx a
+                  las personas que no tienen los recursos para hacerlo. El resultado
+                  es que la mayoría de las personas que enfrentan la deportación se
+                  ven obligadas a representarse a sí mismas, y como consecuencia, es
+                  menos probable que ganen sus casos contra la deportación. Pueblo
+                  Unido se formó en abril de 2017 en respuesta a esta injusticia y
+                  para mantener unidas a las familias y comunidades.</p>
+              </div>
+            </div>
+            <div class="col-md-5 align-middle">
+              <div class="heading__image">
+                <img src="./assets/images/pu-images/png/new/why-legal-representation.png" />
+            </div>
+              </div>
             </div>
           </div>
         </div>
+
       </div>
     </div>
+    </div>
+  </section>
+  <section class="donate">
+    <div class="donate__subheadline">
+      <h2>¿Qué es El Género?</h2>
+      <div class="horizontal-line"></div>
+    </div>
+  </section>
+  <section class="heading heading--disclaimer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 align-middle">
+          <div class="heading__text">
+            <p>El género es la etiqueta que usamos para describir cómo nos identificamos. Los doctores usualmente asumen el género de un bebé de acuerdo a los genitales del mismo—a esto lo llamamos género asignado al nacer. Desafortunadamente,
+              ésta
+              práctica mantiene la creencia de que el género es dictado por los genitales, cuando realmente es una identidad aparte de las características físicas de una persona. Usualmente, el género asignado al nacer es el género con el que el
+              bebé, y
+              luego adulto, se identifica—éstas personas son cisgénero, hombres cis y mujeres cis. Sin embargo, eso no es una experiencia universal—habemos muchos los cuales no nos identificamos con el género que nos han asignado al nacer,
+              irrespectivamente de nuestros genitales. La mayoría de estas personas nos identificamos como personas transgénero—mujeres trans u hombres trans.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 align-middle">
+          <div class="heading__subheadline">
+            <h2>¿Qué es El Género Cuir, Fluido, Neutro?</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <div class="heading__text">
+            <p>Los géneros cuir, fluidos y neutros son considerados géneros bajo la clasificación transgénero. Cada uno de estos géneros puede significar algo diferente para cada persona, pero en términos de lenguaje y pronombres, tienden a ser
+              similares—muchas de las personas que se identifican con ellos en inglés tienden a usar pronombres neutros. En español, los pronombres neutros no existen de manera oficial, pero tranqui que más abajo hablaremos de las opciones que
+              podemos
+              usar para incluir a todos en nuestras conversaciones.</p>
 
-    </div>
-    </div>
+            <p>Sin embargo, el idioma español moderno no se presta fácilmente a una idea flexible del género, reforzando la idea de que el género es una identidad binaria (es decir, que sólo hay dos: hombre y mujer) y con ella la idea de que nadie
+              se
+              identifica de manera diferente. Pero eso no es el caso, muchos de nosotros (y me incluyo a mí, como persona de género fluido) no nos identificamos con el género de hombre o mujer, y hay otras personas que se identifican con más de un
+              género,
+              por lo tanto necesitamos hablar sobre qué lenguaje está a nuestra disposición para asegurarnos de que tratamos a todos aquellos que conocemos con dignidad y respeto, sea cual sea su género.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 align-middle">
+          <div class="heading__subheadline">
+            <h2>¿Qué Son Los Pronombres Personales?</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <div class="heading__text">
+            <p>Los pronombres personales son simplemente las palabras que usamos para hablar sobre alguien sin usar su nombre, por ejemplo: él, ella, ellos. Por comodidad y abreviación, me referiré en éste ensayo a los pronombres personales
+              simplemente
+              como ‘pronombres.’</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 align-middle">
+          <div class="heading__subheadline">
+            <h2>¿Cómo Dirigirse a Las Personas Que Se Identifican Como Género Neutro?</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <div class="heading__text">
+            <p>Antes de comenzar, quiero aclarar que entre las personas transgénero y de género fluido, muchas deciden usar pronombres binarios (él o ella) por una variedad de motivos, entre ellos para evitar conversaciones que puedan terminar en
+              violencia. Ésto no cambia el hecho de que se identifican como género fluido o tercer género—no le quita validez a su género, sea cual sea.</p>
+
+            <p>Ahora, hablemos de las personas que deciden que los pronombres binarios no son los adecuados. En éste caso, tenemos opciones:</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 align-middle">
+          <div class="heading__subheadline">
+            <h2>Latine/Latinx</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <div class="heading__text">
+            <p>En favor de crear términos de género neutro, hispanohablantes trans (y sus aliados) han creado la práctica de sustituir las vocales al final de las palabras con la letra “e” o “x.” Aquí una explicación de cada opción:</p>
+            <ul>
+              <li>Latinx: se pronuncia “latinex” o “latinix.” La equis funciona como sufijo neutro, y sustituye el símbolo arroba (@) que se usó como sufijo neutro en el pasado. Por ejemplo, “mi amigo Dani es muy buena persona” se convierte en “mi
+                amigx Dani es muy buena persona.”</li>
+
+              <li>Latine: similar a Latinx, la vocal al final de la palabra es sustituida por la letra “e.” Ésta práctica es un poco más nueva pero lentamente ha estado ganando más apoyo que la versión anterior (Latinx) debido a que su pronunciación
+                es más intuitiva y tiene potencial para mayor uso. Ésta práctica hace uso del hecho de que ya hay palabras en español de género neutro que terminan en “e,” por ejemplo “estudiante,” “paciente,” e “hispanohablante;” y también crea
+                nuevas posibilidades para los pronombres disponibles en español, lo cual hace su futura inclusión formal en el lenguaje español muchísimo más posible que “Latinx.” Con ésta estrategia, “ele” y “elle” pueden ser usados en lugar de
+                “ella” o “él” dependiendo de la preferencia de la persona. “Vosotro/as” puede ser “vosotres” y “ustedes” queda intacto, ya usando la “e” que no asigna género.</li>
+            </ul>
+            <p>Ahora, quedemos claros de que introducir prácticas nuevas a nuestro idioma puede ser incómodo, e incluso difícil, para muchas personas. Para muchos puede ser frustrante al inicio, como cualquier habilidad nueva lo es, pero es
+              importante recordar—y enfocarnos—en la razón de nuestro esfuerzo: no es la perfección, sino las ganas de tener un lenguaje que honre la identidad de todos, y que se adapte y celebre la diversidad de nuestra comunidad, en vez de
+              ignorarla en favor de la comodidad.</p>
+
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 </body>
