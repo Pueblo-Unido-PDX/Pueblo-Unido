@@ -100,11 +100,6 @@
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.facebook.com/EastCountyRising/">
-                      Eddy Morales / East County Rising ($1000)
-                    </a>
-                  </li>
-                  <li>
                     <a href="http://pdximmigration.com/">
                       Portland Immigration Law ($500)
                     </a>
