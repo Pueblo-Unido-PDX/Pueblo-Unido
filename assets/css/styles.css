@@ -436,7 +436,7 @@ section.disclaimer {
   padding: 9em 0;
 }
 
-.donate__subheadline .horizontal-line {
+.donate__subheadline .horizontal-line, .disclaimer__subheadline .horizontal-line {
   float: none;
 }
 
