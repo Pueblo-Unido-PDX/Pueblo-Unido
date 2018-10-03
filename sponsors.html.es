@@ -75,39 +75,32 @@
       <div class="row">
         <div class="col-md-12">
           <div class="heading__subheadline">
-            <h2>Donar (Patrocinadores)</h2>
+            <h2>Current Sponsors</h2>
             <div class="horizontal-line"></div>
           </div>
           <br>
-          <div class="container">
-            <div class="row">
-              <div class="col-md-12">
-                <br />
-                <ul>
-                  <li>
-                    <a href="http://communitydevpartners.com/">
-                      Community Development Partners ($1000)
-                    </a>
-                  </li>
-                  <li>
-                    <a href="http://www.reassociation.org/">
-                    Reynolds Education Association ($1000)
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://pickettdummigan.com/">
-                      Pickett Dummigan McCall ($1000)
-                    </a>
-                  </li>
-                  <li>
-                    <a href="http://pdximmigration.com/">
-                      Portland Immigration Law ($500)
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <ul>
+            <li>
+              <a href="http://communitydevpartners.com/">
+                Community Development Partners ($1000)
+              </a>
+            </li>
+            <li>
+              <a href="http://www.reassociation.org/">
+              Reynolds Education Association ($1000)
+              </a>
+            </li>
+            <li>
+              <a href="https://pickettdummigan.com/">
+                Pickett Dummigan McCall ($1000)
+              </a>
+            </li>
+            <li>
+              <a href="http://pdximmigration.com/">
+                Portland Immigration Law ($500)
+              </a>
+            </li>
+          </ul>
         </div>
       </div>
     </div>
