@@ -202,7 +202,7 @@
     <br>
     <a class="button" href="sponsors.html.es">Nuestros Patrocinadores</a>
   </section>
-  <section class="donate">
+  <section class="disclaimer">
     <div class="donate__subheadline">
       <h2>¿Qué es El Género?</h2>
       <div class="horizontal-line"></div>
@@ -307,6 +307,7 @@
               <p>17405 NE Glisan Street <br>
                 Portland, OR<br>
                 97230<br>
+              <p><a href="tel:5039128925">503-912-8925</a></p>
               </p>
             </li>
           </div>
@@ -326,6 +327,20 @@
     </div>
   </section>
 </footer>
+
+<!-- Facebook Plugin -->
+<div id="fb-root"></div>
+<script>
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=115236182004043&autoLogAppEvents=1';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
 
 </html>

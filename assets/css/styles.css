@@ -400,12 +400,23 @@ li {
   text-align: center;
 }
 
-.donate {
+section.donate {
   background:
     linear-gradient(
       rgba(255, 255, 255, 0.45),
       rgba(0, 0, 0, 0.45)),
       url(../images/pu-images/png/rally.png);
+  background-size: cover;
+  width: 100%;
+  opacity: 1;
+}
+
+section.disclaimer {
+  background:
+    linear-gradient(
+      rgba(255, 255, 255, 0.45),
+      rgba(0, 0, 0, 0.45)),
+      url(../images/pu-images/png/backgrounds/jumbotron.png);
   background-size: cover;
   width: 100%;
   opacity: 1;

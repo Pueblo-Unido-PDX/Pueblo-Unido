@@ -140,7 +140,7 @@
       <a class="button button--inverse" href="donate.html.es">Donar</a>
     </div>
   </section>
-  <section class="donate">
+  <section class="disclaimer">
     <div class="donate__subheadline">
       <h2>¿Qué es El Género?</h2>
       <div class="horizontal-line"></div>
@@ -245,6 +245,7 @@
               <p>17405 NE Glisan Street <br>
                 Portland, OR<br>
                 97230<br>
+              <p><a href="tel:5039128925">503-912-8925</a></p>
               </p>
             </li>
           </div>
