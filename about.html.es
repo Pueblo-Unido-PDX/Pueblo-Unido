@@ -133,7 +133,7 @@
   </section>
   <section class="disclaimer">
     <div class="disclaimer__subheadline">
-      <h2>¿Qué es El Género?</h2>
+      <h1>¿Qué es El Género?</h1>
       <div class="horizontal-line"></div>
     </div>
   </section>
