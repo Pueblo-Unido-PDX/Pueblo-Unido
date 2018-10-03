@@ -21,11 +21,11 @@
       </div>
       <div class="navigation-row--right">
         <ul class="navigation__link-group">
-          <li class="navigation--dropdown navigation__get-help">
+          <li class="navigation__dropdown">
             <a class="button--link" href="get-help-detention.html.en">
               Get Help
             </a>
-            <ul class="submenu submenu--get-help">
+            <ul class="submenu">
               <li>
                 <a href="get-help-detention.html.en">For Detention / Removal Cases</a>
               </li>
@@ -34,23 +34,23 @@
               </li>
             </ul>
           </li>
-          <li class="navigation--dropdown navigation__donate">
+          <li class="navigation__dropdown">
             <a class="button--link" href="donate.html.en">Donate</a>
-            <ul class="submenu submenu--donate">
+            <ul class="submenu">
               <li>
                 <a href="sponsors.html.en">Sponsors</a>
               </li>
             </ul>
           </li>
-          <li class="navigation__volunteer">
+          <li class="navigation__link">
             <a class="button--link" href="volunteer.html.en">Volunteer</a>
-            <ul class="submenu submenu--volunteer">
+            <ul class="submenu">
               <li>
                 <a href="volunteer-committees.html.en">Volunteer Committees</a>
               </li>
             </ul>
           </li>
-          <li class="navigation__about">
+          <li class="navigation__link">
             <a class="button--link" href="about.html.en">About</a>
           </li>
       </div>
@@ -70,7 +70,7 @@
       </div>
     </div>
   </section>
-  <section class="heading heading--donate">
+  <section class="heading">
     <div class="container">
       <div class="row">
         <div class="col-md-7 align-middle">

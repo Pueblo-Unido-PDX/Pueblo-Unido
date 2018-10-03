@@ -22,11 +22,11 @@
       </div>
       <div class="navigation-row--right">
         <ul class="navigation__link-group">
-          <li class="navigation--dropdown navigation__get-help">
+          <li class="navigation__dropdown">
             <a class="button--link" href="get-help-detention.html.en">
               Get Help
             </a>
-            <ul class="submenu submenu--get-help">
+            <ul class="submenu">
               <li>
                 <a href="get-help-detention.html.en">For Detention / Removal Cases</a>
               </li>
@@ -35,23 +35,23 @@
               </li>
             </ul>
           </li>
-          <li class="navigation--dropdown navigation__donate">
+          <li class="navigation__dropdown">
             <a class="button--link" href="donate.html.en">Donate</a>
-            <ul class="submenu submenu--donate">
+            <ul class="submenu">
               <li>
                 <a href="sponsors.html.en">Sponsors</a>
               </li>
             </ul>
           </li>
-          <li class="navigation__volunteer">
+          <li class="navigation__dropdown">
             <a class="button--link" href="volunteer.html.en">Volunteer</a>
-            <ul class="submenu submenu--volunteer">
+            <ul class="submenu">
               <li>
                 <a href="volunteer-committees.html.en">Volunteer Committees</a>
               </li>
             </ul>
           </li>
-          <li class="navigation__about">
+          <li class="navigation__link">
             <a class="button--link" href="about.html.en">About</a>
           </li>
       </div>
@@ -97,19 +97,19 @@
       </div>
       <div class="row">
         <div class="col-md-12">
-          <div class="need-help__subheadline">
+          <div class="heading__subheadline">
             <h2>Need Help?</h2>
             <div class="horizontal-line">
             </div>
           </div>
-          <div class="need-help__text">
+          <div class="heading__text">
             <p>Pueblo Unido provides legal service navigation and client advocate support for immigrants who are currently in removal proceedings. Those who are NOT currently in removal proceedings may contact Pueblo Unido for a list of nonprofit organizations
               in the Portland area who may be able to help.
             </p>
             <p>Don’t know whether you’re in removal proceedings or not? </p>
             <a class="button" href="get-help-detention.html.en">Facing Removal</a>
           </div>
-          <div class="need-help__text">
+          <div class="heading__text">
             <p>*Disclaimer*: Pueblo Unido PDX is not a law firm; we are not attorneys and we do not offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they receive the advice they are seeking.</p>
           </div>
         </div>
@@ -133,8 +133,8 @@
       </div>
     </div>
   </section>
-  <section class="donate">
-    <div class="donate__subheadline">
+  <section class="cta-callout">
+    <div class="cta-callout__subheadline">
       <h2>Donate</h2>
       <div class="horizontal-line"></div>
       <p>Donate to help keep families together, support immigrant rights, and build resilient communities.</p>

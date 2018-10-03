@@ -45,6 +45,10 @@ li {
   font-family: Helvetica, Arial, sans-serif;
 }
 
+iframe {
+  margin: 2em 1em;
+}
+
 .standard-link {
   color: #7da7d9;
 }
@@ -183,17 +187,7 @@ li {
   cursor: pointer;
 }
 
-.navigation__get-help:hover .submenu--get-help {
-    display: block;
-    opacity: 1;
-}
-
-.navigation__donate:hover .submenu--donate {
-    display: block;
-    opacity: 1;
-}
-
-.navigation__volunteer:hover .submenu--volunteer {
+.navigation__dropdown:hover .submenu {
     display: block;
     opacity: 1;
 }
@@ -297,7 +291,7 @@ li {
   height: auto;
 }
 
-.heading h2, .upcoming-events h2 {
+.heading h2 {
   text-align: left;
 }
 
@@ -320,25 +314,7 @@ li {
   padding: 4em 0;
 }
 
-.heading.heading--donate .row, .heading.heading--sponsors .row, .heading.heading--disclaimer .row {
-  padding: 1em 0;
-}
-
-/*
-.heading.heading--disclaimer h2 {
-  font-size: 17px !important;
-}
-
-.heading.heading--disclaimer p, .heading.heading--disclaimer li {
-  font-size: 12px !important;
-}
-
-.heading.heading--disclaimer .heading__text p, .heading.heading--disclaimer .heading__text li {
-  margin-bottom: 0 !important;
-  width: 60% !important;
-}*/
-
-.heading--donate .col-md-12 img {
+.heading .col-md-12 img {
   width: 180px;
   text-align: center;
   border-radius: 10px;
@@ -359,41 +335,8 @@ li {
   border-radius: 25px;
 }
 
-.need-help__subheadline {
-  margin-bottom: 30px;
-}
-
-.need-help__text {
-  width: 80%;
-  text-align: left;
-  float: left;
-}
-
-.need-help__text:last-of-type {
-  padding-top: 40px;
-}
-
 .upcoming-events, .donate {
   margin-top: 3em;
-}
-
-.upcoming-events iframe {
-  margin: 2em 1em;
-}
-
-.sponsors__images .col-md-12 {
-  text-align: center;
-}
-
-.sponsors__images .col-md-4 {
-  vertical-align: middle;
-  display: inline-block;
-}
-
-.sponsors__images img {
-  width: 220px;
-  height: auto;
-  padding: 1em 1em;
 }
 
 .upcoming-events .container {
@@ -422,11 +365,11 @@ section.disclaimer {
   opacity: 1;
 }
 
-.donate .button {
+.cta-callout .button {
   margin-right: 0;
 }
 
-.donate__subheadline, .disclaimer__subheadline {
+.cta-callout__subheadline, .disclaimer__subheadline {
   padding: 3em 0;
   color: #fff;
   text-align: center;
@@ -436,16 +379,8 @@ section.disclaimer {
   padding: 9em 0;
 }
 
-.donate__subheadline .horizontal-line, .disclaimer__subheadline .horizontal-line {
+.cta-callout__subheadline .horizontal-line, .disclaimer__subheadline .horizontal-line {
   float: none;
-}
-
-.donate__methods {
-  text-align: left;
-}
-
-.donate__methods h3 {
-  width: 100%;
 }
 
 .footer {
