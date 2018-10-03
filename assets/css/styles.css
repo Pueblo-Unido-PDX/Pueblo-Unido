@@ -426,10 +426,14 @@ section.disclaimer {
   margin-right: 0;
 }
 
-.donate__subheadline {
+.donate__subheadline, .disclaimer__subheadline {
   padding: 3em 0;
   color: #fff;
   text-align: center;
+}
+
+.disclaimer__subheadline {
+  padding: 9em 0;
 }
 
 .donate__subheadline .horizontal-line {

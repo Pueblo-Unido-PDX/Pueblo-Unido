@@ -203,7 +203,7 @@
     <a class="button" href="sponsors.html.es">Nuestros Patrocinadores</a>
   </section>
   <section class="disclaimer">
-    <div class="donate__subheadline">
+    <div class="disclaimer__subheadline">
       <h2>¿Qué es El Género?</h2>
       <div class="horizontal-line"></div>
     </div>
