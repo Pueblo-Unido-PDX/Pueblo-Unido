@@ -21,11 +21,11 @@
     </div>
     <div class="navigation-row--right">
       <ul class="navigation__link-group">
-        <li class="navigation--dropdown navigation__get-help">
+        <li class="navigation__dropdown">
         <a class="button--link" href="get-help-detention.html.es">
           Obtenga Ayuda
         </a>
-          <ul class="submenu submenu--get-help">
+          <ul class="submenu">
             <li>
               <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
             </li>
@@ -34,23 +34,23 @@
             </li>
           </ul>
         </li>
-        <li class="navigation--dropdown navigation__donate">
+        <li class="navigation__dropdown">
           <a class="button--link" href="donate.html.es">Donar</a>
-          <ul class="submenu submenu--donate">
+          <ul class="submen">
             <li>
               <a href="sponsors.html.es">Patrocinadores</a>
             </li>
           </ul>
         </li>
-        <li class="navigation__volunteer">
+        <li class="navigation__dropdown">
           <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
-          <ul class="submenu submenu--volunteer">
+          <ul class="submenu">
             <li>
               <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
             </li>
           </ul>
         </li>
-        <li class="navigation__about">
+        <li class="navigation__link">
           <a class="button--link" href="about.html.es">Sobre Nosotros</a>
         </li>
     </div>
@@ -94,7 +94,7 @@
       <div class="horizontal-line"></div>
     </div>
   </section>
-  <section class="heading heading--disclaimer">
+  <section class="heading">
     <div class="container">
       <div class="row">
         <div class="col-md-12 align-middle">

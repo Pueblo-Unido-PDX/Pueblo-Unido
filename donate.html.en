@@ -36,7 +36,7 @@
           </li>
           <li class="navigation__dropdown">
             <a class="button--link" href="donate.html.en">Donate</a>
-            <ul class="submenu submenu--donate">
+            <ul class="submenu">
               <li>
                 <a href="sponsors.html.en">Sponsors</a>
               </li>
@@ -44,7 +44,7 @@
           </li>
           <li class="navigation__dropdown">
             <a class="button--link" href="volunteer.html.en">Volunteer</a>
-            <ul class="submenu submenu--volunteer">
+            <ul class="submenu">
               <li>
                 <a href="volunteer-committees.html.en">Volunteer Committees</a>
               </li>

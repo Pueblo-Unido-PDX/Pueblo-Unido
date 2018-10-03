@@ -343,7 +343,7 @@ iframe {
   text-align: center;
 }
 
-section.donate {
+section.cta-callout {
   background:
     linear-gradient(
       rgba(255, 255, 255, 0.45),
