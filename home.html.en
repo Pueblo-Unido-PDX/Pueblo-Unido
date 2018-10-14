@@ -84,7 +84,8 @@
             </div>
           </div>
           <div class="heading__text">
-            <p>Pueblo Unido is a non-profit organization that supports Portland metro community members in the fight against deportation. We connect clients to adequate legal representation and help gather evidence to strengthen cases against removal.
+            <p>Pueblo Unido is a non-profit organization that supports Portland metro community members in the fight against deportation. We connect clients to adequate legal representation and help gather evidence to strengthen cases against
+              removal.
             </p>
             <a class="button" href="volunteer.html.en">Volunteer</a>
           </div>
@@ -102,15 +103,27 @@
             <div class="horizontal-line">
             </div>
           </div>
+<<<<<<< HEAD
           <div class="heading__text">
             <p>Pueblo Unido provides legal service navigation and client advocate support for immigrants who are currently in removal proceedings. Those who are NOT currently in removal proceedings may contact Pueblo Unido for a list of nonprofit organizations
+=======
+          <div class="need-help__text">
+            <p>Pueblo Unido provides legal service navigation and client advocate support for immigrants who are currently in removal proceedings. Those who are NOT currently in removal proceedings may contact Pueblo Unido for a list of nonprofit
+              organizations
+>>>>>>> feature/add_x_disclaimer
               in the Portland area who may be able to help.
             </p>
             <p>Don’t know whether you’re in removal proceedings or not? </p>
             <a class="button" href="get-help-detention.html.en">Facing Removal</a>
           </div>
+<<<<<<< HEAD
           <div class="heading__text">
             <p>*Disclaimer*: Pueblo Unido PDX is not a law firm; we are not attorneys and we do not offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they receive the advice they are seeking.</p>
+=======
+          <div class="need-help__text">
+            <p>*Disclaimer*: Pueblo Unido PDX is not a law firm; we are not attorneys and we do not offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they receive the advice they
+              are seeking.</p>
+>>>>>>> feature/add_x_disclaimer
           </div>
         </div>
       </div>
@@ -122,8 +135,8 @@
           <h2>Upcoming Events</h2>
           <div class="horizontal-line"></div>
           <!-- Facebook iFrame -->
-          <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043" width="100%"
-            height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" adapt-container-width="true"></iframe>
+          <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043"
+            width="100%" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" adapt-container-width="true"></iframe>
 
           <!-- Twitter iFrame
                         <a class="button" class="twitter-timeline" data-width="250" data-height="500" href="https://twitter.com/PuebloUnidoPDX?ref_src=twsrc%5Etfw">Tweets by PuebloUnidoPDX</a>
@@ -139,6 +152,26 @@
       <div class="horizontal-line"></div>
       <p>Donate to help keep families together, support immigrant rights, and build resilient communities.</p>
       <a class="button button--inverse" href="donate.html.en">Donate</a>
+    </div>
+  </section>
+  <section class="disclaimer">
+    <div class="disclaimer__subheadline">
+      <h1>Why Latinx?</h1>
+      <div class="horizontal-line"></div>
+    </div>
+  </section>
+  <section class="heading heading--disclaimer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 align-middle">
+          <div class="heading__text">
+            <p>We use terms like Latinx (Latino/a) and todxs (todos/as) to be inclusive of the LGBT/Queer (Cuir) community. Using ‘x’ at the end of words (and increasingly ‘e’) allows us to avoid prioritizing either the masculine or feminine, and
+              recognizes that there are people who don’t identify with either binary gender.</p>
+            <p>For more information about the LGBT/Queer community, please click here, here and here (input links).</p>
+            <p>If you are part of the LGBT/Queer community and would like to send us feedback on inclusive language or more (updated) resources, please email us at <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 </body>

@@ -142,7 +142,7 @@
   </section>
   <section class="disclaimer">
     <div class="disclaimer__subheadline">
-      <h1>¿Qué es El Género?</h1>
+      <h1>¿Porque Latinx?</h1>
       <div class="horizontal-line"></div>
     </div>
   </section>
@@ -151,83 +151,9 @@
       <div class="row">
         <div class="col-md-12 align-middle">
           <div class="heading__text">
-            <p>El género es la etiqueta que usamos para describir cómo nos identificamos. Los doctores usualmente asumen el género de un bebé de acuerdo a los genitales del mismo—a esto lo llamamos género asignado al nacer. Desafortunadamente,
-              ésta
-              práctica mantiene la creencia de que el género es dictado por los genitales, cuando realmente es una identidad aparte de las características físicas de una persona. Usualmente, el género asignado al nacer es el género con el que el
-              bebé, y
-              luego adulto, se identifica—éstas personas son cisgénero, hombres cis y mujeres cis. Sin embargo, eso no es una experiencia universal—habemos muchos los cuales no nos identificamos con el género que nos han asignado al nacer,
-              irrespectivamente de nuestros genitales. La mayoría de estas personas nos identificamos como personas transgénero—mujeres trans u hombres trans.</p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12 align-middle">
-          <div class="heading__subheadline">
-            <h2>¿Qué es El Género Cuir, Fluido, Neutro?</h2>
-            <div class="horizontal-line"></div>
-          </div>
-          <div class="heading__text">
-            <p>Los géneros cuir, fluidos y neutros son considerados géneros bajo la clasificación transgénero. Cada uno de estos géneros puede significar algo diferente para cada persona, pero en términos de lenguaje y pronombres, tienden a ser
-              similares—muchas de las personas que se identifican con ellos en inglés tienden a usar pronombres neutros. En español, los pronombres neutros no existen de manera oficial, pero tranqui que más abajo hablaremos de las opciones que
-              podemos
-              usar para incluir a todos en nuestras conversaciones.</p>
-
-            <p>Sin embargo, el idioma español moderno no se presta fácilmente a una idea flexible del género, reforzando la idea de que el género es una identidad binaria (es decir, que sólo hay dos: hombre y mujer) y con ella la idea de que nadie
-              se
-              identifica de manera diferente. Pero eso no es el caso, muchos de nosotros (y me incluyo a mí, como persona de género fluido) no nos identificamos con el género de hombre o mujer, y hay otras personas que se identifican con más de un
-              género,
-              por lo tanto necesitamos hablar sobre qué lenguaje está a nuestra disposición para asegurarnos de que tratamos a todos aquellos que conocemos con dignidad y respeto, sea cual sea su género.</p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12 align-middle">
-          <div class="heading__subheadline">
-            <h2>¿Qué Son Los Pronombres Personales?</h2>
-            <div class="horizontal-line"></div>
-          </div>
-          <div class="heading__text">
-            <p>Los pronombres personales son simplemente las palabras que usamos para hablar sobre alguien sin usar su nombre, por ejemplo: él, ella, ellos. Por comodidad y abreviación, me referiré en éste ensayo a los pronombres personales
-              simplemente
-              como ‘pronombres.’</p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12 align-middle">
-          <div class="heading__subheadline">
-            <h2>¿Cómo Dirigirse a Las Personas Que Se Identifican Como Género Neutro?</h2>
-            <div class="horizontal-line"></div>
-          </div>
-          <div class="heading__text">
-            <p>Antes de comenzar, quiero aclarar que entre las personas transgénero y de género fluido, muchas deciden usar pronombres binarios (él o ella) por una variedad de motivos, entre ellos para evitar conversaciones que puedan terminar en
-              violencia. Ésto no cambia el hecho de que se identifican como género fluido o tercer género—no le quita validez a su género, sea cual sea.</p>
-
-            <p>Ahora, hablemos de las personas que deciden que los pronombres binarios no son los adecuados. En éste caso, tenemos opciones:</p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12 align-middle">
-          <div class="heading__subheadline">
-            <h2>Latine/Latinx</h2>
-            <div class="horizontal-line"></div>
-          </div>
-          <div class="heading__text">
-            <p>En favor de crear términos de género neutro, hispanohablantes trans (y sus aliados) han creado la práctica de sustituir las vocales al final de las palabras con la letra “e” o “x.” Aquí una explicación de cada opción:</p>
-            <ul>
-              <li>Latinx: se pronuncia “latinex” o “latinix.” La equis funciona como sufijo neutro, y sustituye el símbolo arroba (@) que se usó como sufijo neutro en el pasado. Por ejemplo, “mi amigo Dani es muy buena persona” se convierte en “mi
-                amigx Dani es muy buena persona.”</li>
-
-              <li>Latine: similar a Latinx, la vocal al final de la palabra es sustituida por la letra “e.” Ésta práctica es un poco más nueva pero lentamente ha estado ganando más apoyo que la versión anterior (Latinx) debido a que su pronunciación
-                es más intuitiva y tiene potencial para mayor uso. Ésta práctica hace uso del hecho de que ya hay palabras en español de género neutro que terminan en “e,” por ejemplo “estudiante,” “paciente,” e “hispanohablante;” y también crea
-                nuevas posibilidades para los pronombres disponibles en español, lo cual hace su futura inclusión formal en el lenguaje español muchísimo más posible que “Latinx.” Con ésta estrategia, “ele” y “elle” pueden ser usados en lugar de
-                “ella” o “él” dependiendo de la preferencia de la persona. “Vosotro/as” puede ser “vosotres” y “ustedes” queda intacto, ya usando la “e” que no asigna género.</li>
-            </ul>
-            <p>Ahora, quedemos claros de que introducir prácticas nuevas a nuestro idioma puede ser incómodo, e incluso difícil, para muchas personas. Para muchos puede ser frustrante al inicio, como cualquier habilidad nueva lo es, pero es
-              importante recordar—y enfocarnos—en la razón de nuestro esfuerzo: no es la perfección, sino las ganas de tener un lenguaje que honre la identidad de todos, y que se adapte y celebre la diversidad de nuestra comunidad, en vez de
-              ignorarla en favor de la comodidad.</p>
-
+            <p>Usamos términos como Latinx (Latino/a) y todxs (todos/as) para ser inclusivos de la comunidad LGBT/Queer (Cuir). Usando ‘x’ al final (y ultimamente mas ‘e’) permita evitar dar preferencia al masculino o femenino, y reconozca que hay gente que no se identifican con ninguno de los dos géneros binarios.</p>
+            <p>Para más información sobre la comunidad LGBT/Queer busca aqui, aqui y aqui (input links)</p>
+            <p>Si eres parte de la comunidad LGBT/Queer y quieres darnos consejo sobre lenguaje inclusivo (feedback?), o si tienes más recursos (recientes), por favor escribenos al <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>.</p>
           </div>
         </div>
       </div>

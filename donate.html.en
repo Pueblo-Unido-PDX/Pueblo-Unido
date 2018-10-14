@@ -84,10 +84,10 @@
                 <div class="col-md-12">
                   <h3>Check</h3>
                   <p>Make check payable to Pueblo Unido PDX, and mail to:<br>
-                  17405 NE Glisan Street<br>
-                  Portland, OR<br>
-                  97230</p>
-                    <p>&nbsp;</p>
+                    17405 NE Glisan Street<br>
+                    Portland, OR<br>
+                    97230</p>
+                  <p>&nbsp;</p>
                 </div>
                 <div class="col-md-12">
                   <h3>PayPal</h3>
@@ -98,7 +98,7 @@
                     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                     <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                   </form>
-                    <p>&nbsp;</p>
+                  <p>&nbsp;</p>
                 </div>
                 <div class="col-md-12">
                   <h3>Venmo</h3>
@@ -139,8 +139,8 @@
                 </div>
                 <br />
                 <p>Pueblo Unido’s mission is <strong>to empower and provide resources
-                  to Latinxs with vulnerable immigration status, and to advocate for
-                  solutions that build just communities.</strong> We help people navigate
+                    to Latinxs with vulnerable immigration status, and to advocate for
+                    solutions that build just communities.</strong> We help people navigate
                   immigration legal services, advocate for effective representation,
                   and support evidence-gathering to strengthen cases against
                   deportation. </p>
@@ -157,7 +157,7 @@
                     rights.</li>
                 </ul>
                 <p><strong>YOU</strong> are a vital part of <strong>keeping
-                  families together</strong> and helping us realize our vision of
+                    families together</strong> and helping us realize our vision of
                   a <strong>just and resilient community for all</strong>.</p>
               </div>
             </div>
@@ -186,13 +186,33 @@
                   members win their cases against deportation, get out of
                   detention, and reunite with their loved ones. </p>
                 <strong>Pueblo Unido PDX is a 501(c)3 non-profit organization,
-                        and your contribution is tax-deductible to the fullest extent
-                        of the law.</strong>
+                  and your contribution is tax-deductible to the fullest extent
+                  of the law.</strong>
               </div>
             </div>
           </div>
           <br>
           <a class="button" href="sponsors.html.en">See Our Sponsors</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="disclaimer">
+    <div class="disclaimer__subheadline">
+      <h1>Why Latinx?</h1>
+      <div class="horizontal-line"></div>
+    </div>
+  </section>
+  <section class="heading heading--disclaimer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 align-middle">
+          <div class="heading__text">
+            <p>We use terms like Latinx (Latino/a) and todxs (todos/as) to be inclusive of the LGBT/Queer (Cuir) community. Using ‘x’ at the end of words (and increasingly ‘e’) allows us to avoid prioritizing either the masculine or feminine, and
+              recognizes that there are people who don’t identify with either binary gender.</p>
+            <p>For more information about the LGBT/Queer community, please click here, here and here (input links).</p>
+            <p>If you are part of the LGBT/Queer community and would like to send us feedback on inclusive language or more (updated) resources, please email us at <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>.</p>
+          </div>
         </div>
       </div>
     </div>
