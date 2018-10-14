@@ -83,10 +83,10 @@
             <p>Pueblo Unido provides legal service navigation and client advocate
               support for immigrants who are facing deportation. We connect
               clients to adequate legal representation and help gather evidence to
-              strengthen cases against removal.  Since our formation in April
+              strengthen cases against removal. Since our formation in April
               2017, five of our clients have been released from detention and
               reunited with their families.</p>
-            </div>
+          </div>
         </div>
         <div class="col-md-5 align-middle">
           <div class="heading__image">
@@ -117,18 +117,38 @@
               against deportation. Pueblo Unido organized in April 2017 in
               response to this injustice to keep families and our communities
               together. </p>
-            </div>
           </div>
-          <div class="col-md-5 align-middle">
-            <div class="heading__image">
-              <img src="./assets/images/pu-images/png/new/why-legal-representation.png" />
-            </div>
+        </div>
+        <div class="col-md-5 align-middle">
+          <div class="heading__image">
+            <img src="./assets/images/pu-images/png/new/why-legal-representation.png" />
           </div>
+        </div>
       </div>
     </div>
 
     </div>
     </div>
+    </div>
+  </section>
+  <section class="disclaimer">
+    <div class="disclaimer__subheadline">
+      <h1>Why Latinx?</h1>
+      <div class="horizontal-line"></div>
+    </div>
+  </section>
+  <section class="heading heading--disclaimer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 align-middle">
+          <div class="heading__text">
+            <p>We use terms like Latinx (Latino/a) and todxs (todos/as) to be inclusive of the LGBT/Queer (Cuir) community. Using ‘x’ at the end of words (and increasingly ‘e’) allows us to avoid prioritizing either the masculine or feminine, and
+              recognizes that there are people who don’t identify with either binary gender.</p>
+            <p>For more information about the LGBT/Queer community, please click here, here and here (input links).</p>
+            <p>If you are part of the LGBT/Queer community and would like to send us feedback on inclusive language or more (updated) resources, please email us at <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 </body>
