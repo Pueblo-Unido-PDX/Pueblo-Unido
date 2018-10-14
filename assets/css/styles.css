@@ -480,7 +480,7 @@ section.disclaimer {
   }
 
   .heading {
-    padding: 4em 4em;
+    padding: 0 4em;
   }
 }
 
@@ -511,7 +511,7 @@ section.disclaimer {
   }
 
   .heading {
-    padding: 4em 2em;
+    padding: 0 2em;
   }
 
   .heading .container {
