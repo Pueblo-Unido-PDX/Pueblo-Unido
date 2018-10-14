@@ -54,7 +54,7 @@ iframe {
 }
 
 .venmo-logo img {
-  width: 95px;
+  width: 95px !important;
 }
 
 .standard-link {
