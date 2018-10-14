@@ -109,12 +109,16 @@
         </div>
         <div class="col-md-5 align-middle">
           <div class="heading__image">
-            <img src="./assets/images/pu-images/png/team--july.png" />
+            <div class="col-md-5 align-middle">
+              <div class="heading__image">
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/7G4MtHF-ANI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       <div class="row">
-        <div class="col-md-12 align-middle">
+        <div class="col-md-7 align-middle">
           <div id="need-help" class="need-help__subheadline">
             <h2>¿Necesita Ayuda?</h2>
             <div class="horizontal-line">
@@ -128,6 +132,11 @@
           </div>
           <div class="heading__text">
             <p>*Aviso de responsabilidad*: Pueblo Unido PDX <u>no</u> es un despacho de abogados; <u>no somos</u> abogados y <u>no</u> ofrecemos consejos legales. En cambio, ayudamos a conectar clientes con abogados de inmigración con experiencia y les damos seguimiento para asegurarnos que reciban la información y el apoyo que necesitan.</p>
+          </div>
+        </div>
+        <div class="col-md-5 align-middle">
+          <div class="heading__image">
+            <img src="./assets/images/pu-images/png/team--july.png" />
           </div>
         </div>
       </div>

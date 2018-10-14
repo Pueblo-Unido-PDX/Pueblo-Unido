@@ -111,12 +111,12 @@
         </div>
         <div class="col-md-5 align-middle">
           <div class="heading__image">
-            <img src="./assets/images/pu-images/png/team--july.png" />
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/GJVg-gP4H2I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
         </div>
       </div>
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-7 align-middle">
           <div class="heading__subheadline">
             <h2>Need Help?</h2>
             <div class="horizontal-line">
@@ -133,6 +133,11 @@
           <div class="heading__text">
             <p>*Disclaimer*: Pueblo Unido PDX is not a law firm; we are not attorneys and we do not offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they receive the advice they
               are seeking.</p>
+          </div>
+        </div>
+        <div class="col-md-5 align-middle">
+          <div class="heading__image">
+            <img src="./assets/images/pu-images/png/team--july.png" />
           </div>
         </div>
       </div>
