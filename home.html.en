@@ -103,27 +103,17 @@
             <div class="horizontal-line">
             </div>
           </div>
-<<<<<<< HEAD
-          <div class="heading__text">
-            <p>Pueblo Unido provides legal service navigation and client advocate support for immigrants who are currently in removal proceedings. Those who are NOT currently in removal proceedings may contact Pueblo Unido for a list of nonprofit organizations
-=======
           <div class="need-help__text">
             <p>Pueblo Unido provides legal service navigation and client advocate support for immigrants who are currently in removal proceedings. Those who are NOT currently in removal proceedings may contact Pueblo Unido for a list of nonprofit
               organizations
->>>>>>> feature/add_x_disclaimer
               in the Portland area who may be able to help.
             </p>
             <p>Don’t know whether you’re in removal proceedings or not? </p>
             <a class="button" href="get-help-detention.html.en">Facing Removal</a>
           </div>
-<<<<<<< HEAD
-          <div class="heading__text">
-            <p>*Disclaimer*: Pueblo Unido PDX is not a law firm; we are not attorneys and we do not offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they receive the advice they are seeking.</p>
-=======
           <div class="need-help__text">
             <p>*Disclaimer*: Pueblo Unido PDX is not a law firm; we are not attorneys and we do not offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they receive the advice they
               are seeking.</p>
->>>>>>> feature/add_x_disclaimer
           </div>
         </div>
       </div>
