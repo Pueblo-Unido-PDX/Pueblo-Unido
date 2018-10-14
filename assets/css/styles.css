@@ -383,6 +383,13 @@ section.disclaimer {
   text-align: center;
 }
 
+.cta-callout__subheadline p {
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 1em 0 2em 0;
+}
+
 .disclaimer__subheadline {
   padding: 9em 0;
 }
