@@ -49,6 +49,14 @@ iframe {
   margin: 2em 1em;
 }
 
+.col-md-4 {
+  text-align: center;
+}
+
+.venmo-logo img {
+  width: 95px;
+}
+
 .standard-link {
   color: #7da7d9;
 }
