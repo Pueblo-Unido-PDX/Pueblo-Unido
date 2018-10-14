@@ -102,13 +102,13 @@
             <div class="horizontal-line">
             </div>
           </div>
-          <div class="need-help__text">
+          <div class="heading__text">
             <p>Pueblo Unido brinda ayuda a inmigrantes, que están actualmente enfrentando un proceso judicial de deportación, a navegar los servicios legales y exigir una buena representación legal. Las personas que NO están actualmente enfrentando un proceso judicial pueden contactar a Pueblo Unido para recibir una lista de organizaciones sin fines de lucro en Portland que tal vez puedan ser de ayuda.
             </p>
             <p>¿No sabe si está en proceso de deportación o no?</p>
             <a class="button" href="get-help-detention.html.es">Enfrentando Deportación</a>
           </div>
-          <div class="need-help__text">
+          <div class="heading__text">
             <p>*Aviso de responsabilidad*: Pueblo Unido PDX <u>no</u> es un despacho de abogados; <u>no somos</u> abogados y <u>no</u> ofrecemos consejos legales. En cambio, ayudamos a conectar clientes con abogados de inmigración con experiencia y les damos seguimiento para asegurarnos que reciban la información y el apoyo que necesitan.</p>
           </div>
         </div>
