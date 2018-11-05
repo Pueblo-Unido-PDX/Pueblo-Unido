@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Ser Voluntarix</title>
+  <title>¿Porque Latinx? - Pueblo Unido PDX</title>
   <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
   <link href="https://fonts.googleapis.com/css?family=Barlow:400" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -75,58 +75,43 @@
         <li class="navigation__link">
           <a class="button--link" href="why-latinx.html.es">¿Porque Latinx?</a>
         </li>
+        
     </div>
   </div>
 </header>
-  <section class="introduction introduction--volunteer">
+  <section class="introduction introduction--donate">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="introduction__text">
-            <h1>Ser Voluntarix</h1>
+            <h1>¿Porque Latinx?</h1>
           </div>
           <div class="introduction__link">
-            <a class="button" href="volunteer.html.en">Read in English</a>
+            <a class="button" href="why-latinx.html.en">Read in English</a>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <section class="heading">
+<section class="heading heading--disclaimer">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="heading__subheadline">
-            <h2>¿Por qué ser voluntarix?</h2>
-            <div class="horizontal-line"></div>
+            <h2>¿Porque Latinx?</h2>
+            <div class="horizontal-line">
+            </div>
           </div>
-          <br />
-          <p>Pueblo Unido es impulsado por nuestrxs voluntarixs y el apoyo de la
-           comunidad, las organizaciones, y los negocios locales. Al ser
-           voluntarix con Pueblo Unido, usted ayudará a crecer nuestra
-           organización y aumentar nuestra capacidad para luchar contra la
-           deportación y reunir a las familias de nuestra comunidad.
-          </p>
-        </div>
-        <div class="col-md-12">
-          <div class="heading__subheadline">
-            <h2>Únase</h2>
-            <div class="horizontal-line"></div>
+          <div class="heading__text">
+            <p>Usamos términos como Latinx (Latino/a) y todxs (todos/as) para ser inclusivos de la comunidad LGBT/Queer (Cuir). Usando ‘x’ al final (y ultimamente mas ‘e’) permita evitar dar preferencia al masculino o femenino, y reconozca que hay gente que no se identifican con ninguno de los dos géneros binarios.</p>
+            <p>Para más información sobre la comunidad LGBT/Queer busca aqui, aqui y aqui (input links)</p>
+            <p>Si eres parte de la comunidad LGBT/Queer y quieres darnos consejo sobre lenguaje inclusivo (feedback?), o si tienes más recursos (recientes), por favor escribenos al <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>.</p>
           </div>
-          <br />
-          <p>Voluntarixs se reúnen mensualmente en la librería pública de
-          Rockwood. Para horas y fechas de próximas reuniones, favor de
-          contactarnos a través de
-            <a href="mailto:pueblounidopdx@gmail.com">email</a> o
-            <a href="https://www.facebook.com/pueblounidopdx">Facebook</a>.
-          </p>
-          <br>
-          <a class="button" href="volunteer-committees.html.es">Comités de Voluntarixs</a>
         </div>
       </div>
     </div>
   </section>
-</body>
+  </body>
 <footer>
   <section class="footer">
     <div class="footer__link-row">
