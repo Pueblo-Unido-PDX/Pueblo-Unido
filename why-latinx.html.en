@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html>
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Volunteer Committees - Pueblo Unido PDX</title>
+  <title>Help for Non-Detention Cases - Pueblo Unido PDX</title>
   <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
   <link href="https://fonts.googleapis.com/css?family=Barlow:400" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -78,90 +75,35 @@
       </div>
     </div>
   </header>
-  <section class="introduction introduction--volunteer--committees">
+  <section class="introduction introduction--get-help-other">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="introduction__text">
-            <h1>Volunteer Committees</h1>
+            <h1>Get Help</h1>
+            <p>For other immigration cases cases</p>
           </div>
           <div class="introduction__link">
-            <a class="button" href="volunteer-committees.html.es">Leer en Español</a>
+            <a class="button" href="get-help-other.html.es">Leer en Español</a>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <section class="heading">
+    <section class="heading heading--disclaimer">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <p>We welcome new volunteers to join the following committees:</p>
-          <div>
-            <h3>Community Outreach Committee</h3>
-            <p>The Community Outreach committee is responsible for:</p>
-            <ul>
-              <li>Event tabling</li>
-              <li>Door-knocking</li>
-              <li>Phonebanking</li>
-              <li>Writing a newsletter</li>
-            </ul>
+          <div class="heading__subheadline">
+            <h2>Why Latinx?</h2>
+            <div class="horizontal-line">
+            </div>
           </div>
-          <div>
-            <h3>Fundraising/Event Planning Committee</h3>
-            <p>The Fundraising/Event Planning committee is responsible for:</p>
-            <ul>
-              <li>Planning community events and fundraisers</li>
-              <li>Donation solicitation</li>
-              <li>Grant writing</li>
-              <li>Online fundraising</li>
-            </ul>
-          </div>
-          <div>
-            <h3>Social Media Committee</h3>
-            <p>The Social Media committee is responsible for:</p>
-            <ul>
-              <li>Managing Pueblo Unido Instagram, Twitter, Facebook</li>
-              <li>Frequent posts on all platforms</li>
-            </ul>
-          </div>
-          <div>
-            <h3>Interpretation/Translation Committee</h3>
-            <p>The Interpretation/Translation committee is responsible for:</p>
-            <ul>
-              <li>Remote translation of external communications and materials</li>
-              <li>Live interpretation at events</li>
-            </ul>
-          </div>
-          <div>
-            <h3>Tech Committee</h3>
-            <p>The Tech committee is responsible for:</p>
-            <ul>
-              <li>Developing and managing the Pueblo Unido website</li>
-              <li>Supporting material development and graphic design</li>
-            </ul>
-          </div>
-          <div>
-            <h3>Research and Material Development Committee</h3>
-            <p>The Research and Material Development committee is responsible
-              for:</p>
-            <ul>
-              <li>Conducting research and writing summary memos/briefs for
-                internal use</li>
-              <li>Compiling and developing case management resources</li>
-              <li>Creating volunteer resources (volunteer handbook, interest
-                forms, etc)</li>
-            </ul>
-          </div>
-          <div>
-            <h3>Film/photography/videography</h3>
-            <p>The film/photography/videography committee is responsible for:</p>
-            <ul>
-              <li>Directing and producing Pueblo Unido informational and
-                promotional videos;</li>
-              <li>Taking photos and videos at events</li>
-              <li>Creating/editing content for social media promotion</li>
-            </ul>
+          <div class="heading__text">
+            <p>We use terms like Latinx (Latino/a) and todxs (todos/as) to be inclusive of the LGBT/Queer (Cuir) community. Using ‘x’ at the end of words (and increasingly ‘e’) allows us to avoid prioritizing either the masculine or feminine, and
+              recognizes that there are people who don’t identify with either binary gender.</p>
+            <p>For more information about the LGBT/Queer community, please click here, here and here (input links).</p>
+            <p>If you are part of the LGBT/Queer community and would like to send us feedback on inclusive language or more (updated) resources, please email us at <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>.</p>
           </div>
         </div>
       </div>

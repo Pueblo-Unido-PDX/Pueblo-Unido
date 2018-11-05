@@ -72,6 +72,9 @@
           <li class="navigation__link">
             <a class="button--link" href="about.html.en">About</a>
           </li>
+          <li class="navigation__link">
+            <a class="button--link" href="why-latinx.html.en">Why Latinx?</a>
+          </li>
       </div>
     </div>
   </header>
