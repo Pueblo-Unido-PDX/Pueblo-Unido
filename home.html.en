@@ -17,7 +17,7 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
+      ga('require', 'GTM-KQTNV66');
       gtag('config', 'UA-55887883-3');
     </script>
   <!-- /Google Analytics -->
