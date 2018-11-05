@@ -72,6 +72,9 @@
         <li class="navigation__link">
           <a class="button--link" href="about.html.es">Sobre Nosotros</a>
         </li>
+        <li class="navigation__link">
+          <a class="button--link" href="why-latinx.html.es">¿Porque Latinx?</a>
+        </li>
     </div>
   </div>
 </header>
@@ -84,24 +87,6 @@
           </div>
           <div class="introduction__link">
             <a class="button" href="volunteer-committees.html.en">Read in English</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section class="heading heading--disclaimer">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="heading__subheadline">
-            <h2>¿Porque Latinx?</h2>
-            <div class="horizontal-line">
-            </div>
-          </div>
-          <div class="heading__text">
-            <p>Usamos términos como Latinx (Latino/a) y todxs (todos/as) para ser inclusivos de la comunidad LGBT/Queer (Cuir). Usando ‘x’ al final (y ultimamente mas ‘e’) permita evitar dar preferencia al masculino o femenino, y reconozca que hay gente que no se identifican con ninguno de los dos géneros binarios.</p>
-            <p>Para más información sobre la comunidad LGBT/Queer busca aqui, aqui y aqui (input links)</p>
-            <p>Si eres parte de la comunidad LGBT/Queer y quieres darnos consejo sobre lenguaje inclusivo (feedback?), o si tienes más recursos (recientes), por favor escribenos al <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>.</p>
           </div>
         </div>
       </div>
