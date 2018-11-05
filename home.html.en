@@ -99,7 +99,7 @@
   <section class="heading">
     <div class="container">
       <div class="row">
-        <div class="col-md-7 align-middle">
+        <div class="col-md-12 align-middle">
           <div class="heading__subheadline">
             <h2>What is Pueblo Unido?</h2>
             <div class="horizontal-line">
@@ -112,9 +112,9 @@
             <a class="button" href="volunteer.html.en">Volunteer</a>
           </div>
         </div>
-        <div class="col-md-5 align-middle">
+        <div class="col-md-12 align-middle">
           <div class="heading__image">
-            <iframe width="840" height="473" src="https://www.youtube.com/embed/GJVg-gP4H2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            <iframe width="100%" height="473" src="https://www.youtube.com/embed/GJVg-gP4H2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture" allowfullscreen=""></iframe>
           </div>
         </div>
       </div>
@@ -158,7 +158,7 @@
   <section class="heading">
     <div class="container">
       <div class="row">
-        <div class="col-md-7">
+        <div class="col-md-12">
           <h2>Upcoming Events</h2>
           <div class="horizontal-line"></div>
           <!-- Facebook iFrame -->

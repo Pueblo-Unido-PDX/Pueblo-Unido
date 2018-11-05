@@ -99,7 +99,7 @@
   <section class="heading">
     <div class="container">
       <div class="row">
-        <div class="col-md-7">
+        <div class="col-md-12">
           <div class="heading__subheadline">
             <h2>¿Qué es Pueblo Unido?</h2>
             <div class="horizontal-line">
@@ -111,9 +111,9 @@
             <a class="button" href="volunteer.html.es">Involucrarse</a>
           </div>
         </div>
-        <div class="col-md-5 align-middle">
+        <div class="col-md-12 align-middle">
           <div class="heading__image">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/7G4MtHF-ANI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <iframe width="100%" height="473" src="https://www.youtube.com/embed/7G4MtHF-ANI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
         </div>
       </div>
@@ -144,7 +144,7 @@
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-md-7">
+        <div class="col-md-12">
           <h2>Próximos Eventos</h2>
           <div class="horizontal-line"></div>
           <!-- Facebook iFrame -->
