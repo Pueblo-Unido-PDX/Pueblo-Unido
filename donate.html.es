@@ -103,54 +103,52 @@
           <br />
           <div class="donate__methods">
             <div class="container">
-              <div class="row">
-                <div class="col-md-12">
-                  <h3>Cheque</h3>
+            <div class="row">
+              <div class="col-md-4">
+                <a href="https://causes.benevity.org/causes/840-822488480" target="blank">
+                  <img src="./assets/images/donate/benevity-logo.png" />
+                </a>
+                <p>&nbsp;</p>
+              </div>
+              <div class="col-md-4">
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="hosted_button_id" value="AMVZPT6B33UNE">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                </form>
+                <p>&nbsp;</p>
+              </div>
+              <div class="col-md-4 venmo-logo">
+                <a href="https://venmo.com/pueblounido-pdx" target="blank">
+                  <img class="venmo-logo" src="./assets/images/donate/venmo.png" />
+                </a>
+                <p>&nbsp;</p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-4">
+                <a href="https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=82-2488480" target="blank">
+                  <img src="./assets/images/donate/donate-now-logo.png" />
+                </a>
+                <p>&nbsp;</p>
+              </div>
+              <div class="col-md-4">
+                <a href="https://smile.amazon.com/ch/82-2488480" target="blank">
+                  <img src="./assets/images/donate/amazon-smile.png" />
+                </a>
+                <p>&nbsp;</p>
+              </div>
+              <div class="col-md-4">
+                <h3>Cheque</h3>
                   <p>Haga el cheque a nombre de Pueblo Unido PDX y envíelo a:<br>
                   17405 NE Glisan Street<br>
                   Portland, OR<br>
                   97230</p>
-                  <br>
-                </div>
-                <div class="col-md-12">
-                  <h3>PayPal</h3>
-                  <!-- PayPal Link -->
-                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                    <input type="hidden" name="cmd" value="_s-xclick">
-                    <input type="hidden" name="hosted_button_id" value="M7CDSCTVMKP74">
-                    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                  </form>
-                  <br>
-                </div>
-                <div class="col-md-12">
-                  <h3>Venmo</h3>
-                  <a href="https://venmo.com/pueblounido-pdx" target="blank">
-                    @PuebloUnido-PDX
-                  </a><p>&nbsp;</p>
-                </div>
-                <div class="col-md-12">
-                  <h3>Donate for Good</h3>
-                  <a href="https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=82-2488480" target="blank">
-                    <img src="./assets/images/donate/donate-now-logo.png" />
-                  </a>
-                  <p>&nbsp;</p>
-                </div>
-                <div class="col-md-12">
-                  <h3>Amazon Smile</h3>
-                  <a href="https://smile.amazon.com/ch/82-2488480" target="blank">
-                    <img src="./assets/images/donate/amazon-smile.png" />
-                  </a>
-                  <p>&nbsp;</p>
-                </div>
-                <div class="col-md-12">
-                  <a href="https://causes.benevity.org/causes/840-822488480" target="blank">
-                    <h3>Benevity Causes</h3>
-                  </a>
-                  <p>&nbsp;</p>
-                </div>
+                <p>&nbsp;</p>
               </div>
             </div>
+          </div>
           </div>
         </div>
       </div>
