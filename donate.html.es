@@ -111,6 +111,7 @@
                 <p>&nbsp;</p>
               </div>
               <div class="col-md-4">
+                <img src="./assets/images/donate/paypal.png" />
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                   <input type="hidden" name="cmd" value="_s-xclick">
                   <input type="hidden" name="hosted_button_id" value="AMVZPT6B33UNE">
@@ -139,7 +140,7 @@
                 </a>
                 <p>&nbsp;</p>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-4 check-alignment">
                 <h3>Cheque</h3>
                   <p>Haga el cheque a nombre de Pueblo Unido PDX y envíelo a:<br>
                   17405 NE Glisan Street<br>

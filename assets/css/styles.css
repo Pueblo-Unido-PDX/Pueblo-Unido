@@ -326,6 +326,10 @@ iframe {
   border-radius: 10px;
 }
 
+.heading .check-alignment {
+  text-align: left;
+}
+
 .heading__text {
   padding: 2em 0;
   width: 100%;
