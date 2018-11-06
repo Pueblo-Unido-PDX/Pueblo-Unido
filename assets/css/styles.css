@@ -46,6 +46,11 @@ iframe {
   margin: 2em 1em;
 }
 
+form input {
+  margin: 0 auto;
+  display: inherit;
+}
+
 .col-md-4 {
   text-align: center;
 }
