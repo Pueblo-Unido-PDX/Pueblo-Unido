@@ -345,6 +345,21 @@ form input {
   width: 80%;
 }
 
+.heading__text--small-disclaimer {
+    font-size: 12px;
+    padding: 0;
+}
+
+.heading__text--medium-width {
+    width: 60%;
+
+    @media only screen and (max-width: 768px) {
+      .heading__text--medium-width {
+        width: 100%;
+      }
+    }
+}
+
 .heading__image img {
   width: 100%;
   border-radius: 25px;
