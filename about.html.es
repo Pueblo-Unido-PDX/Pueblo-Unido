@@ -107,7 +107,7 @@
               legales y exigir una representación eficaz. Conectamos a nuestrxs
               clientes con representación legal adecuada y ayudamos a recopilar
               evidencia para fortalecer los casos contra la deportación. Desde que
-              se formó Pueblo Unido en abril de 2017, <strong>cinco de nuestrxs
+              se formó Pueblo Unido en abril de 2017, <strong>seis de nuestrxs
             clientes han sido liberadxs de la detención y reunidxs con sus
             familias.</strong></p>
           </div>
