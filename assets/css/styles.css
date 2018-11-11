@@ -325,6 +325,10 @@ form input {
   padding: 4em 0;
 }
 
+.heading .row .icon-row {
+  padding: 0;
+}
+
 .heading .col-md-12 img {
   width: 180px;
   text-align: center;
