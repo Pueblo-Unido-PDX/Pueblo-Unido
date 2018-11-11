@@ -103,7 +103,7 @@
           <br />
           <div class="donate__methods">
             <div class="container">
-              <div class="row">
+              <div class="row icon-row">
                 <div class="col-md-4">
                   <a href="https://causes.benevity.org/causes/840-822488480" target="blank">
                     <img src="./assets/images/donate/benevity-logo.png" />
@@ -127,7 +127,7 @@
                   <p>&nbsp;</p>
                 </div>
               </div>
-              <div class="row">
+              <div class="row icon-row">
                 <div class="col-md-4">
                   <a href="https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=82-2488480" target="blank">
                     <img src="./assets/images/donate/donate-now-logo.png" />
