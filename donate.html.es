@@ -154,7 +154,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 banner-image">
           <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2Q7wozA%3Ffbclid%3DIwAR2MW6GPSFFWPc6W0MiF0QCfDxErbMr9arL2vaLRiCquNBkb3-gneYMLVVg&h=AT3ITEpnNbdFMoTfBRbialkM5pEU8HJBtEi9XGfcN-A4pqFwxK2Pz3C5j2WT2dL654O4jL20LpCZ_Ac3UCRvcy4YN7u5Uw5YTqhSufbNpbzo8V9nNEBp1ESwj5pYiNiYnXU2akFKzbwfrNOf5yqn4gvKIuLHa953g_80Pt1cLQW2Fpzq17Ip4yAt0BWY9F5z7O3CwNR-JTtBDWCABN2spEuORtcID5rvIpNduAMqEeie-415KG5FyJGBcV8LvYzbNYfQDpZnQmar9OMqEBg0eE7nRU6U2ginMQpxJitlFUOzKKmX2Yuvme3O5GePfJgNsogN4SlQluf0l1oY6YKvK4xCwAlgQC1obvWC_ljtMON5O6p5axr6P2msfCXeUMqHAwt1iddIP3G8rGwMpPZ9WuS8U-lmoChGjQNkUo2wzydBA4rg1ay3eKpmn55RNak-eRlWoWvgq2Yk3HD_HxImfn936evZc7SZFq1RSWgSsZcSPDgf3mbJKtg6e18EEkaHFFCy3_43MP2uc2HJgUrsjZpH7gMZZ2nQMm_a6uWbYrbkCmVNjQGw1FNJkzhoXimVPVIrzQ3fKg4IA4hEuTfk77FpV6XqrJyL55dMVNQJlOXJMw9ni-8iDzb_fxqJZfwij5p3nlKY">
             <img src="assets/images/pu-images/png/give-guide.png" />
           </a>

@@ -331,6 +331,14 @@ form input {
   border-radius: 10px;
 }
 
+.heading .col-md-12 .banner-image {
+  text-align: center;
+}
+
+.heading .col-md-12 .banner-image img {
+  width: 70%;
+}
+
 .heading .check-alignment {
   text-align: left;
 }
