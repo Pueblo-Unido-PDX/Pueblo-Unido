@@ -105,7 +105,7 @@
             <div class="horizontal-line">
             </div>
           </div>
-          <div class="heading__text">
+          <div class="heading__text heading__text--medium-width">
             <p>Pueblo Unido es una organización sin fines de lucro que apoya a miembrxs de la comunidad en la zona metropolitana de Portland que luchan en contra de la deportación. Conectamos a nuestrxs clientes con representación legal adecuada y ayudamos a reunir evidencia para fortalecer los casos y evitar la deportación.
             </p>
             <a class="button" href="volunteer.html.es">Involucrarse</a>
@@ -130,7 +130,7 @@
             <p>¿No sabe si está en proceso de deportación o no?</p>
             <a class="button" href="get-help-detention.html.es">Enfrentando Deportación</a>
           </div>
-          <div class="heading__text">
+          <div class="heading__text heading__text--medium-width">
             <p>*Aviso de responsabilidad*: Pueblo Unido PDX <u>no</u> es un despacho de abogados; <u>no somos</u> abogados y <u>no</u> ofrecemos consejos legales. En cambio, ayudamos a conectar clientes con abogados de inmigración con experiencia y les damos seguimiento para asegurarnos que reciban la información y el apoyo que necesitan.</p>
           </div>
         </div>

@@ -103,54 +103,61 @@
           <br />
           <div class="donate__methods">
             <div class="container">
-            <div class="row">
-              <div class="col-md-4">
-                <a href="https://causes.benevity.org/causes/840-822488480" target="blank">
-                  <img src="./assets/images/donate/benevity-logo.png" />
-                </a>
-                <p>&nbsp;</p>
+              <div class="row">
+                <div class="col-md-4">
+                  <a href="https://causes.benevity.org/causes/840-822488480" target="blank">
+                    <img src="./assets/images/donate/benevity-logo.png" />
+                  </a>
+                  <p>&nbsp;</p>
+                </div>
+                <div class="col-md-4">
+                  <img src="./assets/images/donate/paypal.png" />
+                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                    <input type="hidden" name="cmd" value="_s-xclick">
+                    <input type="hidden" name="hosted_button_id" value="AMVZPT6B33UNE">
+                    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                  </form>
+                  <p>&nbsp;</p>
+                </div>
+                <div class="col-md-4 venmo-logo">
+                  <a href="https://venmo.com/pueblounido-pdx" target="blank">
+                    <img class="venmo-logo" src="./assets/images/donate/venmo.png" />
+                  </a>
+                  <p>&nbsp;</p>
+                </div>
               </div>
-              <div class="col-md-4">
-                <img src="./assets/images/donate/paypal.png" />
-                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                  <input type="hidden" name="cmd" value="_s-xclick">
-                  <input type="hidden" name="hosted_button_id" value="AMVZPT6B33UNE">
-                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                </form>
-                <p>&nbsp;</p>
-              </div>
-              <div class="col-md-4 venmo-logo">
-                <a href="https://venmo.com/pueblounido-pdx" target="blank">
-                  <img class="venmo-logo" src="./assets/images/donate/venmo.png" />
-                </a>
-                <p>&nbsp;</p>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-md-4">
-                <a href="https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=82-2488480" target="blank">
-                  <img src="./assets/images/donate/donate-now-logo.png" />
-                </a>
-                <p>&nbsp;</p>
-              </div>
-              <div class="col-md-4">
-                <a href="https://smile.amazon.com/ch/82-2488480" target="blank">
-                  <img src="./assets/images/donate/amazon-smile.png" />
-                </a>
-                <p>&nbsp;</p>
-              </div>
-              <div class="col-md-4 check-alignment">
-                <h3>Cheque</h3>
-                  <p>Haga el cheque a nombre de Pueblo Unido PDX y envíelo a:<br>
-                  17405 NE Glisan Street<br>
-                  Portland, OR<br>
-                  97230</p>
-                <p>&nbsp;</p>
-              </div>
+              <div class="row">
+                <div class="col-md-4">
+                  <a href="https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=82-2488480" target="blank">
+                    <img src="./assets/images/donate/donate-now-logo.png" />
+                  </a>
+                  <p>&nbsp;</p>
+                </div>
+                <div class="col-md-4">
+                  <a href="https://smile.amazon.com/ch/82-2488480" target="blank">
+                    <img src="./assets/images/donate/amazon-smile.png" />
+                  </a>
+                  <p>&nbsp;</p>
+                </div>
+                <div class="col-md-4 check-alignment">
+                  <h3>Cheque</h3>
+                    <p>Haga el cheque a nombre de Pueblo Unido PDX y envíelo a:<br>
+                    17405 NE Glisan Street<br>
+                    Portland, OR<br>
+                    97230</p>
+                  <p>&nbsp;</p>
+                </div>
             </div>
           </div>
           </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 banner-image">
+          <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2Q7wozA%3Ffbclid%3DIwAR2MW6GPSFFWPc6W0MiF0QCfDxErbMr9arL2vaLRiCquNBkb3-gneYMLVVg&h=AT3ITEpnNbdFMoTfBRbialkM5pEU8HJBtEi9XGfcN-A4pqFwxK2Pz3C5j2WT2dL654O4jL20LpCZ_Ac3UCRvcy4YN7u5Uw5YTqhSufbNpbzo8V9nNEBp1ESwj5pYiNiYnXU2akFKzbwfrNOf5yqn4gvKIuLHa953g_80Pt1cLQW2Fpzq17Ip4yAt0BWY9F5z7O3CwNR-JTtBDWCABN2spEuORtcID5rvIpNduAMqEeie-415KG5FyJGBcV8LvYzbNYfQDpZnQmar9OMqEBg0eE7nRU6U2ginMQpxJitlFUOzKKmX2Yuvme3O5GePfJgNsogN4SlQluf0l1oY6YKvK4xCwAlgQC1obvWC_ljtMON5O6p5axr6P2msfCXeUMqHAwt1iddIP3G8rGwMpPZ9WuS8U-lmoChGjQNkUo2wzydBA4rg1ay3eKpmn55RNak-eRlWoWvgq2Yk3HD_HxImfn936evZc7SZFq1RSWgSsZcSPDgf3mbJKtg6e18EEkaHFFCy3_43MP2uc2HJgUrsjZpH7gMZZ2nQMm_a6uWbYrbkCmVNjQGw1FNJkzhoXimVPVIrzQ3fKg4IA4hEuTfk77FpV6XqrJyL55dMVNQJlOXJMw9ni-8iDzb_fxqJZfwij5p3nlKY">
+            <img src="assets/images/pu-images/png/give-guide.png" />
+          </a>
         </div>
       </div>
     </div>
