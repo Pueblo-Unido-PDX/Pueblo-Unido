@@ -95,7 +95,7 @@
   <section class="heading">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-7 align-middle">
           <div class="heading__subheadline">
             <h2>Why Volunteer?</h2>
             <div class="horizontal-line"></div>
@@ -107,6 +107,11 @@
             increase capacity to fight deportation and reunite families in our
             community.
           </p>
+        </div>
+        <div class="col-md-5 align-middle">
+          <div class="heading__image">
+            <img src="./assets/images/pu-images/png/new/table-2.png" />
+          </div>
         </div>
         <div class="col-md-12">
           <div class="heading__subheadline">

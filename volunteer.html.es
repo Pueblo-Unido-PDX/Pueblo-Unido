@@ -81,12 +81,17 @@
   <section class="introduction introduction--volunteer">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-7 align-middle">
           <div class="introduction__text">
             <h1>Ser Voluntarix</h1>
           </div>
           <div class="introduction__link">
             <a class="button" href="volunteer.html.en">Read in English</a>
+          </div>
+        </div>
+        <div class="col-md-5 align-middle">
+          <div class="heading__image">
+            <img src="./assets/images/pu-images/png/new/table-2.png" />
           </div>
         </div>
       </div>
