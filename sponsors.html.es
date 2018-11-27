@@ -103,27 +103,27 @@
           <br>
           <ul>
             <li>
-              <a href="http://communitydevpartners.com/">
+              <a href="http://communitydevpartners.com/" target="blank">
                 Community Development Partners ($1000)
               </a>
             </li>
             <li>
-              <a href="http://www.reassociation.org/">
+              <a href="http://www.reassociation.org/" target="blank">
               Reynolds Education Association ($1000)
               </a>
             </li>
             <li>
-              <a href="https://pickettdummigan.com/">
+              <a href="https://pickettdummigan.com/" target="blank">
                 Pickett Dummigan McCall ($1000)
               </a>
             </li>
             <li>
-              <a href="https://www.facebook.com/EastCountyRising/">
+              <a href="https://www.facebook.com/EastCountyRising/" target="blank">
                 East County Rising ($1000)
               </a>
             </li>
             <li>
-              <a href="http://pdximmigration.com/">
+              <a href="http://pdximmigration.com/" target="blank">
                 Portland Immigration Law ($500)
               </a>
             </li>
