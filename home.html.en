@@ -105,8 +105,6 @@
           </div>
           <div class="introduction__link">
             <a class="button" href="home.html.es">Leer en Español</a>
-            <a class="button button--inverse" href="get-help-detention.html">Get Help</a>
-            <a class="button button--inverse" href="donate.html">Donate</a>
           </div>
         </div>
       </div>
