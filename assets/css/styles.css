@@ -245,12 +245,12 @@ form input {
 }
 
 .introduction--about {
-  background: url("../images/pu-images/png/backgrounds/cam-addressing-crowd.png");
+  background: url("../images/pu-images/png/backgrounds/cam-addressing-crowd.jpg");
   background-size: cover;
 }
 
 .introduction--volunteer--committees {
-  background: url("../images/pu-images/png/backgrounds/volunteers.png");
+  background: url("../images/pu-images/png/backgrounds/volunteers.jpg");
   background-size: cover;
 }
 
@@ -391,7 +391,7 @@ section.cta-callout {
     linear-gradient(
       rgba(255, 255, 255, 0.45),
       rgba(0, 0, 0, 0.85)),
-      url(../images/pu-images/png/backgrounds/rally.png);
+      url(../images/pu-images/png/backgrounds/rally.jpg);
   background-size: cover;
   width: 100%;
   opacity: 1;
@@ -402,7 +402,7 @@ section.disclaimer {
     linear-gradient(
       rgba(255, 255, 255, 0.45),
       rgba(0, 0, 0, 0.45)),
-      url(../images/pu-images/png/backgrounds/jumbotron.png);
+      url(../images/pu-images/png/backgrounds/jumbotron.jpg);
   background-size: cover;
   width: 100%;
   opacity: 1;
