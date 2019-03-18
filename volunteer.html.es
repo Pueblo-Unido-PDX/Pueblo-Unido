@@ -103,18 +103,14 @@
             <a class="button" href="volunteer.html.en">Read in English</a>
           </div>
         </div>
-        <div class="col-md-5 align-middle">
-          <div class="heading__image">
-            <img src="./assets/images/pu-images/png/new/table-2.png" />
-          </div>
-        </div>
+        <div class="col-md-5 align-middle"></div>
       </div>
     </div>
   </section>
   <section class="heading">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-7">
           <div class="heading__subheadline">
             <h2>¿Por qué ser voluntarix?</h2>
             <div class="horizontal-line"></div>
@@ -127,6 +123,13 @@
            deportación y reunir a las familias de nuestra comunidad.
           </p>
         </div>
+        <div class="col-md-5 align-middle">
+          <div class="heading__image">
+            <img src="./assets/images/pu-images/png/new/table-2.png" />
+          </div>
+        </div>
+      </div>
+      <div class="row">
         <div class="col-md-12">
           <div class="heading__subheadline">
             <h2>Únase</h2>
