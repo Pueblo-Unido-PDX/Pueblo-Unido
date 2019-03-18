@@ -2,6 +2,14 @@
 <html>
 
 <head>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-K6B5PDP');</script>
+  <!-- End Google Tag Manager -->
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="We use terms like Latinx (Latino/a) and todxs (todos/as) to be inclusive of the LGBT/Queer (Cuir) community.">
@@ -32,54 +40,59 @@
 </head>
 
 <body>
-<header class="navigation">
-  <div class="navigation-row">
-    <div class="navigation-row--left">
-      <a href="home.html.es">
-        <img src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
-      </a>
-    </div>
-    <div class="navigation-row--right">
-      <ul class="navigation__link-group">
-        <li class="navigation__dropdown">
-        <a class="button--link" href="get-help-detention.html.es">
-          Obtenga Ayuda
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6B5PDP"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <header class="navigation">
+    <div class="navigation-row">
+      <div class="navigation-row--left">
+        <a href="home.html.es">
+          <img src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
         </a>
-          <ul class="submenu">
-            <li>
-              <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
-            </li>
-            <li>
-              <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
-            </li>
-          </ul>
-        </li>
-        <li class="navigation__dropdown">
-          <a class="button--link" href="donate.html.es">Donar</a>
-          <ul class="submenu">
-            <li>
-              <a href="sponsors.html.es">Patrocinadores</a>
-            </li>
-          </ul>
-        </li>
-        <li class="navigation__dropdown">
-          <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
-          <ul class="submenu">
-            <li>
-              <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
-            </li>
-          </ul>
-        </li>
-        <li class="navigation__link">
-          <a class="button--link" href="about.html.es">Sobre Nosotros</a>
-        </li>
-        <li class="navigation__link">
-          <a class="button--link" href="why-latinx.html.es">¿Porque Latinx?</a>
-        </li>
-        
+      </div>
+      <div class="navigation-row--right">
+        <ul class="navigation__link-group">
+          <li class="navigation__dropdown">
+          <a class="button--link" href="get-help-detention.html.es">
+            Obtenga Ayuda
+          </a>
+            <ul class="submenu">
+              <li>
+                <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
+              </li>
+              <li>
+                <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
+              </li>
+            </ul>
+          </li>
+          <li class="navigation__dropdown">
+            <a class="button--link" href="donate.html.es">Donar</a>
+            <ul class="submenu">
+              <li>
+                <a href="sponsors.html.es">Patrocinadores</a>
+              </li>
+            </ul>
+          </li>
+          <li class="navigation__dropdown">
+            <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
+            <ul class="submenu">
+              <li>
+                <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
+              </li>
+            </ul>
+          </li>
+          <li class="navigation__link">
+            <a class="button--link" href="about.html.es">Sobre Nosotros</a>
+          </li>
+          <li class="navigation__link">
+            <a class="button--link" href="why-latinx.html.es">¿Porque Latinx?</a>
+          </li>
+          
+      </div>
     </div>
-  </div>
-</header>
+  </header>
   <section class="introduction introduction--donate">
     <div class="container">
       <div class="row">
