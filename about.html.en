@@ -12,7 +12,7 @@
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Pueblo Unido is a non-profit organization that supports Portland metro community members in the fight against deportation by connecting clients to legal representation.">  
+  <meta name="description" content="Pueblo Unido is a non-profit organization that supports Portland metro community members in the fight against deportation by connecting clients to legal representation.">
   <title>About - Pueblo Unido PDX</title>
   <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
   <link href="https://fonts.googleapis.com/css?family=Barlow:400" rel="stylesheet">
@@ -27,7 +27,7 @@
   <link rel="apple-touch-icon" sizes="144x144" href="./assets/images/favicons/apple-icon-144x144.png">
   <link rel="apple-touch-icon" sizes="152x152" href="./assets/images/favicons/apple-icon-152x152.png">
   <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/favicons/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192"  href="./assets/images/favicons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="./assets/images/favicons/android-icon-192x192.png">
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="96x96" href="./assets/images/favicons/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicons/favicon-16x16.png">
@@ -40,10 +40,9 @@
 
 <body>
   <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6B5PDP"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6B5PDP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-  
+
   <header class="navigation">
     <div class="navigation-row">
       <div class="navigation-row--left">
@@ -119,7 +118,7 @@
               support for immigrants who are facing deportation. We connect
               clients to adequate legal representation and help gather evidence to
               strengthen cases against removal. Since our formation in April
-              2017, seven of our clients have been released from detention and
+              2017, 7 of our clients have been released from detention and
               reunited with their families.</p>
           </div>
         </div>

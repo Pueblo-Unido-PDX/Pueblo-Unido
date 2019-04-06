@@ -12,7 +12,7 @@
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Pueblo Unido is a non-profit organization that supports Portland metro community members in the fight against deportation by connecting clients to legal representation.">  
+  <meta name="description" content="Pueblo Unido is a non-profit organization that supports Portland metro community members in the fight against deportation by connecting clients to legal representation.">
   <title>Sobre Nosotros - Pueblo Unido PDX</title>
   <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
   <link href="https://fonts.googleapis.com/css?family=Barlow:400" rel="stylesheet">
@@ -43,7 +43,7 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6B5PDP"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-  
+
   <header class="navigation">
     <div class="navigation-row">
       <div class="navigation-row--left">
@@ -120,7 +120,7 @@
               legales y exigir una representación eficaz. Conectamos a nuestrxs
               clientes con representación legal adecuada y ayudamos a recopilar
               evidencia para fortalecer los casos contra la deportación. Desde que
-              se formó Pueblo Unido en abril de 2017, <strong>siete de nuestrxs
+              se formó Pueblo Unido en abril de 2017, <strong>7 de nuestrxs
             clientes han sido liberadxs de la detención y reunidxs con sus
             familias.</strong></p>
           </div>
