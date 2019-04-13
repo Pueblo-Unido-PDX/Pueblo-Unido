@@ -23,8 +23,8 @@ We manage changes to the website using GitHub’s “pull request” (aka PR) fe
 2. **Check out the remote branch on your local machine.** To do this, you first run `git fetch` to update your local environment’s understanding of what branches are on the server. You then run `git checkout -b [branch-name] origin/[branch-name]` from a command line prompt.
 3. **Make your changes** and [test them locally](http://localhost:4000).
 4. **Commit your changes to your branch.** If you’re using GitHub Desktop, here are instructions for [staging and committing files](https://help.github.com/en/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project). If you’re working from the command line, the process will look something like the following:
-    5. `git add .` to stage your files
-    6. `git commit -m "[Your descriptive commit message]"` to commit your files
-7. **Push your files to the remote branch** by running `git push origin [branch-name]`.
-8. **Create your PR** [from our repo page on GitHub.com](https://help.github.com/en/articles/creating-a-pull-request).
-9. Ask in [#technology](https://pueblo-unido-pdx.slack.com/messages/C6JLJED5G) for someone to review your PR. (If you’re not already in there, ask Cam to have you added to our Slack team.)
+    -  `git add .` to stage your files
+    -  `git commit -m "[Your descriptive commit message]"` to commit your files
+5. **Push your files to the remote branch** by running `git push origin [branch-name]`.
+6. **Create your PR** [from our repo page on GitHub.com](https://help.github.com/en/articles/creating-a-pull-request).
+7. Ask in [#technology](https://pueblo-unido-pdx.slack.com/messages/C6JLJED5G) for someone to review your PR. (If you’re not already in there, ask Cam to have you added to our Slack team.)
