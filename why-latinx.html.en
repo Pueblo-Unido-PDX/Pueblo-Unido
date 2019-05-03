@@ -27,7 +27,7 @@
   <link rel="apple-touch-icon" sizes="144x144" href="./assets/images/favicons/apple-icon-144x144.png">
   <link rel="apple-touch-icon" sizes="152x152" href="./assets/images/favicons/apple-icon-152x152.png">
   <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/favicons/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192"  href="./assets/images/favicons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="./assets/images/favicons/android-icon-192x192.png">
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="96x96" href="./assets/images/favicons/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicons/favicon-16x16.png">
@@ -39,8 +39,7 @@
 
 <body>
   <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6B5PDP"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6B5PDP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 
   <header class="navigation">
@@ -79,6 +78,9 @@
               <li>
                 <a href="volunteer-committees.html.en">Volunteer Committees</a>
               </li>
+              <li>
+                <a href="equity-corps.html.en">Equity Corps Community Navigators</a>
+              </li>
             </ul>
           </li>
           <li class="navigation__link">
@@ -104,7 +106,7 @@
       </div>
     </div>
   </section>
-    <section class="heading heading--disclaimer">
+  <section class="heading heading--disclaimer">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -116,7 +118,8 @@
           <div class="heading__text">
             <p>We use terms like Latinx (Latino/a) and todxs (todos/as) to be inclusive of the LGBT/Queer (Cuir) community. Using ‘x’ at the end of words (and increasingly ‘e’) allows us to avoid prioritizing either the masculine or feminine, and
               recognizes that there are people who don’t identify with either binary gender.</p>
-            <p>For more information about the LGBT/Queer community, please click <a href="http://mykidisgay.com/genero-fluido-cuir-neutro/" target="blank">here</a>, <a href="https://www.youtube.com/watch?v=EsTqEsTs7FQ" target="blank">here</a> and <a href="https://www.espicynipples.com/single-post/la-sombrilla-cuir-1er-episodio" target="blank">here</a>.</p>
+            <p>For more information about the LGBT/Queer community, please click <a href="http://mykidisgay.com/genero-fluido-cuir-neutro/" target="blank">here</a>, <a href="https://www.youtube.com/watch?v=EsTqEsTs7FQ" target="blank">here</a> and <a
+                href="https://www.espicynipples.com/single-post/la-sombrilla-cuir-1er-episodio" target="blank">here</a>.</p>
             <p>If you are part of the LGBT/Queer community and would like to send us feedback on inclusive language or more (updated) resources, please email us at <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>.</p>
           </div>
         </div>
