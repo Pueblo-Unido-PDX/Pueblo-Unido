@@ -133,13 +133,60 @@
             <div class="horizontal-line"></div>
           </div>
           <br />
-          <p>Our volunteers meet monthly at the Rockwood Public Library. For
+          <p>Our volunteers meet monthly. For
             upcoming meeting dates and times, please contact us via
             <a href="mailto:pueblounidopdx@gmail.com">email</a> or
             <a href="https://www.facebook.com/pueblounidopdx">Facebook</a>.
           </p>
           <br>
           <a class="button" href="volunteer-committees.html.en">See Volunteer Committees</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="heading" id="equity-corps">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-7 align-middle">
+          <div class="heading__subheadline">
+            <h2> How to Become a Certified Community Navigator</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <br />
+          <p>Are you passionate about immigrant rights and fighting unjust deportation? Do you want to be able to connect immigrants in your community to free legal representation through the Equity Corps program?</p>
+          <p>Pueblo Unido has subcontracted with Innovation Law Lab to provide free trainings to people interested in becoming volunteer Community Navigators. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO4XrUstMH68l8TNO4jvwDpPTQ-LFR1uuVb5NaKrC_r0dr6Q/viewform?usp=sf_link">RSVP
+              for upcoming training opportunities</a> to learn more about the Equity Corps program, the
+            Community Navigator role, and how to conduct trauma-informed intake interviews and make effective case referrals.</p>
+          <br />
+        </div>
+        <div class="col-md-5 align-middle">
+          <div class="heading__image">
+            <img src="./assets/images/pu-images/png/new/equity-corps-training.jpg" />
+          </div>
+        </div>
+        <div class="col-md-7 align-middle">
+          <div class="heading__subheadline">
+            <h2>Why Become a Community Navigator?</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <br />
+          <p> In 2017, the Oregon Ready coalition found that legal representation is the most predictive factor in whether someone will win their case against deportation or not. Because immigration is civil--not criminal--law, however, the
+            government is not
+            required to provide legal counsel to those who cannot afford to hire their own. Private legal representation can cost between $8,000-$15,000 for a removal defense case, and there are few low-cost, language-specific legal resources for
+            immigrants
+            facing deportation in Oregon. As a result, most people facing deportation are forced to represent themselves in immigration court, and are consequently less likely to win their cases against removal.</p>
+          <p>Community Navigators play a crucial role in addressing this gap in legal services, preventing family separation, and building more just communities. Certified Navigators perform intake interviews and help people facing deportation
+            submit
+            applications for free legal representation through the Equity Corps program. In this way, Navigators can give people in their communities the best possible chance to win their cases against deportation and achieve the legal right to
+            remain in this
+            country with their families.</p>
+        </div>
+        <div class="col-md-5 align-middle">
+        </div>
+        <div class="col-md-12">
+          <!-- Google Form -->
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdO4XrUstMH68l8TNO4jvwDpPTQ-LFR1uuVb5NaKrC_r0dr6Q/viewform?embedded=true" width="640" height="1618" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+          <!-- End Google Form -->
         </div>
       </div>
     </div>
