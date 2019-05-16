@@ -262,6 +262,11 @@ form input {
   background-size: cover;
 }
 
+.introduction--annivesary-gala {
+  background: url("../images/pu-images/png/backgrounds/anniversary-gala.png");
+  background-size: cover;
+}
+
 .button {
   display: inline-block;
   padding: 15px 25px;
