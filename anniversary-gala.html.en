@@ -94,12 +94,14 @@
     </div>
   </header>
 
-  <section class="introduction introduction--anniversary-gala">
+  <section class="introduction introduction--annivesary-gala">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="introduction__text">
+          <div class="introduction__text introduction__text--centered">
             <h1>Join Us for Our 2nd Annual Anniversary Gala</h1>
+            <p>&nbsp;</p>
+            <a class="button button--inverse">Buy Tickets</a>
           </div>
         </div>
       </div>
@@ -109,23 +111,24 @@
   <section class="heading">
     <div class="container">
       <div class="row">
-        <div class="col-md-7 align-middle">
+        <div class="black-background"></div>
+        <div class="col-md-7 align-middle white-background">
           <div class="heading__subheadline">
             <h2>Lorem Ipsum</h2>
             <div class="horizontal-line"></div>
           </div>
           <br />
           <div class="heading__text">
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-              orem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-              when an unknown printer took a galley of type and scrambled it to make a 
-              type specimen book. It has survived not only five centuries, but also the 
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+              orem Ipsum has been the industry's standard dummy text ever since the 1500s,
+              when an unknown printer took a galley of type and scrambled it to make a
+              type specimen book. It has survived not only five centuries, but also the
               leap into electronic typesetting, remaining essentially unchanged.</p>
           </div>
           <a class="button">Buy Tickets</a>
         </div>
         <div class="col-md-5 align-middle">
-          <div class="heading__image">
+          <div class="heading__image heading__image--centered">
             <img src="./assets/images/pu-images/png/new/gala/glasses.jpg" />
           </div>
         </div>
@@ -141,11 +144,11 @@
           </div>
           <br />
           <div class="heading__text">
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                orem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                when an unknown printer took a galley of type and scrambled it to make a 
-                type specimen book. It has survived not only five centuries, but also the 
-                leap into electronic typesetting, remaining essentially unchanged.</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+              orem Ipsum has been the industry's standard dummy text ever since the 1500s,
+              when an unknown printer took a galley of type and scrambled it to make a
+              type specimen book. It has survived not only five centuries, but also the
+              leap into electronic typesetting, remaining essentially unchanged.</p>
           </div>
           <a class="button">Buy Tickets</a>
         </div>
@@ -158,11 +161,11 @@
       <div class="row">
         <div class="col-md-12">
           <h3>Don't Miss this Special, Fun-Filled Evening!</h3>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-              orem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-              when an unknown printer took a galley of type and scrambled it to make a 
-              type specimen book. It has survived not only five centuries, but also the 
-              leap into electronic typesetting, remaining essentially unchanged.</p>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+            orem Ipsum has been the industry's standard dummy text ever since the 1500s,
+            when an unknown printer took a galley of type and scrambled it to make a
+            type specimen book. It has survived not only five centuries, but also the
+            leap into electronic typesetting, remaining essentially unchanged.</p>
           <a class="button">Buy Tickets</a>
         </div>
       </div>
