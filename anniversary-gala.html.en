@@ -137,7 +137,8 @@
       <br>
       <br>
       <div class="row">
-        <div class="col-md-7 align-middle">
+        <div class="black-background"></div>
+        <div class="col-md-7 align-middle white-background">
           <div class="heading__subheadline">
             <h2>Lorem Ipsum</h2>
             <div class="horizontal-line"></div>
@@ -153,13 +154,14 @@
           <a class="button">Buy Tickets</a>
         </div>
         <div class="col-md-5 align-middle">
-          <div class="heading__image">
+          <div class="heading__image heading__image--centered">
             <img src="./assets/images/pu-images/png/new/gala/food.jpg" />
           </div>
         </div>
       </div>
       <div class="row">
-        <div class="col-md-12">
+        <div class="black-background"></div>
+        <div class="col-md-12 white-background">
           <h3>Don't Miss this Special, Fun-Filled Evening!</h3>
           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
             orem Ipsum has been the industry's standard dummy text ever since the 1500s,

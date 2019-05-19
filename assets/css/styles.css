@@ -278,7 +278,7 @@ form input {
   box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
   transition: all .5s ease;
   background-color: #1c252d;
-  color: #fff;
+  color: #fff !important;
   font-size: 18px;
 }
 
@@ -351,7 +351,7 @@ form input {
 
 .heading .row {
   align-items: center;
-  padding: 4em 0;
+  padding: 0;
 }
 
 .heading .row .icon-row {
@@ -423,13 +423,17 @@ form input {
   padding: 2em 3em !important;
 }
 
+.white-background:last-of-type {
+  margin-bottom: 4em;
+}
+
 .black-background {
-  top: 660px;
-  width: 470px;
-  height: 190px;
+  top: 149px;
+  width: 50%;
+  height: 180px;
   border-radius: 5px;
   z-index: 30;
-  position: absolute;
+  position: relative;
   background-color: #333;
 }
 
