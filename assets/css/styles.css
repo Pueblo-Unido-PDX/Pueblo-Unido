@@ -22,11 +22,13 @@ h2 {
   text-align: center;
   font-family: 'Barlow', sans-serif !important;
   font-size: 32px !important;
+  font-weight: 400;
 }
 
 h3 {
   font-family: 'Barlow', sans-serif !important;
   font-size: 21px !important;
+  font-weight: 400;
   width: 75%;
 }
 
@@ -667,7 +669,7 @@ section.disclaimer {
   }
 
   .introduction {
-    height: 70vh;
+    height: 89vh;
     padding: 8em 3em;
   }
 
@@ -776,7 +778,7 @@ section.disclaimer {
   }
 
   .introduction {
-    height: 60vh;
+    height: 83vh;
     padding: 9em 1em;
   }
 
