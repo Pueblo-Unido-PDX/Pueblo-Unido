@@ -96,7 +96,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="introduction__text">
+          <div class="introduction__text--large">
             <h1>Pueblo Unido PDX</h1>
             <p>Libertad y justicia para todxs.</p>
           </div>
@@ -124,8 +124,10 @@
           </div>
         </div>
         <div class="col-md-12 align-middle">
-          <div class="heading__image">
-            <iframe width="100%" height="473" src="https://www.youtube.com/embed/GJVg-gP4H2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+          <div class="video">
+            <div class="video__media">
+              <iframe src="https://www.youtube.com/embed/GJVg-gP4H2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            </div>
           </div>
         </div>
       </div>
@@ -159,11 +161,10 @@
   </section>
   <section class="cta-callout">
     <div class="cta-callout__subheadline">
-      <h2>Una Vida Mejor - A Tribute to the Original Dreamers</h2>
+      <h2 class="cta-callout__heading">Pueblo Unido's Second Annual Anniversary Gala</h2>
       <div class="horizontal-line"></div>
-      <p>Join us for a evening in celebration of the original dreamers - the parents. There will be featured artwork by undocumented artists, special musical guests, a silent auction, as well as food and drinks for all to enjoy! Visit the Una Vida
-        Mejor <a href="https://www.facebook.com/events/254402461937276/" target="blank">event page</a> for more information.</p>
-      <a class="button button--inverse" href="https://www.eventbrite.com/e/una-vida-mejor-tickets-59205011784?aff=ebdssbdestsearch&fbclid=IwAR2DCEb0UyNVMqijgtW9O73ZZgY6aLWxkNcy__bACwMKgZ0V8grHW_p4-60" target="blank">Buy Tickets</a>
+      <p>Join us as we bring together over 100 guests to celebrate our second year of organizing and showcase support for this new organization. This event will feature a silent auction, food and beverages, and a dance party!</p>
+      <a class="button button--inverse" href="anniversary-gala.html.en">Buy Tickets</a>
     </div>
   </section>
   <section class="heading">
