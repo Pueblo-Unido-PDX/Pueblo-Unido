@@ -423,8 +423,9 @@ form input {
   padding: 2em 3em !important;
 }
 
-.white-background:last-of-type {
+.col-md-12.white-background {
   margin-bottom: 4em;
+  max-width: 90%;
 }
 
 .black-background {
@@ -682,7 +683,7 @@ section.disclaimer {
   }
 
   .introduction__text h1 {
-    font-size: 55px;
+    font-size: 45px;
   }
 
   .introduction__text p {
@@ -691,6 +692,10 @@ section.disclaimer {
 
   .introduction__link a {
     font-size: 16px;
+  }
+
+  .button--inverse {
+    font-size: 18px;
   }
 
   .heading {
@@ -705,12 +710,20 @@ section.disclaimer {
     text-align: center;
   }
 
+  .heading__image--centered {
+    margin-top: 60px;
+  }
+
   .heading__image img {
     width: 70%;
   }
 
+  .white-background {
+    width: 90% !important;
+  }
+
   .footer {
-    padding: 0 1.5em;
+    padding: 2em 1.5em;
   }
 
   .footer__link-row {
@@ -730,7 +743,11 @@ section.disclaimer {
 
 @media screen and (max-width: 480px) {
   .button {
-    padding: 10px 22px;
+    padding: 14px 33px;
+  }
+
+  .button--inverse {
+    font-size: 18px;
   }
 
   .navigation-row {
@@ -768,7 +785,7 @@ section.disclaimer {
   }
 
   .introduction__text h1 {
-    font-size: 45px !important;
+    font-size: 32px;
   }
 
   .introduction__text p {
@@ -789,6 +806,14 @@ section.disclaimer {
 
   .need-help__text {
     width: 100%;
+  }
+
+  .white-background {
+    width: 80% !important;
+  }
+
+  .heading__image--centered {
+    margin-top: 60px;
   }
 
   .footer {

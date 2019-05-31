@@ -117,7 +117,6 @@
             <h2>Lorem Ipsum</h2>
             <div class="horizontal-line"></div>
           </div>
-          <br />
           <div class="heading__text">
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
               orem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -133,9 +132,6 @@
           </div>
         </div>
       </div>
-      <br>
-      <br>
-      <br>
       <div class="row">
         <div class="black-background"></div>
         <div class="col-md-7 align-middle white-background">
