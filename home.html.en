@@ -131,32 +131,6 @@
           </div>
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-7 align-middle">
-          <div class="heading__subheadline">
-            <h2>Need Help?</h2>
-            <div class="horizontal-line">
-            </div>
-          </div>
-          <div class="heading__text">
-            <p>Pueblo Unido provides legal service navigation and client advocate support for immigrants who are currently in removal proceedings. Those who are NOT currently in removal proceedings may contact Pueblo Unido for a list of nonprofit
-              organizations
-              in the Portland area who may be able to help.
-            </p>
-            <p>Don’t know whether you’re in removal proceedings or not? </p>
-            <a class="button" href="get-help-detention.html.en">Facing Removal</a>
-          </div>
-          <div class="heading__text heading__text--small-disclaimer">
-            <p>*Disclaimer*: Pueblo Unido PDX is not a law firm; we are not attorneys and we do not offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they receive the advice they
-              are seeking.</p>
-          </div>
-        </div>
-        <div class="col-md-5 align-middle">
-          <div class="heading__image">
-            <img src="./assets/images/pu-images/png/team--july.png" />
-          </div>
-        </div>
-      </div>
     </div>
   </section>
   <section class="cta-callout">
@@ -165,6 +139,35 @@
       <div class="horizontal-line"></div>
       <p>Join us as we bring together over 100 guests to celebrate our second year of organizing and showcase support for this new organization. This event will feature a silent auction, food and beverages, and a dance party!</p>
       <a class="button button--inverse" href="anniversary-gala.html.en">Buy Tickets</a>
+    </div>
+  </section>
+  <section class="heading">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-7 align-middle">
+          <div class="heading__subheadline">
+            <h2>Need Help?</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <div class="heading__text">
+            <p>Pueblo Unido provides legal service navigation and client advocate support for immigrants who are currently in removal proceedings. Those who are NOT currently in removal proceedings may contact Pueblo Unido for a list of nonprofit
+            organizations
+            in the Portland area who may be able to help.
+            </p>
+            <p>Don’t know whether you’re in removal proceedings or not? </p>
+            <a class="button" href="get-help-detention.html.en">Facing Removal</a>
+          </div>
+          <div class="heading__text heading__text--small-disclaimer">
+            <p>*Disclaimer*: Pueblo Unido PDX is not a law firm; we are not attorneys and we do not offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they receive the advice they
+            are seeking.</p>
+          </div>
+        </div>
+        <div class="col-md-5 align-middle">
+          <div class="heading__image">
+            <img src="./assets/images/pu-images/png/team--july.png" />
+          </div>
+        </div>
+      </div>
     </div>
   </section>
   <section class="heading">
