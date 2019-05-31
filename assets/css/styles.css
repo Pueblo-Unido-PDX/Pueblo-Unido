@@ -22,11 +22,13 @@ h2 {
   text-align: center;
   font-family: 'Barlow', sans-serif !important;
   font-size: 32px !important;
+  font-weight: 400;
 }
 
 h3 {
   font-family: 'Barlow', sans-serif !important;
   font-size: 21px !important;
+  font-weight: 400;
   width: 75%;
 }
 
@@ -85,7 +87,7 @@ form input {
   background: rgba(255,255,255,1);
   position: fixed;
   top: 0;
-  z-index: 30;
+  z-index: 80;
   vertical-align: middle;
   position: fixed;
   top: 0;
@@ -262,6 +264,11 @@ form input {
   background-size: cover;
 }
 
+.introduction--annivesary-gala {
+  background: url("../images/pu-images/png/backgrounds/anniversary-gala.jpg");
+  background-size: cover;
+}
+
 .button {
   display: inline-block;
   padding: 15px 25px;
@@ -273,7 +280,7 @@ form input {
   box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
   transition: all .5s ease;
   background-color: #1c252d;
-  color: #fff;
+  color: #fff !important;
   font-size: 18px;
 }
 
@@ -286,12 +293,23 @@ form input {
 }
 
 .button--inverse {
+  display: inline-block;
+  padding: 15px 40px;
+  border-radius: 5px;
+  transition: .5s;
+  margin-right: 40px;
+  font-family: 'Barlow', sans-serif;
+  text-transform: uppercase;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+  transition: all .5s ease;
   background-color: #fff;
-  color: #1c252d;
+  color: #1c252d !important;
+  font-size: 22px;
 }
 
 .button--inverse:hover {
   color: #1c252d;
+  cursor: pointer;
 }
 
 .introduction .col-md-12 {
@@ -302,6 +320,10 @@ form input {
   margin-bottom: 4em;
   color: #fff;
   font-size: 19px;
+}
+
+.introduction__text--centered {
+  text-align: center;
 }
 
 .heading {
@@ -331,7 +353,7 @@ form input {
 
 .heading .row {
   align-items: center;
-  padding: 4em 0;
+  padding: 0;
 }
 
 .heading .row .icon-row {
@@ -384,6 +406,38 @@ form input {
 .heading__image img {
   width: 100%;
   border-radius: 25px;
+}
+
+.heading__image--centered {
+  text-align: center;
+  margin: 0 auto;
+  width: 60%;
+}
+
+.white-background {
+  vertical-align: middle!important;
+  background-color: white;
+  z-index: 40;
+  border-radius: 5px;
+  left: 30px;
+  position: absolute;
+  box-shadow: 1px 2px 5px #aeaeae;
+  padding: 2em 3em !important;
+}
+
+.col-md-12.white-background {
+  margin-bottom: 4em;
+  max-width: 90%;
+}
+
+.black-background {
+  top: 149px;
+  width: 50%;
+  height: 180px;
+  border-radius: 5px;
+  z-index: 30;
+  position: relative;
+  background-color: #333;
 }
 
 .upcoming-events, .donate {
@@ -615,7 +669,7 @@ section.disclaimer {
   }
 
   .introduction {
-    height: 70vh;
+    height: 89vh;
     padding: 8em 3em;
   }
 
@@ -631,7 +685,7 @@ section.disclaimer {
   }
 
   .introduction__text h1 {
-    font-size: 55px;
+    font-size: 45px;
   }
 
   .introduction__text p {
@@ -640,6 +694,10 @@ section.disclaimer {
 
   .introduction__link a {
     font-size: 16px;
+  }
+
+  .button--inverse {
+    font-size: 18px;
   }
 
   .heading {
@@ -654,12 +712,20 @@ section.disclaimer {
     text-align: center;
   }
 
+  .heading__image--centered {
+    margin-top: 60px;
+  }
+
   .heading__image img {
     width: 70%;
   }
 
+  .white-background {
+    width: 90% !important;
+  }
+
   .footer {
-    padding: 0 1.5em;
+    padding: 2em 1.5em;
   }
 
   .footer__link-row {
@@ -679,7 +745,11 @@ section.disclaimer {
 
 @media screen and (max-width: 480px) {
   .button {
-    padding: 10px 22px;
+    padding: 14px 33px;
+  }
+
+  .button--inverse {
+    font-size: 18px;
   }
 
   .navigation-row {
@@ -708,7 +778,7 @@ section.disclaimer {
   }
 
   .introduction {
-    height: 60vh;
+    height: 83vh;
     padding: 9em 1em;
   }
 
@@ -717,7 +787,7 @@ section.disclaimer {
   }
 
   .introduction__text h1 {
-    font-size: 45px !important;
+    font-size: 32px;
   }
 
   .introduction__text p {
@@ -738,6 +808,14 @@ section.disclaimer {
 
   .need-help__text {
     width: 100%;
+  }
+
+  .white-background {
+    width: 80% !important;
+  }
+
+  .heading__image--centered {
+    margin-top: 60px;
   }
 
   .footer {
