@@ -159,11 +159,6 @@
           <!-- Facebook iFrame -->
           <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043" width="100%"
             height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" adapt-container-width="true"></iframe>
-
-          <!-- Twitter iFrame
-                        <a class="button" class="twitter-timeline" data-width="250" data-height="500" href="https://twitter.com/PuebloUnidoPDX?ref_src=twsrc%5Etfw">Tweets by PuebloUnidoPDX</a>
-                        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                        -->
         </div>
       </div>
     </div>

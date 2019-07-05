@@ -31,7 +31,6 @@
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="96x96" href="./assets/images/favicons/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicons/favicon-16x16.png">
-  <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
   <link rel="manifest" href="/manifest.json">
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
@@ -180,34 +179,27 @@
           <!-- Facebook iFrame -->
           <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043"
             width="100%" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" adapt-container-width="true"></iframe>
-
-          <!-- Twitter iFrame
-                        <a class="button" class="twitter-timeline" data-width="250" data-height="500" href="https://twitter.com/PuebloUnidoPDX?ref_src=twsrc%5Etfw">Tweets by PuebloUnidoPDX</a>
-                        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                        -->
         </div>
-        <div class="col-md-12 align-middle">
+        <div class="col-md-12 align-middle newsletter">
           <div class="heading__subheadline">
             <h2 for="mce-EMAIL">Subscribe to our Newsletter!</h2>
             <div class="horizontal-line"></div>
             <br>
             <br>
           </div>
-        </div>
-        <!-- Begin Mailchimp Signup Form -->        
-        <div id="mc_embed_signup">
-          <form action="https://pueblounidopdx.us19.list-manage.com/subscribe/post?u=9504480322a2b58db7f74bac6&amp;id=69b34b347f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-            <div id="mc_embed_signup_scroll">
-              <p>We regularly send email updates about our work, upcoming events, and volunteer opportunities.</p>
-              <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9504480322a2b58db7f74bac6_69b34b347f" tabindex="-1" value=""></div>
-              <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+          <!-- Begin Mailchimp Signup Form -->
+          <div id="mc_embed_signup">
+              <form action="https://pueblounidopdx.us19.list-manage.com/subscribe/post?u=9504480322a2b58db7f74bac6&amp;id=69b34b347f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div id="mc_embed_signup_scroll">
+                  <p>We regularly send email updates about our work, upcoming events, and volunteer opportunities.</p>
+                  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9504480322a2b58db7f74bac6_69b34b347f" tabindex="-1" value=""></div>
+                  <div class="clear mailchimp-signup"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                </div>
+              </form>
             </div>
-          </form>
-        </div>
-
-        <!--End mc_embed_signup-->
+            <!--End mc_embed_signup-->
         </div>
       </div>
     </div>
