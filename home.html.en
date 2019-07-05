@@ -39,14 +39,14 @@
 
 <body>
   <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6B5PDP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-K6B5PDP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 
   <header class="navigation">
     <div class="navigation-row">
       <div class="navigation-row--left">
         <a href="home.html.en">
-          <img src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
+          <img alt="Pueblo Unido Logo" src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
         </a>
       </div>
       <div class="navigation-row--right">
@@ -126,7 +126,7 @@
         <div class="col-md-12 align-middle">
           <div class="video">
             <div class="video__media">
-              <iframe src="https://www.youtube.com/embed/GJVg-gP4H2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+              <iframe title="About Pueblo Unido YouTube Video" src="https://www.youtube.com/embed/GJVg-gP4H2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             </div>
           </div>
         </div>
@@ -164,7 +164,7 @@
         </div>
         <div class="col-md-5 align-middle">
           <div class="heading__image">
-            <img src="./assets/images/pu-images/png/team--july.png" />
+            <img alt="Team Photo" src="./assets/images/pu-images/png/team--july.png" />
           </div>
         </div>
       </div>
@@ -177,7 +177,7 @@
           <h2>Upcoming Events</h2>
           <div class="horizontal-line"></div>
           <!-- Facebook iFrame -->
-          <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043"
+          <iframe title="Facebook Events" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043"
             width="100%" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" adapt-container-width="true"></iframe>
         </div>
         <div class="col-md-12 align-middle newsletter">
@@ -238,12 +238,14 @@
         <div>
           <h4>Pueblo Unido PDX</h4>
           <div class="footer__links">
-            <li>
-              <p>17405 NE Glisan Street <br>
-                Portland, OR<br>
-                97230<br>
-              </p>
-            </li>
+            <ul>
+              <li>
+                <p>17405 NE Glisan Street <br>
+                  Portland, OR<br>
+                  97230<br>
+                </p>
+              </li>
+            </ul>
           </div>
         </div>
       </div>

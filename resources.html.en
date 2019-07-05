@@ -160,12 +160,14 @@
         <div>
           <h4>Pueblo Unido PDX</h4>
           <div class="footer__links">
-            <li>
-              <p>17405 NE Glisan Street <br>
-                Portland, OR<br>
-                97230<br>
-              </p>
-            </li>
+            <ul>
+              <li>
+                <p>17405 NE Glisan Street <br>
+                  Portland, OR<br>
+                  97230<br>
+                </p>
+              </li>
+            </ul>
           </div>
         </div>
       </div>

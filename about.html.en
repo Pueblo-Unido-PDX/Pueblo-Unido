@@ -47,7 +47,7 @@
     <div class="navigation-row">
       <div class="navigation-row--left">
         <a href="home.html.en">
-          <img src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
+          <img alt="Pueblo Unido Logo" src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
         </a>
       </div>
       <div class="navigation-row--right">
@@ -127,7 +127,7 @@
         </div>
         <div class="col-md-5 align-middle">
           <div class="heading__image">
-            <img src="./assets/images/pu-images/png/new/about-us.png" />
+            <img alt="Volunteer Event Photo" src="./assets/images/pu-images/png/new/about-us.png" />
           </div>
         </div>
       </div>
@@ -158,7 +158,7 @@
         </div>
         <div class="col-md-5 align-middle">
           <div class="heading__image">
-            <img src="./assets/images/pu-images/png/new/why-legal-representation.png" />
+            <img alt="Volunteer Event Photo" src="./assets/images/pu-images/png/new/why-legal-representation.png" />
           </div>
         </div>
       </div>
@@ -199,12 +199,14 @@
         <div>
           <h4>Pueblo Unido PDX</h4>
           <div class="footer__links">
-            <li>
-              <p>17405 NE Glisan Street <br>
-                Portland, OR<br>
-                97230<br>
-              </p>
-            </li>
+            <ul>
+              <li>
+                <p>17405 NE Glisan Street <br>
+                  Portland, OR<br>
+                  97230<br>
+                </p>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
