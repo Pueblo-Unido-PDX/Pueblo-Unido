@@ -145,7 +145,7 @@
         </div>
         <div class="col-md-5 align-middle">
           <div class="heading__image">
-            <img alt="Foto de Equipo" src="./assets/images/pu-images/png/team--july.png" />
+            <img alt="Foto de Equipo" src="./assets/images/pu-images/png/team--july.jpg" />
           </div>
         </div>
       </div>
