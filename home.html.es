@@ -126,6 +126,18 @@
           </div>
         </div>
       </div>
+    </div>
+  </section>
+  <section class="cta-callout">
+    <div class="cta-callout__subheadline">
+      <h2 class="cta-callout__heading">La Segunda Gala Anual de Pueblo Unido PDX</h2>
+      <div class="horizontal-line"></div>
+      <p>Este evento reunirá a más de 100 invitadxs para celebrar nuestro segundo año como organización y apoyar a Pueblo Unido PDX. El evento contará con una subasta silenciosa, alimentos y bebidas, y un programa inspirador dirigido por el equipo de Pueblo Unido PDX y el abogado de inmigración Cole Enabnit. Después de la cena y el programa, tendremos la oportunidad de entrar a la pista de baile con lxs DJs Jimbo y La Tati!</p>
+      <a class="button button--inverse" href="anniversary-gala.html.es">Más Información</a>
+    </div>
+  </section>
+  <section class="heading">
+    <div class="container">
       <div class="row">
         <div class="col-md-7 align-middle">
           <div id="need-help" class="need-help__subheadline">
