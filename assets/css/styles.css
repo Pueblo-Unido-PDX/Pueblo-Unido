@@ -65,6 +65,12 @@ form input {
   text-align: center;
 }
 
+.subtitle {
+  color: #949494;
+  font-size: 12px;
+  margin-top: -15px;
+}
+
 .venmo-logo img {
   width: 95px !important;
 }
