@@ -127,7 +127,7 @@ form input {
 }
 
 .navigation-row--left {
-  width: 30%;
+  width: 22%;
   vertical-align: middle;
   display: table-cell;
 }
@@ -153,6 +153,7 @@ form input {
   font-family: 'Barlow', sans-serif;
   float: left;
   font-size: 18px;
+  font-weight: 600;
   color: #333;
   text-align: center;
   padding: 14px 20px;
@@ -162,7 +163,7 @@ form input {
 .navigation__link-group li {
     float: left;
     overflow: hidden;
-    margin: 0 10px;
+    margin: 0;
 }
 
 .button--link {
@@ -831,7 +832,7 @@ section.disclaimer {
 
   .introduction {
     height: 83vh;
-    padding: 9em 1em;
+    padding: 14em 1em;
   }
 
   .introduction__text {
