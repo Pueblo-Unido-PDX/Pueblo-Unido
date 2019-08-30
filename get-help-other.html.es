@@ -81,6 +81,9 @@
               </li>
             </ul>
           </li>
+          <li class="navigation__link">
+            <a class="button--link" href="https://store.pueblounidopdx.org">Tienda</a>
+          </li>
           <li class="navigation__about">
             <a class="button--link" href="about.html.es">Sobre Nosotros</a>
           </li>
