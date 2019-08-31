@@ -114,15 +114,19 @@
       <div class="row">
         <div class="col-md-7">
           <div class="heading__subheadline">
-            <h2>Monthly Donations</h2>
+            <h2>Donate Through ActBlue</h2>
             <div class="horizontal-line"></div>
           </div>
           <br />
-          <p>Become a Pueblo Unido monthly donor! By becoming a monthly donor, your contribution will
-            support community members on a regular basis, by providing them with support from legal 
-            fees to a simple phone call and support. To get started, click on the 'Donate' button below, and 
-            then check the box that says 'Make This a Monthly Donation'.
+          <p>You can contribute to Pueblo Unido’s mission by making your monthly donation 
+          through fundraising platform ActBlue. It’s easy to set up: Click on the 'ActBlue 
+          Donation Setup' button below, and then check the box that says “Yes, Count Me In!” 
+          under the “Make It Monthly” section of the form you’ll be directed to. Thank you for 
+          your support!
           </p>
+          <p>&nbsp;</p>
+          <a class="button" target="blank" 
+          ref="https://secure.actblue.com/donate/pueblo-unido-pdx-1?refcode=newsletter&recurring=1">ActBlue Donation Setup</a>
         </div>
         <div class="col-md-5"></div>
       </div>
