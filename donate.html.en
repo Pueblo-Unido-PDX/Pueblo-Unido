@@ -126,7 +126,7 @@
           </p>
           <p>&nbsp;</p>
           <a class="button" target="blank" 
-          ref="https://secure.actblue.com/donate/pueblo-unido-pdx-1?refcode=newsletter&recurring=1">ActBlue Donation Setup</a>
+          href="https://secure.actblue.com/donate/pueblo-unido-pdx-1?refcode=newsletter&recurring=1">ActBlue Donation Setup</a>
         </div>
         <div class="col-md-5"></div>
       </div>
