@@ -1,0 +1,16 @@
+:root {
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --link-color: #52d9c9;
+    --link-color--hover: #7da7d9;
+    --secondary-link-color: #7da7d9; /* Also used for Navigation Link Hover */
+    --navigation-link-color: #1c252d;
+    --subtitle-color: #949494;
+    --background-color: #f9f9f9;
+    --border-color: #a9a9a9;
+    --border-color--bottom: #1c252d;
+    --button-background-color: #1c252d; /* Also bottom border / underline color */
+    --horizontal-line-color: #d4d4d4;
+    --drop-shadow-color: #aeaeae;
+}
