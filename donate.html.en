@@ -128,7 +128,11 @@
           <a class="button" target="blank" 
           href="https://secure.actblue.com/donate/pueblo-unido-pdx-1?refcode=website&recurring=1">ActBlue Donation Setup</a>
         </div>
-        <div class="col-md-5"></div>
+        <div class="col-md-5 align-middle">
+            <div class="heading__image heading__image--centered heading-_image--logo">
+              <img src="./assets/images/donate/actblue.png" />
+            </div>
+          </div>
       </div>
     </div>
     <div class="container">

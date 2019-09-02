@@ -437,6 +437,10 @@ form input {
   width: 60%;
 }
 
+.heading-_image--logo img {
+  border-radius: 0;
+}
+
 .video {
   max-width: 100%;
 }
