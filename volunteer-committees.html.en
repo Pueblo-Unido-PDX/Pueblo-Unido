@@ -109,10 +109,31 @@
     </div>
   </section>
   <section class="heading">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-7">
+            <div class="heading__subheadline">
+              <h2>Become a Volunteer!</h2>
+              <div class="horizontal-line"></div>
+            </div>
+            <br />
+            <p>If you are interested in volunteering for Pueblo Unido, please send an email to
+              <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a> with your name,
+              email, and the committee you are interested in volunteering with!
+            </p>
+            <a class="button" href="mailto:pueblounidopdx@gmail.com">Sign Me Up!</a>
+          </div>
+          <div class="col-md-5"></div>
+        </div>
+      </div>
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <p>We welcome new volunteers to join the following committees:</p>
+          <div class="heading__subheadline">
+            <h2>List of Committees</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <br />
           <div>
             <h3>Community Outreach Committee</h3>
             <p>The Community Outreach committee is responsible for:</p>
@@ -123,6 +144,7 @@
               <li>Writing a newsletter</li>
             </ul>
           </div>
+          <br />
           <div>
             <h3>Fundraising/Event Planning Committee</h3>
             <p>The Fundraising/Event Planning committee is responsible for:</p>
@@ -133,6 +155,7 @@
               <li>Online fundraising</li>
             </ul>
           </div>
+          <br />
           <div>
             <h3>Social Media Committee</h3>
             <p>The Social Media committee is responsible for:</p>
@@ -141,6 +164,7 @@
               <li>Frequent posts on all platforms</li>
             </ul>
           </div>
+          <br />
           <div>
             <h3>Interpretation/Translation Committee</h3>
             <p>The Interpretation/Translation committee is responsible for:</p>
@@ -149,6 +173,7 @@
               <li>Live interpretation at events</li>
             </ul>
           </div>
+          <br />
           <div>
             <h3>Tech Committee</h3>
             <p>The Tech committee is responsible for:</p>
@@ -157,6 +182,7 @@
               <li>Supporting material development and graphic design</li>
             </ul>
           </div>
+          <br />
           <div>
             <h3>Research and Material Development Committee</h3>
             <p>The Research and Material Development committee is responsible
@@ -169,6 +195,7 @@
                 forms, etc)</li>
             </ul>
           </div>
+          <br />
           <div>
             <h3>Film/photography/videography</h3>
             <p>The film/photography/videography committee is responsible for:</p>
