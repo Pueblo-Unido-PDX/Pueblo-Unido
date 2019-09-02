@@ -168,12 +168,42 @@
   <section class="heading">
     <div class="container">
       <div class="row">
+        <div class="col-md-7 align-middle">
+          <div class="heading__subheadline">
+            <h2>Thank You - Second Annual Gala</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <br />
+          <p>To all of our generous donors as well as our wonderful volunteers, thank you for making our second annual
+            gala a success. We reached our goal of $15,000 to continue to help community members out of detention
+            and against deportation! We thrive because of the support we continue to gain from the 
+            community and we can't wait to see you all next year!
+          </p>
+          <p>If you didn't get a chance to make it to the gala, we would like to encourage you to
+            take this time to consider becoming a monthly donor to Pueblo Unido. A monthly donation helps 
+            to consistently provide support to community members who are facing removal or currently in 
+            detention.
+          </p>
+          <a class="button" target="blank" 
+          href="https://secure.actblue.com/donate/pueblo-unido-pdx-1?refcode=website&recurring=1">Become a Monthly Donor</a>
+        </div>
+        <div class="col-md-5 align-middle">
+          <div class="heading__image">
+            <img src="./assets/images/pu-images/png/new/gala/guests-presentation--gala.jpg" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="heading">
+    <div class="container">
+      <div class="row">
         <div class="col-md-6">
           <h2>Upcoming Events</h2>
           <div class="horizontal-line"></div>
           <!-- Facebook iFrame -->
           <iframe title="Facebook Events" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043"
-            width="100%" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" adapt-container-width="true"></iframe>
+            width="100%" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" adapt-container-width="true"></iframe>
         </div>
         <div class="col-md-12 align-middle newsletter">
           <div class="heading__subheadline">
