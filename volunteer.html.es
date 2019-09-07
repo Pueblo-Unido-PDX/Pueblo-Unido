@@ -14,7 +14,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Pueblo Unido is powered by volunteers and support from community members. Volunteers actively help to grow our organization and increase capacity to fight deportation.">
   <title>Ser Voluntarix</title>
-  <link rel="stylesheet" type="text/css" href="assets/css/styles.css?v2" />
+  <link rel="stylesheet" type="text/css" href="assets/css/styles.css?v2" />   
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="apple-touch-icon" sizes="57x57" href="./assets/images/favicons/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="./assets/images/favicons/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="./assets/images/favicons/apple-icon-72x72.png">
@@ -123,7 +124,7 @@
         </div>
         <div class="col-md-5 align-middle">
           <div class="heading__image">
-            <img src="./assets/images/pu-images/png/new/table-2.png" />
+            <img loading="lazy" src="./assets/images/pu-images/png/new/table-2.png" />
           </div>
         </div>
       </div>

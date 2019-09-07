@@ -14,7 +14,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="We need your support to expand upon our work, reach more people in our community, and continue providing services at no cost to our clients.">
   <title>Donar - Pueblo Unido PDX</title>
-  <link rel="stylesheet" type="text/css" href="assets/css/styles.css?v2" />
+  <link rel="stylesheet" type="text/css" href="assets/css/styles.css?v2" />   
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="apple-touch-icon" sizes="57x57" href="./assets/images/favicons/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="./assets/images/favicons/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="./assets/images/favicons/apple-icon-72x72.png">
@@ -118,7 +119,7 @@
               <div class="row icon-row">
                 <div class="col-md-4">
                   <a href="https://causes.benevity.org/causes/840-822488480" target="blank">
-                    <img src="./assets/images/donate/benevity-logo.png" />
+                    <img loading="lazy" src="./assets/images/donate/benevity-logo.png" />
                   </a>
                   <p>&nbsp;</p>
                 </div>
@@ -128,13 +129,13 @@
                     <input type="hidden" name="cmd" value="_s-xclick">
                     <input type="hidden" name="hosted_button_id" value="AMVZPT6B33UNE">
                     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                    <img loading="lazy" alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                   </form>
                   <p>&nbsp;</p>
                 </div>
                 <div class="col-md-4 venmo-logo">
                   <a href="https://venmo.com/pueblounido-pdx" target="blank">
-                    <img class="venmo-logo" src="./assets/images/donate/venmo.png" />
+                    <img loading="lazy" class="venmo-logo" src="./assets/images/donate/venmo.png" />
                   </a>
                   <p>&nbsp;</p>
                 </div>
@@ -142,13 +143,13 @@
               <div class="row icon-row">
                 <div class="col-md-4">
                   <a href="https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=82-2488480" target="blank">
-                    <img src="./assets/images/donate/donate-now-logo.png" />
+                    <img loading="lazy" src="./assets/images/donate/donate-now-logo.png" />
                   </a>
                   <p>&nbsp;</p>
                 </div>
                 <div class="col-md-4">
                   <a href="https://smile.amazon.com/ch/82-2488480" target="blank">
-                    <img src="./assets/images/donate/amazon-smile.png" />
+                    <img loading="lazy" src="./assets/images/donate/amazon-smile.png" />
                   </a>
                   <p>&nbsp;</p>
                 </div>
