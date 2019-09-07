@@ -14,10 +14,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Pueblo Unido is committed to supporting Portland metro community members in the fight against deportation by providing resources to educate clients about immigration issues.">
   <title>Obtenga Ayuda - Pueblo Unido PDX</title>
-  <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
-  <link href="https://fonts.googleapis.com/css?family=Barlow:400" rel="stylesheet">
-  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="assets/css/styles.css?v2" />
   <link rel="apple-touch-icon" sizes="57x57" href="./assets/images/favicons/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="./assets/images/favicons/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="./assets/images/favicons/apple-icon-72x72.png">
