@@ -2,6 +2,7 @@
 _site/
 .sass-cache/
 .git
+.jekyll-cache/
 
 DS_Store
 

@@ -12,6 +12,10 @@ We use [Jekyll](https://jekyllrb.com) to build the site. To get started as a con
 2. From a command line prompt, **navigate into the** `Pueblo-Unido` **directory** you created when you cloned the repo in step 1.
 4. From the command line, **ensure you’re running a recent version of Ruby** (2.3 or above) by running the following command: `ruby --version`. If necessary, upgrade Ruby on your system. E.g., on macOS, if you have [Homebrew](https://brew.sh) installed, you could run `brew upgrade ruby` from a command line prompt.
 4. **Install the Jekyll Ruby gem** (“gem” is the Ruby community’s name for a software library) by running the following command, again from a command line prompt: `gem install bundler jekyll`.
+   1. **If you're using windows**:
+      1. Run `gem install tzinfo`
+      2. Run `gem install tzinfo-data`
+      3. Run `gem install "jekyll-theme-minima"`
 5. **Start your local environment** by running the following command: `jekyll serve`.
 6. **Confirm things are working** by navigating to the website, which should now be running at [localhost:4000](http://localhost:4000). In development, the site’s home page is served at [localhost:4000/home.html.en](http://localhost:4000/home.html.en)
 
