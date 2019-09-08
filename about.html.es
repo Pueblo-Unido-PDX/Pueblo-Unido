@@ -53,14 +53,14 @@
         <ul class="navigation__link-group">
           <li class="navigation__dropdown">
             <a class="button--link" href="get-help-detention.html.es">
-          Obtenga Ayuda
+          ¿Necesita Ayuda?
         </a>
             <ul class="submenu">
               <li>
-                <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
+                <a href="get-help-detention.html.es">Personas que Enfrentan la Deportación</a>
               </li>
               <li>
-                <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
+                <a href="get-help-other.html.es">Personas Con Otras Cuestiones Migratorias</a>
               </li>
             </ul>
           </li>
@@ -73,7 +73,7 @@
             </ul>
           </li>
           <li class="navigation__dropdown">
-            <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
+            <a class="button--link" href="volunteer.html.es">Voluntarixs</a>
             <ul class="submenu">
               <li>
                 <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
@@ -87,7 +87,7 @@
             <a class="button--link" href="about.html.es">Sobre Nosotros</a>
           </li>
           <li class="navigation__link">
-          <a class="button--link" href="why-latinx.html.es">¿Porque Latinx?</a>
+          <a class="button--link" href="why-latinx.html.es">¿Por qué Latinx?</a>
         </li>
       </div>
     </div>

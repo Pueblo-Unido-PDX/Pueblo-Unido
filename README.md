@@ -1,4 +1,4 @@
-# Puebelo Unido PDX
+# Pueblo Unido PDX
 
 ¡Bienvenido! Welcome!
 
