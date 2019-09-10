@@ -41,59 +41,7 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6B5PDP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 
-  <header class="navigation">
-    <div class="navigation-row">
-      <div class="navigation-row--left">
-        <a href="home.html.en">
-          <img alt="Pueblo Unido Logo" src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
-        </a>
-      </div>
-      <div class="navigation-row--right">
-        <ul class="navigation__link-group">
-          <li class="navigation__dropdown">
-            <a class="button--link" href="get-help-detention.html.en">
-              Get Help
-            </a>
-            <ul class="submenu">
-              <li>
-                <a href="get-help-detention.html.en">For Detention / Removal Cases</a>
-              </li>
-              <li>
-                <a href="get-help-other.html.en">For Other Immigration Issues</a>
-              </li>
-            </ul>
-          </li>
-          <li class="navigation__dropdown">
-            <a class="button--link" href="donate.html.en">Donate</a>
-            <ul class="submenu">
-              <li>
-                <a href="sponsors.html.en">Sponsors</a>
-              </li>
-            </ul>
-          </li>
-          <li class="navigation__link">
-            <a class="button--link" href="volunteer.html.en">Volunteer</a>
-            <ul class="submenu">
-              <li>
-                <a href="volunteer-committees.html.en">Volunteer Committees</a>
-              </li>
-              <li>
-                <a href="volunteer.html.en#equity-corps">Equity Corps Community Navigators</a>
-              </li>
-            </ul>
-          </li>
-          <li class="navigation__link">
-            <a class="button--link" href="https://store.pueblounidopdx.org">Store</a>
-          </li>
-          <li class="navigation__link">
-            <a class="button--link" href="about.html.en">About</a>
-          </li>
-          <li class="navigation__link">
-            <a class="button--link" href="why-latinx.html.en">Why Latinx?</a>
-          </li>
-      </div>
-    </div>
-  </header>
+  {% include header-en.html %}
   <section class="introduction introduction--about">
     <div class="container">
       <div class="row">
