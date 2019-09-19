@@ -1,7 +1,8 @@
 ---
-layout: default-es
 title: Volunteer Handbook - Pueblo Unido PDX
+layout: default-es
 ---
+
 <section class="introduction introduction--volunteer">
   <div class="container">
     <div class="row">

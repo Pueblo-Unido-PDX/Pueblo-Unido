@@ -1,7 +1,8 @@
 ---
-layout: default-es
 title: Donar - Pueblo Unido PDX
+layout: default-es
 ---
+
 <section class="introduction introduction--donate">
   <div class="container">
     <div class="row">
