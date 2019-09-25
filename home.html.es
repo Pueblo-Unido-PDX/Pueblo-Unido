@@ -11,7 +11,7 @@ title: Pueblo Unido PDX
           <p>Libertad y justicia para todxs.</p>
         </div>
         <div class="introduction__link">
-          <a class="button" href="/">Read in English</a>
+          <a class="button" href="home.html.en">Read in English</a>
         </div>
       </div>
     </div>
