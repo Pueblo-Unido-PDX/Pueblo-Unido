@@ -1,7 +1,8 @@
 ---
+title: "¿Porque Latinx?"
 layout: default-es
-title: ¿Porque Latinx?
 ---
+
 <section class="introduction introduction--donate">
   <div class="container">
     <div class="row">

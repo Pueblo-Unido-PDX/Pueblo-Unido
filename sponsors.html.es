@@ -1,7 +1,8 @@
 ---
-layout: default-es
 title: Patrocinadores
+layout: default-es
 ---
+
 <section class="introduction introduction--sponsors">
   <div class="container">
     <div class="row">

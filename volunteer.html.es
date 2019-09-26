@@ -1,7 +1,8 @@
 ---
-layout: default-es
 title: Ser Voluntarix
+layout: default-es
 ---
+
 <section class="introduction introduction--volunteer">
   <div class="container">
     <div class="row">

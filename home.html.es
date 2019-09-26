@@ -1,7 +1,8 @@
 ---
-layout: default-es
 title: Pueblo Unido PDX
+layout: default-es
 ---
+
 <section class="introduction introduction--home">
   <div class="container">
     <div class="row">

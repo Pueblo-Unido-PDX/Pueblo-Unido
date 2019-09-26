@@ -1,7 +1,8 @@
 ---
-layout: default-es
 title: Comités de Voluntarixs - Pueblo Unido PDX
+layout: default-es
 ---
+
 <section class="introduction introduction--volunteer--committees">
   <div class="container">
     <div class="row">
