@@ -1,5 +1,5 @@
 ---
-layout: default-en
+layout: default-es
 title: Sobre Nosotros - Pueblo Unido PDX
 ---
 <section class="introduction introduction--about">
