@@ -25,6 +25,9 @@
       <a class="button--icon" href="https://twitter.com/PuebloUnidoPDX" target="blank">
         <i class="fa fa-twitter-square" aria-hidden="true"></i>
       </a>
+      <a class="button--icon" href="https://instagram.com/puebloUnidopdx" target="blank">
+        <i class="fa fa-instagram-square" aria-hidden="true"></i>
+      </a>
       <a class="button--icon" href="mailto:pueblounidopdx@gmail.com">
         <i class="fa fa-envelope-square" aria-hidden="true"></i>
       </a>
