@@ -10,7 +10,7 @@
                     <p>17405 NE Glisan Street <br>
                     Portland, OR<br>
                     97230<br>
-                    </p>
+                    </p><p><a href="tel:5039128925">503-912-8925</a></p>
                 </li>
                 </ul>
             </div>
@@ -18,18 +18,18 @@
         </div>
         </div>
         <div class="footer__logo-row">
-        <a class="button--icon" href="https://www.facebook.com/PuebloUnidoPDX" target="blank">
-            <i class="fa fa-facebook" aria-hidden="true"></i>
-        </a>
-        <a class="button--icon" href="https://twitter.com/PuebloUnidoPDX" target="blank">
-            <i class="fa fa-twitter" aria-hidden="true"></i>
-        </a>
-        <a class="button--icon" href="https://instagram.com/puebloUnidopdx" target="blank">
-            <i class="fa fa-instagram" aria-hidden="true"></i>
-        </a>
-        <a class="button--icon" href="mailto:pueblounidopdx@gmail.com">
-            <i class="fa fa-envelope" aria-hidden="true"></i>
-        </a>
+            <a class="button--icon" href="https://www.facebook.com/PuebloUnidoPDX" target="blank">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
+            </a>
+            <a class="button--icon" href="https://twitter.com/PuebloUnidoPDX" target="blank">
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+            </a>
+            <a class="button--icon" href="https://instagram.com/puebloUnidopdx" target="blank">
+                <i class="fa fa-instagram" aria-hidden="true"></i>
+            </a>
+            <a class="button--icon" href="mailto:pueblounidopdx@gmail.com">
+                <i class="fa fa-envelope" aria-hidden="true"></i>
+            </a>
         </div>
     </section>
 </footer>
