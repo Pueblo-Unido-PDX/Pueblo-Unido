@@ -669,14 +669,14 @@ section.disclaimer {
 
 .footer__logo-row {
   display: inline-block;
-  vertical-align: text-top:;
+  vertical-align: text-top;
   width: 100%;
   margin: 0 auto;
   text-align: center;
 }
 
 .footer__logo-row i {
-  font-size: 30px;
+  font-size: 22px;
   padding: 0 5px;
 }
 
@@ -754,7 +754,7 @@ section.disclaimer {
 
   .navigation-row a, .footer a {
     font-size: 18px;
-    padding-left: 13px;
+    padding-left: 12px;
   }
 
   .navigation-row img {
