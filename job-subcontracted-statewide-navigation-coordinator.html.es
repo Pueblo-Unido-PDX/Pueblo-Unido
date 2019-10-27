@@ -1,5 +1,6 @@
 ---
-title: Coordinador de Navegación Estatal Subcontratado - Ofertas de Empleo - Sobre Nosotros - Pueblo Unido PDX
+title: Coordinador de Navegación Estatal Subcontratado - Ofertas de Empleo - Sobre
+  Nosotros - Pueblo Unido PDX
 layout: default-es
 ---
 
