@@ -1,5 +1,6 @@
 ---
-title: Asistente Administrativo - Ofertas de Empleo - Sobre Nosotros - Pueblo Unido PDX
+title: Asistente Administrativo - Ofertas de Empleo - Sobre Nosotros - Pueblo Unido
+  PDX
 layout: default-en
 ---
 
