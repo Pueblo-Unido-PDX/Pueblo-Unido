@@ -8,9 +8,7 @@
     <div class="navigation-row--right">
       <ul class="navigation__link-group">
         <li class="navigation__dropdown">
-          <a class="button--link" href="get-help-detention.html.en">
-            Get Help
-          </a>
+          <a class="button--link" href="get-help-detention.html.en">Get Help</a>
           <ul class="submenu">
             <li>
               <a href="get-help-detention.html.en">For Detention / Removal Cases</a>
@@ -42,8 +40,13 @@
         <li class="navigation__link">
           <a class="button--link" href="https://store.pueblounidopdx.org">Store</a>
         </li>
-        <li class="navigation__link">
+        <li class="navigation__dropdown">
           <a class="button--link" href="about.html.en">About</a>
+          <ul class="submenu">
+            <li>
+              <a href="job-openings.html.en">Job Openings</a>
+            </li>
+          </ul>
         </li>
         <li class="navigation__link">
           <a class="button--link" href="why-latinx.html.en">Why Latinx?</a>
