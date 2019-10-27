@@ -11,7 +11,7 @@ layout: default-en
           <h1>Oferta de Empleo: Asistente Administrativo</h1>
         </div>
         <div class="introduction__link">
-          <a class="button" href="job-administrative-assistant.html.es">Leer en Español</a>
+          <a class="button" href="job-administrative-assistant.html.en">Read in English</a>
         </div>
       </div>
     </div>
