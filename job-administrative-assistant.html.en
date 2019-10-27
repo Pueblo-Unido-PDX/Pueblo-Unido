@@ -10,9 +10,11 @@ layout: default-en
         <div class="introduction__text">
           <h1>Job Opening: Administrative Assistant</h1>
         </div>
+        <!--
         <div class="introduction__link">
           <a class="button" href="job-administrative-assistant.html.es">Leer en Español</a>
         </div>
+        -->
       </div>
     </div>
   </div>
