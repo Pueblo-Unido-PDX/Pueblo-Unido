@@ -30,7 +30,7 @@ layout: default-es
           <p>Únete a Pueblo Unido.</p>
           <ul>
             <li><a href="job-statewide-navigation-coordinator.html.es">Coordinador de Navegación Estatal</a></li>
-            <li><a href="job-subcontracted-statewide-navigation-coordinator.html.es">Subcontracted Coordinador de Navegación Estatal Subcontratado</a></li>
+            <li><a href="job-subcontracted-statewide-navigation-coordinator.html.es">Coordinador de Navegación Estatal Subcontratado</a></li>
             <li><a href="job-administrative-assistant.html.es">Asistente Administrativo</a></li>
           </ul>
         </div>
