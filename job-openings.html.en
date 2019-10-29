@@ -42,3 +42,52 @@ layout: default-en
     </div>
   </div>
 </section>
+
+<section class="what-we-do heading">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__subheadline">
+          <h2>Executive Summary</h2>
+          <div class="horizontal-line"></div>
+        </div>
+        <br />
+        <div class="heading__text">
+          <p>Equity Corps of Oregon is a publicly-funded program that seeks to end unjust deportations by providing free legal aid to people without representation 
+          at the Portland immigration court. Equity Corps aims to achieve universal representation in immigration court through a collective effort of community-based 
+          organizations and legal service providers. Learn more at <a href="https://equitycorps.org">https://equitycorps.org</a>. </p>
+        </div>
+        <div>
+          <p>Pueblo Unido PDX is a nonprofit organization that provides legal navigation services to immigrants at risk of deportation in the Pacific NW. 
+          Pueblo Unido has been selected as the Navigating Community Organization (NCO) to support statewide expansion of the Equity Corps program, by 
+          providing:</p>
+          <ul>
+            <li>Training and accreditation of volunteer community navigators;</li>
+            <li>Targeted outreach to immigrant communities across the state; and,</li>
+            <li>Trauma-informed legal navigation services to people in removal proceedings in Oregon.</li>
+          </ul>
+          <p>Pueblo Unido PDX intends to hire a 1 FTE Statewide Navigation Coordinator and a 0.5 FTE Administrative Assistant, as well as to 
+          subcontract with another organization to host a 1.0 FTE Statewide Navigation Coordinator outside the Portland metro area. This Navigation 
+          team will collaborate with Pueblo Unido’s Executive Director to provide navigator trainings, outreach presentations, and navigations 
+          throughout the state. Together, the Equity Corps Navigation Team aims to exceed the following deliverables:</p>
+          <ul>
+            <li>Deliverable No. 1: Conduct no fewer than 30 linguistically-specific outreach presentations to affected immigrant populations. 
+            Outreach presentations will include, at a minimum, information about the Equity Corps program and how to get connected with legal services.  
+            At least 20 presentations must take place outside of the Portland metro area. and presentations must occur at, but are not limited to, 
+            locations within 15 miles of Salem, Eugene, Tillamook, Medford, The Dalles, Hermiston and Bend. The exact number of outreach presentations 
+            will be set by the final contract.</li>
+            <li>Deliverable No. 2: Ensure the completion of no fewer than 200 navigations of program-eligible immigrants. Navigations may be completed by 
+            Pueblo Unido staff or by volunteers trained by Pueblo Unido and under Pueblo Unido’s supervision. Navigations are legal screenings conducted on 
+            Innovation Law Lab software that identify program eligibility and basic facts about an immigrant’s legal case.  At least 125 of these navigations 
+            must be of program-eligible immigrants who reside outside of the Portland metropolitan area.</li>
+            <li>Deliverable No. 3: Conduct no fewer than 20 navigator training sessions wherein new navigators will be accredited and qualified to submit 
+            navigations to the clearinghouse thereafter. At least 14 presentations must take place outside of the Portland metro area, and presentations 
+            must occur at, but are not limited to, locations within 15 miles of Salem, Eugene, Tillamok, Medford, The Dalles, Hermiston and Bend. Pueblo 
+            Unido will clearly define the scope of navigation services to participants, and will clearly state that Equity Corps navigation is for legal 
+            services and does not include case management. The exact number of navigator training sessions will be set by the final contract.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

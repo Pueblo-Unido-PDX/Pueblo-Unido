@@ -45,8 +45,8 @@ layout: default-es
             <li>Responsable de organizar la logística del programa y de los eventos, incluida la coordinación de viajes, reservar espacio para eventos, crear volantes y gráficos digitales, y organizar la comida y el cuidado de los niños en los eventos.</li>
             <li>Apoyar a los coordinadores de navegación a nivel estatal en la programación de navegaciones de los solicitantes elegibles para el programa.</li>
             <li>Responsable de coordinar con intérpretes para acomodar las necesidades de otros idiomas durante los eventos y navegaciones.</li>
-            <li>Colaborar con el Director Ejecutivo, los Coordinadores estatales y las organizaciones asociadas para implementar esfuerzos efectivos de alcance en las comunidades de inmigrantes en todo Oregon.</li>
-            <li>Asistir al Director Ejecutivo y a los Coordinadores de Navegación Estatales con responsabilidades administrativas, incluida la revisión del mantenimiento del tiempo, las solicitudes de reembolso de millas, la programación del programa, el seguimiento y la notificación de los resultados del servicio, etc.</li>
+            <li>Colaborar con el Director Ejecutivo, lxs Coordinadores Estatales y las organizaciones asociadas para implementar esfuerzos efectivos de alcance en las comunidades de inmigrantes en todo Oregon.</li>
+            <li>Asistir al Director Ejecutivo y a lxs Coordinadores de Navegación Estatales con responsabilidades administrativas, incluida la revisión del mantenimiento del tiempo, las solicitudes de reembolso de millas, la programación del programa, el seguimiento y la notificación de los resultados del servicio, etc.</li>
             <li>Asumir responsabilidades administrativas generales que incluyen: contestar llamadas telefónicas y escribir correos electrónicos; Grabar y monitorear datos del programa para ayudar con el cumplimiento del presupuesto; Mantenimiento de suministros de oficina a través de inventario y pedidos regulares; y, Asistir con el mantenimiento del espacio de oficina y equipo de oficina, incluyendo computadoras, fotocopiadoras, teléfonos.</li>
             <li>Asista al director del programa con preguntas de investigación administrativa para hacer crecer el programa.</li>
           </ul>
@@ -59,11 +59,11 @@ layout: default-es
             <li>Fuertes habilidades analíticas y estratégicas de resolución de problemas.</li>
             <li>Licenciatura o experiencia equivalente altamente deseada.</li>
             <li>Capacidad para coordinar con organizaciones asociadas para reservar espacio para eventos, ejecutar esfuerzos efectivos de alcance en comunidades de inmigrantes y proporcionar alimentos y cuidado de niños gratis en los eventos.</li>
-            <li>Disfruta y es experto en organizar información, documentos y materiales.</li>
+            <li>Disfruta y es expertx en organizar información, documentos y materiales.</li>
             <li>Puntual. Aprendiz rápido. Emprendedor que toma la iniciativa e innova para mejorar la eficiencia y el rendimiento del programa.</li>
             <li>Experiencia con inventario, suministros, cumplimiento de presupuesto e ingreso de datos.</li>
             <li>Habilidades competentes en el conjunto de aplicaciones de Google, el conjunto de aplicaciones de Microsoft Office y la comodidad o la voluntad de aprender a usar software de diseño y diseño como Adobe Photoshop e InDesign.</li>
-            <li>Experiencia con servicios legales preferidos.</li>
+            <li>Se prefiere experiencia con servicios legales.</li>
             <li>Se prefiere experiencia administrativa comparable.</li>
             <li>Experiencia y conocimiento trabajando con una amplia gama de problemas que afectan a latinxs, comunidades de color y personas con estatus migratorio vulnerable.</li>
             <li>Experiencia organizando en la comunidad.</li>
