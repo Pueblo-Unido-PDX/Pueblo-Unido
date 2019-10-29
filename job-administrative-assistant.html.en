@@ -10,11 +10,9 @@ layout: default-en
         <div class="introduction__text">
           <h1>Job Opening: Administrative Assistant</h1>
         </div>
-        <!--
         <div class="introduction__link">
           <a class="button" href="job-administrative-assistant.html.es">Leer en Español</a>
         </div>
-        -->
       </div>
     </div>
   </div>
@@ -87,6 +85,15 @@ layout: default-en
           <p>&nbsp;</p>
           <h3>Equal Opportunity Employer</h3>
           <p>Pueblo Unido is an Equal Employment Opportunity Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national or ethnic origin, age, disability or veteran status.</p>
+          <p>&nbsp;</p>
+          <h3>Application instructions:</h3>
+          <p>Please send one email with the subject “Job Application” to <a href="mailto:PUboard@pueblounidopdx.org">PUboard@pueblounidopdx.org</a> and include the following attachments:</p>
+          <ul>
+            <li>Resume</li>
+            <li>Cover letter</li>
+            <li>Writing sample (may be in the form of professional correspondence, policy analysis, research summary, or academic essay), (3 page maximum)</li>
+          </ul>
+          <p>&nbsp;</p>
           <a class="button" href="job-openings.html.en">View More Jobs</a>
         </div>
       </div>

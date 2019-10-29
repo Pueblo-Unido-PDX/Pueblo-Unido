@@ -39,13 +39,11 @@
         </li>
         <li class="navigation__dropdown">
           <a class="button--link" href="about.html.es">Sobre Nosotros</a>
-          <!--
           <ul class="submenu">
             <li>
               <a href="job-openings.html.es">Ofertas de Empleo</a>
             </li>
           </ul>
-          -->
         </li>
         <li class="navigation__link">
           <a class="button--link" href="why-latinx.html.es">¿Porque Latinx?</a>

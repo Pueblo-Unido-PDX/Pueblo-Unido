@@ -28,7 +28,20 @@ layout: default-es
         </div>
         <br />
         <div class="heading__text">
-          <p>Pueblo Unido seeks a full-time Statewide Navigation Coordinator to conduct outreach presentations and navigator trainings, coordinate a network of trained volunteer navigators, and deliver Equity Corps navigations. The Statewide Navigation Coordinator at Pueblo Unido will collaborate with the Executive Director and a subcontracted Statewide Navigation Coordinator at a partner organization to provide reliable access to Equity Corps across the state. In Year 1, the Coordinator’s focus will be to travel outside the Portland metro region to recruit navigators, deliver trainings, and submit navigations. In Year 2, the Coordinator’s focus will be to deliver outreach presentations, submit navigations, and manage trained volunteer navigators. The Coordinator will be responsible for tracking and reporting service outcomes.</p>
+          <p>Pueblo Unido contratará a un Coordinador de Navegación Estatal de tiempo 
+            completo para llevar a cabo presentaciones de alcance y entrenamientos de 
+            navegadores, coordinar una red de navegadores voluntarios capacitados y 
+            entregar navegaciones de Equity Corps. El Coordinador de Navegación 
+            Estatal en Pueblo Unido colaborará con el Director Ejecutivo y un 
+            Coordinador de Navegación Estatal subcontratado en una organización 
+            asociada para proporcionar acceso confiable a Equity Corps en todo el 
+            estado. En el Año 1, el enfoque del Coordinador será viajar fuera de la 
+            región metropolitana de Portland para reclutar navegadores, impartir 
+            capacitaciones y enviar navegaciones. En el año 2, el enfoque del 
+            coordinador será realizar presentaciones de alcance, enviar navegaciones 
+            y administrar navegadores voluntarios capacitados. El Coordinador será 
+            responsable de rastrear e informar los resultados del servicio.
+          </p>
         </div>
       </div>
       <div class="col-md-5 align-middle">
@@ -38,52 +51,60 @@ layout: default-es
       </div>
       <div class="row">
         <div class="col-md-7 align-middle">
-          <h3>Responsibilities</h3>
+          <h3>Responsabilidades</h3>
           <ul>
-            <li>Conduct community outreach, training, and navigations to provide statewide access to the Equity Corps program and exceed the goals for this position.</li>
-            <li>Collaborate with Executive Director, Admin Assistant, and Subcontracted Statewide Coordinator to lead 20 navigator trainings around the state, at least 14 of which are outside PDX metro.</li>
-            <li>Collaborate with Executive Director, Admin Assistant, and Subcontracted Statewide Coordinator to deliver 30 linguistically-specific outreach events to immigrant community members around the state, at least 20 of which are outside PDX metro.</li>
-            <li>Collaborate with Executive Director, Subcontracted Statewide Coordinator, and trained volunteer navigators to submit at least 200 navigations of program-eligible applicants, at least 125 of which reside outside the PDX metro area.</li>
-            <li>Collaborate with Subcontracted Statewide Coordinator to coordinate and manage trained volunteer navigators.</li>
-            <li>Engage clients using Assertive Engagement and trauma-informed and strengths-based approaches.</li>
-            <li>Attend necessary meetings related to this Statewide Navigation Coordinator role and meetings as required by Pueblo Unido and the Equity Corps cohort.</li>
-            <li>Participate in trainings and coordination meetings as requested by the Executive Director, sometimes on short notice.</li>
-            <li>Timely and complete data entry in required data bases.</li>
-            <li>Other duties and responsibilities as assigned.</li>
-            <li>Adherence to Pueblo Unido PDX’s policies and procedures.</li>
+            <li>Colaborar con el Director Ejecutivo, el Asistente de Administración y el Coordinador Estatal Subcontratado para dirigir 20 entrenamientos de navegadores en todo el estado, al menos 14 de los cuales están fuera del metro PDX.</li>
+            <li>Colaborar con el Director Ejecutivo, el Asistente de Administración y el Coordinador Estatal Subcontratado para ofrecer 30 eventos de alcance lingüísticamente específicos a miembros de la comunidad de inmigrantes en todo el estado, al menos 20 de los cuales están fuera del área metropolitana de PDX.</li>
+            <li>Colaborar con el Director Ejecutivo, el Coordinador Estatal Subcontratado y los navegadores voluntarios capacitados para enviar al menos 200 navegaciones de solicitantes elegibles para el programa, de las cuales al menos 125 residen fuera del área metropolitana de PDX.</li>
+            <li>Colaborar con el coordinador estatal subcontratado para coordinar y administrar navegadores voluntarios capacitados.</li>
+            <li>Involucre a los clientes mediante el compromiso asertivo y los enfoques basados en fortalezas e informados sobre el trauma.</li>
+            <li>Asista a las reuniones necesarias relacionadas con este rol del Coordinador de Navegación Estatal y las reuniones requeridas por Pueblo Unido y la cohorte Equity Corps.</li>
+            <li>Participar en entrenamientos y reuniones de coordinación según lo solicite el Director Ejecutivo, a veces con poca antelación.</li>
+            <li>La entrada de datos oportuna y completa en las bases de datos requeridas.</li>
+            <li>Otros deberes y responsabilidades asignados.</li>
+            <li>Adhesión a las políticas y procedimientos de Pueblo Unido PDX.</li>
           </ul>
           <p>&nbsp;</p>
-          <h3>Qualifications</h3>
-          <p>Eligible applicants will satisfy each of the following criteria:</p>
+          <h3>Calificaciones</h3>
           <ul>
-            <li>Must be bilingual (Spanish/English) and bi-culturally competent.</li>
-            <li>Excellent communication skills, both verbally and in-writing in Spanish and English.</li>
-            <li>Able to establish trust and credibility quickly with community members and organizations.</li>
-            <li>Bachelor's degree or equivalent experience required.</li>
-            <li>Experience with legal services preferred.</li>
-            <li>Experience and knowledge working with a broad range of issues affecting Latinxs, Communities of Color, and people with vulnerable immigration status.</li>
-            <li>Experience with community networking and organizing.</li>
-            <li>Demonstrated experience in facilitating and delivering trainings and presentations.</li>
-            <li>Intermediate proficiency in all programs of Microsoft Office; experience with data entry and management.</li>
-            <li>Demonstrate judgment and discretion in dealing with confidential matters.</li>
-            <li>Must be able to organize and prioritize work, be proactive, take initiative, follow through, and simultaneously manage multiple priorities to ensure goals are met in a timely manner. High attention to detail required.</li>
-            <li>Willingness to learn new skills and take on new responsibilities.</li>
-            <li>Strong analytical and strategic problem-solving skills.</li>
-            <li>Ability to work well in a team setting, as well as independently; be flexible and adapt well to different dynamics in a fast paced work environment.</li>
-            <li>Ability to work a flexible schedule, which could include some evenings, weekends, and overnight trips.</li>
-            <li>Ability to support organizational and program specific mission and goals.</li>
-            <li>Ability to lift 40 pounds.</li>
-            <li>Ability to climb stairs.</li>
-            <li>Ability to travel long distances throughout the state of Oregon. Travel is required and applicant must possess and use their own vehicle and automobile insurance and have a valid drivers’ license. Satisfactory results from civil and motor vehicle background check required.</li>
-            <li>This position may require completion of the National Sex Offender Public Website (NSOPW) check, as well as state criminal background checks. Presence on the National Sex Offender Public Website is a bar to service. Other criminal history does not necessarily disqualify you from employment.</li>
-            <li>References will be called and reviewed, and past employers may be called. Current employer may be called with the consent of the applicant.</li>
+            <li>Debe ser bilingüe (español / inglés) y bicultural.</li>
+            <li>Excelentes habilidades de comunicación, tanto verbal como escrita en español e inglés.</li>
+            <li>Capaz de establecer confianza y credibilidad rápidamente con miembros y organizaciones de la comunidad.</li>
+            <li>Se requiere una licenciatura o experiencia equivalente.</li>
+            <li>Experiencia con servicios legales preferidos.</li>
+            <li>Experiencia y conocimiento trabajando con una amplia gama de problemas que afectan a latinxs, comunidades de color y personas con estatus migratorio vulnerable.</li>
+            <li>Experiencia organizando en la comunidad.</li>
+            <li>Experiencia demostrada en la facilitación y entrega de capacitaciones y presentaciones.</li>
+            <li>Dominio intermedio en todos los programas de Microsoft Office; experiencia con entrada y gestión de datos.</li>
+            <li>Demostrar juicio y discreción al tratar asuntos confidenciales.</li>
+            <li>Capacidad para organizar y priorizar el trabajo, tomar la iniciativa y el seguimiento, y gestionar simultáneamente múltiples prioridades para garantizar que se cumplan los objetivos de manera oportuna. Se requiere alta atención al detalle.</li>
+            <li>Disponibilidad para aprender nuevas habilidades y asumir nuevas responsabilidades.</li>
+            <li>Fuertes habilidades analíticas y estratégicas de resolución de problemas.</li>
+            <li>Capacidad para trabajar bien en equipo, así como de forma independiente.</li>
+            <li>Capacidad para trabajar en un horario flexible, que podría incluir algunas tardes, fines de semana y viajes nocturnos, y adaptarse bien a las diferentes dinámicas en un entorno de trabajo de ritmo rápido.</li>
+            <li>Capacidad para apoyar misiones y objetivos específicos de la organización y el programa.</li>
+            <li>Capacidad para levantar 40 libras.</li>
+            <li>Capacidad para subir 1-2 tramos de escaleras.</li>
+            <li>Capacidad para viajar largas distancias en todo el estado de Oregon. Se requiere viajar y el solicitante debe poseer y usar su propio seguro de vehículo y automóvil y tener una licencia de conducir válida. Se requieren resultados satisfactorios de verificación de antecedentes civiles y de vehículos de motor.</li>
+            <li>Esta posición puede requerir la finalización de la verificación del sitio web público nacional de delincuentes sexuales (NSOPW), así como las verificaciones de antecedentes penales estatales. La presencia en el sitio web público nacional de delincuentes sexuales es un bar al servicio. Otros antecedentes penales no necesariamente lo descalifican para el empleo.</li>
+            <li>Las referencias serán llamadas y revisadas, y los empleadores anteriores pueden ser llamados. Se puede llamar al empleador actual con el consentimiento del solicitante.</li>                
           </ul>
           <p>&nbsp;</p>
-          <h3>Compensation</h3>
-          <p>Starting pay rate is $17.25/hr with paid leave benefits. Compensation is commensurate with skills and experience. Funding for this position is confirmed through June 30, 2021, provided satisfactory performance towards the goals of this position and the Equity Corps of Oregon.</p>
+          <h3>Compensación</h3>
+          <p>La tasa de pago inicial es de $ 17.25 / h con beneficios de licencia pagada. La compensación es proporcional a las habilidades y experiencia. La financiación para este puesto se confirmó hasta el 30 de junio de 2021, proporcionando un desempeño satisfactorio hacia los objetivos de este puesto y el Equity Corps of Oregon.</p>
           <p>&nbsp;</p>
-          <h3>Equal Opportunity Employer</h3>
-          <p>Pueblo Unido is an Equal Employment Opportunity Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national or ethnic origin, age, disability or veteran status.</p>
+          <h3>Empleador de igualdad de oportunidades:</h3>
+          <p>Pueblo Unido es un empleador que ofrece igualdad de oportunidades de empleo y no discrimina por motivos de raza, color, religión, sexo, orientación sexual, identidad de género, origen nacional o étnico, edad, discapacidad o estado de veterano.</p>
+          <p>&nbsp;</p>
+          <h3>Instrucciones de solicitud:</h3>
+          <p>Envíe un correo electrónico con el asunto "Solicitud de empleo" a PUboard@pueblounidopdx.org e incluya los siguientes archivos adjuntos:</p>
+          <ul>
+            <li>Currículum</li>
+            <li>Carta de presentación</li>
+            <li>Muestra de escritura (puede ser en forma de correspondencia profesional, análisis de políticas, resumen de investigación o ensayo académico), (máximo 3 páginas)</li>
+          </ul>
+          <p>&nbsp;</p>
+          <a class="button" href="job-openings.html.es">Ver Más Trabajos</a>
         </div>
       </div>
     </div>
