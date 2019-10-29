@@ -78,7 +78,7 @@ layout: default-es
             <li>Capacidad para apoyar misiones y objetivos específicos de la organización y el programa.</li>
             <li>Capacidad para levantar 40 libras.</li>
             <li>Capacidad para subir 1-2 tramos de escaleras.</li>
-            <li>Capacidad para viajar largas distancias en todo el estado de Oregon. Se requiere viajar y el solicitante debe poseer y usar su propio seguro de vehículo y automóvil y tener una licencia de conducir válida. Se requieren resultados satisfactorios de verificación de antecedentes civiles y de vehículos de motor.</li>
+            <li>Capacidad para viajar largas distancias en todo el estado de Oregon. Se requiere viajar y el/la solicitante debe poseer y usar su propio seguro de vehículo y automóvil y tener una licencia de conducir válida. Se requieren resultados satisfactorios de verificación de antecedentes civiles y de vehículos de motor.</li>
             <li>Esta posición puede requerir la finalización de la verificación del sitio web público nacional de delincuentes sexuales (NSOPW), así como las verificaciones de antecedentes penales estatales. La presencia en el sitio web público nacional de delincuentes sexuales es un bar al servicio. Otros antecedentes penales no necesariamente le descalifican para el empleo.</li>
             <li>Las referencias serán llamadas y revisadas, y los empleadores anteriores pueden ser llamados. Se puede llamar al empleador actual con el consentimiento del solicitante.</li>                
           </ul>
