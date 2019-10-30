@@ -28,6 +28,7 @@ layout: default-es
         </div>
         <br />
         <div class="heading__text">
+          <h3>Descripción del trabajo</h3>
           <p>Pueblo Unido busca unx Asistente Administrativx de medio tiempo para organizar presentaciones de alcance y capacitación de navegadores, programar navegaciones de Equity Corps y apoyar a lxs Coordinadores de Navegación Estatales y al Director Ejecutivo de Pueblo Unido en la gestión de una red de navegadores voluntarixs capacitadxs. Este puesto también apoyará con la entrada de datos oportuna y completa. Esta posición se basa en Portland, Oregon.</p>
         </div>
       </div>

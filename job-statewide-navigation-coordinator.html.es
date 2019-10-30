@@ -28,6 +28,7 @@ layout: default-es
         </div>
         <br />
         <div class="heading__text">
+          <h3>Descripción del trabajo</h3>
           <p>Pueblo Unido contratará a unx Coordinador de Navegación Estatal de tiempo completo para llevar a cabo presentaciones de alcance y entrenamientos de navegadores, coordinar una red de navegadores voluntarixs capacitadxs y entregar navegaciones de Equity Corps. El/la/elle Coordinador de Navegación Estatal en Pueblo Unido colaborará con el Director Ejecutivo y unx Coordinador de Navegación Estatal subcontratadx en una organización asociada para proporcionar acceso confiable a Equity Corps en todo el estado. En el Año 1, el enfoque del Coordinador será viajar fuera de la región metropolitana de Portland para reclutar navegadores, impartir capacitaciones y enviar navegaciones. En el año 2, el enfoque del coordinador será realizar presentaciones de alcance, enviar navegaciones y administrar navegadores voluntarios capacitados. El Coordinador será responsable de rastrear e informar los resultados del servicio.</p>
         </div>
       </div>
