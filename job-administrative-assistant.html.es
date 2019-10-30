@@ -1,5 +1,5 @@
 ---
-title: Asistente Administrativo - Ofertas de Empleo - Sobre Nosotros - Pueblo Unido
+title: Asistente Administrativx - Ofertas de Empleo - Sobre Nosotros - Pueblo Unido
   PDX
 layout: default-es
 ---
@@ -9,7 +9,7 @@ layout: default-es
     <div class="row">
       <div class="col-md-12">
         <div class="introduction__text">
-          <h1>Oferta de Empleo: Asistente Administrativo</h1>
+          <h1>Oferta de Empleo: Asistente Administrativx</h1>
         </div>
         <div class="introduction__link">
           <a class="button" href="job-administrative-assistant.html.en">Read in English</a>
@@ -23,12 +23,13 @@ layout: default-es
     <div class="row">
       <div class="col-md-7 align-middle">
         <div class="heading__subheadline">
-          <h2>Oferta de Empleo: Asistente Administrativo</h2>
+          <h2>Oferta de Empleo: Asistente Administrativx</h2>
           <div class="horizontal-line"></div>
         </div>
         <br />
         <div class="heading__text">
-          <p>Pueblo Unido busca unx Asistente Administrativx de medio tiempo para organizar presentaciones de alcance y capacitación de navegadores, programar navegaciones de Equity Corps y apoyar a lxs Coordinadores de Navegación Estatales y al Director Ejecutivo de Pueblo Unido en la gestión de una red de navegadores voluntarixs capacitadxs. Este puesto también apoyará con la entrada de datos oportuna y completa. Esta posición se basa en Portland, Oregon.’</p>
+          <h3>Descripción del trabajo</h3>
+          <p>Pueblo Unido busca unx Asistente Administrativx de medio tiempo para organizar presentaciones de alcance y capacitación de navegadores, programar navegaciones de Equity Corps y apoyar a lxs Coordinadores de Navegación Estatales y al Director Ejecutivo de Pueblo Unido en la gestión de una red de navegadores voluntarixs capacitadxs. Este puesto también apoyará con la entrada de datos oportuna y completa. Esta posición se basa en Portland, Oregon.</p>
         </div>
       </div>
       <div class="col-md-5 align-middle">
@@ -82,13 +83,13 @@ layout: default-es
           </ul>
           <p>&nbsp;</p>
           <h3>Compensación</h3>
-          <p>SLa tasa de pago inicial es de $ 17.25 / h con beneficios de licencia pagada. La compensación es proporcional a las habilidades y experiencia. La financiación para este puesto se confirmó hasta el 30 de junio de 2020, proporcionando un desempeño satisfactorio hacia los objetivos de este puesto y el Equity Corps of Oregon.</p>
+          <p>La tasa de pago inicial es de $ 17.25 / h con beneficios de licencia pagada. La compensación es proporcional a las habilidades y experiencia. La financiación para este puesto se confirmó hasta el 30 de junio de 2020, proporcionando un desempeño satisfactorio hacia los objetivos de este puesto y el Equity Corps of Oregon.</p>
           <p>&nbsp;</p>
           <h3>Empleador de igualdad de oportunidades:</h3>
           <p>Pueblo Unido es un empleador que ofrece igualdad de oportunidades de empleo y no discrimina por motivos de raza, color, religión, sexo, orientación sexual, identidad de género, origen nacional o étnico, edad, discapacidad o estado de veterano.</p>
           <p>&nbsp;</p>
           <h3>Instrucciones de solicitud:</h3>
-          <p>Envíe un correo electrónico con el asunto "Solicitud de empleo" a <a href="mailto:PUboard@pueblounidopdx.org">PUboard@pueblounidopdx.org</a> e incluya los siguientes archivos adjuntos:</p>
+          <p>Envíe un correo electrónico con el asunto “Solicitud de empleo” a <a href="mailto:PUboard@pueblounidopdx.org">PUboard@pueblounidopdx.org</a> e incluya los siguientes archivos adjuntos:</p>
           <ul>
             <li>Currículum</li>
             <li>Carta de presentación</li>
