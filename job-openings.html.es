@@ -30,7 +30,7 @@ layout: default-es
           <p>Únete a Pueblo Unido.</p>
           <ul>
             <li><a href="job-statewide-navigation-coordinator.html.es">Coordinador de Navegación Estatal</a></li>
-            <li><a href="job-administrative-assistant.html.es">Asistente Administrativo</a></li>
+            <li><a href="job-administrative-assistant.html.es">Asistente Administrativx</a></li>
           </ul>
         </div>
       </div>
