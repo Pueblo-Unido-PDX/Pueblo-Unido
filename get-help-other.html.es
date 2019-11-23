@@ -87,29 +87,28 @@ layout: default-es
           nosotrxs.</p>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12">
-        <div class="heading__subheadline">
-            <h2>Contactar Nosotros</h2>
-            <div class="horizontal-line"></div>
-        </div> 
-        <br />
-        <address>
-          <p><strong>Llame al</strong>
-            <a href="tel:+15039128925">503-912-8925</a>
-          </p> 
-          <p><strong>Escriba a</strong>
-            <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
-          </p>
-        </address>
-        <p>*<em>Aviso de responsabilidad</em>*: Pueblo Unido PDX
-          <em>no</em> es un despacho de abogadxs;
-          <em>no somos</em> abogadxs y <em>no</em> ofrecemos
-          ningún consejo legal. En cambio, ayudamos a conectar clientes con
-          abogadxs de inmigración con experiencia y les damos seguimiento para
-          asegurarnos que reciban los consejos que buscan.</p>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="heading__subheadline">
+              <h2>Contactar Nosotros</h2>
+              <div class="horizontal-line"></div>
+          </div> 
+          <br />
+          <address>
+            <p><strong>Llame al</strong>
+              <a href="tel:+15039128925">503-912-8925</a>
+            </p> 
+            <p><strong>Escriba a</strong>
+              <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
+            </p>
+          </address>
+          <p>*<em>Aviso de responsabilidad</em>*: Pueblo Unido PDX
+            <em>no</em> es un despacho de abogadxs;
+            <em>no somos</em> abogadxs y <em>no</em> ofrecemos
+            ningún consejo legal. En cambio, ayudamos a conectar clientes con
+            abogadxs de inmigración con experiencia y les damos seguimiento para
+            asegurarnos que reciban los consejos que buscan.</p>
+        </div>
       </div>
-    </div>
   </div>
 </section>
