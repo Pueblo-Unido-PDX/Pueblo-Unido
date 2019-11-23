@@ -95,6 +95,11 @@ layout: default-en
       </div>
       <div class="col-md-5 align-middle">
       </div>
+      <div class="col-md-12">
+        <!-- Google Form -->
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdmzNdUXaLTjWhXudDPl3SYN86BB4SDQ8N82J6EhDlJ4qJDgg/viewform?embedded=true" width="640" height="1673" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        <!-- End Google Form -->
+      </div>
     </div>
   </div>
 </section>
