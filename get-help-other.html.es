@@ -84,7 +84,21 @@ layout: default-es
         <p>Si le gustaría recibir una recomendación acerca de una organización
           sin fines de lucro que ofrece servicios legales en la zona
           metropolitana de Portland, por favor póngase en contacto con
-          nosotrxs. Llame al503-912-8925 o escriba a
+          nosotrxs.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="heading__subheadline">
+            <h2>Contactar Nosotros</h2>
+            <div class="horizontal-line"></div>
+        </div> 
+        <br />
+        <p><strong>Llame al</strong>
+          <a href="tel:+15039128925">503-912-8925</a>
+        </p> 
+        <p><strong>Escriba a</strong>
           <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
         </p>
         <p>*<em>Aviso de responsabilidad</em>*: Pueblo Unido PDX

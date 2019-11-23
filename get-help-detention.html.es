@@ -33,7 +33,7 @@ layout: default-es
           exigir buena representación, y ayudamos a reunir evidencia para
           fortalecer los casos contra la deportación.
           <strong>No cobramos</strong> por nuestrxs servicios de apoyo.</p>
-        <p>Llame o escriba al: 503-912-8925;
+        <p>Llame o escriba al: <a href="tel:+15039128925">503-912-8925</a>;
           <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
         </p>
         <p>*Aviso de responsabilidad*: Pueblo Unido PDX <em>no</em> es
