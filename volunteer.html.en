@@ -38,6 +38,8 @@ layout: default-en
           <img loading="lazy" src="./assets/images/pu-images/png/new/table-2.png" />
         </div>
       </div>
+    </div>
+    <div class="row">
       <div class="col-md-12">
         <div class="heading__subheadline">
           <h2>Join Us</h2>
@@ -49,6 +51,7 @@ layout: default-en
           <a href="mailto:pueblounidopdx@gmail.com">email</a> or
           <a href="https://www.facebook.com/pueblounidopdx">Facebook</a>.
         </p>
+        <p>Interested in full-time or part-time work with Pueblo Unido? Visit our <a href="job-openings.html.en">Job Openings</a> page to learn more about how you can connect with Pueblo Unido PDX.</p>
         <br>
         <a class="button" href="volunteer-committees.html.en">See Volunteer Committees</a>
       </div>
@@ -64,11 +67,14 @@ layout: default-en
           <div class="horizontal-line"></div>
         </div>
         <br />
-        <p>Are you passionate about immigrant rights and fighting unjust deportation? Do you want to be able to connect immigrants in your community to free legal representation through the <a href="https://www.google.com/url?q=http://equitycorps.org/&sa=D&ust=1567451082766000&usg=AFQjCNFaYTr846VNYLEDD6Kdhk4aJyKdDA">Equity Corps program</a>?</p>
-        <p>Pueblo Unido has subcontracted with <a href="https://innovationlawlab.org/">Innovation Law Lab</a> to provide free trainings to people interested in becoming volunteer Community Navigators.
-          Check back here for upcoming training opportunities to learn more about the Equity Corps program, the
-          Community Navigator role, and how to conduct trauma-informed intake interviews and make effective case referrals.</p>
-          <p>Visit our <a href="job-openings.html.en">Job Openings</a> page to learn more about how you can connect with Pueblo Unido PDX.</p>
+        <p>Are you passionate about immigrant rights and fighting unjust deportation? Do you want to be able to connect immigrants in your community to free legal representation through the <a href="https://equitycorps.org/" target="blank">Equity Corps program</a>?</p>
+        <p>Pueblo Unido has subcontracted with <a href="https://innovationlawlab.org/" target="blank">Innovation Law Lab</a> to provide free trainings to people interested in becoming volunteer Community Navigators.</p>
+        <p>We invite you to join us for our next free Equity Corps Navigator Training opportunities led by Pueblo Unido PDX and hosted by <a href="https://centrolatinoamericano.org/" target="blank">Centro Latino Americano</a> and <a href="https://ccsww.org/" target="blank">Catholic Community Services</a>.</p> 
+          <ul>
+            <li><strong>Date: </strong>Monday, December 9 from 9am - 1:05pm</li>
+            <li><strong>Location: </strong>Centro Latino Americano (944 W. 5th Ave. Eugene, OR 97401)</li>
+          </ul>
+        <p>Sign up for the training <a href="https://docs.google.com/forms/d/e/1FAIpQLScFyaj6-bw8sqdHTau2adwmQ-h7en4GbhQbndogZNV-sE8nsA/viewform?usp=sf_link" target="blank">here</a>, or use the form below.</p>
         <br />
       </div>
       <div class="col-md-5 align-middle">
@@ -76,6 +82,8 @@ layout: default-en
           <img loading="lazy" src="./assets/images/pu-images/png/new/equity-corps-training.jpg" />
         </div>
       </div>
+    </div>
+    <div class="row">
       <div class="col-md-7 align-middle">
         <div class="heading__subheadline">
           <h2>Why Become a Community Navigator?</h2>
@@ -95,9 +103,11 @@ layout: default-en
       </div>
       <div class="col-md-5 align-middle">
       </div>
+    </div>
+    <div class="row"
       <div class="col-md-12">
         <!-- Google Form -->
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdmzNdUXaLTjWhXudDPl3SYN86BB4SDQ8N82J6EhDlJ4qJDgg/viewform?embedded=true" width="640" height="1673" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFyaj6-bw8sqdHTau2adwmQ-h7en4GbhQbndogZNV-sE8nsA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
         <!-- End Google Form -->
       </div>
     </div>
