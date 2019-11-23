@@ -12,7 +12,7 @@ layout: default-es
           <p>Con otras cuestiones migratorias</p>
         </div>
         <div class="introduction__link">
-          <a class="button" href="get-help-other.html">Read in English</a>
+          <a class="button" href="get-help-other.html.en">Read in English</a>
         </div>
       </div>
     </div>
