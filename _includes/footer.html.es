@@ -7,11 +7,13 @@
           <div class="footer__links">
             <ul>
               <li>
-                <p>17405 NE Glisan Street <br>
-                  Portland, OR<br>
-                  97230<br>
-                <p><a href="tel:5039128925">503-912-8925</a></p>
-                </p>
+                <address>
+                  <p>17405 NE Glisan Street <br>
+                    Portland, OR<br>
+                    97230<br>
+                  <p><a href="tel:5039128925">503-912-8925</a></p>
+                  </p>
+                </address>
               </li>
             </ul>
           </div>
