@@ -22,7 +22,7 @@ layout: default-es
     <div class="row">
       <div class="col-md-12">
         <div class="heading__subheadline">
-          <h2>Current Sponsors</h2>
+          <h2>Patrocinadores Actuales</h2>
           <div class="horizontal-line"></div>
         </div>
         <br>
