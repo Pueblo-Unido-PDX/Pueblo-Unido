@@ -75,12 +75,14 @@ layout: default-en
             <div class="horizontal-line"></div>
         </div> 
         <br />
-        <p><strong>By phone:</strong>
-          <a href="tel:+15039128925">503-912-8925</a>
-        </p> 
-        <p><strong>By email:</strong>
-          <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
-        </p>
+        <address>
+          <p><strong>By phone:</strong>
+            <a href="tel:+15039128925">503-912-8925</a>
+          </p> 
+          <p><strong>By email:</strong>
+            <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
+          </p>
+        </address>
         <p>*<em>Disclaimer</em>*: Pueblo Unido PDX is <em>not</em> a law firm; we are <em>not</em> attorneys and we <em>do not</em> offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to
           ensure they
           receive the advice they are seeking.</p>

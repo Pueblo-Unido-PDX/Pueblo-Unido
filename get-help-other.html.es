@@ -95,12 +95,14 @@ layout: default-es
             <div class="horizontal-line"></div>
         </div> 
         <br />
-        <p><strong>Llame al</strong>
-          <a href="tel:+15039128925">503-912-8925</a>
-        </p> 
-        <p><strong>Escriba a</strong>
-          <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
-        </p>
+        <address>
+          <p><strong>Llame al</strong>
+            <a href="tel:+15039128925">503-912-8925</a>
+          </p> 
+          <p><strong>Escriba a</strong>
+            <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
+          </p>
+        </address>
         <p>*<em>Aviso de responsabilidad</em>*: Pueblo Unido PDX
           <em>no</em> es un despacho de abogadxs;
           <em>no somos</em> abogadxs y <em>no</em> ofrecemos

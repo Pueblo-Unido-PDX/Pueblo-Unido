@@ -75,7 +75,7 @@ layout: default-es
         <div class="horizontal-line"></div>
         <!-- Facebook iFrame -->
         <iframe title="Facebook Events" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043" width="100%"
-          height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" adapt-container-width="true"></iframe>
+          height="300" style="border:none;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" adapt-container-width="true"></iframe>
       </div>
     </div>
   </div>
