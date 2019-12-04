@@ -44,6 +44,9 @@
           <a class="button--link" href="about.html.en">About</a>
           <ul class="submenu">
             <li>
+              <a href="call-for-proposals.html.en">Call for Proposals</a>
+            </li>
+            <li>
               <a href="job-openings.html.en">Job Openings</a>
             </li>
           </ul>
