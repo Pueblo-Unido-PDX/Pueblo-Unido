@@ -11,8 +11,7 @@
                   <p>17405 NE Glisan Street <br>
                     Portland, OR<br>
                     97230<br>
-                  <p><a href="tel:5039128925">503-912-8925</a></p>
-                  </p>
+                  </p><p><a href="tel:5033600324">503-360-0324</a></p>
                 </address>
               </li>
             </ul>
