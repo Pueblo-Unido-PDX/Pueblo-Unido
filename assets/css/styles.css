@@ -651,6 +651,35 @@ section.disclaimer {
   padding-left: 0;
 }
 
+.footer__links {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 16px;
+}
+
+.footer__links address a {
+  font-size: inherit;
+  padding: 0;
+}
+
+.footer__links address p {
+  text-align: center;
+}
+
+.footer__links address:nth-child(1) p {
+  float: right;
+}
+
+.footer__links address:nth-child(2) p {
+  float: left;
+}
+
+.footer__links address:nth-child(3) {
+  clear: both;
+  grid-column: 1/-1;
+}
+
 .footer__links a {
   color: #BBB;
 }

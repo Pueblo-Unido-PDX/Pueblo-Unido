@@ -4,19 +4,29 @@
       <div class="footer__headings">
         <div>
           <h4>Pueblo Unido PDX</h4>
-          <div class="footer__links">
-            <ul>
-              <li>
+            <div class="footer__links">
                 <address>
-                  <p>17405 NE Glisan Street <br>
-                    Portland, OR<br>
-                    97230<br>
-                  <p><a href="tel:5039128925">503-912-8925</a></p>
-                  </p>
+                    <p>
+                        <strong>Dirección de envio</strong><br>
+                        17405 NE Glisan St<br>
+                        Portland, OR<br>
+                        97230<br>
+                    </p>
                 </address>
-              </li>
-            </ul>
-          </div>
+                <address>
+                    <p>
+                        <strong>Dirección de la oficina</strong><br>
+                        333 SW 5th Ave<br>
+                        Portland, OR<br>
+                        97204<br>
+                    </p>
+                </address>
+                <address>
+                    <p>
+                        <a href="tel:5039128925">503-912-8925</a>
+                    </p>
+                </address>
+            </div>
         </div>
       </div>
     </div>
