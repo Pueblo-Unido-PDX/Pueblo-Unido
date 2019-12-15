@@ -29,7 +29,6 @@
           </div>
         </div>
       </div> <!-- end .footer__headings -->
-      <p><a href="tel:5033600324">503-360-0324</a></p>
     </div> <!-- end .footer__link-row -->
     <div class="footer__logo-row">
       <a class="button--icon" href="https://www.facebook.com/PuebloUnidoPDX" target="blank">
