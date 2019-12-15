@@ -604,7 +604,7 @@ section.disclaimer {
   vertical-align: text-top;
   display: inline-block;
   padding-left: 0;
-  width: 100%;
+  width: 70%;
   text-align: center;
 }
 
@@ -694,6 +694,14 @@ section.disclaimer {
 
 .footer__links li {
   display: block;
+}
+
+.footer__links .left {
+  float: left;
+}
+
+.footer__links .right {
+  float: right;
 }
 
 .footer__logo-row {
