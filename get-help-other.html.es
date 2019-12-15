@@ -96,7 +96,7 @@ layout: default-es
           <br />
           <address>
             <p><strong>Llame al</strong>
-              <a href="tel:+15039128925">503-912-8925</a>
+              <a href="tel:+15033600324">503-360-0324</a>
             </p> 
             <p><strong>Escriba a</strong>
               <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
