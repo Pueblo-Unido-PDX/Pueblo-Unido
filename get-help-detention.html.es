@@ -81,7 +81,7 @@ layout: default-es
           defensa contra la deportación, un proveedor de servicios legales sin
           fines de lucro, o materiales informativos para inmigrantes detenidxs y
           sus parientes, póngase en contacto con nosotrxs llamando al
-          <a href="tel:+15039128925">503-912-8925</a> o escribiendo a
+          <a href="tel:+1503600324">503-360-0324</a> o escribiendo a
           <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com.
             </a>
         </p>
