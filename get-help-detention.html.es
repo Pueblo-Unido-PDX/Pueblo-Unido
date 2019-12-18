@@ -33,8 +33,18 @@ layout: default-es
           exigir buena representación, y ayudamos a reunir evidencia para
           fortalecer los casos contra la deportación.
           <strong>No cobramos</strong> por nuestrxs servicios de apoyo.</p>
-        <p>Llame o escriba al: <a href="tel:+15039128925">503-912-8925</a>;
-          <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
+          <address>
+            <p>
+                Para consultas organizacionales y navegación de Equity Corps, llame al:  <a href="tel:+15033600324">503-360-0324</a>
+            </p>
+          </address>
+          <address>
+            <p>
+              Llamar desde un centro de detención: <a href="tel:+15039128925">503-912-8925</a> (abierto el miercoles de 9am-5pm)
+            </p>
+          </address>
+
+          <p>Escriba a: <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a></p>
         </p>
         <p>*Aviso de responsabilidad*: Pueblo Unido PDX <em>no</em> es
           un despacho de abogadxs; <em>no somos</em> abogadxs y
@@ -71,7 +81,7 @@ layout: default-es
           defensa contra la deportación, un proveedor de servicios legales sin
           fines de lucro, o materiales informativos para inmigrantes detenidxs y
           sus parientes, póngase en contacto con nosotrxs llamando al
-          503-912-8925 o escribiendo a
+          <a href="tel:+15039128925">503-912-8925</a> o escribiendo a
           <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com.
             </a>
         </p>
