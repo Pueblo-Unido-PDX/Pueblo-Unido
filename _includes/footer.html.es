@@ -16,10 +16,9 @@
                 <address>
                     <p>
                         <strong>Dirección de la oficina</strong><br>
-                        333 SW 5th Ave<br>
-                        Suite #200<br>
+                        11717 NE Glisan Street<br>
                         Portland, OR<br>
-                        97204<br>
+                        97220<br>
                     </p>
                 </address>
                 <address>
