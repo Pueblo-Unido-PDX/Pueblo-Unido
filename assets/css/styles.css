@@ -898,25 +898,37 @@ section.disclaimer {
     padding: 0;
   }
 
-  .navigation-row--left a {
-    padding-left: 0;
+  .navigation-row img {
+    width: 60%;
   }
 
   .navigation-row a, .footer a {
-    font-size: 14px;
+    font-size: 2rem;
     padding-left: 13px;
-  }
-
-  .navigation-row img {
-    width: 100%;
   }
 
   .navigation-row i, .footer i {
     font-size: 20px;
   }
 
+  .navigation__link-group li {
+    float: none;
+    display: inline-block;
+}
+
   .navigation__link-group a {
     padding: 14px 12px;
+  }
+
+  .navigation-row--left a {
+    padding-left: 0;
+  }
+
+  .navigation-row--left, .navigation-row--right {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 12px 0;
   }
 
   .introduction {

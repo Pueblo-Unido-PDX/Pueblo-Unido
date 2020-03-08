@@ -2,7 +2,7 @@
   <div class="navigation-row">
     <div class="navigation-row--left">
       <a href="home.html.es">
-        <img alt="Pueblo Unido Logo" src="./assets/images/pu-logo/PNG/pueblo-unido-logo--gradient-white.png"></img>
+        <img alt="Pueblo Unido Logo" src="./assets/images/pu-logo/SVG/pueblo-unido-logo.svg"></img>
       </a>
     </div>
     <div class="navigation-row--right">
