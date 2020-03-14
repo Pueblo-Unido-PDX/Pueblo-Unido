@@ -896,19 +896,25 @@ section.disclaimer {
 
   .navigation-row {
     padding: 0;
+    text-align: center;
   }
 
   .navigation-row img {
-    width: 60%;
+    width: 80%;
+    padding: 0 3rem;
   }
 
   .navigation-row a, .footer a {
-    font-size: 2rem;
+    font-size: .75rem;
     padding-left: 13px;
   }
 
   .navigation-row i, .footer i {
     font-size: 20px;
+  }
+
+  .navigation__link-group {
+    margin-top: 12px;
   }
 
   .navigation__link-group li {
@@ -917,7 +923,8 @@ section.disclaimer {
 }
 
   .navigation__link-group a {
-    padding: 14px 12px;
+    padding: 20px;
+    line-height: 1.75rem;
   }
 
   .navigation-row--left a {
@@ -925,15 +932,14 @@ section.disclaimer {
   }
 
   .navigation-row--left, .navigation-row--right {
-    display: block;
-    width: 100%;
+    display: inline;
     text-align: center;
     padding: 12px 0;
   }
 
   .introduction {
     height: 83vh;
-    padding: 14em 1em;
+    padding: 19em 1em;
   }
 
   .introduction__text {
@@ -941,15 +947,15 @@ section.disclaimer {
   }
 
   .introduction__text h1 {
-    font-size: 32px;
+    font-size: 52px;
   }
 
   .introduction__text p {
-    font-size: 14px;
+    font-size: 23px;
   }
 
   .introduction__link a {
-    font-size: 14px;
+    font-size: 20px;
   }
 
   .heading {
