@@ -925,6 +925,10 @@ section.disclaimer {
     line-height: 1rem;
   }
 
+  .submenu a {
+    line-height: 1.75rem !important;
+  }
+
   .navigation-row--left a {
     padding-left: 0;
   }
