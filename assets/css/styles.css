@@ -1009,7 +1009,7 @@ section.disclaimer {
 
 /* Forms and Little Green Light */
 .lgld-main {
-  font-size: 2rem;
+  font-size: 2rem !important;
 }
 
 /* Bootstrap */
