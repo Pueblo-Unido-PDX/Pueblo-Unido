@@ -1007,6 +1007,11 @@ section.disclaimer {
   }
 }
 
+/* Forms and Little Green Light */
+.lgld-main {
+  font-size: 2rem;
+}
+
 /* Bootstrap */
 /*!
  * Bootstrap v4.0.0-beta.3 (https://getbootstrap.com)

@@ -19,6 +19,13 @@ layout: default-en
 </section>
 <section class="heading">
   <div class="container">
+    <script type="text/javascript" src="https://secure.lglforms.com/form_engine/s/xDRB1FXmGbjH30CTO54aKA.js"></script>
+    <noscript>
+      <a href="https://secure.lglforms.com/form_engine/s/xDRB1FXmGbjH30CTO54aKA">Fill out my LGL form!</a>
+      <br/>
+    </noscript>
+  </div>
+  <div class="container">
     <div class="row">
       <div class="col-md-7">
         <div class="heading__subheadline">
@@ -42,13 +49,6 @@ layout: default-en
           </div>
         </div>
     </div>
-  </div>
-  <div class="container">
-    <script type="text/javascript" src="https://secure.lglforms.com/form_engine/s/xDRB1FXmGbjH30CTO54aKA.js"></script>
-    <noscript>
-      <a href="https://secure.lglforms.com/form_engine/s/xDRB1FXmGbjH30CTO54aKA">Fill out my LGL form!</a>
-      <br/>
-    </noscript>
   </div>
   <div class="container">
     <div class="row">
