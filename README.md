@@ -1,6 +1,6 @@
 # Pueblo Unido PDX
 
-¡Bienvenido! Welcome!
+¡Bienvenido! Welcome! 
 
 ## Contributing
 
