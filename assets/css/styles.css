@@ -273,7 +273,7 @@ form input {
   background-size: cover;
 }
 
-.introduction--about {
+.introduction--about, .introduction--know-your-rights {
   background: url("../images/pu-images/png/backgrounds/walk--gray.jpg");
   background-size: cover;
 }
