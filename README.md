@@ -8,7 +8,7 @@
 
 We use [Jekyll](https://jekyllrb.com) to build the site. To get started as a contributor the first step is to get a local environment set up where you can preview your changes. You can do that by following the steps below.
 
-1. **Download the source code** for the website from [our GitHub repo](https://github.com/jbentley10/Pueblo-Unido). From a command line prompt (e.g., in Terminal.app on macOS), you could run the following command: `git clone git@github.com:jbentley10/Pueblo-Unido.git`. It’s also fine to use an application such as [GitHub Desktop](https://desktop.github.com) to download the source.
+1. **Download the source code** for the website from [our GitHub repo](https://github.com/Pueblo-Unido-PDX/Pueblo-Unido). From a command line prompt (e.g., in Terminal.app on macOS), you could run the following command: `git clone git@github.com:Pueblo-Unido-PDX/Pueblo-Unido.git`. It’s also fine to use an application such as [GitHub Desktop](https://desktop.github.com) to download the source.
 2. From a command line prompt, **navigate into the** `Pueblo-Unido` **directory** you created when you cloned the repo in step 1.
 4. From the command line, **ensure you’re running a recent version of Ruby** (2.3 or above) by running the following command: `ruby --version`. If necessary, upgrade Ruby on your system. E.g., on macOS, if you have [Homebrew](https://brew.sh) installed, you could run `brew upgrade ruby` from a command line prompt.
 4. **Install the Jekyll Ruby gem** (“gem” is the Ruby community’s name for a software library) by running the following command, again from a command line prompt: `gem install bundler jekyll`.
