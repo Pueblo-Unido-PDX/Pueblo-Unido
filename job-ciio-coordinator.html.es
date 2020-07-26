@@ -12,7 +12,7 @@ layout: default-es
           <h1>Oferta de Empleo: Coordinador/a del Colectivo de Intérpretes Indígenas de Oregón (CIIO)</h1>
         </div>
         <div class="introduction__link">
-          <a class="button" href="job-administrative-assistant.html.en">Read in English</a>
+          <a class="button" href="job-ciio-coordinator.html.en">Read in English</a>
         </div>
       </div>
     </div>
