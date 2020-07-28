@@ -29,8 +29,6 @@ layout: default-es
         <div class="heading__text">
           <p>Únete a Pueblo Unido.</p>
           <ul>
-            <li><a href="job-statewide-navigation-coordinator.html.es">Coordinador de Navegación Estatal</a></li>
-            <li><a href="job-administrative-assistant.html.es">Asistente Administrativx</a></li>
             <li><a href="job-ciio-coordinator.html.es">Coordinador/a del Colectivo de Intérpretes Indígenas de Oregón (CIIO)</a></li>
           </ul>
         </div>

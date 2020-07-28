@@ -29,7 +29,7 @@ layout: default-es
         <br />
         <div class="heading__text">
           <h3>Descripción del trabajo</h3>
-          <p>Pueblo Unido busca un/a coordinador/a de tiempo completo para desarrollar y apoyar el Colectivo de Intérpretes Indígenas de Oregon (CIIO). El Colectivo tiene como objetivos abordar las barreras a los servicios legales y sociales para los hablantes de idiomas indígenas que viven en Oregon, y asegurar una compensación y un trato justo para lxs intérpretes indígenas. El/la coordinador/a reclutará y organizará oportunidades de capacitación para intérpretes; ofrecerá apoyo y abogacía para los intérpretes; planificará eventos de alcance comunitario, medios de comunicación y materiales informativos para hablantes de idiomas indígenas; e interactuar con otras organizaciones que ofrecen recursos para hablantes de idiomas indígenas en los Estados Unidos y América Latina.</p>
+          <p>Pueblo Unido busca un/a coordinador/a de tiempo completo para desarrollar y apoyar el Colectivo de Intérpretes Indígenas de Oregon (CIIO). El Colectivo tiene como objetivos abordar las barreras a los servicios legales y sociales para los hablantes de idiomas indígenas que viven en Oregon, y asegurar una compensación y un trato justo para lxs intérpretes indígenas. El/la coordinador/a reclutará y organizará oportunidades de capacitación para intérpretes; ofrecerá apoyo y abogacía para lxs intérpretes; planificará eventos de alcance comunitario, medios de comunicación y materiales informativos para hablantes de idiomas indígenas; e interactuar con otras organizaciones que ofrecen recursos para hablantes de idiomas indígenas en los Estados Unidos y América Latina.</p>
         </div>
       </div>
       <div class="col-md-5 align-middle">
@@ -44,7 +44,7 @@ layout: default-es
             <li>Realizar actividades de alcance y reclutar intérpretes de idiomas indígenas de América Latina.</li>
             <li>Desarrollar sistemas para examinar, capacitar, apoyar y evaluar a lxs intérpretes en el Colectivo, para garantizar que los servicios de interpretación se brinden de manera efectiva y desde una perspectiva informada sobre el trauma.</li>
             <li>Colaborar con intérpretes en el Colectivo para establecer estándares de pago justo y mejores prácticas, e identifique medidas para hacer que las organizaciones contratantes rindan cuentas de estos estándares.</li>
-            <li>Abogar por una compensación y tratamiento  justo para los intérpretes por parte de las organizaciones contratantes.</li>
+            <li>Abogar por una compensación y tratamiento  justo para lxs intérpretes por parte de las organizaciones contratantes.</li>
             <li>Planificar eventos de alcance, medios de comunicación y materiales informativos para hablantes de idiomas indígenas en colaboración con el personal de Pueblo Unido.</li>
             <li>Asesorar a Pueblo Unido y a las organizaciones de las coaliciones Equity Corps of Oregon (ECO) y el Fondo de Alivio Laboral de Oregon (ALO) para mejorar la competencia cultural del personal y aumentar la accesibilidad de los servicios para hablantes de idiomas indígenas.</li>
             <li>Colaborar con otras organizaciones dirigidas por personas indígenas en los Estados Unidos y América Latina para establecer vínculos, organizar e identificar recursos adicionales para hablantes de idiomas indígenas.</li>
