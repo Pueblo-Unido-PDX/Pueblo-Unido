@@ -27,7 +27,7 @@ layout: default-es
         </div>
         <br />
         <div class="heading__text">
-          <h3>Cam Coval</h3>
+          <h3>Cam Coval (él)</h3>
           <strong>Cofundador, Director Ejecutivo <a href="mailto:cdcoval@pueblounidopdx.org">cdcoval@pueblounidopdx.org</a></strong>
           <br />
           <br />
@@ -51,7 +51,7 @@ layout: default-es
     <div class="row">
       <div class="col-md-7 align-middle">        
         <div class="heading__text">
-          <h3>Puma Tzoc</h3>
+          <h3>Puma Tzoc (él)</h3>
           <strong>CIIO <a href="mailto:puma@pueblounidopdx.org">puma@pueblounidopdx.org</a></strong>
           <br />
           <br />
@@ -76,7 +76,7 @@ layout: default-es
     <div class="row">
       <div class="col-md-7 align-middle">        
         <div class="heading__text">
-          <h3>Elba Alegría</h3>
+          <h3>Elba Alegría (ella)</h3>
           <strong>Personal, Navegadora <a href="mailto:ealegria@pueblounidopdx.org">ealegria@pueblounidopdx.org</a></strong>
           <br />
           <br />
@@ -104,7 +104,7 @@ layout: default-es
     <div class="row">
       <div class="col-md-7 align-middle">        
         <div class="heading__text">
-          <h3>Noris Lara</h3>
+          <h3>Noris Lara (ella)</h3>
           <strong>Personal, Navegadora <a href="mailto:noris@equitycorps.org">noris@equitycorps.org</a></strong>
           <br />
           <br />
@@ -123,7 +123,7 @@ layout: default-es
     <div class="row">
       <div class="col-md-7 align-middle">        
         <div class="heading__text">
-          <h3>Augusto Gayoso Caro</h3>
+          <h3>Augusto Gayoso Caro (él)</h3>
           <strong>Personal, Navegadora <a href="mailto:augusto@equitycorps.org">augusto@equitycorps.org</a></strong>
           <br />
           <br />
@@ -142,7 +142,7 @@ layout: default-es
     <div class="row">
       <div class="col-md-7 align-middle">        
         <div class="heading__text">
-          <h3>Francisco Rodriguez</h3>
+          <h3>Francisco Rodriguez (él)</h3>
           <strong>Cofundador, Presidente de la Junta Directiva <a href="mailto:unidopdx@pueblounidopdx.org">unidopdx@pueblounidopdx.org</a></strong>
           <br />
           <br />
