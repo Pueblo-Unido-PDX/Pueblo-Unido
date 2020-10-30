@@ -27,12 +27,30 @@ layout: default-en
         </div>
         <br />
         <div class="heading__text">
-          <p>Pueblo Unido provides legal service navigation and client advocate support for immigrants who are facing deportation. We connect clients to adequate legal representation and help gather evidence to strengthen cases against removal. Since our formation in April 2017, 10 of our clients have been released from detention and reunited with their families.</p>
+          <p>
+            Pueblo Unido provides legal service navigation, client advocacy, and
+            financial assistance to immigrants facing detention and deportation
+            in the Pacific Northwest. We help people obtain legal aid and gather
+            supporting evidence to present the strongest possible case against
+            deportation.
+          </p>
+          <p>
+            In our first 3 ½ years of operation (April 2017 - October 2020),
+            Pueblo Unido provided free consultations and communication credits
+            to over 330 people in detention centers, paid towards 62 attorney
+            retainer fees, and connected over 250 individuals to free legal aid.
+            30 people supported by Pueblo Unido have been released from
+            detention--10 of whom have already won their cases against
+            deportation and obtained lawful status.
+          </p>
         </div>
       </div>
       <div class="col-md-5 align-middle">
         <div class="heading__image">
-          <img alt="Volunteer Event Photo" src="./assets/images/pu-images/png/new/about-us.png" />
+          <img
+            alt="Volunteer Event Photo"
+            src="./assets/images/pu-images/png/new/about-us.png"
+          />
         </div>
       </div>
     </div>
@@ -44,12 +62,115 @@ layout: default-en
         </div>
         <br />
         <div class="heading__text">
-          <p>Legal representation is the <a href="https://innovationlawlab.org/blog/2018/05/12/defend-everyone/"> single most predictive factor</a> in whether a person will avoid deportation, secure more stable status, and achieve the right to remain in their community. Because immigration is civil—not criminal—court, however, the government does not provide legal counsel to those who cannot afford to hire their own. As a result, most people facing removal are forced to represent themselves, and are ultimately less likely to prevail against deportation. Pueblo Unido organized in April 2017 in response to this injustice to keep families and our communities together.</p>
+          <p>
+            Pueblo Unido is focused on providing navigation to legal services
+            because legal representation is the single most predictive factor in
+            whether a person will avoid deportation, secure more stable status,
+            and achieve the right to remain in their community. Those who are
+            represented by an attorney in deportation proceedings are 15 times
+            more likely to present a defense and 5 times more likely to win
+            their case in immigration court compared to those without legal
+            representation.
+          </p>
+          <p>
+            Because immigration is civil—not criminal—court, however, the
+            government does not provide legal counsel to those who cannot afford
+            to hire their own. It typically costs between $10,000-$12,000 to
+            hire a legal representative for a deportation defense case. As a
+            result, most people facing removal are forced to represent
+            themselves, and are ultimately less likely to prevail against
+            deportation. Pueblo Unido organized in April 2017 in response to
+            this injustice to keep families and our communities together.
+          </p>
         </div>
       </div>
       <div class="col-md-5 align-middle">
         <div class="heading__image">
-          <img alt="Volunteer Event Photo" src="./assets/images/pu-images/png/new/why-legal-representation.png" />
+          <img
+            alt="Volunteer Event Photo"
+            src="./assets/images/pu-images/png/new/why-legal-representation.png"
+          />
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__subheadline">
+          <h2>Our Founding Story</h2>
+          <div class="horizontal-line"></div>
+        </div>
+        <br />
+        <div class="heading__text">
+          <ul>
+            <li>
+              Our co-founders, Francisco Rodriguez and Cam Coval, met each other
+              in the fall of 2016 at Glenfair Elementary School in East
+              Portland.
+            </li>
+            <li>
+              At that time, Francisco was working at Glenfair as a behavioral
+              specialist, and Cam began serving as an AmeriCorps member in food
+              pantries at schools throughout East Multnomah County. In addition
+              to working together at Glenfair, Cam and Francisco also began
+              working together to coordinate the food pantry at Reynolds Middle
+              School.
+            </li>
+            <li>
+              On March 26, 2017, Francisco Rodriguez, was arrested by ICE agents
+              without a warrant, becoming one of the first DACA recipients in
+              Oregon to be detained under the Trump administration. Upon
+              learning about the arrest, Cam worked with community leaders to
+              organize a rally to demand Francisco’s immediate release. Within
+              an hour after the demonstration ended, Francisco was released from
+              the detention center. The ACLU credited his release to “the
+              massive public response” that we helped coordinate.
+            </li>
+            <li>
+              After Francisco returned to schools in East Multnomah County, he
+              and Cam were approached by other immigrants from Latin America
+              whose loved ones had been detained by ICE, and who asked for help
+              securing their release. These people did not have the same ties to
+              the Portland nonprofit community that Francisco had through his
+              work, so they had not received the same outpouring of support and
+              attention. Francisco and Cam sought in vain to find attorneys
+              willing to take on these cases at affordable rates.
+            </li>
+            <li>
+              It became clear to Francisco and Cam, and it was also later
+              identified in a 2017 Oregon Ready survey of immigration service
+              providers and advocates, that low-cost, language-specific legal
+              representation for people facing detention and deportation was the
+              most glaring gap in services for immigrants in Oregon. Indeed,
+              Francisco and Cam encountered several challenges seeking legal
+              services on behalf of the families that reached out to them. As
+              court hearings and filing deadlines came and went, the inability
+              to find quality, low-cost legal representation jeopardized their
+              loved ones’ ability to mount a strong removal defense. Francisco
+              and Cam realized that the lack of affordable representation for
+              immigrants in Oregon heightened the chance that these families and
+              others would be separated by detention and deportation.
+            </li>
+            <li>
+              However, Francisco’s experience proved that when people mobilize
+              around a common goal, they can make an impact in a seemingly
+              insurmountable situation. That experience motivated Francisco and
+              Cam to start Pueblo Unido PDX as a community group dedicated to
+              helping people facing deportation navigate legal services in a
+              streamlined manner, and providing financial assistance to help
+              families hire experienced attorneys at a reasonable cost. In this
+              way, Pueblo Unido formed to give people the best possible chance
+              to win their cases against deportation and achieve the legal right
+              to remain in their communities with their families.
+            </li>
+            <li>
+              The first two families that Francisco and Cam supported through
+              Pueblo Unido won their cases against removal and were released
+              from detention in December 2017. These early successes in
+              reuniting local families reinforced the impact of the work and
+              emboldened Francisco and Cam to establish Pueblo Unido as a
+              nonprofit in February 2018.
+            </li>
+          </ul>
         </div>
       </div>
     </div>
@@ -62,22 +183,56 @@ layout: default-en
         <div class="heading__subheadline">
           <h2 for="mce-EMAIL">Subscribe to our Newsletter!</h2>
           <div class="horizontal-line"></div>
-          <br>
-          <br>
+          <br />
+          <br />
         </div>
         <!-- Begin Mailchimp Signup Form -->
         <div id="mc_embed_signup">
-            <form action="https://pueblounidopdx.us19.list-manage.com/subscribe/post?u=9504480322a2b58db7f74bac6&amp;id=69b34b347f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-              <div id="mc_embed_signup_scroll">
-                <p>We regularly send email updates about our work, upcoming events, and volunteer opportunities.</p>
-                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9504480322a2b58db7f74bac6_69b34b347f" tabindex="-1" value=""></div>
-                <div class="clear mailchimp-signup"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+          <form
+            action="https://pueblounidopdx.us19.list-manage.com/subscribe/post?u=9504480322a2b58db7f74bac6&amp;id=69b34b347f"
+            method="post"
+            id="mc-embedded-subscribe-form"
+            name="mc-embedded-subscribe-form"
+            class="validate"
+            target="_blank"
+            novalidate
+          >
+            <div id="mc_embed_signup_scroll">
+              <p>
+                We regularly send email updates about our work, upcoming events,
+                and volunteer opportunities.
+              </p>
+              <input
+                type="email"
+                value=""
+                name="EMAIL"
+                class="email"
+                id="mce-EMAIL"
+                placeholder="email address"
+                required
+              />
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px" aria-hidden="true">
+                <input
+                  type="text"
+                  name="b_9504480322a2b58db7f74bac6_69b34b347f"
+                  tabindex="-1"
+                  value=""
+                />
               </div>
-            </form>
-          </div>
-          <!--End mc_embed_signup-->
+              <div class="clear mailchimp-signup">
+                <input
+                  type="submit"
+                  value="Subscribe"
+                  name="subscribe"
+                  id="mc-embedded-subscribe"
+                  class="button"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        <!--End mc_embed_signup-->
       </div>
     </div>
   </div>
