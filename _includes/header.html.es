@@ -40,9 +40,6 @@
             <li>
               <a href="staff.html.es">Personal</a>
             </li>
-            <li>
-              <a href="job-openings.html.es">Ofertas de Empleo</a>
-            </li>
           </ul>
         </li>
         <li class="navigation__link">
