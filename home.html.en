@@ -76,35 +76,6 @@ layout: default-en
 <section class="heading">
   <div class="container">
     <div class="row">
-      <div class="col-md-7 align-middle">
-        <div class="heading__subheadline">
-          <h2>Interested in working for Pueblo Unido?</h2>
-          <div class="horizontal-line"></div>
-        </div>
-        <br />
-        <p>Pueblo Unido PDX intends to hire a full-time Statewide Navigation 
-          Coordinator and a part-time Administrative Assistant, as well as 
-          to subcontract with another organization to host a full-time 
-          Statewide Navigation Coordinator outside the Portland metro area. 
-          This Navigation team will collaborate with Pueblo Unido’s Executive 
-          Director to provide navigator trainings, outreach presentations, 
-          and navigations throughout the state.
-        </p>
-        <a class="button" target="blank" 
-        href="job-openings.html.en">View Job Openings</a>
-        <p>&nbsp;</p>
-      </div>
-      <div class="col-md-5 align-middle">
-        <div class="heading__image">
-          <img src="./assets/images/pu-images/png/new/gala/guests-presentation--gala.jpg" />
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="heading">
-  <div class="container">
-    <div class="row">
       <div class="col-md-6">
         <h2>Upcoming Events</h2>
         <div class="horizontal-line"></div>

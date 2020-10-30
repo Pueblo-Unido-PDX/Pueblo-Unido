@@ -71,7 +71,6 @@ layout: default-es
           <h3>Para solicitar el trabajo:</h3>
           <p>Envíe su currículum por correo electrónico a <a href="mailto:PUboard@pueblounidopdx.org">PUboard@pueblounidopdx.org</a> y añada "Solicitud de Coordinador de CIIO" en el sujeto del correo electrónico.</p>
           <p>&nbsp;</p>
-          <a class="button" href="job-openings.html.es">Ver Más Trabajos</a>
         </div>
       </div>
     </div>

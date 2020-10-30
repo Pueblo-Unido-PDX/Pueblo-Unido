@@ -51,28 +51,7 @@ layout: default-es
           <img src="./assets/images/pu-images/png/new/why-legal-representation.png" />
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-7 align-middle">
-        <div class="heading__subheadline">
-          <h2>Trabajar Para Pueblo Unido</h2>
-          <div class="horizontal-line"></div>
-        </div>
-        <br />
-        <div class="heading__text">
-          <p>Únete a Pueblo Unido.</p>
-          <ul>
-            <li><a href="job-statewide-navigation-coordinator.html.es">Coordinador de Navegación Estatal</a></li>
-            <li><a href="job-administrative-assistant.html.es">Asistente Administrativx</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-5 align-middle">
-        <div class="heading__image">
-          <img alt="Team" src="./assets/images/pu-images/png/team--july.jpg" />
-        </div>
-      </div>
-    </div>
+    </div>   
   </div>
 </section>
 
