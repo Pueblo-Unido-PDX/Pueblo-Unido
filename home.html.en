@@ -24,12 +24,18 @@ layout: default-en
       <div class="col-md-12 align-middle">
         <div class="heading__subheadline">
           <h2>What is Pueblo Unido?</h2>
-          <div class="horizontal-line">
-          </div>
+          <div class="horizontal-line"></div>
         </div>
         <div class="heading__text heading__text--medium-width">
-          <p>Pueblo Unido is a non-profit organization that supports Portland metro community members in the fight against deportation. We connect clients to adequate legal representation and help gather evidence to strengthen cases against
-            removal.
+          <p>
+            Pueblo Unido PDX is a non-profit organization that provides legal
+            service navigation, client advocacy, and financial assistance to
+            immigrants facing detention and deportation in the Pacific
+            Northwest. We help people obtain legal aid and gather supporting
+            evidence to present the strongest possible case against deportation.
+            Our mission is to empower and provide resources to Latinxs with
+            vulnerable immigration status, and to advocate for solutions that
+            build just communities.
           </p>
           <a class="button" href="volunteer.html.en">Volunteer</a>
         </div>
@@ -37,7 +43,13 @@ layout: default-en
       <div class="col-md-12 align-middle">
         <div class="video">
           <div class="video__media">
-            <iframe title="About Pueblo Unido YouTube Video" src="https://www.youtube.com/embed/GJVg-gP4H2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            <iframe
+              title="About Pueblo Unido YouTube Video"
+              src="https://www.youtube.com/embed/GJVg-gP4H2I"
+              frameborder="0"
+              allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture"
+              allowfullscreen=""
+            ></iframe>
           </div>
         </div>
       </div>
@@ -53,21 +65,32 @@ layout: default-en
           <div class="horizontal-line"></div>
         </div>
         <div class="heading__text">
-          <p>Pueblo Unido provides legal service navigation and client advocate support for immigrants who are currently in removal proceedings. Those who are NOT currently in removal proceedings may contact Pueblo Unido for a list of nonprofit
-          organizations
-          in the Portland area who may be able to help.
+          <p>
+            Pueblo Unido helps people who are in ICE custody in Tacoma, WA or in
+            removal proceedings at the Portland Immigration Court find attorneys
+            and gather supporting evidence in order to have the best possible
+            chance to prevail against deportation. Contact our navigation team
+            by calling <a href="tel:+15033600324">503-360-0324</a>.
           </p>
-          <p>Don’t know whether you’re in removal proceedings or not? </p>
+          <p>Don’t know whether you’re in removal proceedings or not?</p>
           <a class="button" href="get-help-detention.html.en">Facing Removal</a>
         </div>
         <div class="heading__text heading__text--small-disclaimer">
-          <p>*Disclaimer*: Pueblo Unido PDX is not a law firm; we are not attorneys and we do not offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they receive the advice they
-          are seeking.</p>
+          <p>
+            *Disclaimer*: Pueblo Unido PDX is not a law firm; we are not
+            attorneys and we do not offer any legal advice. Instead, we help
+            connect clients to experienced immigration attorneys and follow-up
+            to ensure they receive the advice they are seeking.
+          </p>
         </div>
       </div>
       <div class="col-md-5 align-middle">
         <div class="heading__image">
-          <img loading="lazy" alt="Team Photo" src="./assets/images/pu-images/png/team--july.jpg" />
+          <img
+            loading="lazy"
+            alt="Team Photo"
+            src="./assets/images/pu-images/png/team--july.jpg"
+          />
         </div>
       </div>
     </div>
@@ -80,40 +103,86 @@ layout: default-en
         <h2>Upcoming Events</h2>
         <div class="horizontal-line"></div>
         <!-- Facebook iFrame -->
-        <iframe title="Facebook Events" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043"
-          width="100%" height="300" style="border:none;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" adapt-container-width="true"></iframe>
+        <iframe
+          title="Facebook Events"
+          src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043"
+          width="100%"
+          height="300"
+          style="border: none; overflow: hidden"
+          scrolling="yes"
+          frameborder="0"
+          allowTransparency="true"
+          adapt-container-width="true"
+        ></iframe>
       </div>
       <div class="col-md-12 align-middle newsletter">
         <div class="heading__subheadline">
           <h2 for="mce-EMAIL">Subscribe to our Newsletter!</h2>
           <div class="horizontal-line"></div>
-          <br>
-          <br>
+          <br />
+          <br />
         </div>
         <!-- Begin Mailchimp Signup Form -->
         <div id="mc_embed_signup">
-            <form action="https://pueblounidopdx.us19.list-manage.com/subscribe/post?u=9504480322a2b58db7f74bac6&amp;id=69b34b347f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-              <div id="mc_embed_signup_scroll">
-                <p>We regularly send email updates about our work, upcoming events, and volunteer opportunities.</p>
-                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9504480322a2b58db7f74bac6_69b34b347f" tabindex="-1" value=""></div>
-                <div class="clear mailchimp-signup"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+          <form
+            action="https://pueblounidopdx.us19.list-manage.com/subscribe/post?u=9504480322a2b58db7f74bac6&amp;id=69b34b347f"
+            method="post"
+            id="mc-embedded-subscribe-form"
+            name="mc-embedded-subscribe-form"
+            class="validate"
+            target="_blank"
+            novalidate
+          >
+            <div id="mc_embed_signup_scroll">
+              <p>
+                We regularly send email updates about our work, upcoming events,
+                and volunteer opportunities.
+              </p>
+              <input
+                type="email"
+                value=""
+                name="EMAIL"
+                class="email"
+                id="mce-EMAIL"
+                placeholder="email address"
+                required
+              />
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px" aria-hidden="true">
+                <input
+                  type="text"
+                  name="b_9504480322a2b58db7f74bac6_69b34b347f"
+                  tabindex="-1"
+                  value=""
+                />
               </div>
-            </form>
-          </div>
-          <!--End mc_embed_signup-->
+              <div class="clear mailchimp-signup">
+                <input
+                  type="submit"
+                  value="Subscribe"
+                  name="subscribe"
+                  id="mc-embedded-subscribe"
+                  class="button"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+        <!--End mc_embed_signup-->
       </div>
     </div>
   </div>
 </section>
 <section class="cta-callout">
-    <div class="cta-callout__subheadline">
-      <h2>Donate</h2>
-      <div class="horizontal-line"></div>
-      <p>Donate to help keep families together, support immigrant rights, and build resilient communities.</p>
-      <a class="button button--inverse" href="donate.html.en">Donate</a>
-    </div>
+  <div class="cta-callout__subheadline">
+    <h2>Donate</h2>
+    <div class="horizontal-line"></div>
+    <p>
+      Donate to help keep families together, support immigrant rights, and build
+      resilient communities.
+    </p>
+    <a class="button button--inverse" href="donate.html.en">Donate</a>
+  </div>
 </section>
 <section class="heading heading--disclaimer">
   <div class="container">
@@ -121,35 +190,49 @@ layout: default-en
       <div class="col-md-12">
         <div class="heading__subheadline">
           <h2>Why Latinx?</h2>
-          <div class="horizontal-line">
-          </div>
+          <div class="horizontal-line"></div>
         </div>
         <div class="heading__text">
-          <p>We use terms like Latinx (Latino/a) and todxs (todos/as) to be inclusive of the LGBT/Queer (Cuir) community. Using ‘x’ at the end of words (and increasingly ‘e’) allows us to avoid prioritizing either the masculine or feminine, and
-            recognizes that there are people who don’t identify with either binary gender.</p>
-          <p>If you are part of the LGBT/Queer community and would like to send us feedback on inclusive language or more (updated) resources, please email us at <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>.</p>
+          <p>
+            We use terms like Latinx (Latino/a) and todxs (todos/as) to be
+            inclusive of the LGBT/Queer (Cuir) community. Using ‘x’ at the end
+            of words (and increasingly ‘e’) allows us to avoid prioritizing
+            either the masculine or feminine, and recognizes that there are
+            people who don’t identify with either binary gender.
+          </p>
+          <p>
+            If you are part of the LGBT/Queer community and would like to send
+            us feedback on inclusive language or more (updated) resources,
+            please email us at
+            <a href="mailto:pueblounidopdx@gmail.com"
+              >pueblounidopdx@gmail.com</a
+            >.
+          </p>
         </div>
       </div>
     </div>
   </div>
 </section>
-    <!-- Defer parsing of JS -->
+<!-- Defer parsing of JS -->
 <script type="text/javascript">
   function parseJSAtOnload() {
-    var links = ["https://www.youtube.com/yts/jsbin/player_ias-vfl9X5OgR/en_US/base.js", 
-                  "https://www.facebook.com/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Ij3Wp8lg5Kz",
-                  "https://www.facebook.com/rsrc.php/v3/y2/r/jk2m548WkBo.js?_nc_x=Ij3Wp8lg5Kz",
-                  "https://www.youtube.com/yts/jsbin/www-embed-player-vflKTZR8g/www-embed-player.js",
-                  "https://www.facebook.com/rsrc.php/v3iEpO4/yo/l/en_US/1alfs6HFQu3.js?_nc_x=Ij3Wp8lg5Kz",
-                  "https://www.facebook.com/rsrc.php/v3/yf/r/HY5Gso1fJcs.js?_nc_x=Ij3Wp8lg5Kz",
-                  "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44",
-                  "https://www.facebook.com/rsrc.php/v3iLl54/y6/l/en_US/BjDhyT_42y3.js?_nc_x=Ij3Wp8lg5Kz",
-                  "https://www.facebook.com/rsrc.php/v3/yw/r/5EtXIYZILpV.js?_nc_x=Ij3Wp8lg5Kz",
-                  "https://www.facebook.com/rsrc.php/v3/yM/r/al1qgQ4rag4.js?_nc_x=Ij3Wp8lg5Kz",
-                  "https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043",
-                  "https://www.youtube.com/embed/GJVg-gP4H2I"],
-    headElement = document.getElementsByTagName("head")[0],
-    linkElement, i;
+    var links = [
+        "https://www.youtube.com/yts/jsbin/player_ias-vfl9X5OgR/en_US/base.js",
+        "https://www.facebook.com/rsrc.php/v3/yp/r/d6PZtoN4Sxs.js?_nc_x=Ij3Wp8lg5Kz",
+        "https://www.facebook.com/rsrc.php/v3/y2/r/jk2m548WkBo.js?_nc_x=Ij3Wp8lg5Kz",
+        "https://www.youtube.com/yts/jsbin/www-embed-player-vflKTZR8g/www-embed-player.js",
+        "https://www.facebook.com/rsrc.php/v3iEpO4/yo/l/en_US/1alfs6HFQu3.js?_nc_x=Ij3Wp8lg5Kz",
+        "https://www.facebook.com/rsrc.php/v3/yf/r/HY5Gso1fJcs.js?_nc_x=Ij3Wp8lg5Kz",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44",
+        "https://www.facebook.com/rsrc.php/v3iLl54/y6/l/en_US/BjDhyT_42y3.js?_nc_x=Ij3Wp8lg5Kz",
+        "https://www.facebook.com/rsrc.php/v3/yw/r/5EtXIYZILpV.js?_nc_x=Ij3Wp8lg5Kz",
+        "https://www.facebook.com/rsrc.php/v3/yM/r/al1qgQ4rag4.js?_nc_x=Ij3Wp8lg5Kz",
+        "https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPuebloUnidoPDX%2F&tabs=events&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=115236182004043",
+        "https://www.youtube.com/embed/GJVg-gP4H2I",
+      ],
+      headElement = document.getElementsByTagName("head")[0],
+      linkElement,
+      i;
     for (i = 0; i < links.length; i++) {
       linkElement = document.createElement("script");
       linkElement.src = links[i];
@@ -159,8 +242,8 @@ layout: default-en
   if (window.addEventListener) {
     window.addEventListener("load", parseJSAtOnload, false);
   } else if (window.attachEvent) {
-  window.attachEvent("onload", parseJSAtOnload);
+    window.attachEvent("onload", parseJSAtOnload);
   } else {
     window.onload = parseJSAtOnload;
   }
-</script >  
+</script>

@@ -28,7 +28,12 @@ layout: default-es
           </div>
         </div>
         <div class="heading__text heading__text--medium-width">
-          <p>Pueblo Unido es una organización sin fines de lucro que apoya a miembrxs de la comunidad en la zona metropolitana de Portland que luchan en contra de la deportación. Conectamos a nuestrxs clientes con representación legal adecuada y ayudamos a reunir evidencia para fortalecer los casos y evitar la deportación.
+          <p>
+            Pueblo Unido PDX es una organización sin fines de lucro que brinda navegación de servicios legales y asistencia 
+            financiera a inmigrantes que enfrentan detención y deportación en el noroeste del Pacífico. Ayudamos a las 
+            personas a obtener asistencia legal y a reunir pruebas de apoyo para presentar el caso más sólido posible 
+            ontra la deportación. Nuestra misión es empoderar y proporcionar recursos a lxs latinxs con estatus migratorio 
+            vulnerable y abogar por soluciones que construyan comunidades justas.
           </p>
           <a class="button" href="volunteer.html.es">Involucrarse</a>
         </div>
@@ -51,7 +56,7 @@ layout: default-es
           </div>
         </div>
         <div class="heading__text">
-          <p>Pueblo Unido brinda ayuda a inmigrantes, que están actualmente enfrentando un proceso judicial de deportación, a navegar los servicios legales y exigir una buena representación legal. Las personas que NO están actualmente enfrentando un proceso judicial pueden contactar a Pueblo Unido para recibir una lista de organizaciones sin fines de lucro en Portland que tal vez puedan ser de ayuda.
+          <p>Pueblo Unido ayuda a las personas que están detenidas por ICE en Tacoma, WA o en procedimientos de deportación en la Corte de Inmigración de Portland a encontrar abogados y reunir pruebas de apoyo para tener la mejor oportunidad posible de prevalecer contra la deportación. Póngase en contacto con nuestro equipo de navegación llamando al <a href="tel:+15033600324">503-360-0324</a>.
           </p>
           <p>¿No sabe si está en proceso de deportación o no?</p>
           <a class="button" href="get-help-detention.html.es">Enfrentando Deportación</a>

@@ -27,26 +27,27 @@ layout: default-en
           <div class="horizontal-line"></div>
         </div>
         <br />
-        <p>Visit <a href="https://oregonimmigrationresource.org/resources/">Oregon Immigration Resource</a> for informational materials and resources related to the following topics:</p>
+        <p>
+          If you are seeking legal services to obtain, maintain, or adjust status, but are not currently in removal proceedings, Pueblo Unido 
+          can offer you referrals to two types of legal service providers:
+        </p>
         <ul>
-          <li>Know Your Rights (for individuals, workers, educators, employers, health care providers)</li>
-          <li>Deportations and ICE activity (rapid response tips mid-arrest)</li>
-          <li>Family preparedness plan</li>
-          <li>Prevent fraud </li>
-          <li>Finding legal help (nonprofit legal services directory and accredited lawyer search)</li>
-          <li>Request a community meeting</li>
-          <li>Community and Cultural Resources (211 info and MultCo Cultural Services Directory)</li>
+          <li>Low-cost nonprofit legal service providers; or,</li>
+          <li>Private immigration attorneys.</li>          
         </ul>
       </div>
     </div>
     <div class="row">
       <div class="col-md-12">
         <div class="heading__subheadline">
-          <h2>Nonprofit Immigration Legal Service Providers in Portland Metro</h2>
+          <h2>Nonprofit Immigration Legal Service Providers</h2>
           <div class="horizontal-line"></div>
         </div>
         <br />
-        <p>Nonprofit legal service providers in the Portland metro area offer support services for a variety of non-removal immigration issues at reduced/no-cost on a case-by-case basis. Some examples include:</p>
+        <p>
+          Nonprofit legal service providers in the Portland metro area offer support services for a variety of non-removal immigration issues 
+          at reduced/no-cost on a case-by-case basis. Some examples include:
+        </p>
         <ul>
           <li>Support for LGBTQ immigrants</li>
           <li>Know Your Rights information</li>
@@ -71,21 +72,43 @@ layout: default-en
     <div class="row">
       <div class="col-md-12">
         <div class="heading__subheadline">
-            <h2>Contact Us</h2>
+            <h2>Contact </h2>
             <div class="horizontal-line"></div>
         </div> 
         <br />
         <address>
-          <p><strong>By phone:</strong>
-            <a href="tel:+15033600324">503-360-0324</a>
-          </p> 
-          <p><strong>By email:</strong>
-            <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a>
+          <p>
+            To request a referral to a nonprofit legal service provider or a private attorney, call our navigation team at 
+            <a href="tel:+15033600324">503-360-0324</a>.
           </p>
-        </address>
-        <p>*<em>Disclaimer</em>*: Pueblo Unido PDX is <em>not</em> a law firm; we are <em>not</em> attorneys and we <em>do not</em> offer any legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to
-          ensure they
-          receive the advice they are seeking.</p>
+        </address>        
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="heading__subheadline">
+            <h2>Other Resources</h2>
+            <div class="horizontal-line"></div>
+        </div> 
+        <br />
+        <p>
+          Visit <a href="https://oregonimmigrationresource.org/resources/" target="blank">Oregon Immigration Resource</a> for 
+          informational materials and resources related to the following topics:
+        </p>
+        <ul>
+          <li>Know Your Rights (for individuals, workers, educators, employers, health care providers)</li>
+          <li>Deportations and ICE activity (rapid response tips mid-arrest)</li>
+          <li>Family preparedness plan</li>
+          <li>Prevent fraud</li>
+          <li>Finding legal help (nonprofit legal services directory and accredited lawyer search)</li>
+          <li>Request a community meeting</li>
+          <li>Community and Cultural Resources (211 info and MultCo Cultural Services Directory)</li>
+        </ul>
+        <p>
+          *<em>Disclaimer</em>*: Pueblo Unido PDX is <em>not</em> a law firm; we are <em>not</em> attorneys and we <em>do not</em> offer any 
+          legal advice. Instead, we help connect clients to experienced immigration attorneys and follow-up to ensure they
+          receive the advice they are seeking.
+        </p>
       </div>
     </div>
   </div>
