@@ -87,28 +87,67 @@ layout: default-es
           <div class="horizontal-line"></div>
         </div>
         <br />
-        <p>La misión de Pueblo Unido es <strong>empoderar y brindar recursos a
-          latinxs con un estatus migratorio vulnerable y luchar por
-        soluciones que ayudan a construir comunidades más justas.</strong>
-        Ayudamos a las personas a navegar los servicios legales de
-        inmigración, exigir buena representación, y ayudar a reunir evidencia
-        para fortalecer los casos contra la deportación.</p>
-        <p>Necesitamos su apoyo para expandir nuestros esfuerzos, apoyar a más
-          personas en nuestra comunidad, y seguir brindando servicios
-          <strong>sin ningún costo para nuestrxs clientes</strong>. Su
-          contribución a Pueblo Unido PDX se usará en: </p>
-            <ul>
-              <li>Un fondo de defensa legal para ayudar a las personas que
-              enfrentan la deportación a contratar abogadxs de inmigración
-              para que tengan la mejor oportunidad de ganar sus casos;</li>
-              <li>Salarios de personal e inversión en la organización para
-              aumentar nuestra capacidad de proteger los derechos de lxs
-              inmigrantes.</li>
-            </ul>
-            <p><strong>USTED</strong> es una parte fundamental de la lucha
-            <strong>para mantener unidas a las familias</strong> y ayudarnos
-            a realizar nuestra visión de <strong>una comunidad justa y
-            resistente para todxs.</strong></p>
+        <p>
+          La representación legal es el factor más predictivo sobre si una persona evitará la deportación, 
+          obtendrá un estatus más estable y logrará el derecho a permanecer en su comunidad. Sin embargo, 
+          debido a que la inmigración es un tribunal civil, no penal, el gobierno no brinda asesoría legal 
+          a aquellos que no tienen suficientes recursos financieros para contratar a su propio abogadx.
+        </p>
+        <p>
+          Por lo general, cuesta entre $10,000 y $12,000 contratar a un representante legal para un caso de 
+          defensa contra la deportación. Como resultado, la mayoría de las personas que enfrentan la 
+          deportación se ven obligadas a representarse a sí mismas y, en última instancia, es menos probable 
+          que prevalezcan contra la deportación. Pueblo Unido se organizó en abril de 2017 en respuesta a 
+          esta injusticia para mantener unidas a las familias y nuestras comunidades.
+        </p>
+        <p>
+          La misión de Pueblo Unido es empoderar y proporcionar recursos a lxs latinxs con un estatus 
+          migratorio vulnerable y abogar por soluciones que construyan comunidades justas. Brindamos 
+          navegación de servicios legales y asistencia financiera para apoyar a lxs inmigrantes en el 
+          Pacífico NW en la lucha contra la detención y la deportación. Nuestro objetivo es ayudar a 
+          las personas a obtener asistencia legal y reunir pruebas de apoyo para presentar el caso más 
+          sólido posible contra la expulsión.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="heading__subheadline">
+          <h2>Logros en Nuestro Servicio</h2>
+          <div class="horizontal-line"></div>
+        </div>
+        <br />
+        <p>
+          En nuestros primeros 3 años y medio de operación (abril de 2017 - octubre de 2020), Pueblo Unido proporcionó 
+          consultas gratuitas y créditos de comunicación a más de 330 personas en centros de detención, pagó 62 
+          honorarios de retención de abogados y conectó a más de 250 personas con asistencia legal gratuita. 30 
+          personas apoyadas por Pueblo Unido han sido liberadas de la detención, 10 de las cuales ya ganaron sus 
+          casos contra la deportación y obtuvieron un estatus legal.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="heading__subheadline">
+          <h2>¿A dónde va su contribución?</h2>
+          <div class="horizontal-line"></div>
+        </div>
+        <br />
+        <p>
+          El 100% de su contribución a Pueblo Unido se destinará a un fondo de defensa legal para ayudar a las 
+          personas que enfrentan la deportación a contratar abogados de inmigración, reunir pruebas de apoyo y 
+          mantener a sus familias estables, para que tengan la mejor oportunidad posible de prevalecer contra 
+          la expulsión.
+        </p>
+        <p>
+          Gracias por su compromiso de proteger los derechos de los inmigrantes y restaurar la dignidad humana. 
+          USTED es una parte vital para mantener unidas a las familias y ayudarnos a realizar nuestra visión 
+          de una comunidad justa y resiliente para todos.
+        </p>
       </div>
     </div>
   </div>
@@ -120,20 +159,18 @@ layout: default-es
           <div class="horizontal-line"></div>
         </div>
         <br />
-        <p>El fondo de defensa legal de Pueblo Unido PDX apoya directamente a
-        los miembrxs de la comunidad de la zona metropolitana de Portland en
-        la lucha contra la deportación. Sus donaciones al Fondo de defensa
-        legal ayudan a pagar por:</p>
+        <p>
+          El Fondo de Defensa Legal de Pueblo Unido PDX apoya directamente a lxs miembros de la comunidad en la 
+          lucha contra la deportación. Sus donaciones al Fondo de Defensa Legal ayudan a pagar:
+        </p>
         <ul>
-          <li>Las consultas con abogadxs de inmigración;</li>
-          <li>Los pagos de anticipo a abogadxs para que se hagan cargo de
-          los casos de deportación;</li>
-          <li>Las evaluaciones de salud mental, las cuales constituyen un
-          apoyo valioso a la defensa en los casos de deportación;</li>
-          <li>Las tarifas de comunicación para que las personas detenidas
-          puedan hablar con sus abogadxs y sus seres queridxs; y,</li>
-          <li>Las fianzas y costos de viaje para liberar a las personas de
-            la detención y reunirlas con sus familias.</li>
+          <li>Consultas con abogadxs de inmigración;</li>
+          <li>Honorarios de retención para que lxs abogadxs tomen casos contra la deportación;</li>
+          <li>Evaluaciones de salud mental, que brindan un valioso apoyo a los casos de defensa contra la deportación;</li>
+          <li>Costos de interpretación, para que lxs miembros de las comunidades indígenas puedan recibir servicios legales en su idioma principal;</li>
+          <li>Asistencia de renta para que las familias amenazadas por la deportación puedan mantener la estabilidad y concentrarse en su defensa;</li>
+          <li>Costos de comunicación para que las personas detenidas puedan hablar con abogadxs y seres queridos; y,</li>
+          <li>Fianzas para liberar a las personas de la detención.</li>
         </ul>
         <p>Con su apoyo ayudaremos a más miembrxs de la comunidad de la
         zona metropolitana de Portland a ganar sus casos contra la
