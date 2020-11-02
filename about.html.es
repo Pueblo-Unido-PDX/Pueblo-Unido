@@ -142,7 +142,24 @@ layout: default-es
             </ul>
           </div>
         </div>
-        <div class="col-md-5 align-middle" />        
+        <div class="col-md-5 align-middle" />    
+      </div>            
+      <section class="what-we-do heading">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="heading__subheadline">
+              <h2></h2>
+              <div class="horizontal-line"></div>
+            </div>
+            <br />
+            <p>
+              Lxs clientes, voluntarixs u otros miembrxs de la comunidad pueden presentar quejas sobre lxs empleadxs y servicios de 
+              Pueblo Unido por escrito o por teléfono a Francisco Rodríguez, Presidente de la Mesa Directiva de Pueblo Unido en: 
+              <a href="mailto:unidopdx@pueblounidopdx.org">unidopdx@pueblounidopdx.org</a> o <a href="tel:+19713192736">971-319-2736</a>
+            </p>
+          </div>
+        </div>
+      </section>
     </div>   
   </div>
 </section>
