@@ -30,7 +30,7 @@
           <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
           <ul class="submenu">
             <li>
-              <a href="volunteer-committees.html.es">Comités de Voluntarixs</a>
+              <a href="volunteer-committees.html.es">Unáse</a>
             </li>
           </ul>
         </li>

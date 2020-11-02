@@ -1,5 +1,5 @@
 ---
-title: Volunteer Committees - Pueblo Unido PDX
+title: Join Our Team - Pueblo Unido PDX
 layout: default-en
 ---
 
@@ -8,7 +8,7 @@ layout: default-en
     <div class="row">
       <div class="col-md-12">
         <div class="introduction__text">
-          <h1>Volunteer Committees</h1>
+          <h1>Join Our Team</h1>
         </div>
         <div class="introduction__link">
           <a class="button" href="volunteer-committees.html.es">Leer en Español</a>
@@ -18,102 +18,25 @@ layout: default-en
   </div>
 </section>
 <section class="heading">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-7">
-          <div class="heading__subheadline">
-            <h2>Become a Volunteer!</h2>
-            <div class="horizontal-line"></div>
-          </div>
-          <br />
-          <p>If you are interested in volunteering for Pueblo Unido, please send an email to
-            <a href="mailto:pueblounidopdx@gmail.com">pueblounidopdx@gmail.com</a> with your name,
-            email, and the committee you are interested in volunteering with!
-          </p>
-          <a class="button" href="mailto:pueblounidopdx@gmail.com">Sign Me Up!</a>
-        </div>
-        <div class="col-md-5"></div>
-      </div>
-    </div>
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-7">
         <div class="heading__subheadline">
-          <h2>List of Committees</h2>
+          <h2>Become a Volunteer!</h2>
           <div class="horizontal-line"></div>
         </div>
         <br />
-        <div>
-          <h3>Community Outreach Committee</h3>
-          <p>The Community Outreach committee is responsible for:</p>
-          <ul>
-            <li>Event tabling</li>
-            <li>Door-knocking</li>
-            <li>Phonebanking</li>
-            <li>Writing a newsletter</li>
-          </ul>
-        </div>
-        <br />
-        <div>
-          <h3>Fundraising/Event Planning Committee</h3>
-          <p>The Fundraising/Event Planning committee is responsible for:</p>
-          <ul>
-            <li>Planning community events and fundraisers</li>
-            <li>Donation solicitation</li>
-            <li>Grant writing</li>
-            <li>Online fundraising</li>
-          </ul>
-        </div>
-        <br />
-        <div>
-          <h3>Social Media Committee</h3>
-          <p>The Social Media committee is responsible for:</p>
-          <ul>
-            <li>Managing Pueblo Unido Instagram, Twitter, Facebook</li>
-            <li>Frequent posts on all platforms</li>
-          </ul>
-        </div>
-        <br />
-        <div>
-          <h3>Interpretation/Translation Committee</h3>
-          <p>The Interpretation/Translation committee is responsible for:</p>
-          <ul>
-            <li>Remote translation of external communications and materials</li>
-            <li>Live interpretation at events</li>
-          </ul>
-        </div>
-        <br />
-        <div>
-          <h3>Tech Committee</h3>
-          <p>The Tech committee is responsible for:</p>
-          <ul>
-            <li>Developing and managing the Pueblo Unido website</li>
-            <li>Supporting material development and graphic design</li>
-          </ul>
-        </div>
-        <br />
-        <div>
-          <h3>Research and Material Development Committee</h3>
-          <p>The Research and Material Development committee is responsible
-            for:</p>
-          <ul>
-            <li>Conducting research and writing summary memos/briefs for
-              internal use</li>
-            <li>Compiling and developing case management resources</li>
-            <li>Creating volunteer resources (volunteer handbook, interest
-              forms, etc)</li>
-          </ul>
-        </div>
-        <br />
-        <div>
-          <h3>Film/photography/videography</h3>
-          <p>The film/photography/videography committee is responsible for:</p>
-          <ul>
-            <li>Directing and producing Pueblo Unido informational and
-              promotional videos;</li>
-            <li>Taking photos and videos at events</li>
-            <li>Creating/editing content for social media promotion</li>
-          </ul>
+        <p>
+          Volunteers support Pueblo Unido through a variety of ways, including outreach, communications, fundraising, graphic design, 
+          web development, research, interpretation/translation, and more! Please fill out this application if you're interested in 
+          joining our volunteer team, and we will follow up with you at our earliest convenience.
+        </p>
+      </div>      
+      <div class="row">
+        <div class="col-md-12">
+          <!-- Google Form -->
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf-5feF_-8Qzd8jF96_fivjYNd1kmiFyB57-AYvm_Zbdw-S4g/viewform?embedded=true" width="640" height="2725" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          <!-- End Google Form -->
         </div>
       </div>
     </div>

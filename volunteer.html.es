@@ -54,7 +54,7 @@ layout: default-es
           <a href="https://www.facebook.com/pueblounidopdx">Facebook</a>.
         </p>
         <br>
-        <a class="button" href="volunteer-committees.html.es">Comités de Voluntarixs</a>
+        <a class="button" href="volunteer-committees.html.es">Unáse</a>
       </div>
     </div>
   </div>
