@@ -43,6 +43,9 @@
           </ul>
         </li>
         <li class="navigation__link">
+          <a class="button--link" href="collective-of-indigenous-interpreters-of-oregon.html.es">Colectivo de Intérpretes Indígenas de Oregon</a>
+        </li>
+        <li class="navigation__link">
           <a class="button--link" href="why-latinx.html.es">¿Porque Latinx?</a>
         </li>
       </ul>
