@@ -44,12 +44,12 @@
               <a href="staff.html.en">Staff</a>
             </li>
           </ul>
+        </li>        
+        <li class="navigation__link">
+          <a class="button--link" href="why-latinx.html.en">Why Latinx?</a>
         </li>
         <li class="navigation__link">
           <a class="button--link" href="collective-of-indigenous-interpreters-of-oregon.html.en">Collective of Indigenous Interpreters of Oregon</a>
-        </li>
-        <li class="navigation__link">
-          <a class="button--link" href="why-latinx.html.en">Why Latinx?</a>
         </li>
       </ul>
     </div>
