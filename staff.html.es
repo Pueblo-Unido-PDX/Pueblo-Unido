@@ -142,6 +142,25 @@ layout: default-es
     <div class="row">
       <div class="col-md-7 align-middle">        
         <div class="heading__text">
+          <h3>Monica Lopez (ella)</h3>
+          <strong>Intern <a href="mailto:monical@u.northwestern.edu">monical@u.northwestern.edu</a></strong>
+          <br />
+          <br />
+          <p>Monica es americana de descendencia y padres mexicanos que creció en Gresham, Oregon. Actualmente está estudiando Biología y Estudios de Salud Global en su tercer año en la Universidad de Northwestern. En Northwestern, Monica está haciendo trabajo de investigación en un laboratorio de biología molecular, está involucrada con un grupo de Ballet Folklórico y trabaja como tutora en una escuela secundaria cercana. Está contenta de tener la oportunidad de trabajar y poder ayudar con Pueblo Unido aplicando sus conocimientos de tecnología y comunicación. Adicionalmente, ella valora la oportunidad de poder aprender de sus compañeros. En el futuro una de sus metas es trabajar en el sector de salud pública y ayudar a personas de comunidades vulnerables. En su tiempo libre, le gusta ir de excursión, hornear y jugar con su gata de un ojo.</p>
+          <br/>
+          <br/>
+        </div>
+      </div>
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Monica Lopez" src="./assets/images/staff/monica.png" />
+        </div>
+      </div>    
+    </div>
+
+    <div class="row">
+      <div class="col-md-7 align-middle">        
+        <div class="heading__text">
           <h3>Francisco Rodriguez (él)</h3>
           <strong>Cofundador, Presidente de la Junta Directiva <a href="mailto:unidopdx@pueblounidopdx.org">unidopdx@pueblounidopdx.org</a></strong>
           <br />

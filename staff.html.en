@@ -134,6 +134,25 @@ layout: default-en
     <div class="row">
       <div class="col-md-7 align-middle">        
         <div class="heading__text">
+          <h3>Monica Lopez (she/her)</h3>
+          <strong>Intern <a href="mailto:monical@u.northwestern.edu">monical@u.northwestern.edu</a></strong>
+          <br />
+          <br />
+          <p>Monica is a first-generation Mexican American who grew up in Gresham, Oregon.  She is currently a junior at Northwestern University studying Biological Sciences and Global Health Studies. At Northwestern, Monica is involved with research at the Wang lab, as well as with her Ballet Folklórico group and as a tutor at a nearby middle school. She is appreciative of the opportunity to work for Pueblo Unido, using her technology and communication skills. Additionally she values the experience of being able to learn from her peers. In the future, she would like to work in the public health sector with vulnerable populations. In her spare time, she enjoys hiking, baking, and playing with her one-eyed cat.</p>
+          <br/>
+          <br/>
+        </div>
+      </div>
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Monica Lopez" src="./assets/images/staff/monica.png" />
+        </div>
+      </div>    
+    </div>
+
+    <div class="row">
+      <div class="col-md-7 align-middle">        
+        <div class="heading__text">
           <h3>Francisco Rodriguez (he/him)</h3>
           <strong>Co-founder, Board President <a href="mailto:unidopdx@pueblounidopdx.org">unidopdx@pueblounidopdx.org</a></strong>
           <br />
