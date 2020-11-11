@@ -219,7 +219,7 @@ layout: default-es
     </div>
 
     <div class="row">
-      <div class="col-md-6 align-middle">        
+      <div class="col-md-7 align-middle">        
         <div class="heading__text">
           <h3>Nina Madueno</h3>
           <strong>Miembro de la Junta <a href="mailto:nina@pueblounidopdx.org">nina@pueblounidopdx.org</a></strong>
@@ -230,7 +230,14 @@ layout: default-es
           <br/>
         </div>
       </div>
-      <div class="col-md-6 align-middle">
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          
+        </div>
+      </div>   
+    </div>
+    <div class="row">
+      <div class="col-md-7 align-middle">
         <div class="heading__text">
           <h3>Teddy Walter</h3>
           <strong>Miembro de la Junta <a href="mailto:twalter@pueblounidopdx.org">twalter@pueblounidopdx.org</a></strong>
@@ -241,6 +248,11 @@ layout: default-es
           <br/>
         </div>
       </div>    
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Teddy Walter" src="./assets/images/staff/teddy.png" />
+        </div>
+      </div>   
     </div>    
   </div>
 </section>
