@@ -45,9 +45,14 @@ layout: default-es
             Si tiene preguntas sobre CIIO, comuníquese con Puma por correo electrónico a 
             <a href="mailto:puma@pueblounidopdx.org">puma@pueblounidopdx.org</a> o por teléfono al 
             <a href="tel:+12254067546">225-406-7546</a>. Si su organización está buscando un intérprete de un idioma indígena, 
-            complete este formulario y le facilitaremos su búsqueda lo mejor que podamos.
+            <a href="https://forms.gle/UHutCZsdHPRhJVu28">complete este formulario</a> y le facilitaremos su búsqueda lo mejor que podamos.
           </p>
         </div>
+      </div>
+      <div class="col-md-12">
+        <!-- Google Form -->
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePwDcLLH1uYJ-RRmVMgx47XKo5EaMRFFAgn3MFZvy7a_-Weg/viewform?embedded=true" width="640" height="6519" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        <!-- End Google Form -->
       </div>
     </div>
   </div>
