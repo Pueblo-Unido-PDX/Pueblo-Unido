@@ -258,8 +258,8 @@ layout: default-es
     <div class="row">
       <div class="col-md-7 align-middle">
         <div class="heading__text">
-          <h3>Teddy Walter</h3>
-          <strong>Miembro de la Junta <a href="mailto:twalter@pueblounidopdx.org">twalter@pueblounidopdx.org</a></strong>
+          <h3>Teddy Watler</h3>
+          <strong>Miembro de la Junta <a href="mailto:twatler@pueblounidopdx.org">twatler@pueblounidopdx.org</a></strong>
           <br />
           <br />
           <p>Crecí en el sur de California y mi padre es de Honduras. Recibí mi título de pregrado de la Universidad de Chicago y me mudé a Portland en 2017. Después de servir como voluntario de Pueblo Unido PDX, también me entrené como Navegante Comunitario en el programa Equity Corps. Ahora trabajo como organizador sindical con trabajadores de la salud. Estoy emocionado de servir en la junta directiva de Pueblo Unido para continuar apoyando a nuestro equipo de voluntarios a medida que nuestra comunidad crece para seguir luchando por la justicia de inmigración.</p>
@@ -269,7 +269,7 @@ layout: default-es
       </div>    
       <div class="col-md-5 align-middle">
         <div class="heading__image">
-          <img alt="Teddy Walter" src="./assets/images/staff/teddy.png" />
+          <img alt="Teddy Watler" src="./assets/images/staff/teddy.png" />
         </div>
       </div>   
     </div>    
