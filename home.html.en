@@ -43,13 +43,11 @@ layout: default-en
       <div class="col-md-12 align-middle">
         <div class="video">
           <div class="video__media">
-            <iframe
-              title="About Pueblo Unido YouTube Video"
-              src="https://www.youtube.com/embed/GJVg-gP4H2I"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture"
-              allowfullscreen=""
-            ></iframe>
+            <iframe 
+              src="https://drive.google.com/file/d/1NnpB9r-P3664qlYHl2ExoOssclR_ayxJ/preview" 
+              width="640" 
+              height="480"
+            />
           </div>
         </div>
       </div>
