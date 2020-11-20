@@ -39,10 +39,21 @@ layout: default-es
         </div>
       </div>
       <div class="col-md-12 align-middle">
-        <div class="heading__image">
-          <iframe title="YouTube Video About Pueblo Unido" width="100%" height="473" src="https://www.youtube.com/embed/5zcidvf2rbY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <div class="video">
+          <div class="video__media">
+            <iframe 
+              title="YouTube Video About Pueblo Unido" 
+              width="100%" 
+              height="473" 
+              src="https://www.youtube.com/embed/5zcidvf2rbY" 
+              frameborder="0" 
+              allow="autoplay; 
+              encrypted-media" 
+              allowfullscreen 
+            />
+          </div>
         </div>
-      </div>
+      </div>      
     </div>
   </div>
 </section>
