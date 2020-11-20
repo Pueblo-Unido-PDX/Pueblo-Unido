@@ -50,7 +50,7 @@ layout: default-es
               allow="autoplay; 
               encrypted-media" 
               allowfullscreen 
-            />
+            ></iframe>
           </div>
         </div>
       </div>      
