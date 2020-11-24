@@ -40,22 +40,7 @@ layout: default-es
           </li>
         </ul>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12 align-middle">
-        <div class="video">
-          <div class="video__media">
-            <iframe
-              title="About Equity Corps YouTube Video"
-              src="https://www.youtube.com/embed/59zZqeOYzUQ"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture"
-              allowfullscreen=""
-            ></iframe>
-          </div>
-        </div>
-      </div>
-    </div>      
+    </div>    
     <div class="row">
       <div class="col-md-12">
         <div class="heading__subheadline">
