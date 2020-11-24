@@ -56,6 +56,10 @@ layout: default-es
     </div>
     <div class="row">
       <div class="col-md-12 align-middle">
+        <div class="heading__subheadline">
+          <h2>Aprenda sobre Equity Corps de Oregon (ECO)</h2>
+          <div class="horizontal-line"></div>
+        </div>
         <div class="video">
           <div class="video__media">
             <iframe
