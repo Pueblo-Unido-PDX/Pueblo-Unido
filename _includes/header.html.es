@@ -40,6 +40,9 @@
             <li>
               <a href="staff.html.es">Personal</a>
             </li>
+            <li>
+              <a href="community-feedback.html.es">Comentarios de la Comunidad</a>
+            </li>
           </ul>
         </li>        
         <li class="navigation__link">
