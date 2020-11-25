@@ -20,20 +20,19 @@ layout: default-en
 <section class="what-we-do heading">
   <div class="container">
     <div class="row">
-      <div class="col-md-7 align-middle">
+      <div class="col-md-12">
         <div class="heading__text">
-          <p>
+          <h4>
             Clients, volunteers, or other community members can submit grievances about Pueblo Unido’s 
             employees and services in writing or over the phone to Francisco Rodriguez, Pueblo Unido’s 
             Board President at <a href="mailto:unidopdx@pueblounidopdx.org">unidopdx@pueblounidopdx.org</a> or 
             <a href="tel:+19713192736">971-319-2736</a>.
-          </p>
+          </h4>
         </div>
       </div>
-      <div class="col-md-5 align-middle"></div>    
     </div>
     <div class="row">
-      <div class="col-md-7 align-middle">
+      <div class="col-md-12">
         <div class="heading__subheadline">
           <h2>Client Feedback Form</h2>
           <div class="horizontal-line"></div>
@@ -42,12 +41,7 @@ layout: default-en
         <div class="heading__text">
           <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScskZSgoZWuYU_h0hgQwZxdZmcPfvCNjuq3Lo29m5f-40MT5w/viewform?embedded=true" width="640" height="2320" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
         </div>
-      </div>
-      <div class="col-md-5 align-middle">
-        <div class="heading__image">
-          <img alt="Cam Coval" src="./assets/images/staff/cam.png" />
-        </div>
-      </div>    
+      </div>   
     </div>
   </div>
   <br />
