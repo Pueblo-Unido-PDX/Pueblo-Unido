@@ -29,7 +29,7 @@ layout: default-en
     <div class="row">
       <div class="col-md-7">
         <div class="heading__subheadline">
-          <h2>Donate Through ActBlue</h2>
+          <h2>Become a Sustaining Member</h2>
           <div class="horizontal-line"></div>
         </div>
         <br />
@@ -54,45 +54,26 @@ layout: default-en
     <div class="row">
       <div class="col-md-12">
         <div class="heading__subheadline">
-          <h2>How to Donate</h2>
+          <h2>Donate One Time</h2>
           <div class="horizontal-line"></div>
         </div>
         <br />
         <div class="container">
           <div class="row icon-row">
             <div class="col-md-4">
-              <a href="https://causes.benevity.org/causes/840-822488480" target="blank">
-                <img loading="lazy" src="./assets/images/donate/benevity-logo.png" />
-              </a>
-              <p>&nbsp;</p>
-            </div>
-            <div class="col-md-4">
+              <h3>Paypal</h1>
               <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="AMVZPT6B33UNE">
                 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                 <img loading="lazy" alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
               </form>
-              <p class="subtitle">PayPal and Monthly Donations</p>
               <p>&nbsp;</p>
             </div>
             <div class="col-md-4 venmo-logo">
+              <h3>Venmo</h3>
               <a href="https://venmo.com/pueblounido-pdx" target="blank">
                 <img loading="lazy" class="venmo-logo" src="./assets/images/donate/venmo.png" />
-              </a>
-              <p>&nbsp;</p>
-            </div>
-          </div>
-          <div class="row icon-row">
-            <div class="col-md-4">
-              <a href="https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=82-2488480" target="blank">
-                <img loading="lazy" src="./assets/images/donate/donate-now-logo.png" />
-              </a>
-              <p>&nbsp;</p>
-            </div>
-            <div class="col-md-4">
-              <a href="https://smile.amazon.com/ch/82-2488480" target="blank">
-                <img loading="lazy" src="./assets/images/donate/amazon-smile.png" />
               </a>
               <p>&nbsp;</p>
             </div>
@@ -106,6 +87,22 @@ layout: default-en
             </div>
           </div>
         </div>
+        <div class="col-md-12">
+          <div class="heading__subheadline">
+            <h2>For corporate donations or employee-matching programs</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <br />
+        
+          <div class="row icon-row">
+            <div class="col-md-4">
+              <a href="https://causes.benevity.org/causes/840-822488480" target="blank">
+                <img loading="lazy" src="./assets/images/donate/benevity-logo.png" />
+              </a>
+              <p>&nbsp;</p>
+            </div>
+            
+          </div>
         <br>
         <div class="container">
           <div class="row">
