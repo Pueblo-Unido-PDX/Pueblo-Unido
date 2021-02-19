@@ -19,63 +19,93 @@ layout: default-es
 </section>
 <section class="heading">
   <div class="container">
+    <script type="text/javascript" src="https://secure.lglforms.com/form_engine/s/xDRB1FXmGbjH30CTO54aKA.js"></script>
+    <noscript>
+      <a href="https://secure.lglforms.com/form_engine/s/xDRB1FXmGbjH30CTO54aKA">Fill out my LGL form!</a>
+      <br/>
+    </noscript>
+  </div>
+  <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-7">
         <div class="heading__subheadline">
-          <h2>Cómo donar</h2>
+          <h2>Conviértete en Miembro Sustentador</h2>
           <div class="horizontal-line"></div>
         </div>
         <br />
-        <div class="donate__methods">
-          <div class="container">
-            <div class="row icon-row">
-              <div class="col-md-4">
-                <a href="https://causes.benevity.org/causes/840-822488480" target="blank">
-                  <img loading="lazy" src="./assets/images/donate/benevity-logo.png" />
-                </a>
-                <p>&nbsp;</p>
-              </div>
-              <div class="col-md-4">
-                <img src="./assets/images/donate/paypal.png" />
-                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                  <input type="hidden" name="cmd" value="_s-xclick">
-                  <input type="hidden" name="hosted_button_id" value="AMVZPT6B33UNE">
-                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                  <img loading="lazy" alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                </form>
-                <p>&nbsp;</p>
-              </div>
-              <div class="col-md-4 venmo-logo">
-                <a href="https://venmo.com/pueblounido-pdx" target="blank">
-                  <img loading="lazy" class="venmo-logo" src="./assets/images/donate/venmo.png" />
-                </a>
-                <p>&nbsp;</p>
-              </div>
-            </div>
-            <div class="row icon-row">
-              <div class="col-md-4">
-                <a href="https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=82-2488480" target="blank">
-                  <img loading="lazy" src="./assets/images/donate/donate-now-logo.png" />
-                </a>
-                <p>&nbsp;</p>
-              </div>
-              <div class="col-md-4">
-                <a href="https://smile.amazon.com/ch/82-2488480" target="blank">
-                  <img loading="lazy" src="./assets/images/donate/amazon-smile.png" />
-                </a>
-                <p>&nbsp;</p>
-              </div>
-              <div class="col-md-4 check-alignment">
-                <h3>Cheque</h3>
-                  <p>Haga el cheque a nombre de Pueblo Unido PDX y envíelo a:<br>
-                  17405 NE Glisan Street<br>
-                  Portland, OR<br>
-                  97230</p>
-                <p>&nbsp;</p>
-              </div>
+        <p>You can contribute to Pueblo Unido’s mission by making your monthly donation 
+        through fundraising platform ActBlue. It’s easy to set up: Click on the 'ActBlue 
+        Donation Setup' button below, and then check the box that says “Yes, Count Me In!” 
+        under the “Make It Monthly” section of the form you’ll be directed to. Thank you for 
+        your support!
+        </p>
+        <p>&nbsp;</p>
+        <a class="button" target="blank" 
+        href="https://secure.actblue.com/donate/pueblo-unido-pdx-1?refcode=website&recurring=1">ActBlue Donation Setup</a>
+      </div>
+      <div class="col-md-5 align-middle">
+          <div class="heading__image heading__image--centered heading-_image--logo">
+            <img loading="lazy" src="./assets/images/donate/actblue.png" />
           </div>
         </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="heading__subheadline">
+          <h2>Donar una vez</h2>
+          <div class="horizontal-line"></div>
         </div>
+        <br />
+        <div class="container">
+          <div class="row icon-row">
+            <div class="col-md-4">
+              <h3>Paypal</h1>
+              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="AMVZPT6B33UNE">
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                <img loading="lazy" alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+              </form>
+              <p>&nbsp;</p>
+            </div>
+            <div class="col-md-4 venmo-logo">
+              <h3>Venmo</h3>
+              <a href="https://venmo.com/pueblounido-pdx" target="blank">
+                <img loading="lazy" class="venmo-logo" src="./assets/images/donate/venmo.png" />
+              </a>
+              <p>&nbsp;</p>
+            </div>
+            <div class="col-md-4 check-alignment">
+              <h3>Cheque</h3>
+              <p>Haga el cheque a nombre de Pueblo Unido PDX y envíelo a:<br>
+                17405 NE Glisan Street<br>
+                Portland, OR<br>
+                97230</p>
+              <p>&nbsp;</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12">
+          <div class="heading__subheadline">
+            <h2>For corporate donations or employee-matching programs</h2>
+            <div class="horizontal-line"></div>
+          </div>
+          <br />
+        
+          <div class="row icon-row">
+            <div class="col-md-4">
+              <a href="https://causes.benevity.org/causes/840-822488480" target="blank">
+                <img loading="lazy" src="./assets/images/donate/benevity-logo.png" />
+              </a>
+              <p>&nbsp;</p>
+            </div>
+            
+          </div>
+        <br>
+        </div>
+      </div>
       </div>
     </div>
   </div>
