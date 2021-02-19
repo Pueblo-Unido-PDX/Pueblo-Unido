@@ -47,6 +47,20 @@ layout: default-es
             <a href="tel:+12254067546">225-406-7546</a>. Si su organización está buscando un intérprete de un idioma indígena, 
             <a href="https://forms.gle/UHutCZsdHPRhJVu28">complete este formulario</a> y le facilitaremos su búsqueda lo mejor que podamos.
           </p>
+
+          <!-- YOUTUBES -->
+          <iframe
+            title="About CIIO Video"
+            src="https://www.youtube.com/embed/czzXze8VTHk"
+            frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture"
+            allowfullscreen=""
+          ></iframe>
+          <p>
+            ¿Habla usted un idioma originario? ¿Está interesadx en servir como fuente de interpretación y puente entre varios 
+            mundos, culturas e idiomas para ayudar a lxs miembrxs de nuestra comunidad? Mire este video de Puma Tzoc para 
+            aprender más sobre el Colectivo de Intérpretes Indígenas de Oregón (CIIO) y cómo unirse.
+          </p>
         </div>
       </div>
       <div class="col-md-12">
