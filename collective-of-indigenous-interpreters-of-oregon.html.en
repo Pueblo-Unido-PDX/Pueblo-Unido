@@ -50,13 +50,17 @@ layout: default-en
         </div>
       </div>
       <div class="col-md-12 align-middle">
-        <iframe
-          title="About CIIO Video"
-          src="https://www.youtube.com/embed/czzXze8VTHk"
-          frameborder="0"
-          allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture"
-          allowfullscreen=""
-        ></iframe>
+        <div class="video">
+          <div class="video__media">
+            <iframe
+              title="About CIIO Video"
+              src="https://www.youtube.com/embed/czzXze8VTHk"
+              frameborder="0"
+              allow="accelerometer; autoplay; encrypted-media gyroscope; picture-in-picture"
+              allowfullscreen=""
+            ></iframe>
+          </div>
+        </div>
         <div class="heading__text">
           <p>
             Do you speak an original language? Are you interested in serving as a source of interpretation and bridge between 
