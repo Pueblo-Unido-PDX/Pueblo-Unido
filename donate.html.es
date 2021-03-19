@@ -33,15 +33,14 @@ layout: default-es
           <div class="horizontal-line"></div>
         </div>
         <br />
-        <p>You can contribute to Pueblo Unido’s mission by making your monthly donation 
-        through fundraising platform ActBlue. It’s easy to set up: Click on the 'ActBlue 
-        Donation Setup' button below, and then check the box that says “Yes, Count Me In!” 
-        under the “Make It Monthly” section of the form you’ll be directed to. Thank you for 
-        your support!
+        <p>Usted puede contribuir a la misión de Pueblo Unido haciendo una donación mensual a través de la plataforma de 
+          recaudación de fondos ActBlue. Es fácil de hacer: haga clic en el botón 'Hacer una donación en ActBlue', y luego 
+          marque la casilla que dice "Sí, ¡cuente conmigo!" bajo la sección "Hacerlo mensualmente" del formulario al que se 
+          le dirigirá. ¡Gracias por su apoyo!
         </p>
         <p>&nbsp;</p>
         <a class="button" target="blank" 
-        href="https://secure.actblue.com/donate/pueblo-unido-pdx-1?refcode=website&recurring=1">ActBlue Donation Setup</a>
+        href="https://secure.actblue.com/donate/pueblo-unido-pdx-1?refcode=website&recurring=1">Hacer una donación en ActBlue</a>
       </div>
       <div class="col-md-5 align-middle">
           <div class="heading__image heading__image--centered heading-_image--logo">
@@ -89,7 +88,7 @@ layout: default-es
         </div>
         <div class="col-md-12">
           <div class="heading__subheadline">
-            <h2>For corporate donations or employee-matching programs</h2>
+            <h2>Para donaciones corporativas o programas de donaciones de contrapartida para empleados</h2>
             <div class="horizontal-line"></div>
           </div>
           <br />
