@@ -545,6 +545,7 @@ form input {
   margin: 0;
   max-width: 750px;
   margin:10vh auto 0 auto;
+  padding-bottom: 13em;
 }
 
 #home-on-hold-slideshow > div {
@@ -555,7 +556,7 @@ form input {
   margin: 0;
 	position: relative;
 	width: 620px;
-  height: 250px;
+  height: 420px;
 }
 
 #slideshow > div {
@@ -972,7 +973,7 @@ section.disclaimer {
   .navigation__link-group li {
     float: none;
     display: inline-block;
-}
+  }
 
   .navigation__link-group a {
     padding: 20px;
@@ -1040,6 +1041,13 @@ section.disclaimer {
 
   .heading__image--centered {
     margin-top: 60px;
+  }
+
+  #slideshow {
+    margin: 0;
+    position: relative;
+    width: 460px;
+    height: 560px;
   }
 
   .footer {

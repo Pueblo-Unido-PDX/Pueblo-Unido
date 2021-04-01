@@ -70,9 +70,18 @@ $(document).ready(main);
         <div id="home-on-hold-slideshow" class="container">
           <a href="#" class="arrowL">&lt;</a>
           <div id="slideshow">
-            <div><img src="http://unsplash.it/620/450?image=401"/></div>
-            <div class="hidden"><img src="http://unsplash.it/620/450?image=368"/></div>
-            <div class="hidden"><img src="http://unsplash.it/620/450?image=266"/></div>
+            <div><img src="assets/images/home-on-hold/esp/1.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/esp/2.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/esp/3.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/esp/4.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/esp/5.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/esp/6.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/esp/7.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/esp/8.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/esp/9.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/esp/10.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/esp/11.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/esp/12.jpg"/></div>
           </div>
           <a href="#" class="arrowR">&gt;</a>
         </div>

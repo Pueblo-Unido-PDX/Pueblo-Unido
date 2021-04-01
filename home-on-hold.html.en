@@ -67,12 +67,22 @@ $(document).ready(main);
         </div>
       </div>
       <div class="col-md-12 align-middle">
+        <div style="text-align: center"><img style="width: 75%" src="assets/images/home-on-hold/logo01.jpg"/></div>
         <div id="home-on-hold-slideshow" class="container">
           <a href="#" class="arrowL">&lt;</a>
           <div id="slideshow">
-            <div><img src="http://unsplash.it/620/450?image=401"/></div>
-            <div class="hidden"><img src="http://unsplash.it/620/450?image=368"/></div>
-            <div class="hidden"><img src="http://unsplash.it/620/450?image=266"/></div>
+            <div><img src="assets/images/home-on-hold/eng/1.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/eng/2.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/eng/3.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/eng/4.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/eng/5.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/eng/6.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/eng/7.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/eng/8.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/eng/9.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/eng/10.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/eng/11.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/eng/12.jpg"/></div>
           </div>
           <a href="#" class="arrowR">&gt;</a>
         </div>
