@@ -2,39 +2,10 @@
 title: "Home on Hold Comic"
 layout: default-es
 ---
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.css">
+<script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
 <script type="text/javascript">
-var main = function() {
-
-var paused = false
-
-$('.arrowR').click(function() {
-  paused = true;
-  console.log("ook!");
-  $('#slideshow > div:first')
-  .fadeOut(1000)
-  .next()
-  .fadeIn(1000)
-  .end()
-  .appendTo('#slideshow');
-  return false;
-});
-  
-$('.arrowL').click(function() {
-  paused = true;
-  $('#slideshow > div:last')
-  .fadeIn(1000)
-  .prependTo('#slideshow')
-  .next()
-  .fadeOut(1000)
-  .end();
-  return false;
-});
- 
-
-};
-
-$(document).ready(main);
+  new Glider(document.querySelector('.glider'));
 </script>
 
 <section class="introduction introduction--donate">
@@ -68,6 +39,17 @@ $(document).ready(main);
       </div>
       <div class="col-md-12 align-middle">
         <div id="home-on-hold-slideshow" class="container">
+          <!-- Glider.js version -->
+          <div class="glider">
+            <div> 1 </div>
+            <div> 2 </div>
+            <div> 3 </div>
+            <div> 4 </div>
+            <div> 5 </div>
+            <div> 6 </div>
+          </div>
+
+          <!-- jQuery version -->
           <a href="#" class="arrowL">&lt;</a>
           <div id="slideshow">
             <div><img src="assets/images/home-on-hold/esp/1.jpg"/></div>
