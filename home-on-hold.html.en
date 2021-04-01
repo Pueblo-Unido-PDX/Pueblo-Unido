@@ -83,6 +83,7 @@ $(document).ready(main);
             <div class="hidden"><img src="assets/images/home-on-hold/eng/10.jpg"/></div>
             <div class="hidden"><img src="assets/images/home-on-hold/eng/11.jpg"/></div>
             <div class="hidden"><img src="assets/images/home-on-hold/eng/12.jpg"/></div>
+            <div class="hidden"><img src="assets/images/home-on-hold/eng/13.jpg"/></div>
           </div>
           <a href="#" class="arrowR">&gt;</a>
         </div>
