@@ -532,6 +532,60 @@ form input {
   text-align: center;
 }
 
+/**
+ **
+ ** HOME ON HOLD COMIC 
+ **
+**/
+.hidden {
+  display: none;
+}
+
+#home-on-hold-slideshow {
+  margin: 0;
+  max-width: 750px;
+  margin:10vh auto 0 auto;
+}
+
+#home-on-hold-slideshow > div {
+  display: inline-block;
+}
+
+#slideshow {
+  margin: 0;
+	position: relative;
+	width: 620px;
+  height: 250px;
+}
+
+#slideshow > div {
+	position: absolute;
+	top: 0; 
+	left: 0; 
+	right: 0; 
+	bottom: 0; 
+}
+
+#slideshow img {
+	width: 100%;
+  margin: 0;
+  border: solid 1px #283593;
+}
+
+.arrowL, .arrowR {
+  width: 40px;
+  font-size: 64px;
+  display: inline-block;
+  color: #9FA8DA;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 400px;
+  font-weight: bold;
+  padding: 0 10px;
+}
+
+
 section.cta-callout {
   background:
     linear-gradient(
