@@ -19,15 +19,6 @@ layout: default-en
 <section class="heading heading--disclaimer">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
-        <div class="heading__subheadline">
-          <h2>Home on Hold</h2>
-          <div class="horizontal-line"></div>
-        </div>
-        <div class="heading__text">
-          <p>Lorem ipsum solor dut amet.</p>
-        </div>
-      </div>
       <div class="col-md-12 align-middle">
         <div style="text-align: center">
           <img style="width: 75%" src="assets/images/home-on-hold/logo01.jpg" />
@@ -38,15 +29,10 @@ layout: default-en
             <div class="gradient-border-bottom">
               <div class="gradient-border">
                 <div class="glider draggable" id="glider-single">
-                  <div class="glider-track" style="width: 6350px"></div>
-                    <div
-                      class="glider-slide left-1"
-                      data-gslide="0"
-                      style="height: auto; width: 635px"
-                    >
-                      <img src="assets/images/home-on-hold/eng/1.jpg"/>
+                  <div class="glider-track" style="width: 6350px">
+                    <img src="assets/images/home-on-hold/eng/1.jpg"/>
+                  </div>
                     
-                    </div>
                     <div
                       class="glider-slide active center visible"
                       data-gslide="1"
@@ -141,7 +127,7 @@ layout: default-en
               class="glider-prev"
               id="glider-prev"
               aria-disabled="false"
-              style="top: 128px"
+              style="top: 50vh"
             >
               <i class="fa fa-chevron-left"></i>
             </button>
@@ -151,7 +137,7 @@ layout: default-en
               class="glider-next"
               id="glider-next"
               aria-disabled="false"
-              style="top: 128px"
+              style="top: 50vh"
             >
               <i class="fa fa-chevron-right"></i>
             </button>

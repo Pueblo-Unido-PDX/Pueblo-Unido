@@ -552,6 +552,11 @@ form input {
   display: inline-block;
 }
 
+#home-on-hold-slideshow img {
+  width: 100%;
+  padding-bottom: 3em;
+}
+
 #slideshow {
   margin: 0;
 	position: relative;
@@ -586,6 +591,9 @@ form input {
   padding: 0 10px;
 }
 
+div#dots {
+  display: flex;
+}
 
 section.cta-callout {
   background:
