@@ -19,9 +19,9 @@ layout: default-es
 </section>
 <section class="heading">
   <div class="container">
-    <script type="text/javascript" src="https://secure.lglforms.com/form_engine/s/xDRB1FXmGbjH30CTO54aKA.js"></script>
+    <script type="text/javascript" src="https://secure.lglforms.com/form_engine/s/GpkUk2ZyYjEU5vsNPR4y3A.js"></script>
     <noscript>
-      <a href="https://secure.lglforms.com/form_engine/s/xDRB1FXmGbjH30CTO54aKA">Fill out my LGL form!</a>
+      <a href="https://secure.lglforms.com/form_engine/s/GpkUk2ZyYjEU5vsNPR4y3A"></a>
       <br/>
     </noscript>
   </div>

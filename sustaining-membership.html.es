@@ -53,16 +53,11 @@ layout: default-es
   <div class="container"
     <div class="row">
       <div class="col-md-12 align-middle">
-        <script
-          type="text/javascript"
-          src="https://secure.lglforms.com/form_engine/s/Z2qdBbvw188hXB2KmI-qMg.js"
-        ></script>
-        <noscript
-          ><a
-            href="https://secure.lglforms.com/form_engine/s/Z2qdBbvw188hXB2KmI-qMg"
-            >Fill out my LGL Form!</a
-          ><br
-        /></noscript>
+        <script type="text/javascript" src="https://secure.lglforms.com/form_engine/s/LM2JkzInqXr7lbYn0GJu3g.js"></script>
+        <noscript>
+          <a href="https://secure.lglforms.com/form_engine/s/LM2JkzInqXr7lbYn0GJu3g"></a>
+          <br/>
+        </noscript>
       </div>
     </div>
   </div>
