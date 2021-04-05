@@ -1184,6 +1184,15 @@ section.disclaimer {
     width: 100%;
   }
 
+  .footer__headings {
+    width: 100%;
+  }
+
+  .footer__links {
+    width: 100%;
+    padding-top: 10px;
+  }
+
   .footer__headings > li {
     padding: 1em 0;
     width: 40%;
@@ -1193,6 +1202,21 @@ section.disclaimer {
     font-size: 30px;
     padding: 20px 8px;
   }
+
+  .footer .footer__headings .footer__links address {
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .footer .footer__headings .footer__links address p {
+    line-height: 23px; 
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .footer .footer__headings .footer__links address strong {
+    line-height: 30px;
+    font-size: 15px;
 }
 
 /* Forms and Little Green Light */
