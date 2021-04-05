@@ -168,7 +168,7 @@ form input {
   text-align: left;
 }
 
-.menu a.menuLink {
+.menu .menuLink a, .menu .menuLink li {
   color: white;
   font-family: Barlow, sans-serif;
 }
@@ -190,14 +190,14 @@ form input {
   transform: translateY(0);
 }
 
-.menuLink {
+.menuLink a {
   display: inline;
   font-size: 2rem;
   color: white;
   text-decoration: none;
 }
 
-.menuLink:hover {
+.menuLink:hover a {
   text-decoration: underline;
 }
 
@@ -1055,6 +1055,13 @@ section.disclaimer {
     text-align: center;
   }
 
+  .navigation-row a, .navigation-row li {
+    vertical-align: middle;
+    color: white;
+    font-family: Barlow, sans-serif;
+    padding-bottom: 12px;
+  }
+
   .navigation-row img {
     width: 80%;
     padding: 0 3rem;
@@ -1081,6 +1088,18 @@ section.disclaimer {
   .navigation__link-group a {
     padding: 20px;
     line-height: 1rem;
+  }
+
+  .navigation-row .menuLink a{
+    font-size: 14px;
+  }
+
+  .naviagation-row .menuLink--sublink li {
+    padding: 5px 0;
+  }
+
+  .navigation-row .menuLink--sublink a {
+    font-size: 12px;
   }
 
   .submenu a {
