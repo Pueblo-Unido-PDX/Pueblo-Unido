@@ -123,9 +123,82 @@ form input {
   color: var(--secondary-link-color);
 }
 
+.ham {
+  position: fixed;
+  z-index: 100;
+  top: 1rem;
+  right: 1rem;
+  width: 1rem;
+  height: 1rem;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  outline: none;
+  margin-right: 2rem;
+  margin-top: 1rem;
+}
+
+.ham .menuIcon {
+  font-size: 34px;
+}
+
+.xIcon {
+  display: none;
+  color: white;
+}
+
+.menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100vh;
+  background: var(--button-background-color);
+  color: white;
+  transform: translateY(-100%);
+  transition: transform 0.2s;
+  list-style: none;
+  padding-top: 4rem;
+}
+
+.menu li {
+  list-style-type: square;
+  text-align: left;
+}
+
+.menu a.menuLink {
+  color: white;
+  font-family: Barlow, sans-serif;
+}
+
+.menu .submenu {
+  background-color: var(--button-background-color);
+}
+
+.showNav {
+  transform: translateY(0);
+}
+
 .navigation {
   display: inline-block;
   width: 100%;
+}
+
+.showMenu {
+  transform: translateY(0);
+}
+
+.menuLink {
+  display: inline;
+  font-size: 2rem;
+  color: white;
+  text-decoration: none;
+}
+
+.menuLink:hover {
+  text-decoration: underline;
 }
 
 .navigation-row {
@@ -793,6 +866,10 @@ section.disclaimer {
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
+  button.ham { 
+    display: none;
+  }
+
   .navigation-row {
     padding: 0 1.5em;
   }
@@ -842,6 +919,10 @@ section.disclaimer {
 
 /* Tablet */
 @media screen and (min-width: 480px) and (max-width: 767px) {
+  button.ham { 
+    display: none;
+  }
+
   .navigation-row {
     padding: 0 1.5em;
   }
@@ -946,7 +1027,21 @@ section.disclaimer {
   }
 }
 
+@media screen and (min-width: 480px) {
+  button.ham {
+    display: none;
+  }
+}
+
 @media screen and (max-width: 480px) {
+  button.ham { 
+    display: inline;
+  }
+
+  .navigation img {
+    float: left;
+  }
+
   .button {
     padding: 14px 33px;
   }
@@ -1000,6 +1095,10 @@ section.disclaimer {
     display: inline;
     text-align: center;
     padding: 12px 0;
+  }
+
+  .navigation-row--right {
+    display: none;
   }
 
   .introduction {
