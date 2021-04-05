@@ -2,12 +2,20 @@
 title: "Home on Hold Comic"
 layout: default-es
 ---
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.css">
-<script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
-<script type="text/javascript">
-  new Glider(document.querySelector('.glider'));
-</script>
-
+<section class="introduction introduction--donate">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="introduction__text">
+          <h1>Home on Hold Comic</h1>
+        </div>
+        <div class="introduction__link">
+          <a class="button" href="home-on-hold.html.en">Read in English</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 <section class="heading heading--disclaimer">
   <div class="container">
     <div class="row">
@@ -201,3 +209,19 @@ layout: default-es
     </div>
   </div>
 </section>
+
+<script type="text/javascript">
+  console.log('test');
+  if (document.querySelector("#glider-single") !== null) {
+    console.log("got glider");
+    new Glider(document.querySelector(".glider"), {
+      slidesToShow: 1,
+      dots: "#dots",
+      draggable: true,
+      arrows: {
+        prev: ".glider-prev",
+        next: ".glider-next",
+      },
+    });
+  }
+</script>
