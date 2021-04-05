@@ -211,9 +211,7 @@ layout: default-en
 </section>
 
 <script type="text/javascript">
-  console.log('test');
   if (document.querySelector("#glider-single") !== null) {
-    console.log("got glider");
     new Glider(document.querySelector(".glider"), {
       slidesToShow: 1,
       dots: "#dots",
@@ -222,6 +220,8 @@ layout: default-en
         prev: ".glider-prev",
         next: ".glider-next",
       },
+      // how much to scroll with each mouse delta
+      dragVelocity: 2,
     });
   }
 </script>
