@@ -949,6 +949,12 @@ section.disclaimer {
     padding: 8em 3em;
   }
 
+  .home-on-hold .container {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+
   .introduction .container, .heading .container {
     width: 100%;
     padding-right: 15px;
