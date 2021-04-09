@@ -104,25 +104,6 @@ layout: default-es
     <div class="row">
       <div class="col-md-7 align-middle">        
         <div class="heading__text">
-          <h3>Noris Lara (ella)</h3>
-          <strong>Personal, Navegadora <a href="mailto:noris@equitycorps.org">noris@equitycorps.org</a></strong>
-          <br />
-          <br />
-          <p>Noris ha estado en Oregón durante cinco años y es una autodenominada defensora de la justicia y la igualdad. Antes de venir a Pueblo Unido, Noris se desempeñó como entrenadora de empleo para jóvenes discapacitados, coordinadora principal del programa que trabaja con ancianos hispanos y directora de actividades en un centro de asistencia. Cuando no está trabajando, a Noris le gusta cantar, bailar y organizar eventos comunitarios. Noris disfruta trabajar para Pueblo Unido porque la ha conectado con su pasión por ayudar a las familias a tener acceso a los recursos ofrecidos por el estado.</p>
-          <br/>
-          <br/>
-        </div>
-      </div>
-      <div class="col-md-5 align-middle">
-        <div class="heading__image">
-          <img alt="Noris Lara" src="./assets/images/staff/noris.png" />
-        </div>
-      </div>    
-    </div>
-
-    <div class="row">
-      <div class="col-md-7 align-middle">        
-        <div class="heading__text">
           <h3>Augusto Gayoso Caro (él)</h3>
           <strong>Personal, Navegadora <a href="mailto:augusto@equitycorps.org">augusto@equitycorps.org</a></strong>
           <br />
