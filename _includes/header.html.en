@@ -15,7 +15,7 @@
       </span>
     </button>
     <ul class="menu">
-      <li class="navigation__dropdown">
+      <li>
         <a class="button--link menuLink" href="get-help-detention.html.en">Get Help</a>
         <ul>
           <li>
@@ -26,7 +26,7 @@
           </li>
         </ul>
       </li>
-      <li class="navigation__dropdown">
+      <li>
         <a class="button--link menuLink" href="donate.html.en">Donate</a>
         <ul>
           <li>
@@ -34,7 +34,7 @@
           </li>
         </ul>
       </li>
-      <li class="navigation__dropdown">
+      <li>
         <a class="button--link menuLink" href="volunteer.html.en">Volunteer</a>
         <ul>
           <li>
@@ -45,7 +45,7 @@
           </li>
         </ul>
       </li>
-      <li class="navigation__dropdown">
+      <li>
         <a class="button--link menuLink" href="about.html.en">About</a>
         <ul>
           <li>
