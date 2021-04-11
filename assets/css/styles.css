@@ -164,14 +164,24 @@ form input {
   padding-top: 4rem;
 }
 
-.menu li {
+.showMenu li {
   list-style-type: square;
   text-align: left;
 }
 
-.menu a.menuLink {
+.showMenu a.menuLink {
   color: white;
   font-family: Barlow, sans-serif;
+  font-size: 24px;
+}
+
+.showMenu a.menuLink--nested{
+  font-size: 16px;
+  padding: 1rem 0;
+}
+
+.menuSection {
+  padding: 1rem 0;
 }
 
 .menu .submenu {

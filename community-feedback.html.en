@@ -39,7 +39,7 @@ layout: default-en
         </div>
         <br />
         <div class="heading__text">
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScskZSgoZWuYU_h0hgQwZxdZmcPfvCNjuq3Lo29m5f-40MT5w/viewform?embedded=true" width="640" height="2320" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScskZSgoZWuYU_h0hgQwZxdZmcPfvCNjuq3Lo29m5f-40MT5w/viewform?embedded=true" width="100%" height="2320" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
         </div>
       </div>   
     </div>
