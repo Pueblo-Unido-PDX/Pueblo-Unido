@@ -127,7 +127,6 @@ layout: default-en
               class="glider-prev"
               id="glider-prev"
               aria-disabled="false"
-              style="top: 50vh"
             >
               <i class="fa fa-chevron-left"></i>
             </button>
@@ -137,7 +136,6 @@ layout: default-en
               class="glider-next"
               id="glider-next"
               aria-disabled="false"
-              style="top: 50vh"
             >
               <i class="fa fa-chevron-right"></i>
             </button>
