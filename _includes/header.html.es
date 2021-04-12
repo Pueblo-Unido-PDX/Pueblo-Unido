@@ -15,7 +15,7 @@
       </span>
     </button>
     <ul class="menu">
-      <li>
+      <li class="menuSection">
         <a class="button--link menuLink" href="get-help-detention.html.es">Obtenga Ayuda</a>
         <ul>
           <li>
@@ -26,7 +26,7 @@
           </li>
         </ul>
       </li>
-      <li>
+      <li class="menuSection">
         <a class="button--link menuLink" href="donate.html.es">Donar</a>
         <ul>
           <li>
@@ -34,7 +34,7 @@
           </li>
         </ul>
       </li>
-      <li>
+      <li class="menuSection">
         <a class="button--link menuLink" href="volunteer.html.es">Ser Voluntarix</a>
         <ul>
           <li>
@@ -45,7 +45,7 @@
           </li>
         </ul>
       </li>
-      <li>
+      <li class="menuSection">
         <a class="button--link menuLink" href="about.html.es">Sobre Nosotros</a>
         <ul>
           <li>
@@ -56,10 +56,10 @@
           </li>
         </ul>
       </li>        
-      <li class="navigation__link">
+      <li class="menuSection">
         <a class="button--link menuLink" href="why-latinx.html.es">¿Porque Latinx?</a>
       </li>
-      <li class="navigation__link">
+      <li class="menuSection">
         <a class="button--link menuLink" href="collective-of-indigenous-interpreters-of-oregon.html.es">Colectivo de Intérpretes Indígenas de Oregon</a>
       </li>
     </ul>
