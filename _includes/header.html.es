@@ -15,53 +15,52 @@
       </span>
     </button>
     <ul class="menu">
-      <li class="navigation__dropdown">
+      <li>
         <a class="button--link menuLink" href="get-help-detention.html.es">Obtenga Ayuda</a>
         <ul>
-          <li class="menuLink menuLink--sublink">
-            <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
           </li>
-          <li class="menuLink menuLink--sublink" >
-            <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
           </li>
         </ul>
       </li>
-      <li class="navigation__dropdown" class="button--link menuLink">
+      <li>
         <a class="button--link menuLink" href="donate.html.es">Donar</a>
         <ul>
-          <li class="menuLink--sublink">
-            <a href="sponsors.html.es">Patrocinadores</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="sponsors.html.es">Patrocinadores</a>
           </li>
         </ul>
       </li>
-      <li class="navigation__dropdown">
+      <li>
         <a class="button--link menuLink" href="volunteer.html.es">Ser Voluntarix</a>
         <ul>
-          <li class="menuLink menuLink--sublink">
-            <a href="volunteer-committees.html.es">Unáse</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="volunteer-committees.html.es">Unáse</a>
+          </li>
+          <li>
+            <a class="menuLink menuLink--nested" href="volunteer.html.es#equity-corps">Equity Corps Community Navigators</a>
           </li>
         </ul>
       </li>
-      <li class="navigation__dropdown">
+      <li>
         <a class="button--link menuLink" href="about.html.es">Sobre Nosotros</a>
         <ul>
-          <li class="menuLink menuLink--sublink">
-            <a href="staff.html.es">Personal</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="staff.html.es">Personal</a>
           </li>
-          <li class="menuLink menuLink--sublink">
-            <a href="community-feedback.html.es">Comentarios de la Comunidad</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="community-feedback.html.es">Comentarios de la Comunidad</a>
           </li>
         </ul>
       </li>        
-      <li class="navigation__link button--link menuLink">
+      <li class="navigation__link">
         <a class="button--link menuLink" href="why-latinx.html.es">¿Porque Latinx?</a>
       </li>
-      <li class="navigation__link button--link menuLink">
+      <li class="navigation__link">
         <a class="button--link menuLink" href="collective-of-indigenous-interpreters-of-oregon.html.es">Colectivo de Intérpretes Indígenas de Oregon</a>
-      </li>
-
-      <li class="navigation__link button--link menuLink--logo-link">
-        <img src="../assets/images/pu-logo/PNG/pueblo-unido-logo--white.png">
       </li>
     </ul>
     <div class="navigation-row--right">

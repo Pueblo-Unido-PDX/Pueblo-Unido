@@ -15,51 +15,51 @@
       </span>
     </button>
     <ul class="menu">
-      <li class="navigation__dropdown">
+      <li class="menuSection">
         <a class="button--link menuLink" href="get-help-detention.html.en">Get Help</a>
         <ul>
-          <li class="menuLink menuLink--sublink">
-            <a href="get-help-detention.html.en">For Detention / Removal Cases</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="get-help-detention.html.en">For Detention / Removal Cases</a>
           </li>
-          <li class="menuLink menuLink--sublink" >
-            <a href="get-help-other.html.en">For Other Immigration Issues</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="get-help-other.html.en">For Other Immigration Issues</a>
           </li>
         </ul>
       </li>
-      <li class="navigation__dropdown" class="button--link menuLink">
+      <li class="menuSection">
         <a class="button--link menuLink" href="donate.html.en">Donate</a>
         <ul>
-          <li class="menuLink--sublink">
-            <a href="sponsors.html.en">Sponsors</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="sponsors.html.en">Sponsors</a>
           </li>
         </ul>
       </li>
-      <li class="navigation__dropdown">
+      <li class="menuSection">
         <a class="button--link menuLink" href="volunteer.html.en">Volunteer</a>
         <ul>
-          <li class="menuLink menuLink--sublink">
-            <a href="volunteer-committees.html.en">Join Our Team</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="volunteer-committees.html.en">Join Our Team</a>
           </li>
-          <li class="menuLink menuLink--sublink">
-            <a href="volunteer.html.en#equity-corps">Equity Corps Community Navigators</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="volunteer.html.en#equity-corps">Equity Corps Community Navigators</a>
           </li>
         </ul>
       </li>
-      <li class="navigation__dropdown">
+      <li class="menuSection">
         <a class="button--link menuLink" href="about.html.en">About</a>
         <ul>
-          <li class="menuLink menuLink--sublink">
-            <a href="staff.html.en">Staff</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="staff.html.en">Staff</a>
           </li>
-          <li class="menuLink menuLink--sublink">
-            <a href="community-feedback.html.en">Community Feedback</a>
+          <li>
+            <a class="menuLink menuLink--nested" href="community-feedback.html.en">Community Feedback</a>
           </li>
         </ul>
       </li>        
-      <li class="navigation__link button--link menuLink">
+      <li class="menuSection">
         <a class="button--link menuLink" href="why-latinx.html.en">Why Latinx?</a>
       </li>
-      <li class="navigation__link button--link menuLink">
+      <li class="menuSection">
         <a class="button--link menuLink" href="collective-of-indigenous-interpreters-of-oregon.html.en">Collective of Indigenous Interpreters of Oregon</a>
       </li>
 
