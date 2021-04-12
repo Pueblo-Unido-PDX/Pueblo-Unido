@@ -181,7 +181,17 @@ form input {
 }
 
 .showMenu .menuSection {
-  padding: 1rem 0;
+  padding: .5rem 0;
+}
+
+li.menuSection--logo {
+  list-style-type: none;
+  text-align: center;
+}
+
+.menuSection--logo img {
+  width: 100% !important;
+  padding: 0;
 }
 
 .menu .submenu {
