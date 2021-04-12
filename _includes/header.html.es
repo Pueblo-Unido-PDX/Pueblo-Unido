@@ -62,6 +62,9 @@
       <li class="menuSection">
         <a class="button--link menuLink" href="collective-of-indigenous-interpreters-of-oregon.html.es">Colectivo de Intérpretes Indígenas de Oregon</a>
       </li>
+      <li class="menuSection menuSection--logo">
+        <img src="../assets/images/pu-logo/PNG/pueblo-unido-logo--all-white-01.png">
+      </li>
     </ul>
     <div class="navigation-row--right">
       <ul class="navigation__link-group">
