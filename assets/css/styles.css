@@ -926,7 +926,7 @@ section.disclaimer {
 }
 
 /* Tablet */
-@media screen and (min-width: 480px) and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   button.ham { 
     display: inline;
   }
@@ -937,6 +937,10 @@ section.disclaimer {
 
   .navigation-row--left a {
     padding-left: 0;
+  }
+
+  .navigation-row--left {
+    width: 25%;
   }
 
   .navigation-row--right {
