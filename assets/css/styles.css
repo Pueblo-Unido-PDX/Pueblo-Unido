@@ -124,6 +124,7 @@ form input {
 }
 
 .ham {
+  display: none;
   position: fixed;
   z-index: 100;
   top: 1rem;
@@ -163,14 +164,28 @@ form input {
   padding-top: 4rem;
 }
 
-.menu li {
+.showMenu li {
   list-style-type: square;
   text-align: left;
 }
 
+<<<<<<< HEAD
 .menu .menuLink a, .menu .menuLink li {
+=======
+.showMenu a.menuLink {
+>>>>>>> feature/add-hamburger-menu
   color: white;
   font-family: Barlow, sans-serif;
+  font-size: 24px;
+}
+
+.showMenu a.menuLink--nested{
+  font-size: 16px;
+  padding: 1rem 0;
+}
+
+.showMenu .menuSection {
+  padding: 1rem 0;
 }
 
 .menu .submenu {
@@ -242,7 +257,7 @@ form input {
 }
 
 .navigation-row--left {
-  width: 22%;
+  width: 40%;
   vertical-align: middle;
   display: table-cell;
 }
@@ -651,19 +666,6 @@ form input {
   border: solid 1px #283593;
 }
 
-.arrowL, .arrowR {
-  width: 40px;
-  font-size: 64px;
-  display: inline-block;
-  color: #9FA8DA;
-  text-decoration: none;
-  text-align: center;
-  vertical-align: middle;
-  line-height: 400px;
-  font-weight: bold;
-  padding: 0 10px;
-}
-
 div#dots {
   display: flex;
 }
@@ -917,10 +919,20 @@ section.disclaimer {
   }
 }
 
-/* Tablet */
-@media screen and (min-width: 480px) and (max-width: 767px) {
-  button.ham { 
+@media screen and (min-width: 769px) {
+  button.ham {
     display: none;
+  }
+
+  .menu {
+    display: none;
+  }
+}
+
+/* Tablet */
+@media screen and (max-width: 768px) {
+  button.ham { 
+    display: inline;
   }
 
   .navigation-row {
@@ -931,13 +943,21 @@ section.disclaimer {
     padding-left: 0;
   }
 
+  .navigation-row--left {
+    width: 25%;
+  }
+
+  .navigation-row--right {
+    display: none;
+  }
+
   .navigation-row a, .footer a {
     font-size: 18px;
     padding-left: 12px;
   }
 
   .navigation-row img {
-    width: 70%;
+    width: 100%;
   }
 
   .navigation-row i, .footer i {
@@ -1033,12 +1053,6 @@ section.disclaimer {
   }
 }
 
-@media screen and (min-width: 480px) {
-  button.ham {
-    display: none;
-  }
-}
-
 @media screen and (max-width: 480px) {
   #home-on-hold-slideshow .glider-prev {
     top: 7vh !important;
@@ -1079,8 +1093,8 @@ section.disclaimer {
   }
 
   .navigation-row img {
-    width: 45%;
-    padding: 0;
+    width: 60%;
+    padding: 1rem 4rem 1rem 1rem;
   }
 
   .navigation-row a, .footer a {
@@ -1217,6 +1231,18 @@ section.disclaimer {
     position: relative;
     width: 460px;
     height: 560px;
+  }
+
+  .glider-prev, .glider-next {
+    top: 6% !important;
+  }
+  
+  .glider-prev {
+    left: 80px !important;
+  }
+  
+  .glider-next {
+    right: 80px !important;
   }
 
   .footer {
