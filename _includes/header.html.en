@@ -1,8 +1,108 @@
 <header class="navigation">
+  <div class="mobile-navigation-row">
+    <div class="mobile-navigation-row--left">
+      <a href="home.html.en">
+        <img
+          alt="Pueblo Unido Logo"
+          src="./assets/images/pu-logo/SVG/pueblo-unido-logo.svg"
+        />
+      </a>
+    </div>
+    <div class="mobile-navigation-row--right">
+      <button class="ham">
+        <!-- material icons https://material.io/resources/icons/ -->
+        <span class="menuIcon material-icons" style="display: block"> menu </span>
+        <span class="xIcon material-icons" style="display: none; color: #ffffff;"> close </span>
+      </button>
+    </div>
+  </div>
+  <ul class="menu">
+    <li class="menuSection">
+      <a class="button--link menuLink" href="get-help-detention.html.en"
+        >Get Help</a
+      >
+      <ul>
+        <li>
+          <a class="menuLink menuLink--nested" href="get-help-detention.html.en"
+            >For Detention / Removal Cases</a
+          >
+        </li>
+        <li>
+          <a class="menuLink menuLink--nested" href="get-help-other.html.en"
+            >For Other Immigration Issues</a
+          >
+        </li>
+      </ul>
+    </li>
+    <li class="menuSection">
+      <a class="button--link menuLink" href="donate.html.en">Donate</a>
+      <ul>
+        <li>
+          <a class="menuLink menuLink--nested" href="sponsors.html.en"
+            >Sponsors</a
+          >
+        </li>
+      </ul>
+    </li>
+    <li class="menuSection">
+      <a class="button--link menuLink" href="volunteer.html.en"
+        >Volunteer</a
+      >
+      <ul>
+        <li>
+          <a
+            class="menuLink menuLink--nested"
+            href="volunteer-committees.html.en"
+            >Join Us</a
+          >
+        </li>
+        <li>
+          <a
+            class="menuLink menuLink--nested"
+            href="volunteer.html.en#equity-corps"
+            >Equity Corps Community Navigators</a
+          >
+        </li>
+      </ul>
+    </li>
+    <li class="menuSection">
+      <a class="button--link menuLink" href="about.html.en">About Us</a>
+      <ul>
+        <li>
+          <a class="menuLink menuLink--nested" href="staff.html.en">Staff</a>
+        </li>
+        <li>
+          <a class="menuLink menuLink--nested" href="community-feedback.html.en"
+            >Community Feedback</a
+          >
+        </li>
+      </ul>
+    </li>
+    <li class="menuSection">
+      <a class="button--link menuLink" href="why-latinx.html.en"
+        >Why Latinx?</a
+      >
+    </li>
+    <li class="menuSection">
+      <a
+        class="button--link menuLink"
+        href="collective-of-indigenous-interpreters-of-oregon.html.en"
+        >Collective of Indigenous Interpreters of Oregon</a
+      >
+    </li>
+    <li class="menuSection menuSection--logo">
+      <img
+        src="../assets/images/pu-logo/PNG/pueblo-unido-logo--all-white-01.png"
+      />
+    </li>
+  </ul>
   <div class="navigation-row">
     <div class="navigation-row--left">
       <a href="home.html.en">
-        <img alt="Pueblo Unido Logo" src="./assets/images/pu-logo/SVG/pueblo-unido-logo.svg">
+        <img
+          alt="Pueblo Unido Logo"
+          src="./assets/images/pu-logo/SVG/pueblo-unido-logo.svg"
+        />
       </a>
     </div>
     <div class="navigation-row--right">
@@ -11,7 +111,9 @@
           <a class="button--link" href="get-help-detention.html.en">Get Help</a>
           <ul class="submenu">
             <li>
-              <a href="get-help-detention.html.en">For Detention / Removal Cases</a>
+              <a href="get-help-detention.html.en"
+                >For Detention / Removal Cases</a
+              >
             </li>
             <li>
               <a href="get-help-other.html.en">For Other Immigration Issues</a>
@@ -33,7 +135,9 @@
               <a href="volunteer-committees.html.en">Join Our Team</a>
             </li>
             <li>
-              <a href="volunteer.html.en#equity-corps">Equity Corps Community Navigators</a>
+              <a href="volunteer.html.en#equity-corps"
+                >Equity Corps Community Navigators</a
+              >
             </li>
           </ul>
         </li>
@@ -47,14 +151,46 @@
               <a href="community-feedback.html.en">Community Feedback</a>
             </li>
           </ul>
-        </li>        
+        </li>
         <li class="navigation__link">
           <a class="button--link" href="why-latinx.html.en">Why Latinx?</a>
         </li>
         <li class="navigation__link">
-          <a class="button--link" href="collective-of-indigenous-interpreters-of-oregon.html.en">Collective of Indigenous Interpreters of Oregon</a>
+          <a
+            class="button--link"
+            href="collective-of-indigenous-interpreters-of-oregon.html.en"
+            >Collective of Indigenous Interpreters of Oregon</a
+          >
         </li>
       </ul>
     </div>
   </div>
 </header>
+<script type="text/javascript">
+  var menu = document.querySelector(".menu");
+  var ham = document.querySelector(".ham");
+  var xIcon = document.querySelector(".xIcon");
+  var menuIcon = document.querySelector(".menuIcon");
+
+  // toggle menu in and out when clicking on the hamburger
+  function toggleMenu() {
+    if (menu.classList.contains("showMenu")) {
+      menu.classList.remove("showMenu");
+      xIcon.style.display = "none";
+      menuIcon.style.display = "block";
+    } else {
+      menu.classList.add("showMenu");
+      xIcon.style.display = "block";
+      menuIcon.style.display = "none";
+    }
+  }
+
+  ham.addEventListener("click", toggleMenu);
+  menu.classList.contains("showMenu");
+
+  var menuLinks = document.querySelectorAll(".menuLink");
+
+  menuLinks.forEach(function (menuLink) {
+    menuLink.addEventListener("click", toggleMenu);
+  });
+</script>
