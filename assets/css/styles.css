@@ -180,8 +180,9 @@ form input {
 }
 
 li.menuSection--logo {
-  list-style-type: none;
-  text-align: center;
+	list-style-type: none;
+	text-align: center;
+	width: 0;
 }
 
 .menuSection--logo img {
@@ -1057,6 +1058,10 @@ section.disclaimer {
 		width: 65%;
     padding: .5rem 3rem;
   }
+
+	.menuSection--logo {
+		display: inline;
+	}
 }
 
 @media screen and (max-width: 480px) {
