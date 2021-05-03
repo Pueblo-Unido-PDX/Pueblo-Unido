@@ -21,7 +21,7 @@ layout: default-es
     <div class="row">
       <div class="col-md-12 align-middle">
         <div style="text-align: center">
-          <img style="width: 75%; max-width: 768px;" src="assets/images/home-on-hold/logo01.jpg" />
+          <img style="width: 75%; max-width: 768px;" src="assets/images/home-on-hold/logo01_spanish.png" />
         </div>
         <div id="home-on-hold-slideshow" class="container">
           <!-- Glider.js version -->
