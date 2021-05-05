@@ -72,7 +72,7 @@ layout: default-es
       </div>
       <div class="col-md-12">
         <!-- Google Form -->
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePwDcLLH1uYJ-RRmVMgx47XKo5EaMRFFAgn3MFZvy7a_-Weg/viewform?embedded=true" width="640" height="6519" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePwDcLLH1uYJ-RRmVMgx47XKo5EaMRFFAgn3MFZvy7a_-Weg/viewform?embedded=true" width="100%" height="6519" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
         <!-- End Google Form -->
       </div>
     </div>
