@@ -1,13 +1,21 @@
 <header class="navigation">
-  <button class="ham">
-    <!-- material icons https://material.io/resources/icons/ -->
-    <span class="menuIcon material-icons" style="display: block">
-      menu
-    </span>
-    <span class="xIcon material-icons" style="display: none; color: #ffffff;">
-      close
-    </span>
-  </button>
+  <div class="mobile-navigation-row">
+    <div class="mobile-navigation-row--left">
+      <a href="home.html.es">
+        <img
+          alt="Pueblo Unido Logo"
+          src="./assets/images/pu-logo/SVG/pueblo-unido-logo.svg"
+        />
+      </a>
+    </div>
+    <div class="mobile-navigation-row--right">
+      <button class="ham">
+        <!-- material icons https://material.io/resources/icons/ -->
+        <span class="menuIcon material-icons" style="display: block"> menu </span>
+        <span class="xIcon material-icons" style="display: none; color: #ffffff;"> close </span>
+      </button>
+    </div>
+  </div>
   <ul class="menu">
     <li class="menuSection">
       <a class="button--link menuLink" href="get-help-detention.html.es">Obtenga Ayuda</a>
