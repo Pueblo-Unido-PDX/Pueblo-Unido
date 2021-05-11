@@ -38,8 +38,8 @@
       <a class="button--link menuLink" href="donate.html.en">Donate</a>
       <ul>
         <li>
-          <a class="menuLink menuLink--nested" href="sponsors.html.en"
-            >Sponsors</a
+          <a class="menuLink menuLink--nested" href="funders.html.en"
+            >Funders</a
           >
         </li>
       </ul>
@@ -124,7 +124,7 @@
           <a class="button--link" href="donate.html.en">Donate</a>
           <ul class="submenu">
             <li>
-              <a href="sponsors.html.en">Sponsors</a>
+              <a href="funders.html.en">Funders</a>
             </li>
           </ul>
         </li>
