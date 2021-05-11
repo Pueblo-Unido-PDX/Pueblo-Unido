@@ -99,12 +99,12 @@ layout: default-es
       </div>
       <div class="col-md-12">
         <div class="heading__subheadline">
-          <h2>Additional support for Pueblo Unido has been provided by:</h2>
+          <h2>Apoyo adicional para Pueblo Unido ha sido proporcionado por:</h2>
           <div class="horizontal-line"></div>
         </div>
         <br>
         <div class="container">
-          <strong>Foundations and Trusts</strong>
+          <strong>Fundaciones y Fideicomisos</strong>
           <ul>
             <li>Karen and Edward Bassett Fund of Oregon Community Foundation</li>
             <li>Anna Wheeler Hayes Fund of Oregon Community Foundation</li>
@@ -120,7 +120,7 @@ layout: default-es
             <li>Nancy and Richard Silverman Charitable Foundation</li>
             <li>Richard & Helen Phillips Charitable Fund of American Endowment Foundation</li>
           </ul>
-          <strong>Community Partners</strong>
+          <strong>Socios de la comunidad</strong>
           <ul>
             <li>Abbot Law Group</li>
             <li>Meadowlark Immigration</li>
@@ -140,7 +140,7 @@ layout: default-es
             <li>Geeks Who Drink</li>
             <li>Sweet Justice</li>
           </ul>
-          <strong>Businesses</strong>
+          <strong>Empresas</strong>
           <ul>
             <li>Food Fight! Grocery</li>
             <li>Barking Irons, LLC</li>
@@ -205,7 +205,7 @@ layout: default-es
             <li>Deep Sea Astrology</li>
           </ul>
           <br />
-          <strong>And individual donors like YOU!</strong>
+          <strong>Y donantes individuales como USTED!</strong>
         </div>
       </div>
     </div>
