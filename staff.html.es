@@ -55,7 +55,7 @@ layout: default-es
           <strong>CIIO <a href="mailto:puma@pueblounidopdx.org">puma@pueblounidopdx.org</a></strong>
           <br />
           <br />
-          <p>Puma Tzoc es un inmigrante, intérprete maya K’iche’, hombre de ceremonia, artista-artesano, padre e hijo. Puma es originario de GuateMaya (Guatemala) del municipio de Nahualá que originalmente se conocía como Nawala Ja’ (espíritu del agua).  Puma empezó su trabajo de interpretación cuando se dio cuenta de la necesidad y la injusticia que recibían las personas detenidas.  Empezó interpretando en las cortes de Nueva York, en casos médico y con la comunidad que lo necesitaba. Ha recibido capacitaciones enfocadas en defensa de los pueblos originarios, usando la interpretación como una herramienta para integrar temas de justicia social, cultural y espiritual. 
+          <p>Puma Tzoc es un inmigrante, intérprete maya K’iche’, hombre de ceremonia, artista-artesano, padre e hijo. Puma es originario de GuateMaya (Guatemala) del municipio de Nahualá que originalmente se conocía como Nawal Ja’ (espíritu del agua).  Puma empezó su trabajo de interpretación cuando se dio cuenta de la necesidad y la injusticia que recibían las personas detenidas.  Empezó interpretando en las cortes de Nueva York, en casos médico y con la comunidad que lo necesitaba. Ha recibido capacitaciones enfocadas en defensa de los pueblos originarios, usando la interpretación como una herramienta para integrar temas de justicia social, cultural y espiritual. 
           <br/>
           <br/>
           Puma fundó Maya K’iche’ Interpreter en el 2014 con la iniciativa de ayudar a su gente en los Estados Unidos y crear conciencia sobre los idiomas indígenas como una forma de resistencia de los pueblos originaros. También es co-fundador del colectivo U’k’astajib’al Nawal Ja’ (El despertar del Espíritu del Agua), un grupo de jóvenes en Nahualá que busca concientizar, rescatar y reforzar los valores culturales y tradicionales de su pueblo a través del arte, conversatorios, entre otros medios.
@@ -97,25 +97,6 @@ layout: default-es
       <div class="col-md-5 align-middle">
         <div class="heading__image">
           <img alt="Elba Algería" src="./assets/images/staff/elba.png" />
-        </div>
-      </div>    
-    </div>
-
-    <div class="row">
-      <div class="col-md-7 align-middle">        
-        <div class="heading__text">
-          <h3>Noris Lara (ella)</h3>
-          <strong>Personal, Navegadora <a href="mailto:noris@equitycorps.org">noris@equitycorps.org</a></strong>
-          <br />
-          <br />
-          <p>Noris ha estado en Oregón durante cinco años y es una autodenominada defensora de la justicia y la igualdad. Antes de venir a Pueblo Unido, Noris se desempeñó como entrenadora de empleo para jóvenes discapacitados, coordinadora principal del programa que trabaja con ancianos hispanos y directora de actividades en un centro de asistencia. Cuando no está trabajando, a Noris le gusta cantar, bailar y organizar eventos comunitarios. Noris disfruta trabajar para Pueblo Unido porque la ha conectado con su pasión por ayudar a las familias a tener acceso a los recursos ofrecidos por el estado.</p>
-          <br/>
-          <br/>
-        </div>
-      </div>
-      <div class="col-md-5 align-middle">
-        <div class="heading__image">
-          <img alt="Noris Lara" src="./assets/images/staff/noris.png" />
         </div>
       </div>    
     </div>
