@@ -210,7 +210,7 @@ layout: default-es
         el máximo que permite la ley.</strong>
       </div>
     </div>
-    <a class="button" href="sponsors.html.es">Nuestros Patrocinadores</a>
+    <a class="button" href="funders.html.es">Nuestros Patrocinadores</a>
   </div>
   <br>
 </section>

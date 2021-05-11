@@ -32,7 +32,7 @@
       <a class="button--link menuLink" href="donate.html.es">Donar</a>
       <ul>
         <li>
-          <a class="menuLink menuLink--nested" href="sponsors.html.es">Patrocinadores</a>
+          <a class="menuLink menuLink--nested" href="funders.html.es">Patrocinadores</a>
         </li>
       </ul>
     </li>
@@ -91,7 +91,7 @@
           <a class="button--link" href="donate.html.es">Donar</a>
           <ul class="submenu">
             <li>
-              <a href="sponsors.html.es">Patrocinadores</a>
+              <a href="funders.html.es">Patrocinadores</a>
             </li>
           </ul>
         </li>
