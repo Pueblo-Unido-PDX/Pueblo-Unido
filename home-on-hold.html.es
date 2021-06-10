@@ -117,6 +117,20 @@ layout: default-es
                     >
                       <img src="assets/images/home-on-hold/esp/13.jpg"/>
                     </div>
+                    <div
+                      class="glider-slide right-12"
+                      data-gslide="13"
+                      style="height: auto; width: 635px"
+                    >
+                      <img src="assets/images/home-on-hold/esp/14.jpg"/>
+                    </div>
+                    <div
+                      class="glider-slide right-13"
+                      data-gslide="14"
+                      style="height: auto; width: 635px"
+                    >
+                      <img src="assets/images/home-on-hold/esp/15.jpg"/>
+                    </div>
                   </div>
                 </div>
               </div>
