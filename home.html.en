@@ -56,6 +56,17 @@ layout: default-en
     </div>
   </div>
 </section>
+<section class="cta-callout">
+  <div class="cta-callout__subheadline">
+    <h2>Donate to the Legal Defense Fund</h2>
+    <div class="horizontal-line"></div>
+    <p>
+      Donate to help keep families together, support immigrant rights, and build
+      resilient communities.
+    </p>
+    <a class="button button--inverse" href="https://secure.actblue.com/donate/legal-defense-fund">Donate</a>
+  </div>
+</section>
 <section class="heading">
   <div class="container">
     <div class="row">
@@ -181,7 +192,7 @@ layout: default-en
       Donate to help keep families together, support immigrant rights, and build
       resilient communities.
     </p>
-    <a class="button button--inverse" href="donate.html.en">Donate</a>
+    <a class="button button--inverse" href="https://secure.actblue.com/donate/legal-defense-fund">Donate</a>
   </div>
 </section>
 <section class="heading heading--disclaimer">

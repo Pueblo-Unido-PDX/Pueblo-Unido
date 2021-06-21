@@ -57,6 +57,14 @@ layout: default-es
     </div>
   </div>
 </section>
+<section class="cta-callout">
+  <div class="cta-callout__subheadline">
+    <h2>Donación</h2>
+    <div class="horizontal-line"></div>
+    <p>Haga una donación para ayudar a mantener a familias juntas, apoyar los derechos de lxos inmigrantes, y construir comunidades fuertes.</p>
+    <a class="button button--inverse" href="https://secure.actblue.com/donate/legal-defense-fund">Donar</a>
+  </div>
+</section>
 <section class="heading">
   <div class="container">
     <div class="row">
@@ -101,7 +109,7 @@ layout: default-es
       <h2>Donación</h2>
       <div class="horizontal-line"></div>
       <p>Haga una donación para ayudar a mantener a familias juntas, apoyar los derechos de lxos inmigrantes, y construir comunidades fuertes.</p>
-      <a class="button button--inverse" href="donate.html.es">Donar</a>
+      <a class="button button--inverse" href="https://secure.actblue.com/donate/legal-defense-fund">Donar</a>
     </div>
   </section>
 <section class="heading heading--disclaimer">
