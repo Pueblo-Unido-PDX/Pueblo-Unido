@@ -131,6 +131,13 @@ layout: default-en
                     >
                       <img src="assets/images/home-on-hold/eng/15.jpg"/>
                     </div>
+                    <div
+                      class="glider-slide right-14"
+                      data-gslide="15"
+                      style="height: auto; width: 635px"
+                    >
+                      <img src="assets/images/home-on-hold/eng/16.jpg"/>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -211,6 +218,42 @@ layout: default-en
               ><button
                 data-index="9"
                 aria-label="Page 10"
+                role="tab"
+                class="glider-dot"
+              ></button>
+              <button
+                data-index="10"
+                aria-label="Page 11"
+                role="tab"
+                class="glider-dot"
+              ></button>
+              <button
+                data-index="11"
+                aria-label="Page 12"
+                role="tab"
+                class="glider-dot"
+              ></button>
+              <button
+                data-index="12"
+                aria-label="Page 13"
+                role="tab"
+                class="glider-dot"
+              ></button>
+              <button
+                data-index="13"
+                aria-label="Page 14"
+                role="tab"
+                class="glider-dot"
+              ></button>
+              <button
+                data-index="14"
+                aria-label="Page 15"
+                role="tab"
+                class="glider-dot"
+              ></button>
+              <button
+                data-index="15"
+                aria-label="Page 16"
                 role="tab"
                 class="glider-dot"
               ></button>

@@ -11,8 +11,15 @@
     <div class="mobile-navigation-row--right">
       <button class="ham">
         <!-- material icons https://material.io/resources/icons/ -->
-        <span class="menuIcon material-icons" style="display: block"> menu </span>
-        <span class="xIcon material-icons" style="display: none; color: #ffffff;"> close </span>
+        <span class="menuIcon material-icons" style="display: block">
+          menu
+        </span>
+        <span
+          class="xIcon material-icons"
+          style="display: none; color: #ffffff"
+        >
+          close
+        </span>
       </button>
     </div>
   </div>
@@ -45,9 +52,7 @@
       </ul>
     </li>
     <li class="menuSection">
-      <a class="button--link menuLink" href="volunteer.html.en"
-        >Volunteer</a
-      >
+      <a class="button--link menuLink" href="volunteer.html.en">Volunteer</a>
       <ul>
         <li>
           <a
@@ -76,12 +81,15 @@
             >Community Feedback</a
           >
         </li>
+        <li>
+          <a class="menuLink menuLink--nested" href="home-on-hold.html.en"
+            >Home on Hold Comic</a
+          >
+        </li>
       </ul>
     </li>
     <li class="menuSection">
-      <a class="button--link menuLink" href="why-latinx.html.en"
-        >Why Latinx?</a
-      >
+      <a class="button--link menuLink" href="why-latinx.html.en">Why Latinx?</a>
     </li>
     <li class="menuSection">
       <a
@@ -149,6 +157,11 @@
             </li>
             <li>
               <a href="community-feedback.html.en">Community Feedback</a>
+            </li>
+            <li>
+              <a href="home-on-hold.html.en"
+                >Home on Hold Comic</a
+              >
             </li>
           </ul>
         </li>
