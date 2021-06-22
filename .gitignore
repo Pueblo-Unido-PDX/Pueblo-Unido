@@ -3,6 +3,8 @@ _site/
 .sass-cache/
 .git
 
+
+*/.DS_Store
 DS_Store
 
 # Compiled source #
