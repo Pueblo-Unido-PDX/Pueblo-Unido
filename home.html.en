@@ -44,17 +44,18 @@ layout: default-en
             <div class="modal-dialog" role="document">
               <div class="modal-content">
                 <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                  <h5 class="modal-title" id="exampleModalLabel">Our Legal Defense Fundraiser is Live!</h5>
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
                 </div>
                 <div class="modal-body">
-                  ...
+                  Join us in the effort to raise $20,000 for our Legal Defense Fund. Your contribution today will 
+                  be used to help pay legal fees, reunite families, and keep communities together.
                 </div>
                 <div class="modal-footer">
                   <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                  <button type="button" class="btn btn-primary">Save changes</button>
+                  <button type="button" class="btn btn-primary">Donate</button>
                 </div>
               </div>
             </div>
