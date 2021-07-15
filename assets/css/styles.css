@@ -16,6 +16,10 @@
   --drop-shadow-color: #aeaeae;
 }
 
+.modal {
+  font-family: 'Barlow', sans-serif;
+}
+
 /* Google Fonts */
 /* vietnamese */
 @font-face {
