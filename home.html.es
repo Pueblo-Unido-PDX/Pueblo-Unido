@@ -2,6 +2,28 @@
 title: Pueblo Unido PDX
 layout: default-es
 ---
+<!-- The Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">¡Nuestra Campaña para el Fondo de Defensa Legal está en vivo!</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        Únase a nosotros en el esfuerzo por recaudar $20,000 para nuestro Fondo de Defensa Legal. 
+        Su contribución de hoy ayudará a Pueblo Unido proveer ayuda financiera hacia la defensa 
+        legal y a reunir familias en la lucha contra la deportación.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        <button type="button" class="btn btn-primary">Donar</button>
+      </div>
+    </div>
+  </div>
+</div>
 
 <section class="introduction introduction--home">
   <div class="container">
@@ -129,3 +151,10 @@ layout: default-es
     </div>
   </div>
 </section>
+<script type="text/javascript">
+  window.onload = function() {
+    $('#exampleModal').modal({
+      keyboard: false
+    })
+  }
+</script>
