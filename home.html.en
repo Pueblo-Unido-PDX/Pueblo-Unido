@@ -37,6 +37,29 @@ layout: default-en
             vulnerable immigration status, and to advocate for solutions that
             build just communities.
           </p>
+
+          <!-- The Modal -->
+          
+          <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  ...
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
           <a class="button" href="volunteer.html.en">Volunteer</a>
         </div>
       </div>
@@ -64,7 +87,11 @@ layout: default-en
       Donate to help keep families together, support immigrant rights, and build
       resilient communities.
     </p>
-    <a class="button button--inverse" href="https://secure.actblue.com/donate/legal-defense-fund">Donate</a>
+    <a
+      class="button button--inverse"
+      href="https://secure.actblue.com/donate/legal-defense-fund"
+      >Donate</a
+    >
   </div>
 </section>
 <section class="heading">
@@ -192,7 +219,11 @@ layout: default-en
       Donate to help keep families together, support immigrant rights, and build
       resilient communities.
     </p>
-    <a class="button button--inverse" href="https://secure.actblue.com/donate/legal-defense-fund">Donate</a>
+    <a
+      class="button button--inverse"
+      href="https://secure.actblue.com/donate/legal-defense-fund"
+      >Donate</a
+    >
   </div>
 </section>
 <section class="heading heading--disclaimer">
@@ -256,5 +287,12 @@ layout: default-en
     window.attachEvent("onload", parseJSAtOnload);
   } else {
     window.onload = parseJSAtOnload;
+  }
+</script>
+<script type="text/javascript">
+  window.onload = function() {
+    $('#exampleModal').modal({
+      keyboard: false
+    })
   }
 </script>
