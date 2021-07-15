@@ -19,7 +19,7 @@ layout: default-es
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-        <button type="button" class="btn btn-primary">Donar</button>
+        <a href="https://secure.actblue.com/donate/legal-defense-fund"><button type="button" class="btn btn-primary">Donar</button></a>
       </div>
     </div>
   </div>
