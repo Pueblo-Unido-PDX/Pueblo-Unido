@@ -79,9 +79,9 @@ layout: default-es
             <div class="col-md-4 check-alignment">
               <h3>Cheque</h3>
               <p>Haga el cheque a nombre de Pueblo Unido PDX y envíelo a:<br>
-                17405 NE Glisan Street<br>
+                3439 SE Hawthorne Blvd, #327<br>
                 Portland, OR<br>
-                97230</p>
+                97214</p>
               <p>&nbsp;</p>
             </div>
           </div>
