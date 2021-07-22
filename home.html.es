@@ -83,8 +83,17 @@ layout: default-es
   <div class="cta-callout__subheadline">
     <h2>Donación</h2>
     <div class="horizontal-line"></div>
-    <p>Haga una donación para ayudar a mantener a familias juntas, apoyar los derechos de lxos inmigrantes, y construir comunidades fuertes.</p>
-    <a class="button button--inverse" href="https://secure.actblue.com/donate/legal-defense-fund">Donar</a>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-7">
+          <p>Haga una donación para ayudar a mantener a familias juntas, apoyar los derechos de lxos inmigrantes, y construir comunidades fuertes.</p>
+          <a class="button button--inverse" href="https://secure.actblue.com/donate/legal-defense-fund">Donar</a>
+        </div>
+        <div class="col-md-5">
+          <a href="https://secure.actblue.com/donate/legal-defense-fund?refcode=thermometer"><img src="https://secure.actblue.com/goals/89862.png?size=large&style=light" alt="Goal Thermometer"/></a>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 <section class="heading">
