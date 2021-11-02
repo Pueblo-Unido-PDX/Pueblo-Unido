@@ -7,7 +7,7 @@ layout: default-es
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">¡Nuestra Campaña para el Fondo de Defensa Legal está en vivo!</h5>
+        <h5 class="modal-title" id="exampleModalLabel">¡El anual recaudador de fondos de Give!Guide está en vivo!</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -19,7 +19,7 @@ layout: default-es
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-        <a href="https://secure.actblue.com/donate/legal-defense-fund"><button type="button" class="btn btn-primary">Donar</button></a>
+        <a href="https://giveguide.org/nonprofits/pueblo-unido-pdx"><button type="button" class="btn btn-primary">Donar</button></a>
       </div>
     </div>
   </div>
