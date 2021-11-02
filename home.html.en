@@ -7,7 +7,7 @@ layout: default-en
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">The annual Give!Guide fundraiser is Live!</h5>
+        <h5 class="modal-title" id="exampleModalLabel">The annual Give!Guide fundraiser is live!</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
