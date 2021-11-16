@@ -51,11 +51,12 @@ layout: default-es
         </div>
         <div class="heading__text heading__text--medium-width">
           <p>
-            Pueblo Unido PDX es una organización sin fines de lucro que brinda navegación de servicios legales y asistencia 
-            financiera a inmigrantes que enfrentan detención y deportación en el noroeste del Pacífico. Ayudamos a las 
-            personas a obtener asistencia legal y a reunir pruebas de apoyo para presentar el caso más sólido posible 
-            ontra la deportación. Nuestra misión es empoderar y proporcionar recursos a lxs latinxs con estatus migratorio 
-            vulnerable y abogar por soluciones que construyan comunidades justas.
+            Pueblo Unido crea esperanza y amplifica las voces de las 
+            comunidades con estatus migratorio vulnerable al conectarlas 
+            con servicios legales, sociales y interpretación de idiomas 
+            originarios. Visualizamos un mundo en el que todas las 
+            personas vivan en libertad y donde ellxs y sus comunidades 
+            puedan estar segurxs, sentirse apoyadxs y prosperar.
           </p>
           <a class="button" href="volunteer.html.es">Involucrarse</a>
         </div>
