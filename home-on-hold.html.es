@@ -174,6 +174,13 @@ layout: default-es
                     >
                       <img src="assets/images/home-on-hold/esp/21.jpg"/>
                     </div>
+                    <div
+                      class="glider-slide right-17"
+                      data-gslide="21"
+                      style="height: auto; width: 635px"
+                    >
+                      <img src="assets/images/home-on-hold/esp/22.jpg"/>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -322,6 +329,12 @@ layout: default-es
               <button
                 data-index="20"
                 aria-label="Page 21"
+                role="tab"
+                class="glider-dot"
+              ></button>
+              <button
+                data-index="21"
+                aria-label="Page 22"
                 role="tab"
                 class="glider-dot"
               ></button>
