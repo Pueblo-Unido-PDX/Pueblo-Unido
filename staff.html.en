@@ -28,16 +28,37 @@ layout: default-en
         <br />
         <div class="heading__text">
           <h3>Cam Coval (he/him)</h3>
-          <strong>Co-Founder, Executive Director <a href="mailto:cdcoval@pueblounidopdx.org">cdcoval@pueblounidopdx.org</a></strong>
+          <strong
+            >Co-Founder, Executive Director
+            <a href="mailto:cdcoval@pueblounidopdx.org"
+              >cdcoval@pueblounidopdx.org</a
+            ></strong
+          >
           <br />
           <br />
-          <p>Cam is originally from Atlanta, Georgia. Cam’s university research focused on Chilean social policy reform. He was awarded the Mavrinac Award for Best Original Research Thesis in the Colby College Government Department. 
-          <br/>
-          <br/>
-          Before starting Pueblo Unido, Cam served for AmeriCorps in East Multnomah County, where he led after-school enrichment classes and coordinated food pantries for immigrants, refugees, and low-income households. It was there that he met Pueblo Unido co-founder Francisco Rodriguez. After Francisco was detained by ICE without a warrant, Cam supported a mobilization that successfully secured Francisco’s release. Cam and Francisco founded Pueblo Unido PDX together to support other Latinx immigrants in the fight against deportation. 
-          <br />
-          <br />
-          When he’s not working, Cam enjoys playing baseball, fishing, watching Auburn University sports teams, and listening to southern rock. Cam’s middle name, Darrow, was given in honor of Clarence Darrow, leading member of the ACLU.</p>
+          <p>
+            Cam is originally from Atlanta, Georgia. Cam’s university research
+            focused on Chilean social policy reform. He was awarded the Mavrinac
+            Award for Best Original Research Thesis in the Colby College
+            Government Department.
+            <br />
+            <br />
+            Before starting Pueblo Unido, Cam served for AmeriCorps in East
+            Multnomah County, where he led after-school enrichment classes and
+            coordinated food pantries for immigrants, refugees, and low-income
+            households. It was there that he met Pueblo Unido co-founder
+            Francisco Rodriguez. After Francisco was detained by ICE without a
+            warrant, Cam supported a mobilization that successfully secured
+            Francisco’s release. Cam and Francisco founded Pueblo Unido PDX
+            together to support other Latinx immigrants in the fight against
+            deportation.
+            <br />
+            <br />
+            When he’s not working, Cam enjoys playing baseball, fishing,
+            watching Auburn University sports teams, and listening to southern
+            rock. Cam’s middle name, Darrow, was given in honor of Clarence
+            Darrow, leading member of the ACLU.
+          </p>
           <br />
           <br />
         </div>
@@ -46,23 +67,48 @@ layout: default-en
         <div class="heading__image">
           <img alt="Cam Coval" src="./assets/images/staff/cam.png" />
         </div>
-      </div>    
+      </div>
     </div>
 
     <div class="row">
-      <div class="col-md-7 align-middle">        
+      <div class="col-md-7 align-middle">
         <div class="heading__text">
           <h3>Puma Tzoc (he/him)</h3>
-          <strong>Coordinator of the Collective of Indigenous Interpreters of Oregon (CIIO) <a href="mailto:puma@pueblounidopdx.org">puma@pueblounidopdx.org</a></strong>
+          <strong
+            >Coordinator of the Collective of Indigenous Interpreters of Oregon
+            (CIIO)
+            <a href="mailto:puma@pueblounidopdx.org"
+              >puma@pueblounidopdx.org</a
+            ></strong
+          >
           <br />
           <br />
-          <p>Puma Tzoc is an immigrant, Mayan K'iche 'interpreter, ceremony man, artist-craftsman, father and son. Puma is originally from GuateMaya (Guatemala) from the town of Nahualá, which was originally known as Nawal Ja’ (spirit of water). Puma began his interpreting work after witnessing the injustices experienced by detained people, and the growing need for support. He began interpreting in the New York City court system, for medical institutions, and for his community.  He has received training with a focus on indigenous people’s rights, to use interpretation as a tool to call attention to indigenous social justice issues, culture and spirituality. 
-          <br/>
-          <br/>
-          Puma founded Maya K’iche’ Interpreter in 2014 with the initiative to help his people in the United States, and raise awareness of indigenous languages as a form of indigenous resistance. He is also a co-founder of the collective U'k'astajib'al Nawal Ja '(The awakening of the Spirit of Water), a group of young people in Nahualá that seek to raise awareness, rescue and reintegrate the cultural and traditional values of their people through the arts, dialogue, among other mediums.
-          <br />
-          <br />
-          Puma resides in Portland, OR, and on his spare time, enjoys writing, dancing, running, and spending time with his family.</p>
+          <p>
+            Puma Tzoc is an immigrant, Mayan K'iche 'interpreter, ceremony man,
+            artist-craftsman, father and son. Puma is originally from GuateMaya
+            (Guatemala) from the town of Nahualá, which was originally known as
+            Nawal Ja’ (spirit of water). Puma began his interpreting work after
+            witnessing the injustices experienced by detained people, and the
+            growing need for support. He began interpreting in the New York City
+            court system, for medical institutions, and for his community. He
+            has received training with a focus on indigenous people’s rights, to
+            use interpretation as a tool to call attention to indigenous social
+            justice issues, culture and spirituality.
+            <br />
+            <br />
+            Puma founded Maya K’iche’ Interpreter in 2014 with the initiative to
+            help his people in the United States, and raise awareness of
+            indigenous languages as a form of indigenous resistance. He is also
+            a co-founder of the collective U'k'astajib'al Nawal Ja '(The
+            awakening of the Spirit of Water), a group of young people in
+            Nahualá that seek to raise awareness, rescue and reintegrate the
+            cultural and traditional values of their people through the arts,
+            dialogue, among other mediums.
+            <br />
+            <br />
+            Puma resides in Portland, OR, and on his spare time, enjoys writing,
+            dancing, running, and spending time with his family.
+          </p>
           <br />
           <br />
         </div>
@@ -71,181 +117,356 @@ layout: default-en
         <div class="heading__image">
           <img alt="Puma Tzoc" src="./assets/images/staff/puma.png" />
         </div>
-      </div>    
+      </div>
     </div>
 
     <div class="row">
-      <div class="col-md-7 align-middle">        
+      <div class="col-md-7 align-middle">
         <div class="heading__text">
           <h3>Elba Alegría (she/her)</h3>
-          <strong>Legal Services Navigator for People in Detention <a href="mailto:ealegria@pueblounidopdx.org">ealegria@pueblounidopdx.org</a></strong>
+          <strong
+            >Legal Services Navigator for People in Detention
+            <a href="mailto:ealegria@pueblounidopdx.org"
+              >ealegria@pueblounidopdx.org</a
+            ></strong
+          >
           <br />
           <br />
-          <p>I am a proud immigrant from a small town in Guatemala where I grew up surrounded by coffee and sugar cane plantations. Coming to the U.S. has given me the opportunity to grow both personally and professionally.  When I was eighteen years old, I immigrated to the U.S. with my two-year-old daughter. This experience allows me to appreciate and understand the Pacific Northwest Immigrant community, which I am honored to serve. I am a mother and a wife. Apart from spending time with my family, I enjoy practicing yoga and dancing.</p>
-          <br/>
-          <br/>
+          <p>
+            I am a proud immigrant from a small town in Guatemala where I grew
+            up surrounded by coffee and sugar cane plantations. Coming to the
+            U.S. has given me the opportunity to grow both personally and
+            professionally. When I was eighteen years old, I immigrated to the
+            U.S. with my two-year-old daughter. This experience allows me to
+            appreciate and understand the Pacific Northwest Immigrant community,
+            which I am honored to serve. I am a mother and a wife. Apart from
+            spending time with my family, I enjoy practicing yoga and dancing.
+          </p>
+          <br />
+          <br />
         </div>
       </div>
       <div class="col-md-5 align-middle">
         <div class="heading__image">
           <img alt="Elba Algería" src="./assets/images/staff/elba.png" />
         </div>
-      </div>    
+      </div>
     </div>
 
     <div class="row">
-      <div class="col-md-7 align-middle">        
+      <div class="col-md-7 align-middle">
         <div class="heading__text">
           <h3>Augusto Gayoso Caro (he/him)</h3>
-          <strong>Statewide ECO Navigation Coordinators <a href="mailto:augusto@equitycorps.org">augusto@equitycorps.org</a></strong>
+          <strong
+            >Statewide ECO Navigation Coordinators
+            <a href="mailto:augusto@equitycorps.org"
+              >augusto@equitycorps.org</a
+            ></strong
+          >
           <br />
           <br />
-          <p>Communication professional with more than 15 years in developing campaigns for the public, private and social sectors. Experience in analysis and research techniques oriented to product development, services and social communication campaigns. I currently serve as the State Navigator Coordinator at Pueblo Unido PDX and I love my job and helping my community. In my spare time I like to share with the family, cook for them and walk in the mountains.</p>
-          <br/>
-          <br/>
+          <p>
+            Communication professional with more than 15 years in developing
+            campaigns for the public, private and social sectors. Experience in
+            analysis and research techniques oriented to product development,
+            services and social communication campaigns. I currently serve as
+            the State Navigator Coordinator at Pueblo Unido PDX and I love my
+            job and helping my community. In my spare time I like to share with
+            the family, cook for them and walk in the mountains.
+          </p>
+          <br />
+          <br />
         </div>
       </div>
       <div class="col-md-5 align-middle">
         <div class="heading__image">
-          <img alt="Augusto Gayoso Caro" src="./assets/images/staff/augusto.png" />
-        </div>
-      </div>    
-    </div>
-
-    <div class="row">
-      <div class="col-md-7 align-middle">        
-        <div class="heading__text">
-          <h3>Monica Lopez (she/her)</h3>
-          <strong>Intern <a href="mailto:monical@u.northwestern.edu">monical@u.northwestern.edu</a></strong>
-          <br />
-          <br />
-          <p>Monica is a first-generation Mexican American who grew up in Gresham, Oregon.  She is currently a junior at Northwestern University studying Biological Sciences and Global Health Studies. At Northwestern, Monica is involved with research at the Wang lab, as well as with her Ballet Folklórico group and as a tutor at a nearby middle school. She is appreciative of the opportunity to work for Pueblo Unido, using her technology and communication skills. Additionally she values the experience of being able to learn from her peers. In the future, she would like to work in the public health sector with vulnerable populations. In her spare time, she enjoys hiking, baking, and playing with her one-eyed cat.</p>
-          <br/>
-          <br/>
+          <img
+            alt="Augusto Gayoso Caro"
+            src="./assets/images/staff/augusto.png"
+          />
         </div>
       </div>
-      <div class="col-md-5 align-middle">
-        <div class="heading__image">
-          <img alt="Monica Lopez" src="./assets/images/staff/monica.png" />
-        </div>
-      </div>    
     </div>
 
     <div class="row">
-      <div class="col-md-7 align-middle">        
+      <div class="col-md-7 align-middle">
         <div class="heading__text">
           <h3>Francisco Rodriguez (he/him)</h3>
-          <strong>Co-founder, Board President <a href="mailto:unidopdx@pueblounidopdx.org">unidopdx@pueblounidopdx.org</a></strong>
+          <strong
+            >Co-founder, Board President
+            <a href="mailto:unidopdx@pueblounidopdx.org"
+              >unidopdx@pueblounidopdx.org</a
+            ></strong
+          >
           <br />
           <br />
-          <p>I come from a mixed status family. I was born in Mexico and was brought to the US at the age of 5. Have lived in Portland since 1996, I am a DACA recipient currently in removal proceedings in Immigration court. I've worked in schools since 2014 in different positions, working one-on-one with behavioral students and tutoring them. Currently, I work in the Reynolds School District. My positions allow me to coach elementary and middle school students after school in soccer and help run food pantries for low income families in our community.</p>
-          <br/>
-          <br/>
-          <p>I've been on multiple boards. I have served on Multnomah County’s Community Involvement, and City of Gresham's Housing Task Force where I advised Gresham City Council and made housing policy recommendations. Currently, I sit on the Rockwood Neighborhood Association board. I am Pueblo Unido’s co-founder and want to do everything I can to make sure we grow in the right direction. I advise our board to ensure we maintain Pueblo Unido’s original goals and vision. I want to see us continue to grow and help as many people as we can. I will always be a part of Pueblo Unido in one way or another and currently being on the board is where I feel I give my most.</p>
-          <br/>
-          <br/>
+          <p>
+            I come from a mixed status family. I was born in Mexico and was
+            brought to the US at the age of 5. Have lived in Portland since
+            1996, I am a DACA recipient currently in removal proceedings in
+            Immigration court. I've worked in schools since 2014 in different
+            positions, working one-on-one with behavioral students and tutoring
+            them. Currently, I work in the Reynolds School District. My
+            positions allow me to coach elementary and middle school students
+            after school in soccer and help run food pantries for low income
+            families in our community.
+          </p>
+          <br />
+          <br />
+          <p>
+            I've been on multiple boards. I have served on Multnomah County’s
+            Community Involvement, and City of Gresham's Housing Task Force
+            where I advised Gresham City Council and made housing policy
+            recommendations. Currently, I sit on the Rockwood Neighborhood
+            Association board. I am Pueblo Unido’s co-founder and want to do
+            everything I can to make sure we grow in the right direction. I
+            advise our board to ensure we maintain Pueblo Unido’s original goals
+            and vision. I want to see us continue to grow and help as many
+            people as we can. I will always be a part of Pueblo Unido in one way
+            or another and currently being on the board is where I feel I give
+            my most.
+          </p>
+          <br />
+          <br />
         </div>
       </div>
       <div class="col-md-5 align-middle">
         <div class="heading__image">
-          <img alt="Francisco Rodriguez" src="./assets/images/staff/francisco.png" />
+          <img
+            alt="Francisco Rodriguez"
+            src="./assets/images/staff/francisco.png"
+          />
         </div>
-      </div>    
+      </div>
     </div>
 
     <div class="row">
-      <div class="col-md-7 align-middle">        
+      <div class="col-md-7 align-middle">
         <div class="heading__text">
           <h3>Amy Franco</h3>
-          <strong>Board Treasurer <a href="mailto:afranco@pueblounidopdx.org">afranco@pueblounidopdx.org</a></strong>
+          <strong
+            >Board Treasurer
+            <a href="mailto:afranco@pueblounidopdx.org"
+              >afranco@pueblounidopdx.org</a
+            ></strong
+          >
           <br />
           <br />
-          <p>I'm a Midwest Central American with dual citizenship in Panama. I grew up in Illinois, lived in Chicago for ten years, and moved to Portland in 2016. I have a decade of experience in health research grant administration including positions at University of Illinois at Chicago and Oregon Health & Science University. I am currently a grant administrator for the Northwest Portland Area Indian Health Board. I'm grateful to be able to contribute to Pueblo Unido by combining my personal interest in supporting those navigating the inequity of the immigration system with my professional grant management skills.</p>
-          <br/>
-          <br/>
+          <p>
+            I'm a Midwest Central American with dual citizenship in Panama. I
+            grew up in Illinois, lived in Chicago for ten years, and moved to
+            Portland in 2016. I have a decade of experience in health research
+            grant administration including positions at University of Illinois
+            at Chicago and Oregon Health & Science University. I am currently a
+            grant administrator for the Northwest Portland Area Indian Health
+            Board. I'm grateful to be able to contribute to Pueblo Unido by
+            combining my personal interest in supporting those navigating the
+            inequity of the immigration system with my professional grant
+            management skills.
+          </p>
+          <br />
+          <br />
         </div>
       </div>
       <div class="col-md-5 align-middle">
         <div class="heading__image">
           <img alt="Amy Franco" src="./assets/images/staff/amy.png" />
         </div>
-      </div>    
+      </div>
     </div>
 
     <div class="row">
-      <div class="col-md-7 align-middle">        
+      <div class="col-md-7 align-middle">
         <div class="heading__text">
           <h3>Angela Previdelli</h3>
-          <strong>Board Secretary <a href="mailto:angelap@pueblounidopdx.org">angelap@pueblounidopdx.org</a></strong>
+          <strong
+            >Board Secretary
+            <a href="mailto:angelap@pueblounidopdx.org"
+              >angelap@pueblounidopdx.org</a
+            ></strong
+          >
           <br />
           <br />
-          <p>I am a first generation Brazilian American and fluent in Portuguese. My parents are immigrants from São Paulo where the rest of my family lives. I spent my youth growing up in South Florida and have been in Portland since 2006. My work background is in community engagement, natural resource conservation, and grantmaking programs. I currently work for the City of Portland in the Bureau of Planning and Sustainability. I am excited to serve on Pueblo Unido’s board because I want to give back and support our immigrant communities' most vulnerable members.</p>
-          <br/>
-          <br/>
+          <p>
+            I am a first generation Brazilian American and fluent in Portuguese.
+            My parents are immigrants from São Paulo where the rest of my family
+            lives. I spent my youth growing up in South Florida and have been in
+            Portland since 2006. My work background is in community engagement,
+            natural resource conservation, and grantmaking programs. I currently
+            work for the City of Portland in the Bureau of Planning and
+            Sustainability. I am excited to serve on Pueblo Unido’s board
+            because I want to give back and support our immigrant communities'
+            most vulnerable members.
+          </p>
+          <br />
+          <br />
         </div>
       </div>
       <div class="col-md-5 align-middle">
         <div class="heading__image">
           <img alt="Angela Previdelli" src="./assets/images/staff/angela.png" />
         </div>
-      </div>    
+      </div>
     </div>
 
     <div class="row">
-      <div class="col-md-7 align-middle">        
+      <div class="col-md-7 align-middle">
         <div class="heading__text">
           <h3>John Schlosser</h3>
-          <strong>Board Member <a href="mailto:jschlosser@pueblounidopdx.org">jschlosser@pueblounidopdx.org</a></strong>
+          <strong
+            >Board Member
+            <a href="mailto:jschlosser@pueblounidopdx.org"
+              >jschlosser@pueblounidopdx.org</a
+            ></strong
+          >
           <br />
           <br />
-          <p>I grew up in North Dakota. I moved to Hawaii for college, where I majored in Marine Biology.  Eventually, I attended Lewis & Clark Law School, and became an attorney.  Now, I primarily practice criminal defense, and I specialize in representing non-citizens.  My representation of non-citizens led to my involvement in immigrant rights advocacy, and working on immigrant protection legislation.  I have a solid understanding of Pueblo Unido's originating focus - working to get detained immigrants released, and I was collaborating with Cam and Francisco (PU's founders) since the beginning of this great organization.</p>
-          <br/>
-          <br/>
+          <p>
+            I grew up in North Dakota. I moved to Hawaii for college, where I
+            majored in Marine Biology. Eventually, I attended Lewis & Clark Law
+            School, and became an attorney. Now, I primarily practice criminal
+            defense, and I specialize in representing non-citizens. My
+            representation of non-citizens led to my involvement in immigrant
+            rights advocacy, and working on immigrant protection legislation. I
+            have a solid understanding of Pueblo Unido's originating focus -
+            working to get detained immigrants released, and I was collaborating
+            with Cam and Francisco (PU's founders) since the beginning of this
+            great organization.
+          </p>
+          <br />
+          <br />
         </div>
       </div>
       <div class="col-md-5 align-middle">
         <div class="heading__image">
           <img alt="John Schlosser" src="./assets/images/staff/john.png" />
         </div>
-      </div>    
+      </div>
     </div>
 
     <div class="row">
-      <div class="col-md-7 align-middle">        
+      <div class="col-md-7 align-middle">
         <div class="heading__text">
           <h3>Nina Madueno</h3>
-          <strong>Board Member <a href="mailto:nina@pueblounidopdx.org">nina@pueblounidopdx.org</a></strong>
+          <strong
+            >Board Member
+            <a href="mailto:nina@pueblounidopdx.org"
+              >nina@pueblounidopdx.org</a
+            ></strong
+          >
           <br />
           <br />
-          <p>I am a Chicana from Northern California. First generation on my father's side and third generation on my mother's. Fluent in Spanish. I am a Chef and amateur writer with a small background in event planning and goals to attend Law School in the coming years. I have lived in Portland since 2013. I decided to join the Board of Directors because I want to use my skills to help support fundraising and to use my privilege to give back to our most vulnerable immigrant community members.</p>
-          <br/>
-          <br/>
+          <p>
+            I am a Chicana from Northern California. First generation on my
+            father's side and third generation on my mother's. Fluent in
+            Spanish. I am a Chef and amateur writer with a small background in
+            event planning and goals to attend Law School in the coming years. I
+            have lived in Portland since 2013. I decided to join the Board of
+            Directors because I want to use my skills to help support
+            fundraising and to use my privilege to give back to our most
+            vulnerable immigrant community members.
+          </p>
+          <br />
+          <br />
         </div>
       </div>
       <div class="col-md-5 align-middle">
-        <div class="heading__image">
-    
-        </div>
-      </div> 
+        <div class="heading__image"></div>
+      </div>
     </div>
     <div class="row">
       <div class="col-md-7 align-middle">
         <div class="heading__text">
           <h3>Teddy Watler</h3>
-          <strong>Board Member <a href="mailto:twatler@pueblounidopdx.org">twatler@pueblounidopdx.org</a></strong>
+          <strong
+            >Board Member
+            <a href="mailto:twatler@pueblounidopdx.org"
+              >twatler@pueblounidopdx.org</a
+            ></strong
+          >
           <br />
           <br />
-          <p>I grew up in Southern California and my father is from Honduras. I received my undergraduate degree from the University of Chicago and moved to Portland in 2017. Having served as a Pueblo Unido PDX volunteer, I also trained as a Community Navigator in the Equity Corps program. I now work as a union organizer with healthcare workers. I am excited to serve on Pueblo Unido’s board to continue supporting our volunteer team as our community grows to fight for immigration justice.</p>
-          <br/>
-          <br/>
+          <p>
+            I grew up in Southern California and my father is from Honduras. I
+            received my undergraduate degree from the University of Chicago and
+            moved to Portland in 2017. Having served as a Pueblo Unido PDX
+            volunteer, I also trained as a Community Navigator in the Equity
+            Corps program. I now work as a union organizer with healthcare
+            workers. I am excited to serve on Pueblo Unido’s board to continue
+            supporting our volunteer team as our community grows to fight for
+            immigration justice.
+          </p>
+          <br />
+          <br />
         </div>
-      </div> 
+      </div>
       <div class="col-md-5 align-middle">
         <div class="heading__image">
           <img alt="Teddy Watler" src="./assets/images/staff/teddy.png" />
         </div>
-      </div>    
-    </div>    
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__text">
+          <h3>Gladys Tejada</h3>
+          <!-- <strong>Board Member <a href="mailto:twatler@pueblounidopdx.org">twatler@pueblounidopdx.org</a></strong> -->
+          <br />
+          <br />
+          <p>
+            An immigrant from the Dominican Republic, Gladys serves with the
+            Jesuit Volunteer Corps Northwest and AmeriCorps as the Volunteer
+            Coordinator and a Social Service Navigator for Pueblo Unido. Gladys
+            graduated from the University of Scranton with a degree in Biology
+            and Biochemistry. During her time as an undergrad, she worked as an
+            interpreter at a free clinic and volunteered as an after school
+            tutor for immigrants and refugees. When she's not at service, you
+            can find Gladys reading, knitting or spending time with the
+            neighborhood cats.
+          </p>
+          <br />
+          <br />
+        </div>
+      </div>
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Gladys Tejada" src="./assets/images/staff/gladys.png" />
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__text">
+          <h3>Carla Gonzalez</h3>
+          <!-- <strong>Board Member <a href="mailto:twatler@pueblounidopdx.org">twatler@pueblounidopdx.org</a></strong> -->
+          <br />
+          <br />
+          <p>
+            Carla is a daughter of Mexican immigrants and a first generation
+            college grad. Carla grew up in Tigard, Oregon, and received her
+            undergraduate degree from the University of Oregon in 2021 where she
+            studied Indigenous, Race, and Ethnic Studies and Legal Studies.
+            Through her heavy involvement in Mecha, Carla became immersed in a
+            mobilization against anti-immigrant policies, and advocacy for
+            immigrants' rights. Putting forth a resistance to the
+            criminalization, separation and deportation of immigrants is at the
+            heart of her passions, and what brought her to Pueblo Unido. In the
+            near future, Carla plans to attend law school, and ultimately plans
+            to become an immigration attorney. In her free time, Carla enjoys
+            spending time with her family, dancing, and going on hikes.
+          </p>
+          <br />
+          <br />
+        </div>
+      </div>
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Carla Gonzalez" src="./assets/images/staff/carla.png" />
+        </div>
+      </div>
+    </div>
   </div>
   <br />
 </section>

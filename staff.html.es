@@ -123,25 +123,6 @@ layout: default-es
     <div class="row">
       <div class="col-md-7 align-middle">        
         <div class="heading__text">
-          <h3>Monica Lopez (ella)</h3>
-          <strong>Intern <a href="mailto:monical@u.northwestern.edu">monical@u.northwestern.edu</a></strong>
-          <br />
-          <br />
-          <p>Monica es americana de descendencia y padres mexicanos que creció en Gresham, Oregon. Actualmente está estudiando Biología y Estudios de Salud Global en su tercer año en la Universidad de Northwestern. En Northwestern, Monica está haciendo trabajo de investigación en un laboratorio de biología molecular, está involucrada con un grupo de Ballet Folklórico y trabaja como tutora en una escuela secundaria cercana. Está contenta de tener la oportunidad de trabajar y poder ayudar con Pueblo Unido aplicando sus conocimientos de tecnología y comunicación. Adicionalmente, ella valora la oportunidad de poder aprender de sus compañeros. En el futuro una de sus metas es trabajar en el sector de salud pública y ayudar a personas de comunidades vulnerables. En su tiempo libre, le gusta ir de excursión, hornear y jugar con su gata de un ojo.</p>
-          <br/>
-          <br/>
-        </div>
-      </div>
-      <div class="col-md-5 align-middle">
-        <div class="heading__image">
-          <img alt="Monica Lopez" src="./assets/images/staff/monica.png" />
-        </div>
-      </div>    
-    </div>
-
-    <div class="row">
-      <div class="col-md-7 align-middle">        
-        <div class="heading__text">
           <h3>Francisco Rodriguez (él)</h3>
           <strong>Cofundador, Presidente de la Junta Directiva <a href="mailto:unidopdx@pueblounidopdx.org">unidopdx@pueblounidopdx.org</a></strong>
           <br />
@@ -253,6 +234,54 @@ layout: default-es
           <img alt="Teddy Watler" src="./assets/images/staff/teddy.png" />
         </div>
       </div>   
-    </div>    
+    </div>  
+    
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__text">
+          <h3>Gladys Tejada</h3>
+          <!-- <strong>Board Member <a href="mailto:twatler@pueblounidopdx.org">twatler@pueblounidopdx.org</a></strong> -->
+          <br />
+          <br />
+          <p>Inmigrante de la República Dominicana, Gladys sirve con el Jesuit Volunteer Corps Northwest y AmeriCorps como Coordinadora de Voluntarios y Navegadora de Servicios Sociales para Pueblo Unido. Gladys se graduó de la Universidad de Scranton con un título en Biología y Bioquímica. Durante su época de estudiante, trabajó como intérprete en una clínica gratuita y fue voluntaria como tutora extraescolar para inmigrantes y refugiados. Cuando no está en servicio, se puede encontrar a Gladys leyendo, tejiendo o pasando tiempo con los gatos del vecindario. </p>
+          <br/>
+          <br/>
+        </div>
+      </div> 
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Gladys Tejada" src="./assets/images/staff/gladys.png" />
+        </div>
+      </div>    
+    </div>   
+
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__text">
+          <h3>Carla Gonzalez</h3>
+          <!-- <strong>Board Member <a href="mailto:twatler@pueblounidopdx.org">twatler@pueblounidopdx.org</a></strong> -->
+          <br />
+          <br />
+          <p>
+            Carla es hija de inmigrantes mexicanos y una graduada universitaria de primera generación.
+            Carla creció en Tigard, Oregón, y se graduó en la Universidad de Oregón en 2021, donde
+            estudió Estudios Indígenas, Raciales y Étnicos y Estudios Legales. A través de su fuerte
+            participación en Mecha, Carla se involucró en una movilización contra las políticas
+            anti-inmigrantes, y la defensa de los derechos de los inmigrantes. La resistencia a la
+            criminalización, la separación y la deportación de los inmigrantes está en el corazón de sus
+            pasiones, y es lo que la llevó a Pueblo Unido. En un futuro próximo, Carla planea asistir a la
+            escuela de derecho, y en última instancia, planea convertirse en una abogada de inmigración.
+            En su tiempo libre, Carla disfruta pasar tiempo con su familia, bailar y salir de excursión.
+          </p>
+          <br />
+          <br />
+        </div>
+      </div>
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Carla Gonzalez" src="./assets/images/staff/carla.png" />
+        </div>
+      </div>
+    </div>
   </div>
 </section>
