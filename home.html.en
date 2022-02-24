@@ -2,28 +2,6 @@
 title: Home
 layout: default-en
 ---
-<!-- The Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">The annual Give!Guide fundraiser is live!</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        Join us in the effort to raise $20,000 for our Legal Defense Fund. Your contribution today will 
-        help Pueblo Unido pay legal fees, and reunite families in the fight against deportation.
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <a href="https://giveguide.org/nonprofits/pueblo-unido-pdx"><button type="button" class="btn btn-primary">Donate</button></a>
-      </div>
-    </div>
-  </div>
-</div>
-
 <section class="introduction introduction--home">
   <div class="container">
     <div class="row">
