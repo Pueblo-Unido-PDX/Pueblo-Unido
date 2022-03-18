@@ -1,0 +1,37 @@
+---
+title: Job Openings - Pueblo Unido PDX
+layout: default-en
+---
+
+<section class="introduction introduction--about">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="introduction__text">
+          <h1>Job Openings</h1>
+        </div>
+        <div class="introduction__link">
+          <a class="button" href="job-openings.html.es">Leer en Español</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="what-we-do heading">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__subheadline">
+          <h2>Current Openings</h2>
+          <div class="horizontal-line"></div>
+        </div>
+        <br />
+        <div class="heading__text">
+          <ul>
+              <li><a href="job-jesuit-americorps.html.en">Jesuit Volunteer/AmeriCorps Member</a>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

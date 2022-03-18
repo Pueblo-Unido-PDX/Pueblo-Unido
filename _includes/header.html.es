@@ -57,8 +57,11 @@
           <a class="menuLink menuLink--nested" href="community-feedback.html.es">Comentarios de la Comunidad</a>
         </li>
         <li>
-              <a class="menuLink menuLink--nested" href="home-on-hold.html.es">Un Hogar Detenido</a>
-            </li>
+          <a class="menuLink menuLink--nested" href="home-on-hold.html.es">Un Hogar Detenido</a>
+        </li>
+        <li>
+          <a class="menuLink menuLink--nested" href="job-openings.html.es">Ofertas de Trabajo</a>
+        </li>
       </ul>
     </li>        
     <li class="menuSection">
@@ -117,6 +120,9 @@
             </li>
             <li>
               <a href="home-on-hold.html.es">Un Hogar Detenido</a>
+            </li>
+            <li>
+              <a href="job-openings.html.es">Ofertas de Trabajo</a>
             </li>
           </ul>
         </li>        
