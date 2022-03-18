@@ -23,73 +23,85 @@ layout: default-en
   <div class="container">
     <div class="row">
       <div class="col-md-7 align-middle">
-        <h2>Job Opening: Jesuit Volunteer/AmeriCorps Member</h2>
-        <div class="horizontal-line"></div>
-        <p>&nbsp;</p>
-        <h3>Description</h3>
-        <p>Social Service Navigator / Volunteer Coordinator</p>
-        <p>&nbsp;</p>
-        <p>
-          Engage in a meaningful year of service and community with JVC
-          Northwest! For one year, Jesuit Volunteer (JV)/AmeriCorps members
-          serve local organizations across the Pacific Northwest, helping them
-          address a pressing community need that they’ve identified. By living
-          together in intentional community, JV/AmeriCorps members lean on each
-          other for personal growth in the four core values of community, simple
-          living, social and ecological justice, and spirituality/reflection.
-          Here at Pueblo Unido PDX, we are looking to fill the role of Social
-          Service Navigator / Volunteer Coordinator with a JV/AmeriCorps member
-          for the 2022-23 service year that begins in August. The JV/AmeriCorps
-          member will work alongside our navigation team to connect community
-          members with vulnerable immigration status to social services and
-          other wraparound supports that promote family stability and
-          prosperity. The JV/AmeriCorps member will also recruit and coordinate
-          volunteers to help organize community events, perform outreach, create
-          educational materials, and more. We are actively seeking fluent
-          Spanish speakers to fill this role. All JV/AmeriCorps members will be
-          provided with a living stipend, communal housing, health insurance,
-          potential student loan forbearance, and a $6,495 AmeriCorps Education
-          Award to be used towards future tuition or to pay back qualified
-          student loans.
-        </p>
-        <p>&nbsp;</p>
-        <h3>Service Dates:</h3>
-        <p>August 8, 2022 through July 31, 2023</p>
-        <p>&nbsp;</p>
-        <h3>How to Apply:</h3>
-        <p>
-          Apply at
-          <a href="www.jvcnorthwest.org" target="_blank"
-            >www.jvcnorthwest.org</a
-          >
-        </p>
-        <p>&nbsp;</p>
-        <h3>Application Process</h3>
-        <p>
-          JVC Northwest has a thorough and intentional process for matching
-          applicants with the best service placement for them among its 100+
-          positions across the Northwest. Applying to JVC Northwest does not
-          mean that you are guaranteed to serve with Pueblo Unido PDX, but
-          rather that you will be considered for a variety of service
-          placements. Placements are made based on your interests, skills, and
-          experience.
-        </p>
-        <p>&nbsp;</p>
-        <h3>Requirements</h3>
-        <p>
-          JV/AmeriCorps members must be 21 or older on August 8 and cannot be
-          married or have dependents. JV/AmeriCorps members commit to living in
-          intentional community alongside fellow volunteers.
-        </p>
-        <p>&nbsp;</p>
-        <h3>Contact:</h3>
-        <p>
-          Reach out to Chris Suriano at
-          <a href="mailto:recruitment@jvcnorthwest.org"
-            >recruitment@jvcnorthwest.org</a
-          >.
-        </p>
-        <p>&nbsp;</p>
+        <div class="heading__subheadline">
+          <h2>Job Opening: Jesuit Volunteer/AmeriCorps Member</h2>
+          <div class="horizontal-line"></div>
+        </div>
+        <br />
+        <div class="heading__text">
+          <h3>Description</h3>
+          <p>Social Service Navigator / Volunteer Coordinator</p>
+        </div>
+      </div>
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Team" src="./assets/images/sponsors/jesuit-americorps.png" />
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-7 align-middle">
+          <p>
+            Engage in a meaningful year of service and community with JVC
+            Northwest! For one year, Jesuit Volunteer (JV)/AmeriCorps members
+            serve local organizations across the Pacific Northwest, helping them
+            address a pressing community need that they’ve identified. By living
+            together in intentional community, JV/AmeriCorps members lean on
+            each other for personal growth in the four core values of community,
+            simple living, social and ecological justice, and
+            spirituality/reflection. Here at Pueblo Unido PDX, we are looking to
+            fill the role of Social Service Navigator / Volunteer Coordinator
+            with a JV/AmeriCorps member for the 2022-23 service year that begins
+            in August. The JV/AmeriCorps member will work alongside our
+            navigation team to connect community members with vulnerable
+            immigration status to social services and other wraparound supports
+            that promote family stability and prosperity. The JV/AmeriCorps
+            member will also recruit and coordinate volunteers to help organize
+            community events, perform outreach, create educational materials,
+            and more. We are actively seeking fluent Spanish speakers to fill
+            this role. All JV/AmeriCorps members will be provided with a living
+            stipend, communal housing, health insurance, potential student loan
+            forbearance, and a $6,495 AmeriCorps Education Award to be used
+            towards future tuition or to pay back qualified student loans.
+          </p>
+          <p>&nbsp;</p>
+          <h3>Service Dates:</h3>
+          <p>August 8, 2022 through July 31, 2023</p>
+          <p>&nbsp;</p>
+          <h3>How to Apply:</h3>
+          <p>
+            Apply at
+            <a href="www.jvcnorthwest.org" target="_blank"
+              >www.jvcnorthwest.org</a
+            >
+          </p>
+          <p>&nbsp;</p>
+          <h3>Application Process</h3>
+          <p>
+            JVC Northwest has a thorough and intentional process for matching
+            applicants with the best service placement for them among its 100+
+            positions across the Northwest. Applying to JVC Northwest does not
+            mean that you are guaranteed to serve with Pueblo Unido PDX, but
+            rather that you will be considered for a variety of service
+            placements. Placements are made based on your interests, skills, and
+            experience.
+          </p>
+          <p>&nbsp;</p>
+          <h3>Requirements</h3>
+          <p>
+            JV/AmeriCorps members must be 21 or older on August 8 and cannot be
+            married or have dependents. JV/AmeriCorps members commit to living
+            in intentional community alongside fellow volunteers.
+          </p>
+          <p>&nbsp;</p>
+          <h3>Contact:</h3>
+          <p>
+            Reach out to Chris Suriano at
+            <a href="mailto:recruitment@jvcnorthwest.org"
+              >recruitment@jvcnorthwest.org</a
+            >.
+          </p>
+          <p>&nbsp;</p>
+        </div>
       </div>
     </div>
   </div>
