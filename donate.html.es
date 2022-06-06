@@ -117,25 +117,49 @@ layout: default-es
         </div>
         <br />
         <p>
-          La representación legal es el factor más predictivo sobre si una persona evitará la deportación, 
-          obtendrá un estatus más estable y logrará el derecho a permanecer en su comunidad. Sin embargo, 
-          debido a que la inmigración es un tribunal civil, no penal, el gobierno no brinda asesoría legal 
-          a aquellos que no tienen suficientes recursos financieros para contratar a su propio abogadx.
+          La representación legal es el factor más predictivo sobre si una persona 
+          evitará la deportación, obtendrá un estatus más estable y logrará el 
+          derecho a permanecer en su comunidad. Sin embargo, debido a que la 
+          inmigración es un tribunal civil, no penal, el gobierno no brinda 
+          asesoría legal a aquellos que no tienen suficientes recursos financieros 
+          para contratar a su propio abogadx. Como resultado, muchas personas 
+          que enfrentan la deportación se ven obligadas a representarse a sí 
+          mismas y, en última instancia, es menos probable que prevalezcan 
+          contra la deportación.
         </p>
         <p>
-          Por lo general, cuesta entre $10,000 y $12,000 contratar a un representante legal para un caso de 
-          defensa contra la deportación. Como resultado, la mayoría de las personas que enfrentan la 
-          deportación se ven obligadas a representarse a sí mismas y, en última instancia, es menos probable 
-          que prevalezcan contra la deportación. Pueblo Unido se organizó en abril de 2017 en respuesta a 
-          esta injusticia para mantener unidas a las familias y nuestras comunidades.
+          Aunque los programas gratuitos de asistencia legal para inmigrantes están 
+          cada vez más disponibles en Oregón, muchas personas con un estatus 
+          migratorio vulnerable aún no pueden acceder a estos servicios. Esto 
+          puede deberse a que la persona reside fuera del alcance geográfico 
+          del programa, o porque tiene un tipo de caso o necesidad de inmigración 
+          diferente a la que el programa fue diseñado para abordar, o simplemente 
+          porque el programa está al máximo de su capacidad y no puede atenderlos 
+          de manera oportuna.
         </p>
         <p>
-          La misión de Pueblo Unido es empoderar y proporcionar recursos a lxs latinxs con un estatus 
-          migratorio vulnerable y abogar por soluciones que construyan comunidades justas. Brindamos 
-          navegación de servicios legales y asistencia financiera para apoyar a lxs inmigrantes en el 
-          Pacífico NW en la lucha contra la detención y la deportación. Nuestro objetivo es ayudar a 
-          las personas a obtener asistencia legal y reunir pruebas de apoyo para presentar el caso más 
-          sólido posible contra la expulsión.
+          Los miembros de la comunidad que no pueden acceder a los programas 
+          gratuitos de asistencia legal generalmente deben pagar alrededor 
+          de $12,000 por la defensa de deportación de un abogado privado. 
+          Además de los costos de representación legal, las personas con un 
+          estatus migratorio vulnerable también suelen tener dificultades 
+          para pagar las tarifas de aplicaciones, las tarifas de pruebas 
+          forenses, la interpretación del idioma originario y las necesidades 
+          básicas de estabilidad del hogar, como la renta, las utilidades, 
+          la atención médica y los alimentos. Esto es especialmente cierto 
+          cuando ICE detiene al sostén de familia y las familias se ven 
+          obligadas a elegir entre pagar la defensa legal de su ser querido 
+          o mantener las luces encendidas en el hogar.
+        </p>
+        <p>
+          Pueblo Unido se organizó en abril de 2017 en respuesta a estas 
+          injusticias para crear un mundo en el que todas las personas 
+          vivan en libertad y donde nosotros y nuestras comunidades podamos 
+          estar segurxs, sentirnos apoyadxs y prosperar. Sus contribuciones 
+          permiten a Pueblo Unido responder de manera flexible a las 
+          diversas necesidades de nuestras comunidades y, en última instancia, 
+          garantizar el acceso a representación legal, promover la 
+          estabilidad del hogar y asegurar la justicia lingüística.
         </p>
       </div>
     </div>
@@ -149,68 +173,22 @@ layout: default-es
         </div>
         <br />
         <p>
-          En nuestros primeros 4 años y medio de operación (abril de 2017 - abril de 2021), Pueblo Unido proporcionó 
-          consultas gratuitas y créditos de comunicación a más de 380 personas en centros de detención, pagó 100 
-          honorarios de retención de abogados y conectó a más de 250 personas con asistencia legal gratuita. 42 
-          personas apoyadas por Pueblo Unido han sido liberadas de la detención, 10 de las cuales ya ganaron sus 
-          casos contra la deportación y obtuvieron un estatus legal.
+          Nuestros donantes, voluntarios, clientes y personal juegan un papel 
+          esencial para mantener unidas a las familias, apoyar los derechos 
+          de lxs inmigrantes y restaurar la dignidad humana. Desde nuestra 
+          formación en abril de 2017, hemos colaborado para facilitar más de 
+          500 consultas legales gratuitas, conectar a más de 600 personas con 
+          representación legal, brindar asistencia financiera para más de 100 
+          pagos de renta y utilidades, y brindar servicios de interpretación 
+          de idiomas originarios durante más de 140 citas legales. Ya sea 
+          que ofrezca su tiempo, conocimiento, conexiones o recursos, su 
+          contribución es crucial para nuestro trabajo colectivo.
+        </p>
+        <p>
+          <em>Pueblo Unido PDX es una organización sin fines de lucro 501(c)3</em>
         </p>
       </div>
     </div>
-  </div>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="heading__subheadline">
-          <h2>¿A dónde va su contribución?</h2>
-          <div class="horizontal-line"></div>
-        </div>
-        <br />
-        <p>
-          El 100% de su contribución a Pueblo Unido se destinará a un fondo de defensa legal para ayudar a las 
-          personas que enfrentan la deportación a contratar abogados de inmigración, reunir pruebas de apoyo y 
-          mantener a sus familias estables, para que tengan la mejor oportunidad posible de prevalecer contra 
-          la expulsión.
-        </p>
-        <p>
-          Gracias por su compromiso de proteger los derechos de los inmigrantes y restaurar la dignidad humana. 
-          USTED es una parte vital para mantener unidas a las familias y ayudarnos a realizar nuestra visión 
-          de una comunidad justa y resiliente para todos.
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="heading__subheadline">
-          <h2>Nuestro fondo de defensa legal</h2>
-          <div class="horizontal-line"></div>
-        </div>
-        <br />
-        <p>
-          El Fondo de Defensa Legal de Pueblo Unido PDX apoya directamente a lxs miembros de la comunidad en la 
-          lucha contra la deportación. Sus donaciones al Fondo de Defensa Legal ayudan a pagar:
-        </p>
-        <ul>
-          <li>Consultas con abogadxs de inmigración;</li>
-          <li>Honorarios de retención para que lxs abogadxs tomen casos contra la deportación;</li>
-          <li>Evaluaciones de salud mental, que brindan un valioso apoyo a los casos de defensa contra la deportación;</li>
-          <li>Costos de interpretación, para que lxs miembros de las comunidades indígenas puedan recibir servicios legales en su idioma principal;</li>
-          <li>Asistencia de renta para que las familias amenazadas por la deportación puedan mantener la estabilidad y concentrarse en su defensa;</li>
-          <li>Costos de comunicación para que las personas detenidas puedan hablar con abogadxs y seres queridos; y,</li>
-          <li>Fianzas para liberar a las personas de la detención.</li>
-        </ul>
-        <p>Con su apoyo ayudaremos a más miembrxs de la comunidad de la
-        zona metropolitana de Portland a ganar sus casos contra la
-        deportación, salir de la detención, y ser reunidos con sus seres
-        queridxs.</p>
-        <strong>Pueblo Unido PDX es una organización 501(c)3 sin fines
-        de lucro y Ud. puede deducir su contribución de sus impuestos
-        el máximo que permite la ley.</strong>
-      </div>
-    </div>
-    <a class="button" href="funders.html.es">Nuestros Patrocinadores</a>
   </div>
   <br>
 </section>
