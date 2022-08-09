@@ -95,6 +95,13 @@ layout: default-en
               </a>
             </div>
           </div>
+          <div class="row">
+            <div class="col-md-4">
+              <a href="https://www.multco.us/" target="blank">
+                <img src="assets/images/sponsors/mult-county.png" alt="Multnomah County" />
+              </a>
+            </div>
+          </div>
         </div>
       </div>
       <div class="col-md-12">
