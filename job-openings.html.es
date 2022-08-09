@@ -26,11 +26,12 @@ layout: default-es
           <div class="horizontal-line"></div>
         </div>
         <br />
-        <div class="heading__text">
+        <p>No está ofertas de trabajo.</p>
+        <!-- <div class="heading__text">
           <ul>
               <li><a href="job-jesuit-americorps.html.es">Jesuit Volunteer/Miembro de AmeriCorps</a>
           </ul>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
