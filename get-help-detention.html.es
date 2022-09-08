@@ -171,6 +171,9 @@ layout: default-es
           brindar representación legal a cada persona en Oregón que enfrenta procedimientos de deportación en la Corte de Inmigración 
           de Portland y que no tiene recursos suficientes para contratar a un abogado.
         </p>
+        <div style="display: flex; justify-content: center; padding-bottom: 20px;">
+          <img  alt="Multnomah County Logo" src="assets/images/sponsors/mult-county.png" />
+        </div>
         <p>
           Pueblo Unido fue seleccionado como la Organización de Navegación Estatal para apoyar la expansión estatal del programa ECO, 
           al proporcionar:

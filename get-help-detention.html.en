@@ -162,6 +162,9 @@ layout: default-en
           culmination of years of effort by members of the Oregon Ready coalition to create an innovative model of universal representation 
           to defend Oregon immigrants from unjust and illegal deportation.
         </p>
+        <div style="display: flex; justify-content: center; padding-bottom: 20px;">
+          <img  alt="Multnomah County Logo" src="assets/images/sponsors/mult-county.png" />
+        </div>
         <p>
           In Fall 2019, The State of Oregon allocated funds to support the state expansion of the ECO program, with the goal of providing 
           legal representation for each of Oregon residents facing deportation proceedings in the Portland Immigration Court without 
