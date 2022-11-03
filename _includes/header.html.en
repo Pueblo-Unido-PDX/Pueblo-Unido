@@ -34,11 +34,6 @@
             >For Detention / Removal Cases</a
           >
         </li>
-        <li>
-          <a class="menuLink menuLink--nested" href="get-help-other.html.en"
-            >For Other Immigration Issues</a
-          >
-        </li>
       </ul>
     </li>
     <li class="menuSection">
@@ -52,23 +47,7 @@
       </ul>
     </li>
     <li class="menuSection">
-      <a class="button--link menuLink" href="volunteer.html.en">Volunteer</a>
-      <ul>
-        <li>
-          <a
-            class="menuLink menuLink--nested"
-            href="volunteer-committees.html.en"
-            >Join Us</a
-          >
-        </li>
-        <li>
-          <a
-            class="menuLink menuLink--nested"
-            href="volunteer.html.en#equity-corps"
-            >Equity Corps Community Navigators</a
-          >
-        </li>
-      </ul>
+      <a class="button--link menuLink" href="get-involved.html.en">Get Involved</a>
     </li>
     <li class="menuSection">
       <a class="button--link menuLink" href="about.html.en">About Us</a>
@@ -128,9 +107,6 @@
                 >For Detention / Removal Cases</a
               >
             </li>
-            <li>
-              <a href="get-help-other.html.en">For Other Immigration Issues</a>
-            </li>
           </ul>
         </li>
         <li class="navigation__dropdown">
@@ -142,17 +118,7 @@
           </ul>
         </li>
         <li class="navigation__dropdown">
-          <a class="button--link" href="volunteer.html.en">Volunteer</a>
-          <ul class="submenu">
-            <li>
-              <a href="volunteer-committees.html.en">Join Our Team</a>
-            </li>
-            <li>
-              <a href="volunteer.html.en#equity-corps"
-                >Equity Corps Community Navigators</a
-              >
-            </li>
-          </ul>
+          <a class="button--link" href="get-involved.html.en">Get Involved</a>
         </li>
         <li class="navigation__dropdown">
           <a class="button--link" href="about.html.en">About</a>

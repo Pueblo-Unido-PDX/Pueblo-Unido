@@ -23,9 +23,6 @@
         <li>
           <a class="menuLink menuLink--nested" href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
         </li>
-        <li>
-          <a class="menuLink menuLink--nested" href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
-        </li>
       </ul>
     </li>
     <li class="menuSection">
@@ -37,15 +34,7 @@
       </ul>
     </li>
     <li class="menuSection">
-      <a class="button--link menuLink" href="volunteer.html.es">Ser Voluntarix</a>
-      <ul>
-        <li>
-          <a class="menuLink menuLink--nested" href="volunteer-committees.html.es">Unáse</a>
-        </li>
-        <li>
-          <a class="menuLink menuLink--nested" href="volunteer.html.es#equity-corps">Equity Corps Community Navigators</a>
-        </li>
-      </ul>
+      <a class="button--link menuLink" href="get-involved.html.es">Participar</a>
     </li>
     <li class="menuSection">
       <a class="button--link menuLink" href="about.html.es">Sobre Nosotros</a>
@@ -88,9 +77,6 @@
             <li>
               <a href="get-help-detention.html.es">Para Personas que Enfrentan la Deportación</a>
             </li >
-            <li>
-              <a href="get-help-other.html.es">Con Otras Cuestiones Migratorias</a>
-            </li>
           </ul>
         </li>
         <li class="navigation__dropdown">
@@ -102,12 +88,7 @@
           </ul>
         </li>
         <li class="navigation__dropdown">
-          <a class="button--link" href="volunteer.html.es">Ser Voluntarix</a>
-          <ul class="submenu">
-            <li>
-              <a href="volunteer-committees.html.es">Unáse</a>
-            </li>
-          </ul>
+          <a class="button--link" href="get-involved.html.es">Participar</a>
         </li>
         <li class="navigation__dropdown">
           <a class="button--link" href="about.html.es">Sobre Nosotros</a>
