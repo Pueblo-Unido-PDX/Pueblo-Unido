@@ -204,7 +204,7 @@ layout: default-es
           Para calificar para el programa ECO, debe estar:
         </p>
         <ul>
-          <li>Actualmente en proceso de deportación, pero no estar detenido;</li>
+          <li>En riesgo de deportación;</li>
           <li>Vivir en Oregon;</li>
           <li>Actualmente no estar representado por un abogado; y,</li>
           <li>

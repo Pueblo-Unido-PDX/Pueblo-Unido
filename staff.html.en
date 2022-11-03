@@ -125,7 +125,7 @@ layout: default-en
         <div class="heading__text">
           <h3>Elba Alegría (she/her)</h3>
           <strong
-            >Legal Services Navigator for People in Detention
+            >Deputy Director
             <a href="mailto:ealegria@pueblounidopdx.org"
               >ealegria@pueblounidopdx.org</a
             ></strong
@@ -133,14 +133,15 @@ layout: default-en
           <br />
           <br />
           <p>
-            I am a proud immigrant from a small town in Guatemala where I grew
-            up surrounded by coffee and sugar cane plantations. Coming to the
-            U.S. has given me the opportunity to grow both personally and
-            professionally. When I was eighteen years old, I immigrated to the
-            U.S. with my two-year-old daughter. This experience allows me to
+            Elba is a proud immigrant from a small town in Guatemala where she
+            grew up surrounded by coffee and sugar cane plantations. Coming to
+            the U.S. provided Elba the opportunity to grow both personally and
+            professionally. When she was eighteen, she immigrated to the U.S.
+            with her two-year-old daughter. This experience allows her to
             appreciate and understand the Pacific Northwest Immigrant community,
-            which I am honored to serve. I am a mother and a wife. Apart from
-            spending time with my family, I enjoy practicing yoga and dancing.
+            which she is honored to serve. She is a mother and a wife. In
+            addition to spending time with her family, she enjoys practicing
+            yoga and dancing.
           </p>
           <br />
           <br />
@@ -149,41 +150,6 @@ layout: default-en
       <div class="col-md-5 align-middle">
         <div class="heading__image">
           <img alt="Elba Algería" src="./assets/images/staff/elba.png" />
-        </div>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-md-7 align-middle">
-        <div class="heading__text">
-          <h3>Augusto Gayoso Caro (he/him)</h3>
-          <strong
-            >Statewide ECO Navigation Coordinators
-            <a href="mailto:augusto@equitycorps.org"
-              >augusto@equitycorps.org</a
-            ></strong
-          >
-          <br />
-          <br />
-          <p>
-            Communication professional with more than 15 years in developing
-            campaigns for the public, private and social sectors. Experience in
-            analysis and research techniques oriented to product development,
-            services and social communication campaigns. I currently serve as
-            the State Navigator Coordinator at Pueblo Unido PDX and I love my
-            job and helping my community. In my spare time I like to share with
-            the family, cook for them and walk in the mountains.
-          </p>
-          <br />
-          <br />
-        </div>
-      </div>
-      <div class="col-md-5 align-middle">
-        <div class="heading__image">
-          <img
-            alt="Augusto Gayoso Caro"
-            src="./assets/images/staff/augusto.png"
-          />
         </div>
       </div>
     </div>
@@ -347,36 +313,6 @@ layout: default-en
     <div class="row">
       <div class="col-md-7 align-middle">
         <div class="heading__text">
-          <h3>Nina Madueno</h3>
-          <strong
-            >Board Member
-            <a href="mailto:nina@pueblounidopdx.org"
-              >nina@pueblounidopdx.org</a
-            ></strong
-          >
-          <br />
-          <br />
-          <p>
-            I am a Chicana from Northern California. First generation on my
-            father's side and third generation on my mother's. Fluent in
-            Spanish. I am a Chef and amateur writer with a small background in
-            event planning and goals to attend Law School in the coming years. I
-            have lived in Portland since 2013. I decided to join the Board of
-            Directors because I want to use my skills to help support
-            fundraising and to use my privilege to give back to our most
-            vulnerable immigrant community members.
-          </p>
-          <br />
-          <br />
-        </div>
-      </div>
-      <div class="col-md-5 align-middle">
-        <div class="heading__image"></div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-7 align-middle">
-        <div class="heading__text">
           <h3>Teddy Watler</h3>
           <strong
             >Board Member
@@ -410,35 +346,6 @@ layout: default-en
     <div class="row">
       <div class="col-md-7 align-middle">
         <div class="heading__text">
-          <h3>Gladys Tejada</h3>
-          <!-- <strong>Board Member <a href="mailto:twatler@pueblounidopdx.org">twatler@pueblounidopdx.org</a></strong> -->
-          <br />
-          <br />
-          <p>
-            An immigrant from the Dominican Republic, Gladys serves with the
-            Jesuit Volunteer Corps Northwest and AmeriCorps as the Volunteer
-            Coordinator and a Social Service Navigator for Pueblo Unido. Gladys
-            graduated from the University of Scranton with a degree in Biology
-            and Biochemistry. During her time as an undergrad, she worked as an
-            interpreter at a free clinic and volunteered as an after school
-            tutor for immigrants and refugees. When she's not at service, you
-            can find Gladys reading, knitting or spending time with the
-            neighborhood cats.
-          </p>
-          <br />
-          <br />
-        </div>
-      </div>
-      <div class="col-md-5 align-middle">
-        <div class="heading__image">
-          <img alt="Gladys Tejada" src="./assets/images/staff/gladys.png" />
-        </div>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-md-7 align-middle">
-        <div class="heading__text">
           <h3>Carla Gonzalez</h3>
           <!-- <strong>Board Member <a href="mailto:twatler@pueblounidopdx.org">twatler@pueblounidopdx.org</a></strong> -->
           <br />
@@ -464,6 +371,94 @@ layout: default-en
       <div class="col-md-5 align-middle">
         <div class="heading__image">
           <img alt="Carla Gonzalez" src="./assets/images/staff/carla.png" />
+        </div>
+      </div>
+    </div>
+
+    <!-- JWB -- Update these -->
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__text">
+          <h3>Jade Cabrera Song</h3>
+          <strong
+            >Receptionist/Executive Assistant
+            <a href="mailto:twatler@pueblounidopdx.org"
+              >jade@pueblounidopdx.org</a
+            ></strong
+          >
+          <br />
+          <br />
+          <p>
+            Jade has fallen in love with advocacy for underrepresented
+            communities. Her biggest endeavors and passion projects included
+            PenPal for incarcerated folxs and newsletter and blog initiatives
+            with The Queer Detainee Empowerment Project, Women Workers Rights
+            campaigns with C.U.P. and informative material for the this is not a
+            riot! Website. Running away from discrimination and violence back in
+            Dominican Republic and arriving to NYC in 2019, they’re still
+            getting used to living in a new country and all the changes that it
+            entails, but supporting members of their community is a constant
+            that they nourish through education and crafts by teaching spanish
+            and english classes, and knitting well-fitted garments for queer and
+            trans folxs. Jade dreams of one day having a group of friends to go
+            out dancing with, and currently enjoys quiet nights cooking, baking
+            and playing video games.
+          </p>
+          <br />
+          <br />
+        </div>
+      </div>
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Jade Cabrera Song" src="./assets/images/staff/jade.jpg" />
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__text">
+          <h3>Alejandra Benitez</h3>
+          <strong
+            >Legal & Social Services Navigator
+            <a href="mailto:twatler@pueblounidopdx.org"
+              >alejandra@pueblounidopdx.org</a
+            ></strong
+          >
+          <br />
+          <br />
+          <p>My passion for the immigrant community stems from my family background. Both of my parents immigrated to the United States from Mexico. Pueblo Unido’s mission hits close to home because my family has been separated for almost ten years due to deportation. I want to do what I can to help families stay together and be able to have access to the resources they need to feel safe and supported. I am a first-generation graduate from Portland State University where I studied international studies and public health. I have worked with underrepresented communities through MEChA and Intercambio and I hope to continue my education to serve the immigrant, refugee and indigenous communities. During my free time I enjoy spending time with family and friends and taking my dog on walks.</p>
+          <br />
+          <br />
+        </div>
+      </div>
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Alejandra Benitez" src="./assets/images/staff/alejandra.jpg" />
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__text">
+          <h3>Emiliana Aguilar</h3>
+          <strong
+            >Legal & Social Services Navigator
+            <a href="mailto:twatler@pueblounidopdx.org"
+              >emiliana@pueblounidopdx.org</a
+            ></strong
+          >
+          <br />
+          <br />
+          <p>My name is Emiliana Aguilar, originally from the city of Santa Cruz del Quiché in Guatemala. I am from the Maya K'iche' community and my mother tongue is Maya K'iche'. I graduated as a primary school teacher in my home country. I was an interpreter at the Commission for Historical Clarification in post-war Guatemala and after that I was a member of the Forensic Exhumation team of the Peace and Reconciliation Office in Santa Cruz del Quiché, also in Guatemala. I was also a co-producer of some educational audiovisual documentaries and an interpreter in the Maya K'iche’ language. I have taught early childhood education for over a decade at the Oregon Child Development Coalition. The threads that I have been acquiring in each job, in each workshop and in each community meeting, are what have now connected me with the community organization Pueblo Unido PDX in Portland OR, with whom I now work as a Legal and Social Services Navigator. Since I was little I have known and experienced social inequality in its different forms and how unjust systems exert their power over the defenseless masses, but also, stories have shown that a world where many worlds fit is still possible. In my free time I like to play the guitar and walk in the universe of plants and connect with the elements of nature.</p>
+          <br />
+          <br />
+        </div>
+      </div>
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Emiliana Aguilar" src="./assets/images/staff/emiliana.jpg" />
         </div>
       </div>
     </div>

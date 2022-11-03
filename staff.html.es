@@ -77,19 +77,10 @@ layout: default-es
       <div class="col-md-7 align-middle">        
         <div class="heading__text">
           <h3>Elba Alegría (ella)</h3>
-          <strong>Personal, Navegadora <a href="mailto:ealegria@pueblounidopdx.org">ealegria@pueblounidopdx.org</a></strong>
+          <strong>Deputy Director <a href="mailto:ealegria@pueblounidopdx.org">ealegria@pueblounidopdx.org</a></strong>
           <br />
           <br />
-          <p>Soy orgullosamente una inmigrante guatemalteca. El venir a los Estados Unidos me ha dado la oportunidad de crecer tanto en el ámbito laboral como personal. Vengo de un pueblo donde crecí rodeada de plantaciones de café y caña. Emigré con mi hija de dos años a este país cuando yo tenía diez y ocho años. Esta experiencia de vida me da la oportunidad de apreciar y entender un poco más los retos que tiene mi comunidad. Soy madre y esposa, Además de disfrutar actividades con mis hijos y mi esposo, disfruto practicar yoga y bailar música Latina.</p>
-          <br/>
-          <br/>
-          <p>POR QUE ME GUSTA TRABAJAR CON PUEBLO UNIDO?</p>
-          <br/>
-          <br/>
-          <p>Me encanta poder servir a mi comunidad, ser parte del cambio y del movimiento tan grande como lo es Pueblo Unido. Actualmente desempeño el papel como navegadora legal con Pueblo Unido, un trabajo que me llena de satisfacción realizar.  </p>
-          <br/>
-          <br/>
-          <p>El ser testigo de la pasión y dedicación con la que nuestro director trabaja para apoyar a nuestra comunidad es una experiencia gratificante y un ejemplo a seguir.</p>
+          <p>Elba es orgullosamente una inmigrante guatemalteca. El venir a los Estados Unidos le ha dado la oportunidad de crecer tanto en el ámbito laboral como personal. Viene de un pueblo donde creció rodeada de plantaciones de café y caña. Cuando tenía diez y ocho años emigró con su hija de dos años a este país. Esta experiencia de vida le permite apreciar y entender un poco más los retos que tiene su comunidad. Es madre y esposa, Además de disfrutar actividades con sus hijos y su esposo, disfruta practicar yoga y bailar música Latina.</p>
           <br/>
           <br/>
         </div>
@@ -97,25 +88,6 @@ layout: default-es
       <div class="col-md-5 align-middle">
         <div class="heading__image">
           <img alt="Elba Algería" src="./assets/images/staff/elba.png" />
-        </div>
-      </div>    
-    </div>
-
-    <div class="row">
-      <div class="col-md-7 align-middle">        
-        <div class="heading__text">
-          <h3>Augusto Gayoso Caro (él)</h3>
-          <strong>Personal, Navegadora <a href="mailto:augusto@equitycorps.org">augusto@equitycorps.org</a></strong>
-          <br />
-          <br />
-          <p>Profesional de la comunicación con más de 15 años en el desarrollo de campañas para el sector público, privado y social. Experiencia en técnicas de análisis e investigación orientadas al desarrollo de productos, servicios y campañas de comunicación social. Actualmente me desempeño como Coordinador de Navegadores Estatal en Pueblo Unido PDX, he aprendido mucho me encanta mi trabajo y ayudar a mi comunidad. En mis ratos libres me gusta compartir con la familia y cocinar para ellos, además me encanta caminar por las montañas.</p>
-          <br/>
-          <br/>
-        </div>
-      </div>
-      <div class="col-md-5 align-middle">
-        <div class="heading__image">
-          <img alt="Augusto Gayoso Caro" src="./assets/images/staff/augusto.png" />
         </div>
       </div>    
     </div>
@@ -200,24 +172,6 @@ layout: default-es
     </div>
 
     <div class="row">
-      <div class="col-md-7 align-middle">        
-        <div class="heading__text">
-          <h3>Nina Madueno</h3>
-          <strong>Miembro de la Junta <a href="mailto:nina@pueblounidopdx.org">nina@pueblounidopdx.org</a></strong>
-          <br />
-          <br />
-          <p>Soy una chicana del norte de California. Soy primera generación por parte de mi padre y tercera generación por parte de mi madre. Tengo fluidez en español. Soy una chef y una escritora aficionado con poca experiencia en plananacion de eventos y objetivos para asistir a la Junta Directiva en los próximos años. Vivo en Portland desde el año 2013. Decidí unirme a la Junta Directiva porque quiero usar mis habilidades para apoyar y ayudaren la recaudación de fondos y usar mi privilegio para hacer algo para a los miembros de nuestra comunidad migrante más vulnerables.</p>
-          <br/>
-          <br/>
-        </div>
-      </div>
-      <div class="col-md-5 align-middle">
-        <div class="heading__image">
-          
-        </div>
-      </div>   
-    </div>
-    <div class="row">
       <div class="col-md-7 align-middle">
         <div class="heading__text">
           <h3>Teddy Watler</h3>
@@ -234,32 +188,14 @@ layout: default-es
           <img alt="Teddy Watler" src="./assets/images/staff/teddy.png" />
         </div>
       </div>   
-    </div>  
-    
-    <div class="row">
-      <div class="col-md-7 align-middle">
-        <div class="heading__text">
-          <h3>Gladys Tejada</h3>
-          <!-- <strong>Board Member <a href="mailto:twatler@pueblounidopdx.org">twatler@pueblounidopdx.org</a></strong> -->
-          <br />
-          <br />
-          <p>Inmigrante de la República Dominicana, Gladys sirve con el Jesuit Volunteer Corps Northwest y AmeriCorps como Coordinadora de Voluntarios y Navegadora de Servicios Sociales para Pueblo Unido. Gladys se graduó de la Universidad de Scranton con un título en Biología y Bioquímica. Durante su época de estudiante, trabajó como intérprete en una clínica gratuita y fue voluntaria como tutora extraescolar para inmigrantes y refugiados. Cuando no está en servicio, se puede encontrar a Gladys leyendo, tejiendo o pasando tiempo con los gatos del vecindario. </p>
-          <br/>
-          <br/>
-        </div>
-      </div> 
-      <div class="col-md-5 align-middle">
-        <div class="heading__image">
-          <img alt="Gladys Tejada" src="./assets/images/staff/gladys.png" />
-        </div>
-      </div>    
-    </div>   
+    </div>    
 
+    <!-- JWB need email -->
     <div class="row">
       <div class="col-md-7 align-middle">
         <div class="heading__text">
           <h3>Carla Gonzalez</h3>
-          <!-- <strong>Board Member <a href="mailto:twatler@pueblounidopdx.org">twatler@pueblounidopdx.org</a></strong> -->
+          <strong>Operations Director <a href="mailto:twatler@pueblounidopdx.org">twatler@pueblounidopdx.org</a></strong>
           <br />
           <br />
           <p>
@@ -280,6 +216,79 @@ layout: default-es
       <div class="col-md-5 align-middle">
         <div class="heading__image">
           <img alt="Carla Gonzalez" src="./assets/images/staff/carla.png" />
+        </div>
+      </div>
+    </div>
+
+    <!-- JWB -- Update these -->
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__text">
+          <h3>Jade Cabrera Song</h3>
+          <strong
+            >Receptionist/Executive Assistant
+            <a href="mailto:twatler@pueblounidopdx.org"
+              >jade@pueblounidopdx.org</a
+            ></strong
+          >
+          <br />
+          <br />
+          <p>Jade se ha enamorado de la defensa de las comunidades menos representadas e indocumentadas. Sus mayores esfuerzos y proyectos apasionantes incluyeron iniciativas de Newsletter, cartas a PenPals encarceladxs y blogs con el equipo de The Queer Detainee Empowerment Project, campañas de derechos de las mujeres trabajadoras con C.U.P. y material informativo para el sitio web this is not a riot!. Huyendo de discriminación y violencia en la República Dominicana y llegando a NYC en 2019, todavía se están acostumbrando a vivir en un nuevo país y todos los cambios que esto conlleva, pero apoyar a los miembros de su comunidad es una constante del que se nutre educando y haciendo manualidades, como impartiendo clases de español e inglés, y tejiendo prendas a la medida para personas queer y trans. Jade sueña con algún día tener un grupo de amigos para salir a bailar y actualmente disfruta de noches tranquilas cocinando, horneando y jugando videojuegos. </p>
+          <br />
+          <br />
+        </div>
+      </div>
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Jade Cabrera Song" src="./assets/images/staff/jade.jpg" />
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__text">
+          <h3>Alejandra Benitez</h3>
+          <strong
+            >Legal & Social Services Navigator
+            <a href="mailto:twatler@pueblounidopdx.org"
+              >alejandra@pueblounidopdx.org</a
+            ></strong
+          >
+          <br />
+          <br />
+          <p>Mi pasión por la comunidad de inmigrantes nace de mi origen familiar. Mis padres emigraron a los Estados Unidos desde México. La misión de Pueblo Unido tiene un sentido especial para mi porque mi familia ha estado separada por casi diez años, debido a la deportación. Quiero hacer el esfuerzo para ayudar a las familias a permanecer juntas y también ayudarlas a tener acceso a los recursos que necesitan para sentirse seguros y apoyados.  Soy una graduada de primera generación de la Universidad Portland State, donde estudié estudios internacionales y salud pública. He trabajado con comunidades subrepresentadas a través de MEChA y Intercambio. Espero continuar mi educación para poder seguir sirviendo a las comunidades de inmigrantes, refugiados e indígenas. En mi tiempo libre disfruto pasar tiempo con mi familia y amigos y también me gusta sacar a mi perrita a caminar. </p>
+          <br />
+          <br />
+        </div>
+      </div>
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Alejandra Benitez" src="./assets/images/staff/alejandra.jpg" />
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-7 align-middle">
+        <div class="heading__text">
+          <h3>Emiliana Aguilar</h3>
+          <strong
+            >Legal & Social Services Navigator
+            <a href="mailto:twatler@pueblounidopdx.org"
+              >emiliana@pueblounidopdx.org</a
+            ></strong
+          >
+          <br />
+          <br />
+          <p>Mi nombre es Emiliana Aguilar, originaria de la ciudad de Santa Cruz del Quiché en Guatemala. Soy del pueblo Maya K'iche’ y mi idioma materno es el Maya K'iche’. Me gradué como maestra de educación primaria en mi país de origen. Fui una intérprete en la Comisión para el Esclarecimiento Histórico en la postguerra de Guatemala y posterior a eso fui miembro del equipo Forense de Exhumaciones de la Oficina Paz Y Reconciliación en Santa Cruz del Quiché, también en Guatemala. También fui co productora de algunos documentales audiovisuales educativos e intérprete en idioma Maya K'iche. Ejercí la docencia en educación preescolar por más de una década, en Oregon Child Development Coalition. Los hilos que he venido adquiriendo en cada trabajo, en cada taller y en cada encuentro comunitario, son los que ahora me han conectado con la organización comunitaria Pueblo Unido PDX en Portland OR, con el cual, hoy trabajo como una Navegadora para los Servicios Legales y Sociales. Desde pequeña conocí y he vivido la desigualdad social en sus diferentes formas y como el poder de los sistemas injustos ejerce su poder sobre las masas indefensas, pero también, las historias han demostrado que un mundo donde quepan muchos mundos, aún es posible. También, puedo decir que en mis tiempos libres me gusta tararear la guitarra y caminar en el universo de las plantas y conectarme con los elementos de la naturaleza.</p>
+          <br />
+          <br />
+        </div>
+      </div>
+      <div class="col-md-5 align-middle">
+        <div class="heading__image">
+          <img alt="Emiliana Aguilar" src="./assets/images/staff/emiliana.jpg" />
         </div>
       </div>
     </div>
