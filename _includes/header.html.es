@@ -58,6 +58,11 @@
     </li>
     <li class="menuSection">
       <a class="button--link menuLink" href="collective-of-indigenous-interpreters-of-oregon.html.es">Colectivo de Intérpretes Indígenas de Oregon</a>
+      <ul>
+        <li>
+          <a class="menuLink menuLink--nested" href="indienous-language-justice-campaign.html.en">Indigenous Language Justice Campaign</a>
+        </li>
+      </ul>
     </li>
     <li class="menuSection menuSection--logo">
       <img src="../assets/images/pu-logo/PNG/pueblo-unido-logo--all-white-01.png">
@@ -112,6 +117,11 @@
         </li>
         <li class="navigation__link">
           <a class="button--link" href="collective-of-indigenous-interpreters-of-oregon.html.es">Colectivo de Intérpretes Indígenas de Oregon</a>
+          <ul class="submenu">
+            <li>
+              <a href="indienous-language-justice-campaign.html.en">Indigenous Language Justice Campaign</a>
+            </li>
+          </ul>
         </li>
       </ul>
     </div>

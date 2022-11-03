@@ -67,7 +67,7 @@ layout: default-es
               <div class="clear mailchimp-signup">
                 <input
                   type="submit"
-                  value="Subscribe"
+                  value="Subscribirse"
                   name="subscribe"
                   id="mc-embedded-subscribe"
                   class="button"

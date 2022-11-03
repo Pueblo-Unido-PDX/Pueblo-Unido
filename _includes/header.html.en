@@ -81,6 +81,11 @@
         href="collective-of-indigenous-interpreters-of-oregon.html.en"
         >Collective of Indigenous Interpreters of Oregon</a
       >
+      <ul>
+        <li>
+          <a class="menuLink menuLink--nested" href="indienous-language-justice-campaign.html.en">Indigenous Language Justice Campaign</a>
+        </li>
+      </ul>
     </li>
     <li class="menuSection menuSection--logo">
       <img
@@ -150,6 +155,11 @@
             href="collective-of-indigenous-interpreters-of-oregon.html.en"
             >Collective of Indigenous Interpreters of Oregon</a
           >
+          <ul class="submenu">
+            <li>
+              <a href="indienous-language-justice-campaign.html.en">Indigenous Language Justice Campaign</a>
+            </li>
+          </ul>
         </li>
       </ul>
     </div>
